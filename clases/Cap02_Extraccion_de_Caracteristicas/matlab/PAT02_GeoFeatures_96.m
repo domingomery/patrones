@@ -19,8 +19,8 @@ disp('Part 1: Training');
 
 
 % Training images
-I6 = not(imread('six.bmp'));
-I9 = not(imread('nine.bmp'));
+I6 = not(imread('../images/six.bmp'));
+I9 = not(imread('../images/nine.bmp'));
 figure(1)
 imshow([I6 I9],[]);
 
@@ -95,7 +95,7 @@ enterpause
 close all
 
 % Testing image
-J = not(imread('test96.bmp'));
+J = not(imread('../images/test96.bmp'));
 J = imdilate(J,ones(3,3));
 % [N,M] = size(J);
 figure(1)

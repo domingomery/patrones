@@ -15,11 +15,11 @@ op = input('SIFT: 1) keypoints, 2) matching? ');
 im = input('1: Great Wall, 2: Flower? ');
 
 if im==1
-    I1 = rgb2gray(imread('GreatWall_a.jpg'));
-    I2 = rgb2gray(imread('GreatWall_b.jpg'));
+    I1 = rgb2gray(imread('../images/GreatWall_a.jpg'));
+    I2 = rgb2gray(imread('../images/GreatWall_b.jpg'));
 else
-    I1 = imread('testimg5.jpg');
-    I2 = imread('testimg6.jpg');
+    I1 = imread('testimg5.jpg'); % from Balu Toolbox
+    I2 = imread('testimg6.jpg'); % from Balu Toolbox
 end
 
 switch op

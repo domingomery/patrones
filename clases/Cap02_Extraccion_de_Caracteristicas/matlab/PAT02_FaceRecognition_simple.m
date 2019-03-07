@@ -17,6 +17,7 @@
 % (c) Domingo Mery (2014) - http://dmery.ing.puc.cl
 
 clt
+warning off
 disp('Example of Face Recognition with LBP using ORL database');
 disp(' ');
 t = input('Classifier: 1 knn, 2 nbnn, 3 both ? ');
@@ -32,7 +33,7 @@ opLBP.weight      = 0;
 opLBP.type        = 2;
 D                 = 59;          % number of bins
 
-f1.path      = 'faces_orl/';
+f1.path      = '../images/faces_orl/';
 f1.extension = 'bmp';
 f1.prefix    = '*';
 f1.gray      = 1;

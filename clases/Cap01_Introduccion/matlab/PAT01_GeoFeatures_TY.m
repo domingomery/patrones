@@ -29,7 +29,7 @@ ths = 190;                               % Segmentation threshold
 
 % Training
 figure(20)
-Itrain = imread('TY_train.png');
+Itrain = imread('../images/TY_train.png');
 imshow(Itrain)
 axis on
 title('Training image')
@@ -59,7 +59,7 @@ for k=1:n
 end
 
 % Testing
-Itest = imread('TY_test.png');
+Itest = imread('../images/TY_test.png');
 figure(21)
 imshow(Itest,[])
 title('Testing image')

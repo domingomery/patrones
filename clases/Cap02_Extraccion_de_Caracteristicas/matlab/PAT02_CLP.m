@@ -13,7 +13,7 @@
 close all
 
 % 1. Input image
-X = imread('small_wheel.png');
+X = imread('../images/small_wheel.png');
 [N,M] = size(X);
 figure(1);
 imshow(X); title('Input image');                % input image

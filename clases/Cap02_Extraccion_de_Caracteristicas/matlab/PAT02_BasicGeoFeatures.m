@@ -26,7 +26,7 @@ enterpause
 
 close all
 
-I = imread('123.bmp');
+I = imread('../images/123.bmp');
 [L,n] = bwlabel(not(I));
 figure(1)
 imshow(not(I),[])

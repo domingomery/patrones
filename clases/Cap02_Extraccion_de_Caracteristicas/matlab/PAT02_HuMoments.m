@@ -13,7 +13,7 @@ i = input('Recognition of 123: 1, Shapes: 2? ');
 
 switch i
     case 1
-        I = imread('123.bmp');
+        I = imread('../images/123.bmp');
         J = imdilate(not(I),ones(3,3));
         figure(1)
         clf

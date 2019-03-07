@@ -15,7 +15,7 @@ opGabor.Mgabor  = 21;                % mask size
 opGabor.show    = 1;                 % display resultsf1.path      = '../images/faces_orl/';
 opGabor.type    = 2;
 
-f1.path      = 'faces_nofaces/';
+f1.path      = '../images/faces_nofaces/';
 f1.extension = 'jpg';
 f1.prefix    = '*';
 f1.gray      = 1;

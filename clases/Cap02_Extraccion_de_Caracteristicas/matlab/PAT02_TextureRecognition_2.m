@@ -38,7 +38,7 @@ clt % all variables are deleted, all figures are closed
 
 
 % Definition of images
-f1.path      = 'textures/';
+f1.path      = '../images/textures/';
 f1.extension = 'png';
 f1.prefix    = '*';
 f1.gray      = 1;

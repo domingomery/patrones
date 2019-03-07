@@ -4,7 +4,7 @@
 
 function PAT02_FourierDescriptors()
 
-I = imread('letras.bmp');
+I = imread('../images/letras.bmp');
 J = imdilate(not(I),ones(3,3));
 figure(1)
 clf

@@ -6,7 +6,7 @@
 % (c) Domingo Mery (2014) - http://dmery.ing.puc.cl
 
 clt
-K = imread('antofagasta.bmp'); % Antofagasta is North of Chile
+K = imread('../images/antofagasta.bmp'); % Antofagasta is North of Chile
 figure(1)
 imshow(K)
 I = double(K);

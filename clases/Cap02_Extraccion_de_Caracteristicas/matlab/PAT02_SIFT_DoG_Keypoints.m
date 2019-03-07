@@ -11,7 +11,7 @@ function PAT02_SIFT_DoG_Keypoints()
 close all
 
 
-Ia = double(rgb2gray(imread('GreatWall_a.jpg')));
+Ia = double(rgb2gray(imread('../images/GreatWall_a.jpg')));
 I = Ia(1:2:end,1:2:end);
 % test with k=1.4 and s=3 to detect large windows
 %                     s=1.1 to detect small windows
