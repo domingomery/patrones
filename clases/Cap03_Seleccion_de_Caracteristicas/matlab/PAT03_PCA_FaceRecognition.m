@@ -22,6 +22,7 @@
 % clt
 disp('Example of Face Recognition with LBP using ORL database');
 disp(' ');
+warning off
 
 opLBP.vdiv        = 4;           % one vertical divition
 opLBP.hdiv        = 4;           % one horizontal   divition
@@ -31,7 +32,7 @@ opLBP.weight      = 0;
 opLBP.type        = 2;
 D                 = 59;          % number of bins
 
-f1.path      = 'faces_orl/';
+f1.path      = '../images/faces_orl/';
 f1.extension = 'bmp';
 f1.prefix    = '*';
 f1.gray      = 1;
