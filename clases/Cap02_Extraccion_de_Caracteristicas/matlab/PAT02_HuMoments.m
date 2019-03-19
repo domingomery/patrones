@@ -45,7 +45,7 @@ switch i
         end
         
     case 2
-        I = rgb2gray(imread('HuRegions.png'));
+        I = rgb2gray(imread('../images/HuRegions.png'));
         J = imdilate(not(I),ones(3,3));
         figure(1)
         clf
