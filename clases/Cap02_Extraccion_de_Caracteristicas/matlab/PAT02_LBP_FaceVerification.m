@@ -24,10 +24,10 @@
 
 % Definition of LBP parameters
 
-opLBP.vdiv        = 4;           % one vertical divition
-opLBP.hdiv        = 4;           % one horizontal   divition
+opLBP.vdiv        = 4;           % 4 vertical divitions
+opLBP.hdiv        = 4;           % 4 horizontal divitions
 opLBP.samples     = 8;           % number of neighbor samples
-opLBP.mappingtype = 'u2';        % uniform LBP
+opLBP.mappingtype = 'u2';        % uniform LBP (59 bins)
 
 % Read input images
 
