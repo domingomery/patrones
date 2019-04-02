@@ -17,10 +17,10 @@
 % (c) Domingo Mery (2019) - http://dmery.ing.puc.cl
 %
 %
-% This example computes the similarity of three face images (I1, I2, I3 and
+% This example computes the similarity of four face images (I1, I2, I3 and
 % I4) using LBP with 4x4 partitions. 
 % I1 and I2 belong to same subject A. I3 and I4 belongs to same sabejct B.
-% Subject A and B are different persons.
+% Subjects A and B are different persons.
 
 % Definition of LBP parameters
 
@@ -28,8 +28,6 @@ opLBP.vdiv        = 4;           % one vertical divition
 opLBP.hdiv        = 4;           % one horizontal   divition
 opLBP.samples     = 8;           % number of neighbor samples
 opLBP.mappingtype = 'u2';        % uniform LBP
-opLBP.weight      = 0;
-opLBP.type        = 2;
 
 % Read input images
 
