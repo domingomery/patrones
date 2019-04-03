@@ -2,7 +2,7 @@
 from scipy.io import loadmat
 
 # load a dataset with 810 samples and 294 features
-data = loadmat("feature_selection/realdata")
+data = loadmat("realdata")
 features = data["features"]
 classes = data["classes"].squeeze()
 

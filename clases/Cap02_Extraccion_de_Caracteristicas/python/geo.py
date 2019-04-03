@@ -7,7 +7,7 @@ from matplotlib.patches import Ellipse
 
 from multiprocessing import Pool
 
-im = imread("feature_extraction/rice.png")
+im = imread("rice.png")
 im_bin = (im > 140).astype(int)
 labeled, n = label(im_bin, return_num=True)
 plt.figure(figsize=(12, 4.8))
