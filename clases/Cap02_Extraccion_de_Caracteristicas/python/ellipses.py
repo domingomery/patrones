@@ -29,7 +29,7 @@ del matplotlib
 
 # %%
 im = imread("rice.png")
-plt.title("Original Image", fontdict={"fontsize": 20}, pad=20)
+plt.title("Original Image", fontdict={"fontsize": 20})
 plt.imshow(im, cmap="gray")
 plt.show()
 
