@@ -1,13 +1,13 @@
 % Enunciado del ejercicio:
-% Dise?ar un clasificador autom?tico de flechas, que puede ser usado para
-% identificaci?n de se?ales de tr?nsito. Los datos de training y testing 
-% est?n en los directorios arrows_training and arrows_testing respectivamente. 
-% Las im?genes se encuentran im?genes en formato PNG con tres clases de flechas:
+% Disenar un clasificador automatico de flechas, que puede ser usado para
+% identificacion de senales de tr?nsito. Los datos de training y testing 
+% estan en los directorios arrows_training and arrows_testing respectivamente. 
+% Las imagenes se encuentran im?genes en formato PNG con tres clases de flechas:
 % 1) unidireccional-curva     2) bidireccional     3) unidireccional-recta.
 % 
-% Usando caracter?sticas geometricas (momentos de Hu, momentos de Flusser y 
-% descriptores de Forurier) y la t?cnica de selecci?n de caracter?sticas SFS, 
-% dise?e un clasificador KNN (con K=1) que clasifique correctamente 
+% Usando caracteristicas geometricas (momentos de Hu, momentos de Flusser y 
+% descriptores de Forurier) y la tecnica de seleccion de caracter?sticas SFS, 
+% disene un clasificador KNN (con K=1) que clasifique correctamente 
 % las flechas de la carpeta arrows_testing.
 % 
 % (c) D. Mery
@@ -40,16 +40,13 @@ nf = sum([7 4 b(3).options.Nfourierdes]); %number of features
 % Training images definition
 c = [12 12 12]; % 12 samples per class
 n = sum(c);
-f.path        = 'arrows_training/';
-f.prefix      =  '*';
-f.extension   =  '.png';
-f.imgmin      = 1;
-f.imgmax      = n;
 
 % Extraction features from training images
 Xtrain = zeros(n,nf);
+st = 'arrows_training';
+d = dir([st '/*.png']);
 for i=1:n
-    I = Bio_loadimg(f,i);
+    I = imread([st '/' d(i).name]);
     R = I>140;
     Xtrain(i,:) = Bfx_geo(R,options);
 end
@@ -62,16 +59,13 @@ Ytrain = Bds_labels(c);
 % Testing images definition
 c = [10 10 10]; % 10 samples per class
 n = sum(c);
-f.path        = 'arrows_testing/';
-f.prefix      =  '*';
-f.extension   =  '.png';
-f.imgmin      = 1;
-f.imgmax      = n;
 
 % Extraction features from testing images
 Xtest = zeros(n,nf);
+st = 'arrows_testing';
+d = dir([st '/*.png']);
 for i=1:n
-    I = Bio_loadimg(f,i);
+    I = imread([st '/' d(i).name]);
     R = I>140;
     Xtest(i,:) = Bfx_geo(R,options);
 end
