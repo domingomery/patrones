@@ -51,7 +51,7 @@ for i=1:n
     Xtrain(i,:) = Bfx_geo(R,options);
 end
 % Normalization
-[Xtrain,a,b] = Bft_norm(Xtrain,1);
+% [Xtrain,a,b] = Bft_norm(Xtrain,1);
 
 % Training Labels
 Ytrain = Bds_labels(c);
@@ -70,7 +70,7 @@ for i=1:n
     Xtest(i,:) = Bfx_geo(R,options);
 end
 % Normalization
-Xtest = Xtest.*(ones(n,1)*a) + ones(n,1)*b;
+% Xtest = Xtest.*(ones(n,1)*a) + ones(n,1)*b;
 
 % Testing Labels
 Ytest = Bds_labels(c);
