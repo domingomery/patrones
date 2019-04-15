@@ -3,8 +3,7 @@
 % PUC-DCC 29/04/08
 
 % Tabla de N muestras y L caracteristicas
-close all
-clear all
+clt
 disp('Ejemplo PCA:')
 disp(' ')
 disp('1. Datos aleatorios');
