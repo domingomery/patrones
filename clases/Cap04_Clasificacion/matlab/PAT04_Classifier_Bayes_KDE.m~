@@ -11,7 +11,7 @@
 % TRAINING
 
 clt
-data = input('type of data: 1-simple, 2-complex? ');
+data = input('type of data: 1-simple, 2-complex');
 if data == 1
     [X,d]   = Bds_gaussgen([10 1;1 10],[4 5;3 8],100*ones(2,1));
 else

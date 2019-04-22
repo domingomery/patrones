@@ -5,7 +5,6 @@
 % Computer Vision Course
 % (c) Domingo Mery (2014) - http://dmery.ing.puc.cl
 
-% NOT READY!!! It doesn't work!!
 
 
 % Data generation
