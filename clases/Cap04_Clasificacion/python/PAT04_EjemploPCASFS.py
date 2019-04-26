@@ -5,7 +5,13 @@ from sklearn.model_selection import train_test_split
 from sklearn.neighbors import KNeighborsClassifier as KNN  
 from pybalu.feature_selection import sfs, clean
 from pybalu.feature_transformation import pca, normalize
-from pybalu.performance_eval import performance 
+from pybalu.performance_eval import performance
+
+# ==========================IMPORTANTE==================================
+# WARNING: EN LA TAREA 3 SE ESPERAN RESULTADOS MUCHO MEJORES QUE ESTE
+#          LA TAREA 3 NO ES DE NINGUNA MANERA COPIA Y PEGAR ESTE CODIGO
+#          QUIENES LO HAGAN SERAN EVALUADOS CON UNA MALA NOTA.
+# =====================================================================
 
 # (c) Domingo Mery
 
