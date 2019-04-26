@@ -1,6 +1,14 @@
 % Ejmplo PCA + SFS
 % (c) Domingo Mery
 
+% ==========================IMPORTANTE==================================
+% WARNING: EN LA TAREA 3 SE ESPERAN RESULTADOS MUCHO MEJORES QUE ESTE
+%          LA TAREA 3 NO ES DE NINGUNA MANERA COPIA Y PEGAR ESTE CODIGO
+%          QUIENES LO HAGAN SERAN EVALUADOS CON UNA MALA NOTA.
+% =====================================================================
+
+
+
 
 % Paso 0: Cargar datos
 %         > 264 muestras con 1589 caracteristicas
