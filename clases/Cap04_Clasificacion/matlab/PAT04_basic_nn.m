@@ -2,12 +2,12 @@
 %
 % Neural Network
 %
-% Computer Vision Course
-% (c) Domingo Mery (2014) - http://dmery.ing.puc.cl
+% Pattern Recognition Course
+% (c) Domingo Mery (2019) - http://dmery.ing.puc.cl
 close all
-data = 1;
+data = 2;
 if data == 1
-    [X,d]   = Bds_gaussgen([1 3;3 1],5*[0.3 0.4;0.2 0.3],[1000 1000]');
+    [X,d]     = Bds_gaussgen([1 3;3 1],5*[0.3 0.4;0.2 0.3],[1000 1000]');
 else
     [Xa,da]   = Bds_gaussgen([1 3;3 1],5*[0.3 0.4;0.2 0.3],[500 500]');
     [Xb,db]   = Bds_gaussgen([1 -2;1 8],5*[0.3 0.4;0.2 0.3],[500 500]');
@@ -25,10 +25,11 @@ figure(1)
 Bio_plotfeatures(X1,d1)
 title('training data')
 ax = axis;
+
 figure(2)
 Bio_plotfeatures(X2,d2)
-
 title('testing data')
+hold on
 axis(ax)
 enterpause
 
@@ -48,5 +49,21 @@ p2 = Bev_performance(ds2,d2);
 
 fprintf('Performance in training data = %5.4f\n',p1)
 fprintf('Performance in     test data = %5.4f\n',p2)
+
+figure(2)
+col = 'yc';
+dd = 0.25;
+for x = ax(1):dd:ax(2)
+    for y = ax(3):dd:ax(4)
+        ys1    = PAT04_nneval([x y],ths);
+        c  = (ys1>0.5)+1;
+        plot(x,y,[col(c) '.'])
+    end
+end
+
+        
+
+
+
 
 
