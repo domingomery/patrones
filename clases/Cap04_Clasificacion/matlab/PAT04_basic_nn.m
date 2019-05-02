@@ -31,17 +31,18 @@ Bio_plotfeatures(X2,d2)
 title('testing data')
 hold on
 axis(ax)
-enterpause
 
-th0 = rand(13,1);
+c = input('number of hidden nodes? ');
+
+th0 = rand(4*c+1,1);
 
 % minimizacion de funcion objetivo
-ths      = fminsearch('PAT04_nnerro2',th0,[],X1,d1);
+ths      = fminsearch('PAT04_nnerror',th0,[],X1,d1);
 
-ys1    = PAT04_nneval(X1,ths);
+ys1    = PAT04_nntest(X1,ths);
 ds1    = ys1>0.5;
 
-ys2    = PAT04_nneval(X2,ths);
+ys2    = PAT04_nntest(X2,ths);
 ds2    = ys2>0.5;
 
 p1 = Bev_performance(ds1,d1);
@@ -51,19 +52,17 @@ fprintf('Performance in training data = %5.4f\n',p1)
 fprintf('Performance in     test data = %5.4f\n',p2)
 
 figure(2)
-col = 'yc';
-dd = 0.25;
-for x = ax(1):dd:ax(2)
-    for y = ax(3):dd:ax(4)
-        ys1    = PAT04_nneval([x y],ths);
-        c  = (ys1>0.5)+1;
-        plot(x,y,[col(c) '.'])
-    end
-end
+dd = 0.3;
+xx = (ax(1):dd:ax(2))'; nx = length(xx);
+yy = (ax(3):dd:ax(4))'; ny = length(yy);
 
-        
+x  = repmat(xx,[ny 1]);
+y1 = repmat(yy',[nx 1]);
+y = y1(:);
 
 
-
-
-
+ys = PAT04_nntest([x y],ths)>0.5;
+i0 = find(ys==0);
+i1 = find(ys==1);
+plot(x(i1),y(i1),'c.');
+plot(x(i0),y(i0),'y.');

@@ -3,8 +3,8 @@
 % almacenada en 'y', y la Campana de Gauss estimada en ys.
 % D.Mery, PUC-DCC, http://dmery.ing.puc.cl
 % Mayo, 2010
-function [err,ys] = PAT04_nnerro2(th,x,y)
+function [err,ys] = PAT04_nnerror(th,x,y)
 
-ys = PAT04_nneval(x,th);
+ys = PAT04_nntest(x,th);
 err    = norm(y-ys);
 fprintf('      Error Promedio: e=%7.4f\n',err)
