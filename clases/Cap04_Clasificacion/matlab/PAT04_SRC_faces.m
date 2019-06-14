@@ -16,7 +16,7 @@ if ini==1
     N = 16;
     M = 16;
     P = 40; % number of subjects
-    f.path      = 'faces_orl/';
+    f.path      = '../images/faces_orl/';
     f.extension = 'bmp';
     f.prefix    = '*';
     f.gray      = 1;
@@ -90,4 +90,4 @@ delete(ft)
 p = Bev_performance(dt,ds);
 fprintf('Accuracy (%d subjects) = %5.2f%%\n',P,p*100);
 T = Bev_confusion(dt,ds);
-Bio_showconfusion(T,0)
+Bio_showconfusion(T)
