@@ -1,5 +1,5 @@
 
-# Capitulo 05: Evaluacion de Desempeño
+# Capitulo 05: Evaluacion de Desempeo
 ### 5.1 Matriz de Confusion:
 ### 5.2 Sensibilidad, especificidad, precision y recall:
 ### 5.3 Curvas ROC, Precision-Recall:
@@ -10,4 +10,4 @@
 ---
 
 
-Updated on 02-Mar-2020 at 15:10 by Domingo Mery
+Updated on 02-Mar-2020 at 17:10 by Domingo Mery

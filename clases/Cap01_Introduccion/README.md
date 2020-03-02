@@ -3,6 +3,7 @@
 ### 1.1 Que es reconocimiento de patrones?:
 * Ejercicio vision humana [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_EjercicioReconocimiento.pptx)
 * Definiciones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_Definiciones.pptx)
+* Vision humana / Vision por computador [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_Chihuahua_or_Muffin.pptx)
 ### 1.2 Un ejemplo practico:
 * Ejemplo practico [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_EjemploMandarinas.pptx)
 ### 1.3 Formulacion de problemas de reconocimiento de patrones:
@@ -11,4 +12,4 @@
 ---
 
 
-Updated on 02-Mar-2020 at 15:10 by Domingo Mery
+Updated on 02-Mar-2020 at 17:10 by Domingo Mery
