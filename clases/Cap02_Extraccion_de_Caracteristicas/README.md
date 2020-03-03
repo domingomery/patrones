@@ -33,7 +33,7 @@
 * PyBalu para la extraccion de caracteristicas [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/phyton/)
 * Toolbox Balu para el curso [[phyton]](https://github.com/mbucchi/pybalu)
 * Toolbox Balu para el curso [[matlab]](https://github.com/domingomery/Balu)
-* Crossing Line Profile (CLP) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_CrossingLineProfiles.pptx opcional)
+* Crossing Line Profile (CLP) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_CrossingLineProfiles.pptx)
 * Crossing Line Profile (CLP) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Mery_CrossingLineProfiles.pdf)
 * Ejemplo: Deteccion de defectos usando CLP [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_CLP.m)
 * Deteccion de peatones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HoG_HumanDetection.pptx)
@@ -47,4 +47,4 @@
 ---
 
 
-Updated on 03-Mar-2020 at 16:15 by Domingo Mery
+Updated on 03-Mar-2020 at 16:28 by Domingo Mery

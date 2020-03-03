@@ -76,7 +76,7 @@
 * 3.1-Solucion para el ejercicio de las flechas [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/*)
 * 3.1-Solucion para el ejercicio de SFS [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/python/sfs_datos)
 * 3.1-Solucion para el ejercicio de SFS [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/sfs_datos)
-* 2.1-Crossing Line Profile (CLP) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_CrossingLineProfiles.pptx opcional)
+* 2.1-Crossing Line Profile (CLP) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_CrossingLineProfiles.pptx)
 * 2.1-Crossing Line Profile (CLP) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Mery_CrossingLineProfiles.pdf)
 * 2.1-Ejemplo: Deteccion de defectos usando CLP [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_CLP.m)
 
@@ -97,7 +97,7 @@
 ### Clase 10 Ju. 09-Apr-2020:
 * 3.1-Diagrama de Seleccion de Caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Esquema_General.pdf)
 
-### Clase 11 Ma. 14-Apr-2020:
+### Clase 11 Ma. 21-Apr-2020:
 * 3.1-Principal Components Analysis PCA [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pdf)
 * 3.1-Ejemplo PCA en 2 dimensiones [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_PCA_2D.m)
 * 3.1-Ejemplo PCA en 5 dimensiones [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_PCA_5D.m)
@@ -163,7 +163,7 @@
 * 5.1-Ejemplo Cross Validation [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/matlab/PAT05_Evaluation_CrossValidation.m)
 * 5.1-Ejemplo Leave-one-out Jackknife [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/matlab/PAT05_Evaluation_JackKnife.m)
 
-### Clase 20 Ju. 21-May-2020:
+### Clase 20 Ma. 26-May-2020:
 * 2.1-Deteccion de peatones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HoG_HumanDetection.pptx)
 * 2.1-SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_SIFT_ObjectDetection.pptx)
 * 2.1-Ejemplo Keypoints [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_SIFT_DoG_Keypoints.m)
@@ -207,11 +207,11 @@
 * 5.1-Explicacion de curve Genuine-Impostor y factor d-prime [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_Genuine_Impostor.pptx)
 
 ### Clase 26 Ma. 16-Jun-2020:
-* 7.1-Presentacion de avances de proyecto [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap07_Aplicaciones//)
+* 7.1-Presentacion de avances de proyecto
 
 ### Clase 27 Ju. 18-Jun-2020:
 * 7.1-Presentacion de avances de proyecto [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap07_Aplicaciones/presentations/PAT07_PresentacionesProyecto.pdf)
 ---
 
 
-Updated on 03-Mar-2020 at 16:15 by Domingo Mery
+Updated on 03-Mar-2020 at 16:28 by Domingo Mery

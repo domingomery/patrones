@@ -13,7 +13,7 @@
 * - by Liu Yang [[matlab:Library-1]](https://www.cs.cmu.edu/~liuy/distlearn.htm)
 * - by Kilian Weinberger [[matlab:Library-2]](https://bitbucket.org/mlcircus/lmnn/downloads)
 * Trabajo en grupos - Avances del proyecto 
-* Presentacion de avances de proyecto [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap07_Aplicaciones//)
+* Presentacion de avances de proyecto 
 * Presentacion de avances de proyecto [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap07_Aplicaciones/presentations/PAT07_PresentacionesProyecto.pdf)
 ### 7.2 Reconocimiento de caras:
 ### 7.3 Reconocimiento de objetos sospechosos:
@@ -22,4 +22,4 @@
 ---
 
 
-Updated on 03-Mar-2020 at 16:15 by Domingo Mery
+Updated on 03-Mar-2020 at 16:28 by Domingo Mery
