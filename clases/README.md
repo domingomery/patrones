@@ -21,9 +21,9 @@
 * 1.1-Formulacion metodologica [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_FormulacionMetodologia.pdf)
 * 1.1-Lectura complementaria [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/papers/Jain_StatisticalPatternRecognition_2000.pdf)
 * 1.1-Separacion entre letra T y letra Y opcional [[Matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/matlab/PAT01_GeoFeatures_TY.m)
-* 1.1-Imagenes T-Y [[imagenes]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/images/*)
+* 1.1-Imagenes T-Y [[imagenes]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/images/)
 * 1.1-Normalizacion de caracteristicas [[Matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/matlab/PAT01_Normalization.m)
 ---
 
 
-Updated on 03-Mar-2020 at 09:06 by Domingo Mery
+Updated on 03-Mar-2020 at 09:07 by Domingo Mery

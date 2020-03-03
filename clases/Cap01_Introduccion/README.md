@@ -8,7 +8,7 @@
 * Formulacion metodologica [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_FormulacionMetodologia.pdf)
 * Lectura complementaria [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/papers/Jain_StatisticalPatternRecognition_2000.pdf)
 * Separacion entre letra T y letra Y opcional [[Matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/matlab/PAT01_GeoFeatures_TY.m)
-* Imagenes T-Y [[imagenes]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/images/*)
+* Imagenes T-Y [[imagenes]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/images/)
 * Normalizacion de caracteristicas [[Matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/matlab/PAT01_Normalization.m)
 ### 1.2 Un ejemplo practico:
 * Ejemplo practico [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_EjemploMandarinas.pptx)
@@ -18,4 +18,4 @@
 ---
 
 
-Updated on 03-Mar-2020 at 09:06 by Domingo Mery
+Updated on 03-Mar-2020 at 09:07 by Domingo Mery
