@@ -1,5 +1,5 @@
 
-# Capitulo 05: Evaluacion de Desempeño
+# Capitulo 05: Evaluacion de Desempeo
 ### 5.1 Matriz de Confusion:
 * Matriz de Confusion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ConfusionMatrix.pptx)
 * Estimacion de Accuracy [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_AccuracyEstimation.pptx)
@@ -17,4 +17,4 @@
 ---
 
 
-Updated on 03-Mar-2020 at 16:41 by Domingo Mery
+Updated on 12-Mar-2020 at 10:59 by Domingo Mery
