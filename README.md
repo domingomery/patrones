@@ -37,8 +37,8 @@
 * 2.1-Ejemplo: Momentos de Hu [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_HuMoments.m)
 * 2.1-Video de esta clase [[video]](https://youtu.be/J8nhfgUTXXs)
 * 2.1-Foro de esta clase [[chat]](https://github.com/domingomery/patrones/issues/8)
-* 2.1-Foro de sugerencias generales [[]](https://github.com/domingomery/patrones/issues/9)
-* 2.1-Chat de preguntas de zoom de esta clase [[txt]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_ChatPreguntas_Clase 03_170320.txt)
+* 2.1-Foro de sugerencias generales [[chat]](https://github.com/domingomery/patrones/issues/9)
+* 2.1-Chat de preguntas de zoom de esta clase [[txt]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_ChatPreguntas_Clase_03_170320.txt)
 
 ### Clase 04 Ju. 19-Mar-2020:
 * 2.1-Caracteristicas de intensidad [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_IntensityFeatures.pptx)
@@ -217,4 +217,4 @@
 ---
 
 
-Updated on 17-Mar-2020 at 13:51 by Domingo Mery
+Updated on 17-Mar-2020 at 13:55 by Domingo Mery
