@@ -1,0 +1,84 @@
+11:32:26	 From angelaparra : Hola!
+11:32:33	 From angelaparra : Ya está hablando el profe?
+11:32:39	 From José Luis Haddad : Al parecer no
+11:32:47	 From Kaminetzky : Parece que nop
+11:32:54	 From Hector : supongo que no
+11:32:57	 From José Luis Haddad : ahora si!
+11:32:59	 From Felipe Valenzuela : ahora si
+11:33:00	 From Geraldine Céspedes : recién ahora 
+11:33:05	 From Kaminetzky : hola!
+11:35:14	 From Valeria : holaa
+11:35:55	 From Gustavo Boré : profesor, podemos hacer consultas por en chat?
+11:36:24	 From Valeria : o tienen que ser por micrófono?
+11:40:41	 From Diego De la Vega : Existe una convención de qué píxeles considerar para representar el borde?
+11:46:36	 From Felipe Valenzuela : el centro de masa se calcula solo calculando los pixeles del borde?
+11:47:36	 From Gustavo Boré : esta segmentación se debe hacer "manualmente" para hacer el sistema de reconocimiento?
+11:52:08	 From laura : Los ejemplos se van a subir?
+11:53:05	 From Cristobal Eyzaguirre to Domingo Mery (Privately) : El umbral para encontrar la mascara se define manualmente o usando alguna tecnica (ej. clustering)?
+11:54:08	 From Jose : En el ejemplo de la papa frita, la excentricidad no debería tener un valor similar al roundness?
+11:58:22	 From Gustavo Boré : rectángulos u otras geiometrìas siguen la misma lógica?
+11:59:08	 From Danilo : para segmentar de manera automática, esta permitido usar librerias?
+11:59:38	 From vecalisto : qué librerías serían útiles (en Python) para hacer lo que hemos visto?
+12:00:28	 From Gustavo Boré : rectángulos u otras geometrías siguen la misma lógica?
+12:00:31	 From Felipe Valenzuela : que versión de python esta hecho esa libreria?
+12:00:55	 From Valeria : cuál no se podía usar para la tarea 1? no escuché :(
+12:01:07	 From vecalisto : cv2 sería una librería permitida para la T1?
+12:06:04	 From Kaminetzky : Profesor, la posición del objeto afecta en los momentos? Por ejemplo, si un objeto está lejos del origen tendría un momento (1,1) muy grande?
+12:08:55	 From Kaminetzky : Ya lo respondió, gracias 😬
+12:09:34	 From Felipe Valenzuela : que caracteristicas son invariante a la rotación?
+12:11:32	 From Felipe Valenzuela : ya fue respondido gracias
+12:12:43	 From Valeria : ¿Qué información dan los momentos de hu? Si los calculo, qué me indica cada uno?
+12:16:51	 From Gustavo Boré : COmo saber que momentos de hu utilizar?
+12:19:55	 From Francisco Guíñez : Le dio coronavirus :(
+12:19:56	 From Valeria : gracias felipe
+12:19:56	 From Felipe Valenzuela : guarde las preguntas
+12:20:17	 From Gonzalo Mendez : envíen las preguntas para que no se pierdan
+12:20:21	 From Ale Kaminetzky : ¿Qué información dan los momentos de hu? Si los calculo, qué me indica cada uno?  COmo saber que momentos de hu utilizar?
+12:21:46	 From Andres Villa : ¿Si queremos usar los momentos de Hu para la tarea 1 debemos de programarlos por nosotros mismos? 
+12:21:50	 From Ale Kaminetzky : Qué valores se estaban comparando en el gráfico de recién? (el de los números)
+12:21:55	 From Gonzalo Mendez : no me quedó claro que era el u^t_00
+12:22:14	 From Jose : "todavía"
+12:23:30	 From yerko : alguna relación entre los momentos de hu y PCA?
+12:23:51	 From Ale Kaminetzky : Gracias!
+12:27:10	 From Ale Kaminetzky : Como se escribe el nombre profe?
+12:27:35	 From tomas : flusser
+12:27:41	 From Ale Kaminetzky : Graciasss
+12:31:09	 From rosita : se escucha un ruido de fondo, alguien tiene el micrófono prendiduu
+12:34:27	 From Valeria : se escriben dft igual que la transformada discreta de fourier?
+12:34:38	 From Alain Raymond : Debiera saber como opera la Transformada de Fourier?
+12:42:38	 From Danilo : este método es sensible a ala posición del objeto?
+12:42:47	 From Danilo : a la*
+12:43:46	 From Felipe Valenzuela : como comparar dos valores de transformada inversa de fourier ?
+12:45:11	 From Felipe Valenzuela : listo me respondio con la similitud de los momentos de hu
+12:45:11	 From Esteban Denecken Campaña : para los descriptores de Fourier influye el pixel que defino como pixel inicial?
+12:48:14	 From angelaparra : Gracias profe!
+12:48:17	 From Diego Iruretagoyena to Domingo Mery (Privately) : Muchas gracias ! Funcionó bien la clase
+12:48:19	 From Ale Kaminetzky : Gracias profeee
+12:48:19	 From Felipe Domínguez Claro : gracias profe!
+12:48:20	 From Felipe Valenzuela : gracias profesor!
+12:48:21	 From rosita : gracias profe!
+12:48:22	 From tomas marin : chao
+12:48:22	 From vecalisto : gracias
+12:48:23	 From Sarah Everke : gracias!
+12:48:24	 From Daniela Contador : nos vemos!
+12:48:25	 From Danilo : gracias profe
+12:48:25	 From Noemi Crosby : gracias profe
+12:48:26	 From Daniel Maltrain : gracias profee
+12:48:26	 From Yuyang Mu : Gracias
+12:48:26	 From Mónica Cavieres : Gracias profe
+12:48:27	 From agustinperalta : Gracias!
+12:48:27	 From Pame : gracias!
+12:48:30	 From Diego De la Vega : Gracias!
+12:48:30	 From Benjamin Peña : Chao chao, gracias profe !
+12:48:30	 From Gustavo Boré : gracias
+12:48:33	 From Andres Villa : gracias profe
+12:48:38	 From Valeria : gracias
+12:48:38	 From Vicente Castro : gracias profe!
+12:48:39	 From NICOLÁS CONTRERAS PÉREZ : Gracias!
+12:49:09	 From Paola : gracias !!
+12:49:16	 From Vicente Manriquez : profe no corto la transmisión :C
+12:49:23	 From Felipe Valenzuela : Profesor sigue trasmitiendo
+12:49:44	 From rosita : salgamos todos
+12:49:45	 From rosita : jahahja
+12:49:49	 From Gustavo Boré : audemoslo y salgámonos de la transmision
+12:49:52	 From Felipe Valenzuela : si mejor salir todos

@@ -11,6 +11,10 @@
 * Ejemplo: Descripcion de elipses [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_GeoEllipses.m)
 * Ejemplo: Reconocimiento de 9 y 6 [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_GeoFeatures_96.m)
 * Ejemplo: Momentos de Hu [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_HuMoments.m)
+* Video de esta clase [[video]](https://youtu.be/J8nhfgUTXXs)
+* Foro de esta clase [[chat]](https://github.com/domingomery/patrones/issues/8)
+* Foro de sugerencias generales [[]](https://github.com/domingomery/patrones/issues/9)
+* Chat de preguntas de zoom de esta clase [[txt]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_ChatPreguntas_Clase 03_170320.txt)
 * Caracteristicas de intensidad [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_IntensityFeatures.pptx)
 * Caracteristicas de intensidad [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_IntensityFeatures.pdf)
 * Local Binary Patterns [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns.pptx)
@@ -47,4 +51,4 @@
 ---
 
 
-Updated on 12-Mar-2020 at 10:59 by Domingo Mery
+Updated on 17-Mar-2020 at 13:51 by Domingo Mery
