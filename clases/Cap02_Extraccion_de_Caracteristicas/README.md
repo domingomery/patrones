@@ -18,7 +18,7 @@
 * Video de esta clase [[video]](https://youtu.be/7woR1nDc9r0)
 * Foro de esta clase [[chat]](https://github.com/domingomery/patrones/issues/10)
 * Foro de sugerencias generales [[chat]](https://github.com/domingomery/patrones/issues/9)
-* Chat de preguntas de zoom de esta clase [[txt]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_ChatPreguntas_Clase_04_170320.txt)
+* Chat de preguntas de zoom de esta clase [[txt]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_ChatPreguntas_Clase_04_190320.txt)
 * Caracteristicas de textura de Haralick [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HaralickTexture.pptx)
 * Caracteristicas de textura de Haralick [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Haralick_Textures.pdf)
 * Ejemplo: imagenes satelitales usando Haralick [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_TexturesHaralick.m)
@@ -55,4 +55,4 @@
 ---
 
 
-Updated on 19-Mar-2020 at 13:11 by Domingo Mery
+Updated on 19-Mar-2020 at 13:25 by Domingo Mery

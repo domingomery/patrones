@@ -1,0 +1,131 @@
+11:25:29	 From Gustavo Boré : buenos días. Este es el link de la clase de hoy jueves?
+11:25:57	 From Domingo Mery : sip, empiezo a las 11:30
+11:29:13	 From Valeria : hola
+11:29:46	 From Daniela Contador : holaa
+11:29:50	 From Rodrigo Nazar : Hi
+11:30:03	 From Kaminetzky : Holaa!
+11:30:09	 From Danilo : hola
+11:30:11	 From Andrés : Hola
+11:30:20	 From Esteban Denecken Campaña : hola!
+11:30:44	 From Cristobal : hola
+11:31:38	 From Kaminetzky : Hola profe
+11:31:43	 From Rodrigo Nazar : Se escucha bienn
+11:31:44	 From Mónica Cavieres : Hola
+11:31:44	 From Javiera Jorquera : se escucha bien
+11:31:59	 From Yuyang Mu : Hola profesor
+11:32:01	 From Daniel Maltrain : hola!
+11:37:21	 From Jose : holaa
+11:41:43	 From Gustavo Boré : profe, que implica el x'?
+11:41:55	 From Felipe : Profesor, no me queda claro la sumatoria, que elementos se van sumando, vectores?
+11:42:24	 From vecalisto : Hola profe, una duda: A = R, A = R + L, o esto varía según quién implemente esto?
+11:44:08	 From Jose : Daniel, no estás muteado
+11:47:58	 From Vicente Manriquez : por que el promedio del segundo gradiente se calcula sobre el area y no sobre el perimetro ? 
+11:47:58	 From cristobal eyzaguirre to Domingo Mery (Privately) : Por qué no usar la resta del promedio del color en la imagen - la del fondo? (en vezde la segunda derivada)
+11:48:40	 From José Antonio Chavarri : lo que estamos viendo ahora se aplica a imágenes monocromáticas solamente?
+11:50:12	 From Kaminetzky : Profe, cuando calculó la segunda derivada usó una línea que cruzaba solo una parte de la región. Cómo se haría para la región completa?
+11:50:49	 From Andres Villa : Como calcular la derivada de la imagen?
+11:55:30	 From Valeria : pero k2 dio un valor bajo para la primera region. por que?
+11:56:00	 From Felipe : Que pasa si como en el ejemplo da un valor alto K1 y los demás bajos? 
+11:56:55	 From Kaminetzky : Gracias!
+11:57:45	 From ambrosio : hay algún umbral para empezar a considerarlo alto?
+12:02:05	 From Daniel : este método se puede usar en la tarea?
+12:05:46	 From Daniel : de donde salio la matriz de la derecha?
+12:06:24	 From Andrés : Son potencias de dos en sentido del reloj
+12:06:57	 From vecalisto : creo que es como codificar en binario
+12:07:08	 From Andrés : parte de la esquina de arriba con 2^0 y termina con 2^8 en la que sería la del medio a la izquierda
+12:07:33	 From Diego Iruretagoyena : 2^0+2^1+2^3… multiplicado por la matriz de 0 y 1 que te da comparar cada numero con sus vecinos
+12:08:20	 From José Luis Haddad : es necesario partir siempre desde el pixel de arriba a la izquierda o mientras uno sea consistente se puede partir con cualquiera?
+12:09:01	 From Juan Arévalo : ¿Por qué se multiplica por esa matriz de las potencias de 2?
+12:09:06	 From José Luis Haddad : Ya lo respondió! Gracias
+12:09:42	 From Vicente Manriquez : la ventana siempre es del mismo tamaño ? 
+12:09:44	 From Enrique : Que interpretación semántica se le puede dar a esta codificación?
+12:10:05	 From Enrique : Om gracias
+12:10:10	 From Enrique : Ok **
+12:10:17	 From Andrés : Perdón pero… que pasa con las de las esquinas o los laterales?
+12:10:34	 From Enrique : No se pueden calcular
+12:10:39	 From Rosita : quedan sin codificar
+12:10:49	 From José Lara : dijo que no importa perderlos porque siempre son imágenes grandes
+12:10:56	 From Rosita : pero al tener millones de pixeles, que queden los laterales sin codificar es irrelevante
+12:11:01	 From Andrés : dale, gracias
+12:12:52	 From tomas marin alamos : no
+12:13:30	 From Valeria : U=2 no puede ser todos verdes y uno blanco?
+12:13:37	 From tomas marin alamos : si
+12:13:53	 From Valeria : aah
+12:15:01	 From tomas marin alamos : 56
+12:17:12	 From Rosita : muteen los microfonos
+12:17:18	 From Jose : vicente
+12:17:29	 From Valeria : demonios señorito
+12:17:58	 From Diego Iruretagoyena : => al codificar siempre se va perdiendo el borde ? siempre hay perdida de info con este método ?
+12:18:20	 From Ale Kaminetzky : Sï
+12:18:29	 From Diego Iruretagoyena : :(
+12:18:31	 From Ale Kaminetzky : Pero el profe dijo que no importa para fotos grandes
+12:18:35	 From Ale Kaminetzky : :)
+12:18:54	 From Valeria : es un puro pixel después de todo
+12:20:07	 From Valeria : por qué los no uniformes se consideran 'ruido'?
+12:20:34	 From Andres Villa : Siempre se codifican en ese mismo orden?
+12:21:31	 From Valeria : profe
+12:21:33	 From Valeria : no
+12:21:36	 From Valeria : ay
+12:21:39	 From ambrosio : f
+12:21:57	 From vecalisto : (>._.)>
+12:22:02	 From tomas marin alamos : jajaja
+12:23:31	 From Alain Raymond : Qué pasa con los vectores LBP si es que invierto la imagen? Siguen siendo parecidos?
+12:26:10	 From Gustavo Boré : tiene algún ejemplo en que no funcione? que el lbp sean similares pero que lasa imágenes sean notoriamente diferentes?
+12:27:08	 From Benjamin Earle : Como funciona LBP con cambios de orientacion?
+12:27:14	 From Jose : necesito que los ángulos sean similares?
+12:28:09	 From José Luis Haddad : Se puede usar LBP con imágenes a color?
+12:28:24	 From ambrosio : dijo q si, que lo haces por cada canal
+12:28:45	 From José Luis Haddad : gracias! que se me corta a cada rato zoom y me lo perdí
+12:29:47	 From Rosita : profe no entendí como sacar el feature
+12:29:52	 From tomas marin alamos : cuando no funciona?
+12:30:01	 From Rosita : si lo puede explicar denuevo ><
+12:30:27	 From b : Cómo se comporta el LBP con imágenes de distinto tamaño?
+12:30:46	 From b : Una persona de 200px de alto vs una de 40px, por ejemplo
+12:30:51	 From Enrique : Como se aplica LBP a imagenes en rgb? Se debe de hacer para cada color? Y como se toma en cuenta cada vector?
+12:31:04	 From Felipe : LBP es invariante algo?
+12:32:19	 From Valeria : LBP funcionaría si pusieramos el agua en vertical comparándose con el agua horrizontal (que queden perpendiculares las rectas)?
+12:33:19	 From Vicente Águila : LBP funciona principalmente para el reconocimiento de texturas entonces?
+12:33:32	 From Vicente Águila : F
+12:33:53	 From Valeria : jajaaja esto del chat no está funcionando
+12:34:04	 From Enrique : Para que sirve la codificacion?
+12:34:25	 From Enrique : Si al final solo se usa el mapeo?
+12:35:20	 From Vicente Manriquez : necesitas la codificacion para hacer el mapeo
+12:36:32	 From Javier Silva : LBP es exclusivo del dominio de la imagen? o puede aplicarse en otros dominios (Fourier, wavelet)?
+12:37:57	 From Diego Iruretagoyena : https://github.com/carpedm20/DCGAN-tensorflow ese repo tiene una DC GAN para generar caras, muy bueno !
+12:39:50	 From b : Así lo hace para pasar lista con las fotos?
+12:40:26	 From Valeria : ¿Cómo decido cuántas serán las particiones de cada imagen? (decidir cuánto vale w=
+12:41:23	 From José Luis Haddad : El 59 qué era? 
+12:41:23	 From vecalisto : que desventaja tendría un w=1?
+12:41:44	 From Valeria : 59 eran el número de columnas de cada LBP
+12:42:33	 From José Luis Haddad : pero por qué es 59?
+12:44:22	 From laura : como funciona con gemelos?
+12:44:59	 From Enrique : La pregunta que "quedó en el tintero" iba mas por "para que sirve pasar a entero la codificación? (ese que va de 0 a 255)?
+12:45:07	 From Vicente Manriquez : 59 es el tamaño del vector del lbp
+12:46:46	 From Jose : es 59 porque cuando se hace el mapeo, había 58 clasificaciones uniformes y el resto (no uniforme) son todas la 59 restante
+12:46:55	 From Rosita : el 59 son los U distintos, los que son uniformes se numeran de 0 a 57 y los no uniformes o ruido se enumeran como 58, por eso en el histograma se tienen 59 barritas, las cuales representan las 59 componentes del vector feature
+12:47:01	 From Christopher Gilbert : dada la dimensionalidad, no es mejor usar la distancia coseno para determinar a cual se parece?
+12:48:02	 From José Luis Haddad : gracias Rosita y Jose!! esa era mi duda 
+12:50:48	 From Alain Raymond : A veces se aplican umbrales para cada dimensión de LBP para eliminar patrones ruidosos antes de hacer la comparación entre vectores?
+12:52:43	 From Enrique : Profe donde queda la grabación de las clases?
+12:53:31	 From Rosita : cual es el umbral recomendado para la distancia?
+12:53:42	 From Enrique : Ok gracias
+12:54:06	 From b : Chao profe
+12:54:16	 From Ale Kaminetzky : Chao profe! Gracias
+12:54:21	 From Daniel Maltrain : chao profe! gracias
+12:54:28	 From Enrique : Gracias por la clase profe! Cuidese
+12:54:33	 From agustinperalta : Chao, gracias!
+12:54:38	 From Pame : gracias!
+12:54:38	 From Mónica Cavieres : Gracias profe
+12:54:39	 From Rosita : chao!
+12:54:39	 From Sarah Everke : Chau, gracias!
+12:54:40	 From b : Gracias por la clase
+12:54:42	 From Yuyang Mu : Chao! gracias
+12:54:43	 From Noemi Crosby : gracias profe
+12:54:43	 From Daniela Contador : graciaas!!
+12:54:44	 From José Lara : mejor clase o mejor clase
+12:54:44	 From Danilo : chao
+12:54:45	 From Paola : Gracisa profe
+12:54:46	 From Felipe : gracias!
+12:54:47	 From Andres Villa : chao
+12:54:51	 From Andres Villa : buen dia para todos
+12:54:51	 From Gustavo Boré : gracias profe
