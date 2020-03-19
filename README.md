@@ -46,6 +46,10 @@
 * 2.2-Local Binary Patterns [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns.pptx)
 * 2.2-Ejemplo: Verificacion de caras [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_LBP_FaceVerification.m)
 * 2.2-Ejemplo: Reconocimiento de caras usando LBP [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_FaceRecognition_simple.m)
+* 2.1-Video de esta clase [[video]](https://youtu.be/7woR1nDc9r0)
+* 2.1-Foro de esta clase [[chat]](https://github.com/domingomery/patrones/issues/10)
+* 2.1-Foro de sugerencias generales [[chat]](https://github.com/domingomery/patrones/issues/9)
+* 2.1-Chat de preguntas de zoom de esta clase [[txt]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_ChatPreguntas_Clase_04_170320.txt)
 
 ### Clase 05 Ma. 24-Mar-2020:
 * 2.1-Caracteristicas de textura de Haralick [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HaralickTexture.pptx)
@@ -217,4 +221,4 @@
 ---
 
 
-Updated on 19-Mar-2020 at 10:35 by Domingo Mery
+Updated on 19-Mar-2020 at 13:11 by Domingo Mery
