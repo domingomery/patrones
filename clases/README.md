@@ -46,6 +46,8 @@
 * 2.2-Local Binary Patterns [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns.pptx)
 * 2.2-Ejemplo: Verificacion de caras [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_LBP_FaceVerification.m)
 * 2.2-Ejemplo: Reconocimiento de caras usando LBP [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_FaceRecognition_simple.m)
+
+### Clase 05 Ma. 24-Mar-2020:
 * 2.1-Ejercicio sobre LBP [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_QuizLBP.pptx)
 
 ### Clase 06 Ju. 26-Mar-2020:
@@ -218,4 +220,4 @@
 ---
 
 
-Updated on 24-Mar-2020 at 11:17 by Domingo Mery
+Updated on 24-Mar-2020 at 11:20 by Domingo Mery
