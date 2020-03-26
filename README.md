@@ -49,6 +49,7 @@
 
 ### Clase 05 Ma. 24-Mar-2020:
 * 2.1-Ejercicio sobre LBP [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_QuizLBP.pptx)
+* 2.1-Lectura complementaria de LBP [[PPT]](http://www.scholarpedia.org/article/Local_Binary_Patterns)
 
 ### Clase 06 Ju. 26-Mar-2020:
 * 2.1-Caracteristicas de textura de Haralick [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HaralickTexture.pptx)
@@ -57,15 +58,15 @@
 * 2.1-Ejercicio con base de datos de texturas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_Ejercicio_111_Texturas.pptx)
 * 2.1-Ejemplo: Reconocimiento de texturas 1 [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_TextureRecognition_1.m)
 * 2.1-Ejemplo: Reconocimiento de texturas 2 [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_TextureRecognition_2.m)
-* 2.1-Gabor [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_Gabor.pptx)
-* 2.1-Paper Gabor [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Manjunath_GaborFeatures1996.pdf)
-* 2.1-Ejemplo: Deteccion de caras usando Gabor [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_FaceDetection_Gabor.m)
-* 2.1-Comparacion de caracteristicas de textura [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Randen_ComparativeTextures.pdf)
 
 ### Clase 07 Ma. 31-Mar-2020:
 * 2.1-Ejercicio sobre descriptores de Textura [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_QuizTexturas.pptx)
 
 ### Clase 08 Ju. 02-Apr-2020:
+* 2.1-Gabor [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_Gabor.pptx)
+* 2.1-Paper Gabor [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Manjunath_GaborFeatures1996.pdf)
+* 2.1-Ejemplo: Deteccion de caras usando Gabor [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_FaceDetection_Gabor.m)
+* 2.1-Comparacion de caracteristicas de textura [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Randen_ComparativeTextures.pdf)
 * 2.1-Toolbox Balu para el curso [[phyton]](https://github.com/mbucchi/pybalu)
 * 2.1-Toolbox Balu para el curso [[matlab]](https://github.com/domingomery/Balu)
 * 2.1-Toolbox Balu para el curso [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_FX_Balu.pptx)
@@ -220,4 +221,4 @@
 ---
 
 
-Updated on 24-Mar-2020 at 11:20 by Domingo Mery
+Updated on 26-Mar-2020 at 10:46 by Domingo Mery
