@@ -45,6 +45,10 @@
 * 2.2-Caracteristicas de intensidad [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_IntensityFeatures.pdf)
 * 2.2-Local Binary Patterns [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns.pptx)
 * 2.2-Ejemplo: Verificacion de caras [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_LBP_FaceVerification.m)
+* 2.1-Video de esta clase [[video]](https://youtu.be/7woR1nDc9r0)
+* 2.1-Foro de esta clase [[chat]](https://github.com/domingomery/patrones/issues/10)
+* 2.1-Foro de sugerencias generales [[chat]](https://github.com/domingomery/patrones/issues/9)
+* 2.1-Chat de preguntas de zoom de esta clase [[txt]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_ChatPreguntas_Clase_03_170320.txt)
 * 2.2-Ejemplo: Reconocimiento de caras usando LBP [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_FaceRecognition_simple.m)
 
 ### Clase 05 Ma. 24-Mar-2020:
@@ -58,6 +62,10 @@
 * 2.1-Ejercicio con base de datos de texturas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_Ejercicio_111_Texturas.pptx)
 * 2.1-Ejemplo: Reconocimiento de texturas 1 [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_TextureRecognition_1.m)
 * 2.1-Ejemplo: Reconocimiento de texturas 2 [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_TextureRecognition_2.m)
+* 2.1-Video de esta clase [[video]](https://youtu.be/w1T-gzD4gDo)
+* 2.1-Foro de esta clase [[chat]](https://github.com/domingomery/patrones/issues/11)
+* 2.1-Foro de sugerencias generales [[chat]](https://github.com/domingomery/patrones/issues/9)
+* 2.1-Chat de preguntas de zoom de esta clase [[txt]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_ChatPreguntas_Clase_03_170320.txt)
 
 ### Clase 07 Ma. 31-Mar-2020:
 * 2.1-Ejercicio sobre descriptores de Textura [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_QuizTexturas.pptx)
@@ -221,4 +229,4 @@
 ---
 
 
-Updated on 26-Mar-2020 at 10:46 by Domingo Mery
+Updated on 27-Mar-2020 at 12:05 by Domingo Mery
