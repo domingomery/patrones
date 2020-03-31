@@ -69,6 +69,8 @@
 
 ### Clase 07 Ma. 31-Mar-2020:
 * 2.1-Ejercicio sobre descriptores de Textura [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_QuizTexturas.pptx)
+* 2.1-Video de esta clase [[video]](https://youtu.be/qaENVpUg0dk)
+* 2.1-Ejercicio sobre LBP y Haralick [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_QuizTexturas.pptx)
 
 ### Clase 08 Ju. 02-Apr-2020:
 * 2.1-Gabor [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_Gabor.pptx)
@@ -229,4 +231,4 @@
 ---
 
 
-Updated on 27-Mar-2020 at 12:05 by Domingo Mery
+Updated on 31-Mar-2020 at 18:30 by Domingo Mery

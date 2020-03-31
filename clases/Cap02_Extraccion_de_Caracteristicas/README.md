@@ -32,6 +32,8 @@
 * Foro de sugerencias generales [[chat]](https://github.com/domingomery/patrones/issues/9)
 * Chat de preguntas de zoom de esta clase [[txt]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_ChatPreguntas_Clase_03_170320.txt)
 * Ejercicio sobre descriptores de Textura [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_QuizTexturas.pptx)
+* Video de esta clase [[video]](https://youtu.be/qaENVpUg0dk)
+* Ejercicio sobre LBP y Haralick [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_QuizTexturas.pptx)
 * Gabor [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_Gabor.pptx)
 * Paper Gabor [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Manjunath_GaborFeatures1996.pdf)
 * Ejemplo: Deteccion de caras usando Gabor [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_FaceDetection_Gabor.m)
@@ -61,4 +63,4 @@
 ---
 
 
-Updated on 27-Mar-2020 at 12:05 by Domingo Mery
+Updated on 31-Mar-2020 at 18:30 by Domingo Mery
