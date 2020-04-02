@@ -77,14 +77,15 @@
 * 2.1-Paper Gabor [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Manjunath_GaborFeatures1996.pdf)
 * 2.1-Ejemplo: Deteccion de caras usando Gabor [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_FaceDetection_Gabor.m)
 * 2.1-Comparacion de caracteristicas de textura [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Randen_ComparativeTextures.pdf)
-* 2.1-Toolbox Balu para el curso [[phyton]](https://github.com/mbucchi/pybalu)
-* 2.1-Toolbox Balu para el curso [[matlab]](https://github.com/domingomery/Balu)
-* 2.1-Toolbox Balu para el curso [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_FX_Balu.pptx)
-* 2.1-PyBalu para la extraccion de caracteristicas [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/phyton/)
+* 2.1-Crossing Line Profile (CLP) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_CrossingLineProfiles.pptx)
+* 2.1-Crossing Line Profile (CLP) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Mery_CrossingLineProfiles.pdf)
+* 2.1-Ejemplo: Deteccion de defectos usando CLP [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_CLP.m)
 
 ### Clase 09 Ma. 07-Apr-2020:
 * 2.1-Toolbox Balu para el curso [[phyton]](https://github.com/mbucchi/pybalu)
 * 2.1-Toolbox Balu para el curso [[matlab]](https://github.com/domingomery/Balu)
+* 2.1-Toolbox Balu para el curso [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_FX_Balu.pptx)
+* 2.1-PyBalu para la extraccion de caracteristicas [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/phyton/)
 * 3.1-Ejercicio: Reconocimiento de flechas [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/ejercicios/PAT03_Ejercicios_FX_FS.pdf)
 * 3.1-Datos para el ejercicio de SFS [[DATOS1]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/data/DATOS1.mat)
 * 3.1-Datos para el ejercicio de SFS [[DATOS2]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/data/DATOS2.mat)
@@ -93,9 +94,6 @@
 * 3.1-Solucion para el ejercicio de las flechas [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/*)
 * 3.1-Solucion para el ejercicio de SFS [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/python/sfs_datos)
 * 3.1-Solucion para el ejercicio de SFS [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/sfs_datos)
-* 2.1-Crossing Line Profile (CLP) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_CrossingLineProfiles.pptx)
-* 2.1-Crossing Line Profile (CLP) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Mery_CrossingLineProfiles.pdf)
-* 2.1-Ejemplo: Deteccion de defectos usando CLP [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_CLP.m)
 
 ### Clase 10 Ju. 09-Apr-2020:
 * 3.1-Introduccion a la Seleccion de Caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pdf)
@@ -231,4 +229,4 @@
 ---
 
 
-Updated on 31-Mar-2020 at 18:30 by Domingo Mery
+Updated on 02-Apr-2020 at 10:39 by Domingo Mery
