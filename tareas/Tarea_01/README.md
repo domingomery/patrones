@@ -15,6 +15,10 @@ Ud. debera entregar un informe de una pagina(*) en formato pdf en el que expliqu
 
 (*) Si el informe tiene mas de una pagina solo se revisara la primera pagina del informe,
 
+## Especificacion del codigo
+Para la entrega del codigo, se pide que entreguen una funcion, en MATLAB o Python, que reciba como entrada una unica imagen binaria de una letra, y que el codigo pueda determinar que letra es. Se pide como salida de la funcion los numeros, 1,2,3,4 o 5, dependiendo si la entrada es A,S,D,F,G respectivamente. En los siguientes archivos encontrarán ejemplos de lo que se espera como función [Ejemplo MATLAB](https://github.com/domingomery/patrones/tree/master/tareas/Tarea_01/reconocedor.m) [Ejemplo Python](https://github.com/domingomery/patrones/tree/master/tareas/Tarea_01/reconocedor.py).  Lo ideal es que modifiquen estas funciones ejemplo y que las mantengan como archivos separados del resto del codigo. En la correccion de la tarea esta funcion estara dentro de un lazo for que evaluara el desempeno en cada una de las letras del testing.
+
+
 
 ## Fecha de Entrega
 Ver [Calendario del Curso](https://domingomery.ing.puc.cl/teaching/patrones/)
