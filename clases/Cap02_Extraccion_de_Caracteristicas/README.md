@@ -44,6 +44,9 @@
 * Crossing Line Profile (CLP) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_CrossingLineProfiles.pptx)
 * Crossing Line Profile (CLP) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Mery_CrossingLineProfiles.pdf)
 * Ejemplo: Deteccion de defectos usando CLP [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_CLP.m)
+* Deteccion de peatones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HoG_HumanDetection.pptx)
+* Paper HoG [[Paper]](https://hal.inria.fr/file/index/docid/548512/filename/hog_cvpr2005.pdf)
+* Implementacion de HoG en Python con OpenCV [[]](https://www.learnopencv.com/histogram-of-oriented-gradients/)
 * Toolbox Balu para el curso [[phyton]](https://github.com/mbucchi/pybalu)
 * Toolbox Balu para el curso [[matlab]](https://github.com/domingomery/Balu)
 * Toolbox Balu para el curso [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_FX_Balu.pptx)
@@ -64,4 +67,4 @@
 ---
 
 
-Updated on 02-Apr-2020 at 15:49 by Domingo Mery
+Updated on 07-Apr-2020 at 11:30 by Domingo Mery

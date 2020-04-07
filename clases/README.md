@@ -85,6 +85,11 @@
 * 2.1-Crossing Line Profile (CLP) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_CrossingLineProfiles.pptx)
 * 2.1-Crossing Line Profile (CLP) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Mery_CrossingLineProfiles.pdf)
 * 2.1-Ejemplo: Deteccion de defectos usando CLP [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_CLP.m)
+* 2.1-Deteccion de peatones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HoG_HumanDetection.pptx)
+* 2.1-Paper HoG [[Paper]](https://hal.inria.fr/file/index/docid/548512/filename/hog_cvpr2005.pdf)
+* 2.1-Implementacion de HoG en Python con OpenCV [[]](https://www.learnopencv.com/histogram-of-oriented-gradients/)
+
+### Clase 10 Ju. 09-Apr-2020:
 * 2.1-Toolbox Balu para el curso [[phyton]](https://github.com/mbucchi/pybalu)
 * 2.1-Toolbox Balu para el curso [[matlab]](https://github.com/domingomery/Balu)
 * 2.1-Toolbox Balu para el curso [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_FX_Balu.pptx)
@@ -97,8 +102,6 @@
 * 3.1-Solucion para el ejercicio de las flechas [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/*)
 * 3.1-Solucion para el ejercicio de SFS [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/python/sfs_datos)
 * 3.1-Solucion para el ejercicio de SFS [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/sfs_datos)
-
-### Clase 10 Ju. 09-Apr-2020:
 * 3.1-Introduccion a la Seleccion de Caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pdf)
 * 3.1-Introduccion a la Seleccion de Caracteristicas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pptx)
 * 3.1-Introduccion a la Seleccion de Caracteristicas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection.pdf)
@@ -232,4 +235,4 @@
 ---
 
 
-Updated on 02-Apr-2020 at 15:49 by Domingo Mery
+Updated on 07-Apr-2020 at 11:30 by Domingo Mery
