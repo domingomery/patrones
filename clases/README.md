@@ -87,7 +87,7 @@
 * 2.1-Ejemplo: Deteccion de defectos usando CLP [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_CLP.m)
 * 2.1-Deteccion de peatones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HoG_HumanDetection.pptx)
 * 2.1-Paper HoG [[Paper]](https://hal.inria.fr/file/index/docid/548512/filename/hog_cvpr2005.pdf)
-* 2.1-Implementacion de HoG en Python con OpenCV [[]](https://www.learnopencv.com/histogram-of-oriented-gradients/)
+* 2.1-Implementacion de HoG en Python con OpenCV [[phyton]](https://www.learnopencv.com/histogram-of-oriented-gradients/)
 * 2.1-Video de esta clase [[video]](https://youtu.be/knTGuNeu1Zo)
 
 ### Clase 10 Ju. 09-Apr-2020:
@@ -236,4 +236,4 @@
 ---
 
 
-Updated on 07-Apr-2020 at 13:23 by Domingo Mery
+Updated on 07-Apr-2020 at 13:27 by Domingo Mery
