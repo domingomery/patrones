@@ -48,6 +48,7 @@
 * Paper HoG [[Paper]](https://hal.inria.fr/file/index/docid/548512/filename/hog_cvpr2005.pdf)
 * Implementacion de HoG en Python con OpenCV [[phyton]](https://www.learnopencv.com/histogram-of-oriented-gradients/)
 * Video de esta clase [[video]](https://youtu.be/knTGuNeu1Zo)
+* Aclaracion de Dudas: Video de esta clase [[video]](https://youtu.be/BrWdtf0D3qI)
 * Toolbox Balu para el curso [[phyton]](https://github.com/mbucchi/pybalu)
 * Toolbox Balu para el curso [[matlab]](https://github.com/domingomery/Balu)
 * Toolbox Balu para el curso [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_FX_Balu.pptx)
@@ -68,4 +69,4 @@
 ---
 
 
-Updated on 07-Apr-2020 at 13:27 by Domingo Mery
+Updated on 09-Apr-2020 at 13:40 by Domingo Mery

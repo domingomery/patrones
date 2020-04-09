@@ -91,6 +91,9 @@
 * 2.1-Video de esta clase [[video]](https://youtu.be/knTGuNeu1Zo)
 
 ### Clase 10 Ju. 09-Apr-2020:
+* 2.1-Aclaracion de Dudas: Video de esta clase [[video]](https://youtu.be/BrWdtf0D3qI)
+
+### Clase 11 Ma. 21-Apr-2020:
 * 2.1-Toolbox Balu para el curso [[phyton]](https://github.com/mbucchi/pybalu)
 * 2.1-Toolbox Balu para el curso [[matlab]](https://github.com/domingomery/Balu)
 * 2.1-Toolbox Balu para el curso [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_FX_Balu.pptx)
@@ -115,8 +118,6 @@
 * 3.1-Ejemplo SFS con 10 caracteristicas [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_SFS_10features.m)
 * 3.1-Ejemplo SFS con 10 caracteristicas [[Data]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/fisherdata.mat)
 * 3.1-Branch and Bound [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_BranchAndBound.pptx)
-
-### Clase 11 Ma. 21-Apr-2020:
 * 3.1-Diagrama de Seleccion de Caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Esquema_General.pdf)
 
 ### Clase 12 Ju. 23-Apr-2020:
@@ -236,4 +237,4 @@
 ---
 
 
-Updated on 07-Apr-2020 at 13:27 by Domingo Mery
+Updated on 09-Apr-2020 at 13:40 by Domingo Mery
