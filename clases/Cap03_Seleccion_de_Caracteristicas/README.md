@@ -1,19 +1,12 @@
 
 # Capitulo 03: Seleccion de Caracteristicas
 ### 3.1 Analisis de componentes principales:
-* Ejercicio: Reconocimiento de flechas [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/ejercicios/PAT03_Ejercicios_FX_FS.pdf)
-* Datos para el ejercicio de SFS [[DATOS1]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/data/DATOS1.mat)
-* Datos para el ejercicio de SFS [[DATOS2]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/data/DATOS2.mat)
-* Imagenes para el ejercicio de Flechas [[Imagenes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/images/arrows)
-* Solucion para el ejercicio de las flechas [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/python/arrows)
-* Solucion para el ejercicio de las flechas [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/*)
-* Solucion para el ejercicio de SFS [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/python/sfs_datos)
-* Solucion para el ejercicio de SFS [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/sfs_datos)
 * Introduccion a la Seleccion de Caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pdf)
 * Introduccion a la Seleccion de Caracteristicas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pptx)
 * Introduccion a la Seleccion de Caracteristicas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection.pdf)
+* Ejemplo Covarianzas [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_CovarianceExamples.m)
 * Discriminante Fihser y Matrices de Covarianza [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pdf)
-* Discriminante Fihser y Matrices de Covarianza [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_CovarianceVisualization.m)
+* Visualizacion de Matrices de Covarianza [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_CovarianceVisualization.m)
 * GUI Discriminante Fisher [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_GUI_Fisher.m)
 * GUI Discriminante Fisher [[GUI]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_GUI_Fisher.fig)
 * Ejemplo SFS con 3 caracteristicas [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_SFS_3features.m)
@@ -36,4 +29,4 @@
 ---
 
 
-Updated on 09-Apr-2020 at 13:40 by Domingo Mery
+Updated on 14-Apr-2020 at 09:51 by Domingo Mery
