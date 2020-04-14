@@ -14,6 +14,7 @@
 * Ejemplo SFS con 3 caracteristicas [[Data]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/fisherdata.mat)
 * Ejemplo SFS con 10 caracteristicas [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_SFS_10features.m)
 * Ejemplo SFS con 10 caracteristicas [[Data]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/fisherdata.mat)
+* Video de esta clase [[video]](https://youtu.be/Um8uf5krqrI)
 * Branch and Bound [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_BranchAndBound.pptx)
 * Diagrama de Seleccion de Caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Esquema_General.pdf)
 * Principal Components Analysis PCA [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pdf)
@@ -30,4 +31,4 @@
 ---
 
 
-Updated on 14-Apr-2020 at 11:28 by Domingo Mery
+Updated on 14-Apr-2020 at 13:57 by Domingo Mery
