@@ -6,6 +6,7 @@
 * Introduccion a la Seleccion de Caracteristicas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection.pdf)
 * Ejemplo Covarianzas [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_CovarianceExamples.m)
 * Discriminante Fihser y Matrices de Covarianza [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pdf)
+* Discriminante Fihser y Matrices de Covarianza [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pptx)
 * Visualizacion de Matrices de Covarianza [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_CovarianceVisualization.m)
 * GUI Discriminante Fisher [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_GUI_Fisher.m)
 * GUI Discriminante Fisher [[GUI]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_GUI_Fisher.fig)
@@ -29,4 +30,4 @@
 ---
 
 
-Updated on 14-Apr-2020 at 09:51 by Domingo Mery
+Updated on 14-Apr-2020 at 11:28 by Domingo Mery

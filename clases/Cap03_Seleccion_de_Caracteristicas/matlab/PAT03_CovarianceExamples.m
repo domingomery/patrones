@@ -27,7 +27,7 @@ for i=1:7
             X = X*[cos(th) -sin(th);sin(th) cos(th)];
             stx = 'gaussian random numbers mean 0 and std 0.25 (x) and 1.5 (y) rot 30';
     end
-    plot(X(:,1),X(:,2),'rx.')
+    plot(X(:,1),X(:,2),'r.')
     axis([-5 5 -5 5])
     c = cov(X)
     title(stx)
