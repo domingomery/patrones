@@ -1,15 +1,15 @@
 # Tarea 02: Reconocedor de Paredes Rayadas
 
 ## Enunciado
-El objetivo de esta tarea es Diseñar un reconocedor automatico de paredes rayadas usando extraccion de caracteristicas de textura, seleccionador de caracteristicas y clasificador knn.
+El objetivo de esta tarea es diseñar un reconocedor automatico de paredes rayadas usando extraccion de caracteristicas de textura, seleccionador de caracteristicas y clasificador knn.
 
 
 ## Descripcion
-Se cuenta con una base de datos de 20.000 patches a color de 64x64 pixeles, correspondientes a porciones de paredes que han sido y que no han sido rayadas, distribuidas 50-50%.
+Se cuenta con una base de datos de 20.000 patches a color de 64x64 pixeles, correspondientes a porciones de paredes que han sido y que no han sido rayadas, distribuidas 50-50%, es decir 10.000 patches pertencientes a la clase 1 (rayas), y 10.000 patches pertenecientes a la clase 0 (no-rayas). Cada uno de estos patches cubre aproximadamente una superficie de 30cm x 30cm de la pared:
 
 Algunos ejemplos se muestran a continuacion:
-<img src="https://github.com/domingomery/patrones/tree/master/tareas/Tarea_02/patches_0.png" width="600">
-<img src="https://github.com/domingomery/patrones/tree/master/tareas/Tarea_02/patches_1.png" width="600">
+<img src="https://github.com/domingomery/patrones/blob/master/tareas/Tarea_02/patches_0.png" width="600">
+<img src="https://github.com/domingomery/patrones/blob/master/tareas/Tarea_02/patches_1.png" width="600">
 
 
 
