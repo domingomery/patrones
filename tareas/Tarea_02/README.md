@@ -30,7 +30,20 @@ La base de datos para esta tarea se encuentra disponible en los siguientes links
 
 Se debe disenar un clasificador que funcione con un maximo de 50 caraceristicas, para esto se deben sacar al menos 200 caracteristica y a partir de tecnicas se seleccion o transformacion de caracteristicas se le debe proporcionar al clasificador un maximo de 50 caracteristicas. El clasificador a emplear es un KNN de tres vecinos.
 
-Para la tarea esta permitido el uso de librerias de extraccion de caracteristicas y de clasificacion KNN. No esta permitido el uso de librerias de seleccion o transformacion de caraceristicas, estas deben ser implementadas por ustedes mismos. No esta permitido el uso de tecnicas de deep learning en ninguna etapa de esta tarea (ya sea en la extraccion, transformacion, seleccion de caracteristicas ni en la clasificacion), especial cuidado con librerias que extraen caracteristicas basadas en entrenamientos de modelos de deep learning, ya que no podran ser usadas.
+ESTA PERMITIDO: Para la tarea esta permitido 
+- el uso de caracteristicas no vistas en clases (pero que no esten basadas en Deep Learning), por ejemplo BSIF, siempre y cuando puedan explicarlas en el informe.
+- el uso de librerias de extraccion de caracteristicas
+- libreria de clasificacion KNN
+- librerias de funciones matematicas, como covarianza, manipulacion de matrices, vectores, etc.
+- funciones de normalizacion de caracteristicas
+
+NO ESTA PERMITIDO:
+- No esta permitido el uso de librerias de seleccion de caraceristicas.
+- No esta permitido el uso de librerias de transformacion de caraceristicas.
+- No esta permitido el uso de tecnicas de deep learning en ninguna etapa de esta tarea (ya sea en la extraccion, transformacion, seleccion de caracteristicas ni en la clasificacion), especial cuidado con librerias que extraen caracteristicas basadas en entrenamientos de modelos de deep learning, ya que no podran ser usadas.
+
+ES NECESARIO:
+Las funciones de seleccion y transformacion de caracteristicas deben ser implementadas por ustedes mismos. 
 
 
 Ud. debera entregar un informe de una pagina(*) en formato pdf en el que explique como realizo la extraccion de caracteristicas y la sleccion/transformacion. Ademas debera incluir la matriz de confusion, asi como indicar el desempeno del clasificador, es decir que porcentaje de rayas y el porcentaje de no-rayas se clasificaron correctamente. Se debera entregar tambien el codigo de la solucion (debidamente ordenado, explicado y comentado).
