@@ -10,9 +10,11 @@ Se cuenta con una base de datos de 10.000 patches a color de 64x64 pixeles, corr
 Algunos ejemplos se muestran a continuacion (cada imagen muestra 20x30 patches de 64x64 pixeles):
 
 CLASE 0: NO-RAYAS
+
 <img src="https://github.com/domingomery/patrones/blob/master/tareas/Tarea_02/patches_0.png" width="600">
 
 CLASE 1: RAYAS
+
 <img src="https://github.com/domingomery/patrones/blob/master/tareas/Tarea_02/patches_1.png" width="600">
 
 
