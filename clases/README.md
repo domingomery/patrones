@@ -110,6 +110,9 @@
 * 3.1-Video de esta clase [[video]](https://youtu.be/Um8uf5krqrI)
 
 ### Clase 12 Ju. 16-Apr-2020:
+* 3.1-Ejercicio de seleccion de caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_SeleccionCaracteristicas.pdf)
+
+### Clase 13 Ma. 21-Apr-2020:
 * 3.1-Branch and Bound [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_BranchAndBound.pptx)
 * 3.1-Diagrama de Seleccion de Caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Esquema_General.pdf)
 * 3.1-Principal Components Analysis PCA [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pdf)
@@ -117,8 +120,6 @@
 * 3.1-Ejemplo PCA en 5 dimensiones [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_PCA_5D.m)
 * 3.1-Compresion de datos usando PCA [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_PCA_DataCompression.m)
 * 3.1-Reconocimiento de caras usando LBP y PCA [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_PCA_FaceRecognition.m)
-
-### Clase 13 Ma. 21-Apr-2020:
 * 4.1-Trabajo en grupo: realizar el problema de deteccion de caras [[Enunciado]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/tarea/*)
 * 4.1-Solucion [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_EjemploPCASFS.m)
 * 4.1-Solucion [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/phyton/PAT04_EjemploPCASFS.py)
@@ -228,4 +229,4 @@
 ---
 
 
-Updated on 14-Apr-2020 at 13:57 by Domingo Mery
+Updated on 16-Apr-2020 at 11:31 by Domingo Mery
