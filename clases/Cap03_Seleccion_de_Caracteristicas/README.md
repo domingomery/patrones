@@ -16,7 +16,11 @@
 * Ejemplo SFS con 10 caracteristicas [[Data]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/fisherdata.mat)
 * Video de esta clase [[video]](https://youtu.be/Um8uf5krqrI)
 * Ejercicio de seleccion de caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_SeleccionCaracteristicas.pdf)
+* SFS [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_SFS.pptx)
+* Busqueda Exhaustiva [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_ExSearch.pptx)
 * Branch and Bound [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_BranchAndBound.pptx)
+* Clean: Limpieza de datos [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Clean.pptx)
+* Clean: Limpieza de datos [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_dataclea.m)
 * Diagrama de Seleccion de Caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Esquema_General.pdf)
 * Principal Components Analysis PCA [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pdf)
 * Ejemplo PCA en 2 dimensiones [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_PCA_2D.m)
@@ -32,4 +36,4 @@
 ---
 
 
-Updated on 16-Apr-2020 at 11:31 by Domingo Mery
+Updated on 21-Apr-2020 at 11:24 by Domingo Mery

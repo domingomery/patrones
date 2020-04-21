@@ -113,7 +113,13 @@
 * 3.1-Ejercicio de seleccion de caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_SeleccionCaracteristicas.pdf)
 
 ### Clase 13 Ma. 21-Apr-2020:
+* 3.1-SFS [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_SFS.pptx)
+* 3.1-Busqueda Exhaustiva [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_ExSearch.pptx)
 * 3.1-Branch and Bound [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_BranchAndBound.pptx)
+* 3.1-Clean: Limpieza de datos [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Clean.pptx)
+* 3.1-Clean: Limpieza de datos [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_dataclea.m)
+
+### Clase 14 Ju. 23-Apr-2020:
 * 3.1-Diagrama de Seleccion de Caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Esquema_General.pdf)
 * 3.1-Principal Components Analysis PCA [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pdf)
 * 3.1-Ejemplo PCA en 2 dimensiones [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_PCA_2D.m)
@@ -123,8 +129,6 @@
 * 4.1-Trabajo en grupo: realizar el problema de deteccion de caras [[Enunciado]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/tarea/*)
 * 4.1-Solucion [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_EjemploPCASFS.m)
 * 4.1-Solucion [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/phyton/PAT04_EjemploPCASFS.py)
-
-### Clase 14 Ju. 23-Apr-2020:
 * 4.1-Clasificador KNN - vecino mas cercano [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_KNN.pptx)
 * 4.1-Clasificador DMIN - distancia minima [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_dmin.pptx)
 * 4.1-Apuntes sobre el Clasificador de Bayes [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_ApuntesBayes.pdf)
@@ -229,4 +233,4 @@
 ---
 
 
-Updated on 16-Apr-2020 at 11:31 by Domingo Mery
+Updated on 21-Apr-2020 at 11:24 by Domingo Mery
