@@ -117,7 +117,8 @@
 * 3.1-Busqueda Exhaustiva [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_ExSearch.pptx)
 * 3.1-Branch and Bound [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_BranchAndBound.pptx)
 * 3.1-Clean: Limpieza de datos [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Clean.pptx)
-* 3.1-Clean: Limpieza de datos [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_dataclea.m)
+* 3.1-Clean: Limpieza de datos [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_dataclean.m)
+* 3.1-Video de esta clase [[video]](https://youtu.be/TADUwezDE08)
 
 ### Clase 14 Ju. 23-Apr-2020:
 * 3.1-Diagrama de Seleccion de Caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Esquema_General.pdf)
@@ -233,4 +234,4 @@
 ---
 
 
-Updated on 21-Apr-2020 at 11:24 by Domingo Mery
+Updated on 21-Apr-2020 at 13:10 by Domingo Mery
