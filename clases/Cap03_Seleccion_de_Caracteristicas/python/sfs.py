@@ -64,7 +64,8 @@ f_test_norm = f_test * a + b
 
 # %%
 N_FEATURES = 15
-
+print(f_train_norm.shape)
+print(c_train.shape)
 selected_feats = sfs(f_train_norm, c_train, n_features=N_FEATURES,
                      method="fisher", show=True)
 

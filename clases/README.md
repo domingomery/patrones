@@ -121,6 +121,12 @@
 * 3.1-Video de esta clase [[video]](https://youtu.be/TADUwezDE08)
 
 ### Clase 14 Ju. 23-Apr-2020:
+* 3.1-Esquema general con seleccion de caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_GeneralSchema.pdf)
+* 3.1-Toolbox Balu en Matlab [[Libreria]](https://github.com/domingomery/Balu)
+* 3.1-Libreria PyBalu en Python [[Libreria]](https://github.com/mbucchi/pybalu)
+* 3.1-Ejemplo usando Balu [[Matlab y Python]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/balu/)
+
+### Clase 15 Ma. 28-Apr-2020:
 * 3.1-Diagrama de Seleccion de Caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Esquema_General.pdf)
 * 3.1-Principal Components Analysis PCA [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pdf)
 * 3.1-Ejemplo PCA en 2 dimensiones [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_PCA_2D.m)
@@ -142,8 +148,6 @@
 * 4.1-Ejemplo KNN 2x2 [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_KNN_k2.m)
 * 4.1-Ejemplo KNN para encontrar mejor k [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_KNN_val.m)
 * 4.1-Ejemplo con Bayes usando KDE 2x2 [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_Classifier_Bayes_KDE.m)
-
-### Clase 15 Ma. 28-Apr-2020:
 * 4.1-Introduccion a SVM [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM.pptx)
 * 4.1-Teoria sobre SVM [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM_new.pdf)
 * 4.1-Teoria sobre SVM [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM_Theory.pdf)
@@ -234,4 +238,4 @@
 ---
 
 
-Updated on 21-Apr-2020 at 13:10 by Domingo Mery
+Updated on 23-Apr-2020 at 08:40 by Domingo Mery
