@@ -36,6 +36,7 @@ ESTA PERMITIDO: Para la tarea esta permitido
 - libreria de clasificacion KNN
 - librerias de funciones matematicas, como covarianza, manipulacion de matrices, vectores, etc.
 - funciones de normalizacion de caracteristicas
+- esta permitido usar la funcion 'clean' para eliminar caracteristicas altamente correlacionadas o constantes (implementado en toolbox Balu)
 
 NO ESTA PERMITIDO:
 - No esta permitido el uso de librerias de seleccion de caraceristicas.
