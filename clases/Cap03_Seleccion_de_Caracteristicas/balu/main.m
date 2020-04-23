@@ -13,7 +13,7 @@ d_train  = [d0_train;d1_train];
 fprintf('Original extracted features: %d (%d samples)\n',size(X_train,2),size(X_train,1));
 
 % Training: Cleaning
-sclean   = Bfs_clean(X_train);
+sclean        = Bfs_clean(X_train);
 X_train_clean = X_train(:,sclean);
 fprintf('          cleaned features: %d (%d samples)\n',size(X_train_clean,2),size(X_train_clean,1));
 
@@ -25,8 +25,8 @@ fprintf('       normalized features: %d (%d samples)\n',size(X_train_norm,2),siz
 opsfs.m      = 20;                  % features to be selected
 opsfs.show   = 1;                   % display/no display results
 opsfs.b.name = 'fisher';            % SFS with Fisher
-ssfs     = Bfs_sfs(X_train_norm,d_train,opsfs);
-X_train_sfs   = X_train_norm(:,ssfs);
+ssfs         = Bfs_sfs(X_train_norm,d_train,opsfs);
+X_train_sfs  = X_train_norm(:,ssfs);
 fprintf('         selected features: %d (%d samples)\n',size(X_train_sfs,2),size(X_train_sfs,1));
 
 % Testing dataset
@@ -50,9 +50,9 @@ fprintf('   clean+norm+sfs features: %d (%d samples)\n',size(X_test_sfs,2),size(
 
 % Classification on Testing dataset
 opknn.k = 5; % number of neighbors
-ds = Bcl_knn_old(X_train_sfs,d_train,X_test_sfs,opknn);
-C = Bev_confusion(ds, d_test);
-acc = Bev_performance(ds, d_test);
+ds      = Bcl_knn_old(X_train_sfs,d_train,X_test_sfs,opknn);
+C       = Bev_confusion(ds, d_test);
+acc     = Bev_performance(ds, d_test);
 disp('Confusion Matrix:')
 C
 fprintf('Accuracy = %f\n',acc);
