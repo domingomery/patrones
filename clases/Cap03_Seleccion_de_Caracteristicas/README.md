@@ -27,7 +27,7 @@
 * Libreria PyBalu en Python [[Libreria]](https://github.com/mbucchi/pybalu)
 * Ejemplo usando Balu [[Matlab y Python]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/balu/)
 * Video de esta clase [[video]](https://youtu.be/db5qBh-VVWw)
-* Principal Components Analysis PCA [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pptx)
+* Principal Components Analysis PCA [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pptx)
 * Principal Components Analysis PCA [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pdf)
 * Ejemplo PCA en 2 dimensiones [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_PCA_2D.m)
 * Ejemplo PCA en 5 dimensiones [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_PCA_5D.m)
@@ -42,4 +42,4 @@
 ---
 
 
-Updated on 04-May-2020 at 13:42 by Domingo Mery
+Updated on 04-May-2020 at 13:43 by Domingo Mery

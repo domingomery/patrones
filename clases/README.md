@@ -128,7 +128,7 @@
 * 3.1-Video de esta clase [[video]](https://youtu.be/db5qBh-VVWw)
 
 ### Clase 15 Ma. 05-May-2020:
-* 3.1-Principal Components Analysis PCA [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pptx)
+* 3.1-Principal Components Analysis PCA [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pptx)
 * 3.1-Principal Components Analysis PCA [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pdf)
 * 3.1-Ejemplo PCA en 2 dimensiones [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_PCA_2D.m)
 * 3.1-Ejemplo PCA en 5 dimensiones [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_PCA_5D.m)
@@ -239,4 +239,4 @@
 ---
 
 
-Updated on 04-May-2020 at 13:42 by Domingo Mery
+Updated on 04-May-2020 at 13:43 by Domingo Mery
