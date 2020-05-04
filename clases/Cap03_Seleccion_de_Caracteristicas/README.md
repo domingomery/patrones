@@ -27,12 +27,12 @@
 * Libreria PyBalu en Python [[Libreria]](https://github.com/mbucchi/pybalu)
 * Ejemplo usando Balu [[Matlab y Python]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/balu/)
 * Video de esta clase [[video]](https://youtu.be/db5qBh-VVWw)
-* Diagrama de Seleccion de Caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Esquema_General.pdf)
+* Principal Components Analysis PCA [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pptx)
 * Principal Components Analysis PCA [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pdf)
 * Ejemplo PCA en 2 dimensiones [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_PCA_2D.m)
 * Ejemplo PCA en 5 dimensiones [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_PCA_5D.m)
-* Compresion de datos usando PCA [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_PCA_DataCompression.m)
 * Reconocimiento de caras usando LBP y PCA [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_PCA_FaceRecognition.m)
+* Compresion de datos usando PCA [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_PCA_DataCompression.m)
 ### 3.2 Discriminante Fisher:
 ### 3.3 Busqueda exhaustiva:
 ### 3.4 Busqueda secuencial hacia adeleante:
@@ -42,4 +42,4 @@
 ---
 
 
-Updated on 23-Apr-2020 at 13:41 by Domingo Mery
+Updated on 04-May-2020 at 13:42 by Domingo Mery

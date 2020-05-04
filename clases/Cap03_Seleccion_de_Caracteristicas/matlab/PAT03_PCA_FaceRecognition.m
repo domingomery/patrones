@@ -69,12 +69,19 @@ Xt = f(i_test,:);
 d  = d0(i_train,:);
 dt = d0(i_test,:);
 
+howis(X)
+
 opknn.k = 1;
 ds = Bcl_knn(X,d,Xt,opknn);
 p = Bev_performance(ds,dt)
 
+
+
 m = 25;
 [Y,lambda,A,Xs,mx] = Bft_pca(X,m);
+
+howis(Y)
+
 B = A(:,1:m);
 MXt = ones(length(dt),1)*mx;
 X0t = Xt - MXt;
