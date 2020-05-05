@@ -134,6 +134,8 @@
 * 3.1-Ejemplo PCA en 5 dimensiones [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_PCA_5D.m)
 * 3.1-Reconocimiento de caras usando LBP y PCA [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_PCA_FaceRecognition.m)
 * 3.1-Compresion de datos usando PCA [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_PCA_DataCompression.m)
+* 3.1-Video de esta clase [[video]](https://youtu.be/9VxaGQSHKxo)
+* 3.1-Descripcion del Proyecto [[Proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto)
 
 ### Clase 16 Ju. 07-May-2020:
 * 4.1-Trabajo en grupo: realizar el problema de deteccion de caras [[Enunciado]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/tarea/*)
@@ -239,4 +241,4 @@
 ---
 
 
-Updated on 05-May-2020 at 13:27 by Domingo Mery
+Updated on 05-May-2020 at 17:06 by Domingo Mery

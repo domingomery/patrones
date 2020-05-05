@@ -33,6 +33,8 @@
 * Ejemplo PCA en 5 dimensiones [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_PCA_5D.m)
 * Reconocimiento de caras usando LBP y PCA [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_PCA_FaceRecognition.m)
 * Compresion de datos usando PCA [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_PCA_DataCompression.m)
+* Video de esta clase [[video]](https://youtu.be/9VxaGQSHKxo)
+* Descripcion del Proyecto [[Proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto)
 ### 3.2 Discriminante Fisher:
 ### 3.3 Busqueda exhaustiva:
 ### 3.4 Busqueda secuencial hacia adeleante:
@@ -42,4 +44,4 @@
 ---
 
 
-Updated on 05-May-2020 at 13:27 by Domingo Mery
+Updated on 05-May-2020 at 17:06 by Domingo Mery
