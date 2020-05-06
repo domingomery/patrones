@@ -1,7 +1,6 @@
 
 # Capitulo 04: Clasificacion
 ### 4.1 Clasificador lineal:
-* Trabajo en grupo: realizar el problema de deteccion de caras [[Enunciado]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/tarea/*)
 * Solucion [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_EjemploPCASFS.m)
 * Solucion [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/phyton/PAT04_EjemploPCASFS.py)
 * Clasificador KNN - vecino mas cercano [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_KNN.pptx)
@@ -54,4 +53,4 @@
 ---
 
 
-Updated on 05-May-2020 at 17:06 by Domingo Mery
+Updated on 06-May-2020 at 16:08 by Domingo Mery

@@ -138,7 +138,9 @@
 * 3.1-Descripcion del Proyecto [[Proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto)
 
 ### Clase 16 Ju. 07-May-2020:
-* 4.1-Trabajo en grupo: realizar el problema de deteccion de caras [[Enunciado]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/tarea/*)
+* 3.1-Trabajo en grupo: realizar el problema de deteccion de caras [[Enunciado]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/ejercicios/PCA_SFS)
+
+### Clase 17 Ma. 12-May-2020:
 * 4.1-Solucion [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_EjemploPCASFS.m)
 * 4.1-Solucion [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/phyton/PAT04_EjemploPCASFS.py)
 * 4.1-Clasificador KNN - vecino mas cercano [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_KNN.pptx)
@@ -168,8 +170,6 @@
 * 4.1-Funcion de error [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_nnerror.m)
 * 4.1-Funcion de evaluacion de la NN [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_nntest.m)
 * 4.1-Tutorial de SVM enphyton [[YouTube]](https://www.youtube.com/watch?v=N1vOgolbjSc)
-
-### Clase 17 Ma. 12-May-2020:
 * 4.1-Libro Neural Networks and Deep Learning [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
 * 4.1-Back-propagation [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_BackPropagation.pdf)
 * 4.1-Ejemplo de Redes Neuronales [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_NN.m)
@@ -241,4 +241,4 @@
 ---
 
 
-Updated on 05-May-2020 at 17:06 by Domingo Mery
+Updated on 06-May-2020 at 16:08 by Domingo Mery
