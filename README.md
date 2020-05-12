@@ -141,26 +141,33 @@
 * 3.1-Trabajo en grupo: realizar el problema de deteccion de caras [[Enunciado]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/ejercicios/PCA_SFS)
 
 ### Clase 17 Ma. 12-May-2020:
-* 4.1-Solucion [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_EjemploPCASFS.m)
-* 4.1-Solucion [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/phyton/PAT04_EjemploPCASFS.py)
+* 4.1-Introduccion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_intro.pptx)
 * 4.1-Clasificador KNN - vecino mas cercano [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_KNN.pptx)
 * 4.1-Clasificador DMIN - distancia minima [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_dmin.pptx)
 * 4.1-Apuntes sobre el Clasificador de Bayes [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_ApuntesBayes.pdf)
-* 4.1-Clasificadores LDA, QDA, Mahalanobis, Bayes [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_LDA.pptx)
+* 4.1-Ejemplo KNN 2x2 [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_KNN_k2.m)
+* 4.1-Ejemplo KNN para encontrar mejor k [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_KNN_val.m)
+* 4.1-Ejemplo KNN y dmin python [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/python/python)
+
+### Clase 18 Ju. 14-May-2020:
+* 4.1-Ejemplo con Bayes usando KDE 2x2 [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_Classifier_Bayes_KDE.m)
 * 4.1-Estimacion PDF en 1D [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_EstimationPDF.m)
 * 4.1-Estimacion PDF en 2D [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_EstimationPDF_2D.m)
+* 4.1-Clasificadores LDA, QDA, Mahalanobis, Bayes [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_LDA.pptx)
 * 4.1-Ejemplo LDA [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_LDA.m)
 * 4.1-Ejemplo QDA [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_QDA.m)
 * 4.1-Ejemplo Mahalanobis [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_Maha.m)
-* 4.1-Ejemplo KNN 2x2 [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_KNN_k2.m)
-* 4.1-Ejemplo KNN para encontrar mejor k [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_KNN_val.m)
-* 4.1-Ejemplo con Bayes usando KDE 2x2 [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_Classifier_Bayes_KDE.m)
+
+### Clase 19 Ma. 19-May-2020:
 * 4.1-Introduccion a SVM [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM.pptx)
 * 4.1-Teoria sobre SVM [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM_new.pdf)
 * 4.1-Teoria sobre SVM [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM_Theory.pdf)
 * 4.1-Ejemplo [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_SVM.m)
 * 4.1-Teoria sobre SVM [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/papers/PAT04_SupportVectorMachines.pdf)
 * 4.1-Ejemplo SVM con distintos kernels [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_SVM_Kernels.m)
+* 4.1-Tutorial de SVM en phyton [[YouTube]](https://www.youtube.com/watch?v=N1vOgolbjSc)
+
+### Clase 20 Ma. 26-May-2020:
 * 4.1-Redes Neuronales [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_RedesNeuronales_Apuntes.pdf)
 * 4.1-Redes Neuronales [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_NeuralNetworks.pptx)
 * 4.1-Redes Neuronales [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/papers/PAT04_NeuralNetworks.pdf)
@@ -169,20 +176,19 @@
 * 4.1-Ejemplo red neuronal basica [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_basic_nn.m)
 * 4.1-Funcion de error [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_nnerror.m)
 * 4.1-Funcion de evaluacion de la NN [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_nntest.m)
-* 4.1-Tutorial de SVM enphyton [[YouTube]](https://www.youtube.com/watch?v=N1vOgolbjSc)
 * 4.1-Libro Neural Networks and Deep Learning [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
 * 4.1-Back-propagation [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_BackPropagation.pdf)
 * 4.1-Ejemplo de Redes Neuronales [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_NN.m)
 
-### Clase 18 Ju. 14-May-2020:
+### Clase 21 Ju. 28-May-2020:
 * 4.1-Deep Learning [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_CNN.pptx)
 * 4.1-Ejemplo clasificacion ojos vs. nariz [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/python/eyenose)
 
-### Clase 19 Ma. 19-May-2020:
+### Clase 22 Ma. 02-Jun-2020:
 * 4.1-Ejercicio reconocimiento objetos en imagenes de Rayos X [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_EjercicioClassification.pdf)
 * 4.1-Ejercicio reconocimiento objetos en imagenes de Rayos X [[Datos]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/images/xray.zip)
 
-### Clase 20 Ma. 26-May-2020:
+### Clase 23 Ju. 04-Jun-2020:
 * 5.1-Matriz de Confusion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ConfusionMatrix.pptx)
 * 5.1-Estimacion de Accuracy [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_AccuracyEstimation.pptx)
 * 5.1-Ejemplo Matriz de Confusion [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/matlab/PAT05_ConfusionMatrix.m)
@@ -190,13 +196,13 @@
 * 5.1-Ejemplo Cross Validation [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/matlab/PAT05_Evaluation_CrossValidation.m)
 * 5.1-Ejemplo Leave-one-out Jackknife [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/matlab/PAT05_Evaluation_JackKnife.m)
 
-### Clase 21 Ju. 28-May-2020:
+### Clase 24 Ma. 09-Jun-2020:
 * 2.1-Deteccion de peatones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HoG_HumanDetection.pptx)
 * 2.1-SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_SIFT_ObjectDetection.pptx)
 * 2.1-Ejemplo Keypoints [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_SIFT_DoG_Keypoints.m)
 * 2.1-Ejemplo SIFT matching [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_SIFT.m)
 
-### Clase 22 Ma. 02-Jun-2020:
+### Clase 25 Ju. 11-Jun-2020:
 * 7.1-Face Verification para el proyecto [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap07_Aplicaciones/presentations/PAT07_FaceVerification.pdf)
 * 7.1-Deep Face VGG-Face [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap07_Aplicaciones/presentations/PAT07_DeepFace.pptx)
 
@@ -211,7 +217,7 @@
 * 6.1-Ejemplo Mean Shift [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/matlab/PAT06_MeanShift.m)
 * 6.1-Ejemplo BoW [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/matlab/PAT06_BoW.m)
 
-### Clase 24 Ma. 09-Jun-2020:
+### Clase 26 Ma. 16-Jun-2020:
 * 7.1-Trabajo en grupos - Avances del proyecto
 * 7.1-Face Matchers:
 * 7.1-- by Vitor Albiero [[phyton:Library-1]](https://github.com/vitoralbiero/face_matching)
@@ -222,23 +228,21 @@
 * 7.1-- by Liu Yang [[matlab:Library-1]](https://www.cs.cmu.edu/~liuy/distlearn.htm)
 * 7.1-- by Kilian Weinberger [[matlab:Library-2]](https://bitbucket.org/mlcircus/lmnn/downloads)
 
-### Clase 25 Ju. 11-Jun-2020:
+### Clase 27 Ju. 18-Jun-2020:
 * 4.1-Sparse representasions [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SparseRepresentations.pptx)
 * 4.1-Ejemplo SRC [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_SRC_faces.m)
 * 4.1-Clasificacion usando Sparse Representations [[matlab-a]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_sparse_classification_a.m)
 * 4.1-Clasificacion usando Sparse Representations [[matlab-b]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_sparse_classification_b.m)
 * 4.1-Clasificacion usando Sparse Representations [[matlab-c]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_sparse_classification_c.m)
 
-### Clase 26 Ma. 16-Jun-2020:
+### Clase 28 Ma. 23-Jun-2020:
 * 7.1-Trabajo en grupos - Avances del proyecto
 * 5.1-Explicacion de curve Genuine-Impostor y factor d-prime [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_Genuine_Impostor.pptx)
 
-### Clase 27 Ju. 18-Jun-2020:
+### Clase 29 Ju. 25-Jun-2020:
 * 7.1-Presentacion de avances de proyecto
-
-### Clase 28 Ma. 23-Jun-2020:
 * 7.1-Presentacion de avances de proyecto [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap07_Aplicaciones/presentations/PAT07_PresentacionesProyecto.pdf)
 ---
 
 
-Updated on 06-May-2020 at 16:08 by Domingo Mery
+Updated on 12-May-2020 at 09:39 by Domingo Mery

@@ -11,18 +11,21 @@
 % TRAINING
 
 clt
-data = input('type of data: 1-simple, 2-complex? ');
-if data == 1
-    [X,d]   = Bds_gaussgen([10 1;1 10],[4 5;3 8],100*ones(2,1));
-else
-    kp = 2;
-    [X1,d1] = Bds_gaussgen([10 1;5 5],kp*[1 1;1 1],100*ones(2,1));
-    [X2,d2] = Bds_gaussgen([10 10;10 -4],kp*[1 1;1 1],100*ones(2,1));
-    [X3,d3] = Bds_gaussgen([1 10 ;5 -1],kp*[1 1;1 1],100*ones(2,1));
-    [X4,d4] = Bds_gaussgen([5 10 ;5 2.5],kp*[1 1;1 1],100*ones(2,1));
-    [X5,d5] = Bds_gaussgen([10 5 ;8 -1],kp*[1 1;1 1],100*ones(2,1));
-    X = [X1;X2;X3;X4;X5]; d = [d1;d2;d3;d4;d5];
-    
+data = input('type of data: 0-very simple, 1-simple, 2-complex? ');
+switch data
+    case 0
+        [X,d]   = Bds_gaussgen([10 1;1 10],[2 2;2 2],5000*ones(2,1));
+    case 1
+        [X,d]   = Bds_gaussgen([10 1;1 10],[4 5;3 8],5000*ones(2,1));
+    case 2
+        kp = 2;
+        [X1,d1] = Bds_gaussgen([10 1;5 5],kp*[1 1;1 1],100*ones(2,1));
+        [X2,d2] = Bds_gaussgen([10 10;10 -4],kp*[1 1;1 1],100*ones(2,1));
+        [X3,d3] = Bds_gaussgen([1 10 ;5 -1],kp*[1 1;1 1],100*ones(2,1));
+        [X4,d4] = Bds_gaussgen([5 10 ;5 2.5],kp*[1 1;1 1],100*ones(2,1));
+        [X5,d5] = Bds_gaussgen([10 5 ;8 -1],kp*[1 1;1 1],100*ones(2,1));
+        X = [X1;X2;X3;X4;X5]; d = [d1;d2;d3;d4;d5];
+        
 end
 figure
 Bio_plotfeatures(X,d,['x1';'x2']);
@@ -68,15 +71,18 @@ title('both p(\omega_1|x),p(\omega_2|x)')
 
 
 % TESTING
-if data == 1
-    [Xt,dt] = Bds_gaussgen([10 1;1 10],[4 5;3 8],100*ones(2,1));
-else
-    [X1,d1] = Bds_gaussgen([10 1;5 5],kp*[1 1;1 1],100*ones(2,1));
-    [X2,d2] = Bds_gaussgen([10 10;10 -4],kp*[1 1;1 1],100*ones(2,1));
-    [X3,d3] = Bds_gaussgen([1 10 ;5 -1],kp*[1 1;1 1],100*ones(2,1));
-    [X4,d4] = Bds_gaussgen([5 10 ;5 2.5],kp*[1 1;1 1],100*ones(2,1));
-    [X5,d5] = Bds_gaussgen([10 5 ;8 -1],kp*[1 1;1 1],100*ones(2,1));
-    Xt = [X1;X2;X3;X4;X5]; dt = [d1;d2;d3;d4;d5];
+switch data
+    case 0
+        [Xt,dt] = Bds_gaussgen([10 1;1 10],[3 3;3 3],100*ones(2,1));
+    case 1
+        [Xt,dt] = Bds_gaussgen([10 1;1 10],[4 5;3 8],100*ones(2,1));
+    case 2
+        [X1,d1] = Bds_gaussgen([10 1;5 5],kp*[1 1;1 1],100*ones(2,1));
+        [X2,d2] = Bds_gaussgen([10 10;10 -4],kp*[1 1;1 1],100*ones(2,1));
+        [X3,d3] = Bds_gaussgen([1 10 ;5 -1],kp*[1 1;1 1],100*ones(2,1));
+        [X4,d4] = Bds_gaussgen([5 10 ;5 2.5],kp*[1 1;1 1],100*ones(2,1));
+        [X5,d5] = Bds_gaussgen([10 5 ;8 -1],kp*[1 1;1 1],100*ones(2,1));
+        Xt = [X1;X2;X3;X4;X5]; dt = [d1;d2;d3;d4;d5];
 end
 figure
 Bio_plotfeatures(X,d,['x1';'x2']);
