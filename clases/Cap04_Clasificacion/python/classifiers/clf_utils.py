@@ -14,11 +14,11 @@ from sklearn.svm                   import SVC
 from sklearn.metrics               import confusion_matrix, accuracy_score
 from sklearn.model_selection       import cross_val_score
 
-def clf_def(bcl):
+def defineClassifier(bcl):
     clf = eval(bcl[0]+'('+bcl[1]+')')
     return clf
 
-def load_data(prefix):
+def loadData(prefix):
     X  = np.load(prefix+'_Xtrain.npy')            # training samples
     Xt = np.load(prefix+'_Xtest.npy')             # testing samples
     d  = np.ravel(np.load(prefix+'_dtrain.npy'))  # training labels
@@ -28,7 +28,7 @@ def load_data(prefix):
     print('      Classes: '+str(int(np.min(d)))+'...'+str(int(np.max(d))))
     return X,d,Xt,dt
 
-def clf_load():
+def loadClassifiers():
     clfs = [
         'NearestCentroid',               '',
         'KNeighborsClassifier',          'n_neighbors=1',
@@ -39,7 +39,7 @@ def clf_load():
         'QuadraticDiscriminantAnalysis', '',
         'GaussianNB',                    '',
         'AdaBoostClassifier',            'n_estimators=100',
-        'RandomForestClassifier',        'max_features = 1, n_estimators=20,random_state = 0',
+        'RandomForestClassifier',        'n_estimators=20,random_state = 0',
         'DecisionTreeClassifier',        'max_depth = 4, min_samples_leaf = 8,random_state = 0',
         'SVC',                           'kernel = "linear", gamma=0.2, C=0.1',
         'SVC',                           'kernel = "poly", gamma=0.2, degree = 3, C=0.1',
@@ -55,57 +55,38 @@ def clf_load():
     bcl['parm'] = clfs[1:m:2]
     return bcl
 
-def clf_train(bcl,X,d):
-    clf = clf_def(bcl)
+def trainClassifier(clf,X,d):
     clf = clf.fit(X,d)
     return clf
 
-def clf_test(clf,Xt):
+def testClassifier(clf,Xt):
     ds  = clf.predict(Xt)
     return ds
 
-def clf_train_test(bcl,X,d,Xt):
-    clf = clf_train(bcl,X,d)
-    ds  = clf_test(clf,Xt)
+def traintestClassifier(bcl,X,d,Xt):
+    clf = defineClassifier(bcl)
+    clf = trainClassifier(clf,X,d)
+    ds  = testClassifier(clf,Xt)
     return ds,clf
 
-def clf_train_test_ho(bcl,X,d,Xt,dt):
-    ds,clf  = clf_train_test(bcl,X,d,Xt)
+def HoldOut(bcl,X,d,Xt,dt):
+    ds,clf  = traintestClassifier(bcl,X,d,Xt)
     acc     = accuracy_score(dt,ds)     
     return ds,acc,clf
 
-def clf_train_test_cv(bcl,X,d,folders):
-    clf    = clf_def(bcl)
+def CrossVal(bcl,X,d,folders):
+    clf    = defineClassifier(bcl)
     scores = cross_val_score(clf, X, d, cv=folders)
     acc    = np.mean(scores)
     return acc
 
-def clf_best(bcl,X,d,Xt,dt):
+def bestClassifierCVold(bcl,X,d,folders):
     n = len(bcl['name'])
     accmax = 0
     for i in range(n):
         clf_name = bcl['name'][i]
         clf_parm = bcl['parm'][i]
-        ds,acc,_ = clf_train_test_ho([clf_name,clf_parm],X,d,Xt,dt)
-        if acc>accmax:
-            imax = i
-            accmax = acc
-            dsbest = ds
-        print(f'     Acc = {acc:.4f}  -> '+clf_name+': '+clf_parm)
-    print('---------------------------------------------------------------------------')
-    print('Best Classifier:')
-    print(f'     Acc = {accmax:.4f}  -> '+bcl['name'][imax]+': '+bcl['parm'][imax])
-    PrintConfusion(dt,dsbest)
-    print('---------------------------------------------------------------------------')
-    return imax
-
-def clf_best_cv(bcl,X,d,folders):
-    n = len(bcl['name'])
-    accmax = 0
-    for i in range(n):
-        clf_name = bcl['name'][i]
-        clf_parm = bcl['parm'][i]
-        acc = clf_train_test_cv([clf_name,clf_parm],X,d,folders)
+        acc = CrossVal([clf_name,clf_parm],X,d,folders)
         if acc>accmax:
             imax = i
             accmax = acc
@@ -116,46 +97,47 @@ def clf_best_cv(bcl,X,d,folders):
     print('---------------------------------------------------------------------------')
     return imax
 
-def clf_bestj(bcl,X,d,Xt,dt):
+
+def bestClassifierCV(bcl,X,d,folders,adding_features=0):
     n = len(bcl['name'])
     m = X.shape[1]
+    if adding_features==0:
+        rm = [m-1]
+    else:
+        rm = range(m)
     accmax = 0
-    for j in range(m):
+    for j in rm:
         for i in range(n):
             clf_name = bcl['name'][i]
             clf_parm = bcl['parm'][i]
             Xj  = X[:,0:j+1]
-            Xtj = Xt[:,0:j+1]
-            ds,acc,_ = clf_train_test_ho([clf_name,clf_parm],Xj,d,Xtj,dt)
+            acc = CrossVal([clf_name,clf_parm],Xj,d,folders)
             if acc>accmax:
                 imax = i
                 jmax = j
                 accmax = acc
-                dsbest = ds
-            print(f'{j+1:.0f}     Acc = {acc:.4f}  -> '+clf_name+': '+clf_parm)
-        print('---------------------------------------------------------------------------')
-        print('Best Classifier:')
-        print(f'{jmax+1:.0f}     Acc = {accmax:.4f}  -> '+bcl['name'][imax]+': '+bcl['parm'][imax])
-        PrintConfusion(dt,dsbest)
-        print('---------------------------------------------------------------------------')
+            print(f'{j+1:.0f}      Acc = {acc:.4f}  -> '+clf_name+': '+clf_parm)
+    print('---------------------------------------------------------------------------')
+    print('Best Classifier:')
+    print(f'{jmax+1:.0f}     Acc = {accmax:.4f}  -> '+bcl['name'][imax]+': '+bcl['parm'][imax])
+    print('---------------------------------------------------------------------------')
     return imax
 
-
-def clf_bestk(bcl,X,d,Xt,dt,k=0):
+def bestClassifierHO(bcl,X,d,Xt,dt,adding_features=0):
     n = len(bcl['name'])
     m = X.shape[1]
-    accmax = 0
-    if k==0:
-        rm = [m]
+    if adding_features==0:
+        rm = [m-1]
     else:
         rm = range(m)
+    accmax = 0
     for j in rm:
         for i in range(n):
             clf_name = bcl['name'][i]
             clf_parm = bcl['parm'][i]
             Xj  = X[:,0:j+1]
             Xtj = Xt[:,0:j+1]
-            ds,acc,_ = clf_train_test_ho([clf_name,clf_parm],Xj,d,Xtj,dt)
+            ds,acc,_ = HoldOut([clf_name,clf_parm],Xj,d,Xtj,dt)
             if acc>accmax:
                 imax = i
                 jmax = j
@@ -168,8 +150,6 @@ def clf_bestk(bcl,X,d,Xt,dt,k=0):
         PrintConfusion(dt,dsbest)
         print('---------------------------------------------------------------------------')
     return imax
-
-
 
 
 def PrintConfusion(dt,ds):
@@ -180,8 +160,8 @@ def PrintConfusion(dt,ds):
     print('Accuracy = '+str(acc))
 
 def PlotDecisionLines(clf,X,show=0):
-    # taken from on example of https://scikit-learn.org
-    h = 0.5
+    # based on example of https://scikit-learn.org
+    h = 0.1
     x_min, x_max = X[:, 0].min() - 1, X[:, 0].max() + 1
     y_min, y_max = X[:, 1].min() - 1, X[:, 1].max() + 1
     xx, yy = np.meshgrid(np.arange(x_min, x_max, h),
@@ -193,7 +173,7 @@ def PlotDecisionLines(clf,X,show=0):
         plt.show()
 
 def PlotFeatures(X,d,st,show=1):
-    # taken from on example of https://scikit-learn.org
+    # based on example of https://scikit-learn.org
     x_min, x_max = X[:, 0].min() - 1, X[:, 0].max() + 1
     y_min, y_max = X[:, 1].min() - 1, X[:, 1].max() + 1
     plt.scatter(X[:, 0], X[:, 1], c=d, cmap=plt.cm.autumn)
