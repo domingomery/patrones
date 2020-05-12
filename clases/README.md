@@ -147,7 +147,7 @@
 * 4.1-Ejemplo KNN 2x2 [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_KNN_k2.m)
 * 4.1-Ejemplo KNN para encontrar mejor k [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_KNN_val.m)
 * 4.1-Ejemplo KNN y dmin python [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/python/classifiers)
-* 4.1-Video de esta clase [[]](https://youtu.be/cH-kUai4Boo)
+* 4.1-Video de esta clase [[video]](https://youtu.be/cH-kUai4Boo)
 
 ### Clase 18 Ju. 14-May-2020:
 * 4.1-Clasificador de Bayes [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_Bayes.pptx)
@@ -246,4 +246,4 @@
 ---
 
 
-Updated on 12-May-2020 at 13:29 by Domingo Mery
+Updated on 12-May-2020 at 13:31 by Domingo Mery

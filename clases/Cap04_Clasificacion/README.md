@@ -7,7 +7,7 @@
 * Ejemplo KNN 2x2 [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_KNN_k2.m)
 * Ejemplo KNN para encontrar mejor k [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_KNN_val.m)
 * Ejemplo KNN y dmin python [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/python/classifiers)
-* Video de esta clase [[]](https://youtu.be/cH-kUai4Boo)
+* Video de esta clase [[video]](https://youtu.be/cH-kUai4Boo)
 * Clasificador de Bayes [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_Bayes.pptx)
 * Ejemplo con Bayes usando KDE 2x2 [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_Classifier_Bayes_KDE.m)
 * Estimacion PDF en 1D [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_EstimationPDF.m)
@@ -54,4 +54,4 @@
 ---
 
 
-Updated on 12-May-2020 at 13:29 by Domingo Mery
+Updated on 12-May-2020 at 13:31 by Domingo Mery
