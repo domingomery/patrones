@@ -5,9 +5,9 @@
 % Computer Vision Course
 % (c) Domingo Mery (2014) - http://dmery.ing.puc.cl
 close all
-data = 2;
+data = 1;
 if data == 1
-    [X,d]   = Bds_gaussgen([1 3;3 1],5*[0.3 0.4;0.2 0.3],[1000 1000]');
+    [X,d]   = Bds_gaussgen([1 3;3 1],3*[0.3 0.4;0.2 0.3],[1000 1000]');
 else
     [Xa,da]   = Bds_gaussgen([1 3;3 1],5*[0.3 0.4;0.2 0.3],[500 500]');
     [Xb,db]   = Bds_gaussgen([1 -2;1 8],5*[0.3 0.4;0.2 0.3],[500 500]');

@@ -10,7 +10,13 @@
 
 close all
 N = 1500;
-X = Bds_gaussgen(100,30,N);
+% X = Bds_gaussgen(100,30,N);
+
+X1 = Bds_gaussgen(70,20,3*N/4);
+X2 = Bds_gaussgen(140,15,N/4);
+X = [X1;X2];
+
+
 figure(1)
 plot(X,zeros(N,1),'r.')
 axis([0 200 0 400])
