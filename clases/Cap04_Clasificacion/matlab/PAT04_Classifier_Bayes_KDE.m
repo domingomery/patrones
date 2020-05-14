@@ -129,6 +129,13 @@ for x1=1:3:T
 end
 axis([min(Xt(:,1)) max(Xt(:,1)) min(Xt(:,2)) max(Xt(:,2))])
 title('Bayes using KDE')
+figure(6)
+figure(5)
+figure(4)
+figure(3)
+figure(2)
+figure(1)
+
 
 
 

@@ -146,7 +146,7 @@
 * 4.1-Clasificador DMIN - distancia minima [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_dmin.pptx)
 * 4.1-Ejemplo KNN 2x2 [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_KNN_k2.m)
 * 4.1-Ejemplo KNN para encontrar mejor k [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_KNN_val.m)
-* 4.1-Ejemplo KNN y dmin python [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/python/classifiers)
+* 4.1-Ejemplo KNN y dmin python (clf_dmin.py, clf_knn.py) [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/python/classifiers)
 * 4.1-Video de esta clase [[video]](https://youtu.be/cH-kUai4Boo)
 
 ### Clase 18 Ju. 14-May-2020:
@@ -158,6 +158,7 @@
 * 4.1-Ejemplo LDA [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_LDA.m)
 * 4.1-Ejemplo QDA [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_QDA.m)
 * 4.1-Ejemplo Mahalanobis [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_Maha.m)
+* 4.1-Ejemplo QDA y LDA python (clf_lda.py, clf_qda.py) [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/python/classifiers)
 
 ### Clase 19 Ma. 19-May-2020:
 * 4.1-Introduccion a SVM [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM.pptx)
@@ -246,4 +247,4 @@
 ---
 
 
-Updated on 12-May-2020 at 13:31 by Domingo Mery
+Updated on 14-May-2020 at 12:56 by Domingo Mery
