@@ -17,6 +17,7 @@
 * Ejemplo QDA [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_QDA.m)
 * Ejemplo Mahalanobis [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_Maha.m)
 * Ejemplo QDA y LDA python (clf_lda.py, clf_qda.py) [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/python/classifiers)
+* Video de esta clase [[video]](https://youtu.be/hecOd7KeSO8)
 * Introduccion a SVM [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM.pptx)
 * Teoria sobre SVM [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM_new.pdf)
 * Teoria sobre SVM [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM_Theory.pdf)
@@ -55,4 +56,4 @@
 ---
 
 
-Updated on 14-May-2020 at 12:56 by Domingo Mery
+Updated on 14-May-2020 at 12:58 by Domingo Mery
