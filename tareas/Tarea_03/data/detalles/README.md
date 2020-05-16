@@ -7,7 +7,7 @@ El objetivo de esta tarea es disenar un reconocedor automatico que a partir de u
 ## Descripcion
 Se cuenta con una base de datos de 6.300 patches en blanco y negro (escala de grises) de 64x64 pixeles, correspondientes a porciones de radiografias del torax pertenecientes a tres clases: 0-Normal, 1-Neumonia y 2-COVID19. La base de datos que emplearemos en la tarea se encuentra balanceada, es decir cada una de las clases cuenta con un tercio de las muestras. De la base de datos original, se ha extraido 210 radiografias por clase, y a cada radiografia se le extrajo 10 patches de 64x64 pixeles de las zonas mas oscuras del lado izquierdo de la radiografia.
 
-[OPCIONAL] si te interesa el tema y quieres hacer una contribucion en el diagnostico del COVID19 usando esta metodologia se recomienda ver los [detalles de la base de datos](https://github.com/domingomery/patrones/blob/master/tareas/Tarea_03/data/detalles).
+[OPCIONAL] si te interesa el tema y quieres hacer una contribucion en el diagnostico del COVID19 usando esta metodologia se recomienda ver los [detalles de la base de datos](https://github.com/domingomery/patrones/blob/master/tareas/Tarea_03/data/detalles.md).
 
 Algunos ejemplos de radiografias y sus correspondientes 10 patches extraidos para cada una de las clases se muestran a continuacion:
 
