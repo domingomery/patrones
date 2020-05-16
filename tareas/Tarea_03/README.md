@@ -22,11 +22,11 @@ La base de datos para esta tarea se encuentra disponible en los siguientes links
 El clasificador debera ser entrenado con las muestras de training y debera ser probado con las muestras de testing. 
 Se debe disenar dos clasificadores:
 
-* CLASIFICASOR I) este clasificador considera la clasificacion de cada patch de forma individual individual. Es decir, la matriz de confusion del testing tendra 420 muestras por clase. Este tipo de clasificador fue usado en la Tarea 2.
+* I) este clasificador considera la clasificacion de cada patch de forma individual. Es decir, la matriz de confusion del testing tendra 420 muestras por clase. Este tipo de clasificador fue usado en la Tarea 2.
 
-* CLASIFICADOR II) este clasificador es el que le interesa a los laboratorios, ya que considera los grupos de 10 patches por radiografias como una unidad y serviria para determinar si un paciente tiene COVID19, Neumonia o esta sano. Es decir, en este clasificador la matriz de confusion de testing tendra 42 muestras por clase. Una forma simple de llevar a cabo el clasificador II es haciendo mayoria de votos en los grupos de 10 patches segun lo que determine el clasificador I. 
+* II) este clasificador es el que le interesa a los laboratorios, ya que considera los grupos de 10 patches por radiografias como una unidad y serviria para determinar si un paciente tiene COVID19, Neumonia o esta sano. Es decir, en este clasificador la matriz de confusion de testing tendra 42 muestras por clase. Una forma simple de llevar a cabo el clasificador II es haciendo mayoria de votos en los grupos de 10 patches segun lo que determine el clasificador I. 
 
-ESTA PERMITIDO: Para la tarea esta permitido 
+ESTA PERMITIDO:
 - el uso de caracteristicas no vistas en clases (pero que no esten basadas en Deep Learning), por ejemplo BSIF, siempre y cuando puedan explicarlas en el informe.
 - el uso de seleccionadores de caracteristicas no vistos en clases (pero que no esten basados en Deep Learning), por ejemplo RFECV, Mutual Information, etc., siempre y cuando puedan explicarlas en el informe.
 - el uso de clasificadores no vistos en clases (pero que no esten basadas en Deep Learning), por ejemplo Random Forest, AdaBoost, etc., siempre y cuando puedan explicarlas en el informe.
@@ -34,16 +34,15 @@ ESTA PERMITIDO: Para la tarea esta permitido
 - el uso de librerias de seleccion y transformacion de caracteristicas.
 - el uso de librerias para clasificadores.
 - el uso de librerias de funciones matematicas, como covarianza, manipulacion de matrices, vectores, etc.
-- no esta permitido nada de deep learning.
 
 NO ESTA PERMITIDO:
 - no esta permitido usar herramientas de deep learning, ni redes neuronales de mas de dos capas ocultas.
 
 ES NECESARIO:
-La estrategia (es decir cuales caracteristicas extraer, cuales seleccionar/transformar, y que clasificador usar) debe ser disenada por ustedes y es completamente libre. En la tarea se debe probar y analizar al menos 5 estrategias distintas.
 
-
-Ud. debera entregar un informe de una pagina(*) en formato pdf en el que explique como realizo la extraccion de caracteristicas, la seleccion/transformacion y clasificacion. Se debera reportar tanto en el training como en el testing el accuracy y la matriz de confusion. Se debera entregar tambien el codigo de la solucion (debidamente ordenado, explicado y comentado).
+- La estrategia (es decir cuales caracteristicas extraer, cuales seleccionar/transformar, y que clasificador usar) debe ser disenada por ustedes y es completamente libre. 
+- En la tarea se debe probar y analizar al menos 5 estrategias distintas.
+- Ud. debera entregar un informe de una pagina(*) en formato pdf en el que explique como realizo la extraccion de caracteristicas, la seleccion/transformacion y clasificacion. Se debera reportar tanto en el training como en el testing el accuracy y la matriz de confusion. Se debera entregar tambien el codigo de la solucion (debidamente ordenado, explicado y comentado).
 
 (*) Si el informe tiene mas de una pagina solo se revisara la primera pagina del informe,
 
