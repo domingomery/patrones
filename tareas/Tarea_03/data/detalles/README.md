@@ -20,6 +20,15 @@ Para la construccion de la base de datos se siguieron los siguientes pasos:
 - Recorte: se hizo un crop de 512 x 512 pixeles de la zona central de la radiografia, ya que la informacion de la informacion debe estar en los pulmones y no en los hombros por ejemplo.
 - Extraccion de patches: por cada radiografia de 512 x 512 pixeles se extrajeron 10 patches de 64x64 pixeles de forma aleatoria en la zona izquierda de la radiografia (para evitar el corazon) y de zonas oscuras (para evitar los huesos de las costillas). La extraccion se hizo con este [codigo](https://github.com/domingomery/patrones/blob/master/tareas/Tarea_03/detalles/croprx.m) en matlab.
 
+Los patches han sido guardados en archivos PNG con el siguiente nombre: Xmm_nnnn_iii.png donde:
+
+- X es el caracter inicial de cada nombre de archivo
+- mm: es 00, 01 o 02 segun la clase 0, 1, o 2 respectivamente
+- nnnn: es el numero de la radiografia de la clase (0001, 0002,... 0168: para training, 0169, 0170, ... 0210 para testing)
+- iii: es el numero del patch extraido de la radiografia (001, 002, ... 010)  
+
+
+
 Algunos ejemplos de radiografias y sus correspondientes 10 patches extraidos para cada una de las clases se muestran a continuacion:
 
 <img src="https://github.com/domingomery/patrones/blob/master/tareas/Tarea_03/data/example.jpg" width="600">
