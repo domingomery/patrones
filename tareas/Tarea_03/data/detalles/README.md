@@ -1,10 +1,25 @@
-# Tarea 03: Reconocedor de COVID19 
+# Detalles de la Base de Datos para reconocer COVID19
 
-## Enunciado
-El objetivo de esta tarea es disenar un reconocedor automatico que a partir de una radiografia del torax de una persona sea capaz de diagnosticar si la persona tiene COVID19, Neuomonia o se encuentra sana. Para realizar este sistema de reconocimiento se cuenta con las imagenes radiograficas provenientes de la Italian Society of Medical and Interventional Radiology (SIRM) COVID-19 DATABASE. 
+Aqui se encuentran los detalles de como se contruyo la base de datos de la [Tarea 3](https://github.com/domingomery/patrones/blob/master/tareas/Tarea_03). En esta construccion hay varias consideraciones que podrian mejorarse. Aquellas personas que les interesa contribuir en este tema pueden revisar esta descripcion y hacer las mejoras que consideren convenientes.
 
 
-## Descripcion
+## Base de datos original
+La base de datos original proviene de la base de datos llamada [Italian Society of Medical and Interventional Radiology (SIRM) COVID-19 DATABASE](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database). La base datos consiste en tres subconjuntos de radiografias de 1024 x 1024 pixeles:
+
+- NORMAL: 1349 radiografias
+- VIRAL PNEUMONIA: 1345 radiografias
+- COVID19: 219 radiografias
+
+Las radiografias han sido tomadas en distintos equipos de rayos X. Esto implica que la calidad, contraste, etc. varia de imagen a imagen.
+
+
+## Construccion de la base de datos para la Tarea 3
+Para la construccion de la base de datos se siguieron los siguientes pasos:
+
+- Seleccion de imagenes: para hacer una base de datos balanceada solo se tomaron las primeras 210 radiografias por subconjunto. Se destinaron 80% para training y 20% para testing, es decir 168 radiografias por clase para training y 42 radiografias para testing
+- Recorte: se hizo un crop de 512 x 512 pixeles de la zona central de la radiografia, ya que la informacion de la informacion debe estar en los pulmones y no en los hombros por ejemplo.
+
+
 Se cuenta con una base de datos de 6.300 patches en blanco y negro (escala de grises) de 64x64 pixeles, correspondientes a porciones de radiografias del torax pertenecientes a tres clases: 0-Normal, 1-Neumonia y 2-COVID19. La base de datos que emplearemos en la tarea se encuentra balanceada, es decir cada una de las clases cuenta con un tercio de las muestras. De la base de datos original, se ha extraido 210 radiografias por clase, y a cada radiografia se le extrajo 10 patches de 64x64 pixeles de las zonas mas oscuras del lado izquierdo de la radiografia.
 
 [OPCIONAL] si te interesa el tema y quieres hacer una contribucion en el diagnostico del COVID19 usando esta metodologia se recomienda ver los [detalles de la base de datos](https://github.com/domingomery/patrones/blob/master/tareas/Tarea_03/data/detalles.md).
