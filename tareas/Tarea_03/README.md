@@ -19,12 +19,12 @@ La base de datos para esta tarea se encuentra disponible en los siguientes links
 * Training (1.680 patches por clase) [descargar](https://github.com/domingomery/patrones/blob/master/tareas/Tarea_03/data/train.zip)
 * Testing (420 patches por clase) [descargar](https://github.com/domingomery/patrones/blob/master/tareas/Tarea_03/data/test.zip)
 
-Los patches han sido guardados en archivos PNG con el siguiente nombre: Xmm_nnnn_iii.png donde:
+Los patches han sido guardados en archivos PNG con el siguiente nombre: Xmm_nnnn_ppp.png donde:
 
-- X es el caracter inicial de cada nombre de archivo
+- 'X' es el caracter inicial de cada nombre de archivo
 - mm: es 00, 01 o 02 segun la clase 0, 1, o 2 respectivamente
 - nnnn: es el numero de la radiografia de la clase (0001, 0002,... 0168: para training, 0169, 0170, ... 0210 para testing)
-- iii: es el numero del patch extraido de la radiografia (001, 002, ... 010)  
+- ppp: es el numero del patch extraido de la radiografia (001, 002, ... 010)  
 
 
 El clasificador debera ser entrenado con las muestras de training y debera ser probado con las muestras de testing. 
