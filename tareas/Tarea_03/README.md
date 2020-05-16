@@ -1,34 +1,23 @@
-# Tarea 02: Reconocedor de Paredes Rayadas
+# Tarea 03: Reconocedor de COVID19 
 
 ## Enunciado
-El objetivo de esta tarea es diseñar un reconocedor automatico de paredes rayadas usando extraccion de caracteristicas de textura, seleccionador de caracteristicas y clasificador knn.
+El objetivo de esta tarea es disenar un reconocedor automatico que a partir de una radiografia del torax de una persona sea capaz de diagnosticar si la persona tiene COVID19, Neuomonia o se encuentra sana. Para realizar este sistema de reconocimiento se cuenta con las imagenes radiograficas provenientes de la Italian Society of Medical and Interventional Radiology (SIRM) COVID-19 DATABASE que se ha puesto a disposicion de la sociedad para realizar este tipo de investigacion. 
 
 
 ## Descripcion
-Se cuenta con una base de datos de 10.000 patches a color de 64x64 pixeles, correspondientes a porciones de paredes que han sido y que no han sido rayadas, distribuidas 50-50%, es decir 5.000 patches pertencientes a la clase 1 (rayas), y 5.000 patches pertenecientes a la clase 0 (no-rayas). Cada uno de estos patches cubre aproximadamente una superficie de 30cm x 30cm de la pared:
+Se cuenta con una base de datos de 6.300 patches a en escala de grises de 64x64 pixeles, correspondientes a porciones de radiografias del torax pertenecientes a tres clases: 0-Normal, 1-Neumonia y 2-COVID19. La base de datos que emplearemos en la tarea se encuentra balanceada, es decir cada una de las clases cuenta con un tercio de las muestras. De la base de datos original, se ha extraido 210 radiografias por clase, y a cada radiografia se le extrajo 10 patches de 64x64 pixeles de las zonas mas oscuras del lado izquierdo de la radiografia.
 
-Algunos ejemplos se muestran a continuacion (cada imagen muestra 20x30 patches de 64x64 pixeles):
+Algunos ejemplos para cada una de las clases se muestran a continuacion:
 
-CLASE 0: NO-RAYAS
-
-<img src="https://github.com/domingomery/patrones/blob/master/tareas/Tarea_02/patches_0.png" width="600">
-
-CLASE 1: RAYAS
-
-<img src="https://github.com/domingomery/patrones/blob/master/tareas/Tarea_02/patches_1.png" width="600">
+<img src="https://github.com/domingomery/patrones/blob/master/tareas/Tarea_03/data/example.jpg" width="600">
 
 
 La base de datos para esta tarea se encuentra disponible en los siguientes links:
 
-* Training (4.000 patches por clase)
-- [Clase 0](https://github.com/domingomery/patrones/tree/master/tareas/Tarea_02/Training_0.zip)
-- [Clase 1](https://github.com/domingomery/patrones/tree/master/tareas/Tarea_02/Training_1.zip)
+* Training (1.680 patches por clase) [descargar](https://github.com/domingomery/patrones/blob/master/tareas/Tarea_03/data/train.zip)
+* Testing (420 patches por clase) [descargar](https://github.com/domingomery/patrones/blob/master/tareas/Tarea_03/data/test.zip)
 
-* Testing (1.000 patches por clase)
-- [Clase 0](https://github.com/domingomery/patrones/tree/master/tareas/Tarea_02/Testing_0.zip)
-- [Clase 1](https://github.com/domingomery/patrones/tree/master/tareas/Tarea_02/Testing_1.zip)
-
-Se debe disenar un clasificador que funcione con un maximo de 50 caraceristicas, para esto se deben sacar al menos 200 caracteristica y a partir de tecnicas se seleccion o transformacion de caracteristicas se le debe proporcionar al clasificador un maximo de 50 caracteristicas. El clasificador a emplear es un KNN de tres vecinos.
+Se debe disenar dos clasificadores, uno que considere la clasificacion de cada patch de forma individual individual (es decir, en el testing la matriz de confusion tendra 420 muestras por clase) y otro que es el clasificador que le interesa a los laboratorios que considere los grupos de 10 patches por radiografias (es decir, en el testing un clasificador que funcione con un maximo de 50 caraceristicas, para esto se deben sacar al menos 200 caracteristica y a partir de tecnicas se seleccion o transformacion de caracteristicas se le debe proporcionar al clasificador un maximo de 50 caracteristicas. El clasificador a emplear es un KNN de tres vecinos.
 
 ESTA PERMITIDO: Para la tarea esta permitido 
 - el uso de caracteristicas no vistas en clases (pero que no esten basadas en Deep Learning), por ejemplo BSIF, siempre y cuando puedan explicarlas en el informe.
