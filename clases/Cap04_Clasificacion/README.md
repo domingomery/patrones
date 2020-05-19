@@ -25,6 +25,7 @@
 * Teoria sobre SVM [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/papers/PAT04_SupportVectorMachines.pdf)
 * Ejemplo SVM con distintos kernels [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_SVM_Kernels.m)
 * Tutorial de SVM en phyton [[YouTube]](https://www.youtube.com/watch?v=N1vOgolbjSc)
+* Video de teoria de SVM (MIT lesson) [[]](https://www.youtube.com/watch?v=_PwhiWxHK8o)
 * Redes Neuronales [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_RedesNeuronales_Apuntes.pdf)
 * Redes Neuronales [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_NeuralNetworks.pptx)
 * Redes Neuronales [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/papers/PAT04_NeuralNetworks.pdf)
@@ -56,4 +57,4 @@
 ---
 
 
-Updated on 16-May-2020 at 19:53 by Domingo Mery
+Updated on 19-May-2020 at 11:03 by Domingo Mery
