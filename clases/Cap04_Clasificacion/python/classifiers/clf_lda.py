@@ -2,7 +2,7 @@
 
 from clf_utils import loadData, defineClassifier, trainClassifier, testClassifier, PrintConfusion, PlotFeatures, PlotDecisionLines
 
-(X,d,Xt,dt) = loadData('G2')                              # load training and testing data
+(X,d,Xt,dt) = loadData('G3')                              # load training and testing data
 name        = 'LinearDiscriminantAnalysis'                # name of the classifier
 params      = ''                                          # parameters of the classifier
 clf         = defineClassifier([name,params])             # classifier definition
