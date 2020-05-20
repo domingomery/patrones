@@ -8,4 +8,5 @@
 * [Foro para evitar duplicidad](https://github.com/domingomery/patrones/issues/16)
 
 # 1. Base de Datos FaceMask
-Con la participación de los estudiantes del curso, se realizó
+Con la participación de los estudiantes del curso, se construyó una base de datos llamada [FaceMask166](https://github.com/domingomery/patrones/blob/master/proyecto/FaceMask166.zip) con 166 personas, algunas de ellas son personas famosas y sus fotos fueron extraídas de la prensa local e internacional, el resto son personas conocidas de los estudiantes del curso que dieron el consentimiento para ser parte de esta base de datos. FaceMask166 podrá ser usada sólo con fines de diseñar y probar algoritmos de reconocimiento facial, no se autoriza el uso de FaceMask para otros fines.
+
