@@ -6,7 +6,9 @@
 * Las fotos deberá subirse usando la plataforma Google Classroom (código de la clase es fjqq2xr). Por favor no subir las fotos en formato libre, deben seguir al pie de la letra las instrucciones de la [Construcción de la Base de Datos](https://github.com/domingomery/patrones/blob/master/proyecto/Construccion_Base_de_Datos.pptx). Los estudiantes del curso deben haber recibido una invitación de Google Classrom al correo que tienen en la UC. Visitar el [Foro para evitar duplicidad](https://github.com/domingomery/patrones/issues/16)
 
 ## 1. Base de Datos FaceMask166
-Con la participación de los estudiantes del curso, se construyó una base de datos llamada [FaceMask166](https://github.com/domingomery/patrones/blob/master/proyecto/FaceMask166.zip) con 166 personas, algunas de ellas son personas famosas y sus fotos fueron extraídas de la prensa local e internacional, el resto son personas conocidas de los estudiantes del curso que dieron el consentimiento para ser parte de esta base de datos. FaceMask166 podrá ser usada sólo con fines de diseñar y probar algoritmos de reconocimiento facial, no se autoriza el uso de FaceMask para otros fines.
+Con la participación de los estudiantes del curso, se construyó una base de datos llamada FaceMask166 con 166 personas, algunas de ellas son personas famosas y sus fotos fueron extraídas de la prensa local e internacional, el resto son personas conocidas de los estudiantes del curso que dieron el consentimiento para ser parte de esta base de datos. FaceMask166 podrá ser usada sólo con fines de diseñar y probar algoritmos de reconocimiento facial, no se autoriza el uso de FaceMask para otros fines.
+
+[Descargar la base de datos FaceMask166](https://github.com/domingomery/patrones/blob/master/proyecto/FaceMask166.zip)
 
 FaceMask166 consiste en 6 fotos de frontales de la cara de 166 personas, es decir 996 imágenes faciales frontales. Las imágenes son a color, están en formato jpg y su tamaño es de 256x256 píxeles. Las fotos han sido alineadas de tal forma que los ojos se encuentran en una línea horizontal centrados en la fila 90 de la imágen, de esta manera, el ojo izquierdo y el ojo derecho se encuentran respectivamente en las posiciones (90,90) y (90,165) respectivamente. La gran mayoría de fotos representan caras con expresión neutra, perfectamente frontal, buena resolución y de buena iluminación, sin embargo hay algunas fotos (alrededor de un 5%) que no cuentan con alguna de estas caracerísticas. El nombre del archivo de cada foto es FM000xxx_nn.jpg, donde xxx es el identificador de la persona, conocido como el 'id', que en el caso de FaceMask166 es 001, 002, 003, ..., 166; y nn es el número correlativo de la foto de la persona xxx, como son seis fotos, nn puede ser 01, 02, 03, 04, 05 y 06 solamente. Las tres primeras fotos (nn = 01, 02 y 03) son fotos con la cara descubierta, mientras que las últimas tres fotos (nn = 04, 05 y 06) son fotos de la persona usando mascarilla. Algunos ejemplos se muestran a continuación.
 
@@ -14,28 +16,43 @@ FaceMask166 consiste en 6 fotos de frontales de la cara de 166 personas, es deci
 
 ## 2. Enunciado
 
+En este proyecto el objetivo es reconocer a las personas con mascarilla. Considerando que el nombre de archivo de la fotos es FM000xxx_nn.jpg, los experimentos se realizarán en los siguientes tres conjuntos de FaceMask166:
+
+* Conjunto A de datos (50 personas): se trabajará sólo con las 6 fotos de las personas xxx = 001, 002, ... 050.
+
+* Conjunto B de datos (100 personas): se trabajará sólo con las 6 fotos de las personas xxx = 001, 002, ... 100.
+
+* Conjunto C de datos (166 personas): se trabajará con las 6 fotos de todas las personas xxx = 001, 002, ... 166.
+
+Considerando que el nombre de archivo de la fotos es FM000xxx_nn.jpg, el protocolo de entrenamiento es el siguiente:
+
+* Training: Para el entrenamiento se usará sólo las fotos descubiertas (fotos nn = 01, 02 y 03)
+
+* Validation: Para la validación se usará sólo la primera foto con mascarilla (foto nn = 04)
+
+* Testing: Para las pruebas se usará las dos últimas fotos con mascarilla (foto nn = 05 y 06)
+
+La validación se debe usar para ajustar los hiper-parámetros. A manera de ejemplo, si se va usar un clasificador KNN y no se sabe el número de vecinos (hiper-parámetro k), se puede probar en el set de validación cuál es el k que maximiza el accuracy. 
 
 
-
-
-## Fecha de Entrega
+## 3. Fecha de Entrega
 Ver calendario en Google Classroom: Horario a definir con el profesor (coordinar por email: enviar un mail a domingo.mery@uc.cl indicando tres posibles horarios de lunes a viernes entre 9am y 6pm).
 
-## Modalidad de Trabajo
-Grupos de 4 personas.
+## 4. Modalidad de Trabajo
+Grupos de 4 personas ya definidos.
 
-## Presentacion
+## 5. Presentacion
 La presentacion  final del proyecto consiste en una reunion de todos los integrantes del grupo conmigo por zoom. La reunión dura 45 minutos y se hara entre 9am y 6pm en un horario definido por el profesor. La puntualidad en la presentación será considerada en la nota.
 
-La reunion con el profesor (de 45 minutos) consta de una presentacion tipo powerpoint, una demo y preguntas de la materia del curso.
+La reunión con el profesor (de 45 minutos) consta de una presentacion tipo powerpoint, una demo y preguntas de la materia del curso.
 
-La presentacion tipo powerpoint debe incluir:
+La presentación tipo powerpoint debe incluir:
 
-1) Introduccion (relevancia de este tema, en que consiste el proyecto, etc.), 
+1) Introducción (relevancia de este tema, en que consiste el proyecto, etc.), 
 
-2) Revision del [estado del arte](https://scholar.google.cl/scholar?&q=face+recognition+disguise+masks), 
+2) Revisión del [estado del arte](https://scholar.google.cl/scholar?&q=face+recognition+disguise+masks), 
 
-3) Metodo propuesto en detalle (con un diagrama de bloques claro con todos los pasos y resultados intermedios como el de este [ejemplo](https://github.com/domingomery/imagenes/blob/master/proyecto/diagram_example.png)), 
+3) Método propuesto en detalle (con un diagrama de bloques claro con todos los pasos y resultados intermedios como el de este [ejemplo](https://github.com/domingomery/imagenes/blob/master/proyecto/diagram_example.png)), 
 
 4) Resultados obtenidos, 
 
@@ -45,8 +62,8 @@ La presentacion tipo powerpoint debe incluir:
 
 En la presentacion habrá preguntas orientadas tanto al proyecto como a cuanto entienden de la materia del curso (tipo examen oral). Esto servirá para poner notas individuales a cada integrante del grupo.
 
-## Nota
-La nota del proyecto se calcula de la siguiente manera: 50% presentacion, %25 resultados, 25% examen oral. En la nota se premia el esfuerzo mas que los resultados, tendrá una mejor nota una persona que pruebe e invente métodos con resultados no tan buenos, que una persona que pruebe/encuentre una sola función con resultados buenos.
+## 6. Nota
+La nota del proyecto equivale al 30% de la nota del curso y se calcula de la siguiente manera: 50% presentacion, %25 resultados, 25% examen oral. En la nota se premia el esfuerzo mas que los resultados, tendrá una mejor nota una persona que pruebe e invente métodos con resultados no tan buenos, que una persona que pruebe/encuentre una sola función con resultados buenos.
 
 ## Foro
 Para comentarios o preguntas usar por favor el [foro](https://github.com/domingomery/imagenes/issues/12).
