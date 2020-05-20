@@ -10,7 +10,9 @@ Con la participación de los estudiantes del curso, se construyó una base de da
 
 [Descargar la base de datos FaceMask166](https://github.com/domingomery/patrones/blob/master/proyecto/FaceMask166.zip)
 
-FaceMask166 consiste en 6 fotos de frontales de la cara de 166 personas, es decir 996 imágenes faciales frontales. Las imágenes son a color, están en formato jpg y su tamaño es de 256x256 píxeles. Las fotos han sido alineadas de tal forma que los ojos se encuentran en una línea horizontal centrados en la fila 90 de la imágen, de esta manera, el ojo izquierdo y el ojo derecho se encuentran respectivamente en las posiciones (90,90) y (90,165) respectivamente. La gran mayoría de fotos representan caras con expresión neutra, perfectamente frontal, buena resolución y de buena iluminación, sin embargo hay algunas fotos (alrededor de un 5%) que no cuentan con alguna de estas caracerísticas. El nombre del archivo de cada foto es FM000xxx_nn.jpg, donde xxx es el identificador de la persona, conocido como el 'id', que en el caso de FaceMask166 es 001, 002, 003, ..., 166; y nn es el número correlativo de la foto de la persona xxx, como son seis fotos, nn puede ser 01, 02, 03, 04, 05 y 06 solamente. Las tres primeras fotos (nn = 01, 02 y 03) son fotos con la cara descubierta, mientras que las últimas tres fotos (nn = 04, 05 y 06) son fotos de la persona usando mascarilla. Algunos ejemplos se muestran a continuación.
+FaceMask166 consiste en 6 fotos de frontales de la cara de 166 personas, es decir 996 imágenes faciales frontales. Las imágenes son a color, están en formato jpg y su tamaño es de 256x256 píxeles. Las fotos han sido alineadas de tal forma que los ojos se encuentran en una línea horizontal centrados en la fila 90 de la imágen, de esta manera, el ojo izquierdo y el ojo derecho se encuentran respectivamente en las posiciones (90,90) y (90,165). La gran mayoría de fotos representan caras con expresión neutra, perfectamente frontal, buena resolución y de buena iluminación, sin embargo hay algunas fotos (alrededor de un 5%) que no cuentan con alguna de estas caracerísticas. 
+
+El nombre del archivo de cada foto es FM000xxx_nn.jpg, donde xxx es el identificador de la persona, conocido como el 'ID', que en el caso de FaceMask166 es 001, 002, 003, ..., 166; y nn es el número correlativo de la foto de la persona xxx, como son seis fotos, nn puede ser 01, 02, 03, 04, 05 y 06 solamente. Las tres primeras fotos (nn = 01, 02 y 03) son fotos con la cara descubierta, mientras que las últimas tres fotos (nn = 04, 05 y 06) son fotos de la persona usando mascarilla. Algunos ejemplos se muestran a continuación.
 
 <img src="https://github.com/domingomery/patrones/blob/master/proyecto/ejemplo.jpg" width="600">
 
@@ -18,11 +20,11 @@ FaceMask166 consiste en 6 fotos de frontales de la cara de 166 personas, es deci
 
 En este proyecto el objetivo es reconocer a las personas con mascarilla. Considerando que el nombre de archivo de la fotos es FM000xxx_nn.jpg, los experimentos se realizarán en los siguientes tres conjuntos de FaceMask166:
 
-* Conjunto A de datos (50 personas): se trabajará sólo con las 6 fotos de las personas xxx = 001, 002, ... 050.
+* Conjunto A (50 personas): se trabajará sólo con las 6 fotos de las personas xxx = 001, 002, ... 050.
 
-* Conjunto B de datos (100 personas): se trabajará sólo con las 6 fotos de las personas xxx = 001, 002, ... 100.
+* Conjunto B (100 personas): se trabajará sólo con las 6 fotos de las personas xxx = 001, 002, ... 100.
 
-* Conjunto C de datos (166 personas): se trabajará con las 6 fotos de todas las personas xxx = 001, 002, ... 166.
+* Conjunto C (166 personas): se trabajará con las 6 fotos de todas las personas xxx = 001, 002, ... 166.
 
 Considerando que el nombre de archivo de la fotos es FM000xxx_nn.jpg, el protocolo de entrenamiento es el siguiente:
 
@@ -32,7 +34,9 @@ Considerando que el nombre de archivo de la fotos es FM000xxx_nn.jpg, el protoco
 
 * Testing: Para las pruebas se usará las dos últimas fotos con mascarilla (foto nn = 05 y 06)
 
-La validación se debe usar para ajustar los hiper-parámetros. A manera de ejemplo, si se va usar un clasificador KNN y no se sabe el número de vecinos (hiper-parámetro k), se puede probar en el set de validación cuál es el k que maximiza el accuracy. 
+La validación se debe usar para ajustar los hiper-parámetros. A manera de ejemplo, si se va usar un clasificador KNN y no se sabe el número de vecinos (hiper-parámetro k), se puede probar en el set de validación cuál es el k que maximiza el accuracy, una vez encontrado este valor de k se probará en el conjunto de testing habiendo entrenado sólo en el training (no se debe incluir el set de validation en el training).
+
+Para cada conjunto (A, B o C) se deberá diseñar un clasificador. En este diseño se debe seguir las mismas consideraciones y restricciones de la Tarea 3 (al menos 5 estrategias por por conjunto, se puede usar librerías de clasificación y de extracción, selección y transformación de características, no se puede usar deep learning, etc.). En los resultados, incluir el accuracy en el set de validación y en el de testing, además se debe graficar la matriz de confusión usando un código de colores (ver [ejemplos](https://scikit-learn.org/stable/auto_examples/model_selection/plot_confusion_matrix.html))
 
 
 ## 3. Fecha de Entrega
