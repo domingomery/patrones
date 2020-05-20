@@ -1,9 +1,7 @@
-# Reconocimiento de Patrones
-
-# Proyecto del curso
+# Proyecto del curso Reconocimiento de Patrones
 
 ## 0. Construccion de la Base de Datos (actividad realizada)
-* Las fotos deberá subirse usando la plataforma Google Classroom (código de la clase es fjqq2xr). Por favor no subir las fotos en formato libre, deben seguir al pie de la letra las instrucciones de la [Construcción de la Base de Datos](https://github.com/domingomery/patrones/blob/master/proyecto/Construccion_Base_de_Datos.pptx). Los estudiantes del curso deben haber recibido una invitación de Google Classrom al correo que tienen en la UC. Visitar el [Foro para evitar duplicidad](https://github.com/domingomery/patrones/issues/16)
+Las fotos deberán subirse usando la plataforma Google Classroom (código de la clase es fjqq2xr). Por favor no subir las fotos en formato libre, deben seguir al pie de la letra las instrucciones de la [Construcción de la Base de Datos](https://github.com/domingomery/patrones/blob/master/proyecto/Construccion_Base_de_Datos.pptx). Los estudiantes del curso deben haber recibido una invitación de Google Classrom al correo que tienen en la UC. Visitar el [Foro para evitar duplicidad](https://github.com/domingomery/patrones/issues/16)
 
 ## 1. Base de Datos FaceMask166
 Con la participación de los estudiantes del curso, se construyó una base de datos llamada FaceMask166 con 166 personas, algunas de ellas son personas famosas y sus fotos fueron extraídas de la prensa local e internacional, el resto son personas conocidas de los estudiantes del curso que dieron el consentimiento para ser parte de esta base de datos. FaceMask166 podrá ser usada sólo con fines de diseñar y probar algoritmos de reconocimiento facial, no se autoriza el uso de FaceMask para otros fines.
@@ -20,9 +18,9 @@ El nombre del archivo de cada foto es FM000xxx_nn.jpg, donde xxx es el identific
 
 En este proyecto el objetivo es reconocer a las personas con mascarilla. Considerando que el nombre de archivo de la fotos es FM000xxx_nn.jpg, los experimentos se realizarán en los siguientes tres conjuntos de FaceMask166:
 
-* Conjunto A (50 personas): se trabajará sólo con las 6 fotos de las personas xxx = 001, 002, ... 050.
+* Conjunto A (40 personas): se trabajará sólo con las 6 fotos de las personas xxx = 001, 002, ... 040.
 
-* Conjunto B (100 personas): se trabajará sólo con las 6 fotos de las personas xxx = 001, 002, ... 100.
+* Conjunto B (90 personas): se trabajará sólo con las 6 fotos de las personas xxx = 001, 002, ... 090.
 
 * Conjunto C (166 personas): se trabajará con las 6 fotos de todas las personas xxx = 001, 002, ... 166.
 
@@ -34,7 +32,7 @@ Considerando que el nombre de archivo de la fotos es FM000xxx_nn.jpg, el protoco
 
 * Testing: Para las pruebas se usará las dos últimas fotos con mascarilla (foto nn = 05 y 06)
 
-La validación se debe usar para ajustar los hiper-parámetros. A manera de ejemplo, si se va usar un clasificador KNN y no se sabe el número de vecinos (hiper-parámetro k), se puede probar en el set de validación cuál es el k que maximiza el accuracy, una vez encontrado este valor de k se probará en el conjunto de testing habiendo entrenado sólo en el training (no se debe incluir el set de validation en el training).
+La validación se debe usar para ajustar los hiper-parámetros. A manera de ejemplo, si se va usar un clasificador KNN y no se sabe el número de vecinos (hiper-parámetro k), se puede probar en el set de validación cuál es el k que maximiza el accuracy, una vez encontrado este valor de k se probará en el conjunto de testing habiendo entrenado sólo en el training (no se debe incluir el set de validation en el training). En los resultados se deben mostrar algunos análisis de sensibilidad de los hiper-parámetros, es decir, cómo varía el accuracy por ejemplo con el parámetro k del KNN, o cómo varía el accuracy con el número de características escogidas, etc.
 
 Para cada conjunto (A, B o C) se deberá diseñar un clasificador. En este diseño se debe seguir las mismas consideraciones y restricciones de la Tarea 3 (al menos 5 estrategias por por conjunto, se puede usar librerías de clasificación y de extracción, selección y transformación de características, no se puede usar deep learning, etc.). En los resultados, incluir el accuracy en el set de validación y en el de testing, además se debe graficar la matriz de confusión usando un código de colores (ver [ejemplos](https://scikit-learn.org/stable/auto_examples/model_selection/plot_confusion_matrix.html))
 
@@ -45,8 +43,11 @@ Ver calendario en Google Classroom: Horario a definir con el profesor (coordinar
 ## 4. Modalidad de Trabajo
 Grupos de 4 personas ya definidos.
 
-## 5. Presentacion
-La presentacion  final del proyecto consiste en una reunion de todos los integrantes del grupo conmigo por zoom. La reunión dura 45 minutos y se hara entre 9am y 6pm en un horario definido por el profesor. La puntualidad en la presentación será considerada en la nota.
+## 5. Presentación de Avance
+Por lo menos se debe tener un buen desempeño en el conjunto A, se realizará en la última semana de clases.
+
+## 6. Presentación Final
+La presentacion  final del proyecto consiste en una reunión de todos los integrantes del grupo conmigo por zoom. La reunión dura 45 minutos y se hara entre 9am y 6pm en un horario definido por el profesor. La puntualidad en la presentación será considerada en la nota. No se entrega informe.
 
 La reunión con el profesor (de 45 minutos) consta de una presentacion tipo powerpoint, una demo y preguntas de la materia del curso.
 
@@ -66,9 +67,11 @@ La presentación tipo powerpoint debe incluir:
 
 En la presentacion habrá preguntas orientadas tanto al proyecto como a cuanto entienden de la materia del curso (tipo examen oral). Esto servirá para poner notas individuales a cada integrante del grupo.
 
-## 6. Nota
+## 7. Nota del Proyecto
 La nota del proyecto equivale al 30% de la nota del curso y se calcula de la siguiente manera: 50% presentacion, %25 resultados, 25% examen oral. En la nota se premia el esfuerzo mas que los resultados, tendrá una mejor nota una persona que pruebe e invente métodos con resultados no tan buenos, que una persona que pruebe/encuentre una sola función con resultados buenos.
 
-## Foro
+## 8. Foro del Proyecto
 Para comentarios o preguntas usar por favor el [foro](https://github.com/domingomery/imagenes/issues/12).
+
+Actualizado: 20 de mayo de 2020, 7:30pm
 
