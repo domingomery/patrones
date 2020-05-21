@@ -59,7 +59,7 @@ La presentación tipo powerpoint debe incluir:
 
 2) Revisión del [estado del arte](https://scholar.google.cl/scholar?&q=face+recognition+disguise+masks), 
 
-3) Método propuesto en detalle (con un diagrama de bloques claro con todos los pasos y resultados intermedios, se pueden basar en este [esquema](https://github.com/domingomery/patrones/blob/master/proyecto/PR_Schema.png) incluyendo los detalles del clasificador diseñado), 
+3) Método propuesto en detalle (con un diagrama de bloques claro con todos los pasos y resultados intermedios, se pueden basar en este [esquema](https://github.com/domingomery/patrones/blob/master/proyecto/PR_Schema.png) incluyendo los detalles de la estrategia  diseñada), 
 
 4) Resultados obtenidos, 
 
@@ -79,5 +79,5 @@ Para comentarios o preguntas usar por favor el [foro](https://github.com/domingo
 - - - - - - - - - - - - - - - - - - - - - - - 
 (*) solicitar password al profesor del curso.
 
-Actualizado: 20 de mayo de 2020, 7:30pm
+Actualizado: 20 de mayo de 2020, 8:27pm
 
