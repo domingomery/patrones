@@ -34,12 +34,13 @@
 * Estimacion parametros no-lineales [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_EstimacionLin_NoLin.pdf)
 * Ejemplo estimacion no-lineal [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_EstimacionNoLineal.m)
 * Ejemplo red neuronal basica [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_basic_nn.m)
-* Funcion de error [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_nnerror.m)
-* Funcion de evaluacion de la NN [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_nntest.m)
+* Funcion de error [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_nnerror.m)
+* Funcion de evaluacion de la NN [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_nntest.m)
 * Libro Neural Networks and Deep Learning [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
 * Back-propagation [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_BackPropagation.pdf)
 * Ejemplo de Redes Neuronales [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_NN.m)
-* Ejemplo de Redes Neuronales en Python [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/python/neural_networks)
+* Ejemplo de Redes Neuronales en Python [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/python/neural_networks)
+* Video de esta clase [[video]](https://youtu.be/xdybl8CCNJ0)
 * Deep Learning [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_CNN.pptx)
 * Ejemplo clasificacion ojos vs. nariz [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/python/eyenose)
 * Ejercicio reconocimiento objetos en imagenes de Rayos X [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_EjercicioClassification.pdf)
@@ -60,4 +61,4 @@
 ---
 
 
-Updated on 02-Jun-2020 at 11:16 by Domingo Mery
+Updated on 02-Jun-2020 at 13:28 by Domingo Mery

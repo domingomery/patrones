@@ -180,12 +180,13 @@
 * 4.1-Estimacion parametros no-lineales [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_EstimacionLin_NoLin.pdf)
 * 4.1-Ejemplo estimacion no-lineal [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_EstimacionNoLineal.m)
 * 4.1-Ejemplo red neuronal basica [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_basic_nn.m)
-* 4.1-Funcion de error [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_nnerror.m)
-* 4.1-Funcion de evaluacion de la NN [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_nntest.m)
+* 4.1-Funcion de error [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_nnerror.m)
+* 4.1-Funcion de evaluacion de la NN [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_nntest.m)
 * 4.1-Libro Neural Networks and Deep Learning [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
 * 4.1-Back-propagation [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_BackPropagation.pdf)
 * 4.1-Ejemplo de Redes Neuronales [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_NN.m)
-* 4.1-Ejemplo de Redes Neuronales en Python [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/python/neural_networks)
+* 4.1-Ejemplo de Redes Neuronales en Python [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/python/neural_networks)
+* 4.1-Video de esta clase [[video]](https://youtu.be/xdybl8CCNJ0)
 
 ### Clase 21 Ju. 04-Jun-2020:
 * 4.1-Deep Learning [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_CNN.pptx)
@@ -250,4 +251,4 @@
 ---
 
 
-Updated on 02-Jun-2020 at 11:16 by Domingo Mery
+Updated on 02-Jun-2020 at 13:28 by Domingo Mery
