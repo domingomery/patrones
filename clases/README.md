@@ -181,8 +181,9 @@
 * 4.1-Video de esta clase [[video]](https://youtu.be/xdybl8CCNJ0)
 
 ### Clase 21 Ju. 04-Jun-2020:
-* 4.1-Deep Learning [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_CNN.pptx)
+* 4.1-Deep Learning [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_DeapLearning.pptx)
 * 4.1-Ejemplo clasificacion ojos vs. nariz [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/python/eyenose)
+* 4.1-Ejemplo Estado del Arte Reconocimiento Facial [[]](https://youtu.be/qKOsnwIH5Tk)
 
 ### Clase 22 Ma. 09-Jun-2020:
 * 4.1-Ejercicio reconocimiento objetos en imagenes de Rayos X [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_EjercicioClassification.pdf)
@@ -243,4 +244,4 @@
 ---
 
 
-Updated on 02-Jun-2020 at 13:50 by Domingo Mery
+Updated on 04-Jun-2020 at 08:29 by Domingo Mery
