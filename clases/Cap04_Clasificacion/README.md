@@ -36,8 +36,8 @@
 * Deep Learning [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_DeapLearning.pptx)
 * Ejemplo clasificacion ojos vs. nariz [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/python/eyenose)
 * Ejemplo Estado del Arte Reconocimiento Facial [[]](https://youtu.be/qKOsnwIH5Tk)
-* Ejercicio reconocimiento objetos en imagenes de Rayos X [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_EjercicioClassification.pdf)
-* Ejercicio reconocimiento objetos en imagenes de Rayos X [[Datos]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/images/xray.zip)
+* Video de esta clase [[]](https://youtu.be/uqmMqfsnMEc)
+* Ejercicio en grupo (ver mail enviado) [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/*)
 * Sparse representasions [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SparseRepresentations.pptx)
 * Ejemplo SRC [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_SRC_faces.m)
 * Clasificacion usando Sparse Representations [[matlab-a]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_sparse_classification_a.m)
@@ -54,4 +54,4 @@
 ---
 
 
-Updated on 04-Jun-2020 at 08:29 by Domingo Mery
+Updated on 09-Jun-2020 at 10:29 by Domingo Mery
