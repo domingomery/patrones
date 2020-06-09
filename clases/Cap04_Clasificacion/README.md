@@ -7,7 +7,7 @@
 * Ejemplo KNN 2x2 [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_KNN_k2.m)
 * Ejemplo KNN para encontrar mejor k [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_KNN_val.m)
 * Ejemplo KNN y dmin python (clf_dmin.py, clf_knn.py) [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/python/classifiers)
-* Video de esta clase [[video]](https://youtu.be/cH-kUai4Boo)
+* Video de esta clase [[YouTube]](https://youtu.be/cH-kUai4Boo)
 * Clasificador de Bayes [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_Bayes.pptx)
 * Ejemplo con Bayes usando KDE 2x2 [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_Classifier_Bayes_KDE.m)
 * Estimacion PDF en 1D [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_EstimationPDF.m)
@@ -17,7 +17,7 @@
 * Ejemplo QDA [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_QDA.m)
 * Ejemplo Mahalanobis [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_Maha.m)
 * Ejemplo QDA y LDA python (clf_lda.py, clf_qda.py) [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/python/classifiers)
-* Video de esta clase [[video]](https://youtu.be/hecOd7KeSO8)
+* Video de esta clase [[YouTube]](https://youtu.be/hecOd7KeSO8)
 * Introduccion a SVM [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM.pptx)
 * Teoria sobre SVM [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM_new.pdf)
 * Teoria sobre SVM [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM_Theory.pdf)
@@ -27,12 +27,12 @@
 * Tutorial de SVM en phyton [[YouTube]](https://www.youtube.com/watch?v=N1vOgolbjSc)
 * Ejemplo SVM python (clf_svm.py) [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/python/classifiers)
 * Video de teoria de SVM (MIT lesson) [[YouTube]](https://www.youtube.com/watch?v=_PwhiWxHK8o)
-* Video de esta clase [[video]](https://youtu.be/kayKkM3AuNw)
+* Video de esta clase [[YouTube]](https://youtu.be/kayKkM3AuNw)
 * Redes Neuronales [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_NeuralNetworks.pptx)
 * Libro de Neural Networks and Deep Learning [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
 * Ejemplo de Redes Neuronales en Matlab [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_NN.m)
 * Ejemplo de Redes Neuronales en Python [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/python/neural_networks)
-* Video de esta clase [[video]](https://youtu.be/xdybl8CCNJ0)
+* Video de esta clase [[YouTube]](https://youtu.be/xdybl8CCNJ0)
 * Deep Learning [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_DeapLearning.pptx)
 * Ejemplo clasificacion ojos vs. nariz [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/python/eyenose)
 * Ejemplo Estado del Arte Reconocimiento Facial [[YouTube]](https://youtu.be/qKOsnwIH5Tk)
@@ -55,4 +55,4 @@
 ---
 
 
-Updated on 09-Jun-2020 at 12:16 by Domingo Mery
+Updated on 09-Jun-2020 at 12:19 by Domingo Mery

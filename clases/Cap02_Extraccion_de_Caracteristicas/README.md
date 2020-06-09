@@ -11,11 +11,11 @@
 * Ejemplo: Descripcion de elipses [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_GeoEllipses.m)
 * Ejemplo: Reconocimiento de 9 y 6 [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_GeoFeatures_96.m)
 * Ejemplo: Momentos de Hu [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_HuMoments.m)
-* Video de esta clase [[video]](https://youtu.be/J8nhfgUTXXs)
+* Video de esta clase [[YouTube]](https://youtu.be/J8nhfgUTXXs)
 * Foro de esta clase [[chat]](https://github.com/domingomery/patrones/issues/8)
 * Foro de sugerencias generales [[chat]](https://github.com/domingomery/patrones/issues/9)
 * Chat de preguntas de zoom de esta clase [[txt]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_ChatPreguntas_Clase_03_170320.txt)
-* Video de esta clase [[video]](https://youtu.be/7woR1nDc9r0)
+* Video de esta clase [[YouTube]](https://youtu.be/7woR1nDc9r0)
 * Foro de esta clase [[chat]](https://github.com/domingomery/patrones/issues/10)
 * Foro de sugerencias generales [[chat]](https://github.com/domingomery/patrones/issues/9)
 * Chat de preguntas de zoom de esta clase [[txt]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_ChatPreguntas_Clase_03_170320.txt)
@@ -27,7 +27,7 @@
 * Ejercicio con base de datos de texturas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_Ejercicio_111_Texturas.pptx)
 * Ejemplo: Reconocimiento de texturas 1 [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_TextureRecognition_1.m)
 * Ejemplo: Reconocimiento de texturas 2 [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_TextureRecognition_2.m)
-* Video de esta clase [[video]](https://youtu.be/w1T-gzD4gDo)
+* Video de esta clase [[YouTube]](https://youtu.be/w1T-gzD4gDo)
 * Foro de esta clase [[chat]](https://github.com/domingomery/patrones/issues/11)
 * Foro de sugerencias generales [[chat]](https://github.com/domingomery/patrones/issues/9)
 * Chat de preguntas de zoom de esta clase [[txt]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_ChatPreguntas_Clase_03_170320.txt)
@@ -40,14 +40,14 @@
 * Video experimento con gatos (2/2) [[Video]](https://youtu.be/QzkMo45pcUo)
 * Ejemplo: Deteccion de caras usando Gabor [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_FaceDetection_Gabor.m)
 * Comparacion de caracteristicas de textura [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Randen_ComparativeTextures.pdf)
-* Video de esta clase [[video]](https://youtu.be/y-Kl5-v8qqQ)
+* Video de esta clase [[YouTube]](https://youtu.be/y-Kl5-v8qqQ)
 * Crossing Line Profile (CLP) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_CrossingLineProfiles.pptx)
 * Crossing Line Profile (CLP) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Mery_CrossingLineProfiles.pdf)
 * Ejemplo: Deteccion de defectos usando CLP [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_CLP.m)
 * Deteccion de peatones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HoG_HumanDetection.pptx)
 * Paper HoG [[Paper]](https://hal.inria.fr/file/index/docid/548512/filename/hog_cvpr2005.pdf)
 * Implementacion de HoG en Python con OpenCV [[phyton]](https://www.learnopencv.com/histogram-of-oriented-gradients/)
-* Video de esta clase [[video]](https://youtu.be/knTGuNeu1Zo)
+* Video de esta clase [[YouTube]](https://youtu.be/knTGuNeu1Zo)
 * Aclaracion de Dudas: Video de esta clase [[video]](https://youtu.be/BrWdtf0D3qI)
 * Deteccion de peatones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HoG_HumanDetection.pptx)
 * SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_SIFT_ObjectDetection.pptx)
@@ -65,4 +65,4 @@
 ---
 
 
-Updated on 09-Jun-2020 at 12:16 by Domingo Mery
+Updated on 09-Jun-2020 at 12:19 by Domingo Mery
