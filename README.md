@@ -183,11 +183,12 @@
 ### Clase 21 Ju. 04-Jun-2020:
 * 4.1-Deep Learning [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_DeapLearning.pptx)
 * 4.1-Ejemplo clasificacion ojos vs. nariz [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/python/eyenose)
-* 4.1-Ejemplo Estado del Arte Reconocimiento Facial [[]](https://youtu.be/qKOsnwIH5Tk)
-* 4.1-Video de esta clase [[]](https://youtu.be/uqmMqfsnMEc)
+* 4.1-Ejemplo Estado del Arte Reconocimiento Facial [[YouTube]](https://youtu.be/qKOsnwIH5Tk)
+* 4.1-Video de esta clase [[YouTube]](https://youtu.be/uqmMqfsnMEc)
 
 ### Clase 22 Ma. 09-Jun-2020:
-* 4.1-Ejercicio en grupo (ver mail enviado) [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/*)
+* 4.1-Ejercicio en grupo (ver mail enviado) [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion//)
+* 4.1-Explicacion del ejercicio [[YouTube]](https://youtu.be/xyz)
 
 ### Clase 23 Ju. 11-Jun-2020:
 * 5.1-Matriz de Confusion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ConfusionMatrix.pptx)
@@ -244,4 +245,4 @@
 ---
 
 
-Updated on 09-Jun-2020 at 10:29 by Domingo Mery
+Updated on 09-Jun-2020 at 12:16 by Domingo Mery
