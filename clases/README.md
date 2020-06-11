@@ -188,7 +188,7 @@
 
 ### Clase 22 Ma. 09-Jun-2020:
 * 4.1-Ejercicio en grupo (ver mail enviado) [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion//)
-* 4.1-Explicacion del ejercicio [[YouTube]](https://youtu.be/xyz)
+* 4.1-Explicacion del ejercicio [[YouTube]](https://youtu.be/Y-shvDW23P8)
 
 ### Clase 23 Ju. 11-Jun-2020:
 * 5.1-Matriz de Confusion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ConfusionMatrix.pptx)
@@ -197,6 +197,7 @@
 * 5.1-Ejemplo Hold-Out [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/matlab/PAT05_Evaluation_HoldOut.m)
 * 5.1-Ejemplo Cross Validation [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/matlab/PAT05_Evaluation_CrossValidation.m)
 * 5.1-Ejemplo Leave-one-out Jackknife [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/matlab/PAT05_Evaluation_JackKnife.m)
+* 5.1-Video de esta clase [[YouTube]](https://youtu.be/EQfUJAqKdNQ)
 
 ### Clase 24 Ma. 16-Jun-2020:
 * 2.1-Deteccion de peatones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HoG_HumanDetection.pptx)
@@ -245,4 +246,4 @@
 ---
 
 
-Updated on 09-Jun-2020 at 12:19 by Domingo Mery
+Updated on 11-Jun-2020 at 13:49 by Domingo Mery

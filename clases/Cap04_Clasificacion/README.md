@@ -38,7 +38,7 @@
 * Ejemplo Estado del Arte Reconocimiento Facial [[YouTube]](https://youtu.be/qKOsnwIH5Tk)
 * Video de esta clase [[YouTube]](https://youtu.be/uqmMqfsnMEc)
 * Ejercicio en grupo (ver mail enviado) [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion//)
-* Explicacion del ejercicio [[YouTube]](https://youtu.be/xyz)
+* Explicacion del ejercicio [[YouTube]](https://youtu.be/Y-shvDW23P8)
 * Sparse representasions [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SparseRepresentations.pptx)
 * Ejemplo SRC [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_SRC_faces.m)
 * Clasificacion usando Sparse Representations [[matlab-a]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_sparse_classification_a.m)
@@ -55,4 +55,4 @@
 ---
 
 
-Updated on 09-Jun-2020 at 12:19 by Domingo Mery
+Updated on 11-Jun-2020 at 13:49 by Domingo Mery
