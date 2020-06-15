@@ -200,7 +200,6 @@
 * 5.1-Video de esta clase [[YouTube]](https://youtu.be/EQfUJAqKdNQ)
 
 ### Clase 24 Ma. 16-Jun-2020:
-* 2.1-Deteccion de peatones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HoG_HumanDetection.pptx)
 * 2.1-SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_SIFT_ObjectDetection.pptx)
 * 2.1-Ejemplo Keypoints [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_SIFT_DoG_Keypoints.m)
 * 2.1-Ejemplo SIFT matching [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_SIFT.m)
@@ -246,4 +245,4 @@
 ---
 
 
-Updated on 11-Jun-2020 at 13:49 by Domingo Mery
+Updated on 15-Jun-2020 at 12:51 by Domingo Mery
