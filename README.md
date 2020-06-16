@@ -203,6 +203,7 @@
 * 2.1-SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_SIFT_ObjectDetection.pptx)
 * 2.1-Ejemplo Keypoints [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_SIFT_DoG_Keypoints.m)
 * 2.1-Ejemplo SIFT matching [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_SIFT.m)
+* 2.1-Video de esta clase [[YouTube]](https://youtu.be/JLGM6Haa5zY)
 
 ### Clase 25 Ju. 18-Jun-2020:
 * 6.1-Clustering: K-Means [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_KMeans.pptx)
@@ -233,4 +234,4 @@
 ---
 
 
-Updated on 16-Jun-2020 at 11:23 by Domingo Mery
+Updated on 16-Jun-2020 at 13:27 by Domingo Mery
