@@ -48,9 +48,9 @@ Hay dos fechas imoprtantes, la de la Presentación de Avance y la Presentación 
 Grupos de 4 personas ya definidos.
 
 ## 5. Presentación de Avance
-Para la presentación de avance, se debe tener al menos un buen desempeño en el conjunto A. La presentación consiste en dos items:
+Para la presentación de avance, se debe tener al menos un buen desempeño en el conjunto A (recomendación 'de amigo' ojalá también en conjunto B). La Presentación de Avance consiste en dos items:
 
-1) Un archivo PDF de cuatro slides en formato de presentación (como un archvo powerpoint convertido a PDF). El nombre del archivo debe ser AVANCE_GRUPO_xx.PDF donde xx es el número de grupoo asignado. Las cuatro slides deben ser: 1) Integrantes del grupo y número del grupo, 2) Descripción de qué se ha hecho (usar un diagrama, y dar detalles de las estrategias usadas y de los experimentos realizados), 3) Resultados obtenidos, 4) Trabajo futuro. Se deberá subir a Google Classroom el avance de cada grupo (ver fecha de entrega en calendario de Google Classroom, esta fecha no es flexible). 
+1) Un archivo PDF de cuatro slides en formato de presentación (como un archivo powerpoint convertido a PDF). El nombre del archivo debe ser AVANCE_GRUPO_xx.PDF donde xx es el número de grupo asignado. Las cuatro slides deben ser: 1) Integrantes del grupo y número del grupo, 2) Descripción de qué se ha hecho (usar un diagrama, y dar detalles de las estrategias usadas y de los experimentos realizados), 3) Resultados obtenidos, 4) Trabajo futuro. Se deberá subir a Google Classroom el avance de cada grupo (ver fecha de entrega en calendario de Google Classroom, esta fecha no es flexible). 
 
 2) Una presentación de 5 minutos por grupo usando zoom. El PDF de cada grupo será compartido por el zoom del profesor. La presentación se realizará en la última semana de clases usando el horario de clases. El orden de presentación de los grupos es aleatorio. La idea de la presentación es que cada grupo pueda aprender de los otros grupos al compartir experiencias de éxito y de fracaso también. Para la presentación lo ideal es que estén todos los miembros del grupo (habrá flexibilidad para aquellos que tengan algún problema producto de la pandemia).
 
