@@ -8,7 +8,6 @@
 * Ejemplo Cross Validation [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/matlab/PAT05_Evaluation_CrossValidation.m)
 * Ejemplo Leave-one-out Jackknife [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/matlab/PAT05_Evaluation_JackKnife.m)
 * Video de esta clase [[YouTube]](https://youtu.be/EQfUJAqKdNQ)
-* Explicacion de curve Genuine-Impostor y factor d-prime [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_Genuine_Impostor.pptx)
 ### 5.2 Sensibilidad, especificidad, precision y recall:
 ### 5.3 Curvas ROC, Precision-Recall:
 ### 5.4 Hold-out:
@@ -18,4 +17,4 @@
 ---
 
 
-Updated on 15-Jun-2020 at 12:51 by Domingo Mery
+Updated on 16-Jun-2020 at 11:12 by Domingo Mery
