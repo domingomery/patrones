@@ -223,11 +223,14 @@
 * 4.1-Clasificacion usando Sparse Representations [[matlab-c]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_sparse_classification_c.m)
 
 ### Clase 27 Ju. 25-Jun-2020:
+* 7.1-Trabajo en grupo sobre el proyecto [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap07_Aplicaciones//)
+
+### Clase 28 Ma. 30-Jun-2020:
 * 7.1-Presentacion de avances de proyecto [[proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto)
 
-### Clase 28 Ju. 02-Jul-2020:
+### Clase 29 Ju. 02-Jul-2020:
 * 7.1-Presentacion de avances de proyecto [[proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto)
 ---
 
 
-Updated on 16-Jun-2020 at 11:12 by Domingo Mery
+Updated on 16-Jun-2020 at 11:23 by Domingo Mery
