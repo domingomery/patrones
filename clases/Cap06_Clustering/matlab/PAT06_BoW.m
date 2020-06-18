@@ -5,8 +5,8 @@
 % Pattern Recognition
 % (c) Domingo Mery (2016) - http://dmery.ing.puc.cl
 
-%ini = 0;
-clt; ini = 1;
+ini = 0;
+%clt; ini = 1;
 if ini
     N = 64;
     M = 64;
@@ -60,7 +60,7 @@ if ini
     end
     delete(ft)
 end
-V = 500; % number of words
+V = 250; % number of words
 fprintf('Creating Visual Vocabulary with %d words...\n',V);
 [~,C] = Bct_kmeans(Z_train,V);
 
