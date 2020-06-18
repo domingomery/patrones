@@ -60,7 +60,7 @@ if ini
     end
     delete(ft)
 end
-V = 250; % number of words
+V = 500; % number of words
 fprintf('Creating Visual Vocabulary with %d words...\n',V);
 [~,C] = Bct_kmeans(Z_train,V);
 
