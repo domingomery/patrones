@@ -53,6 +53,7 @@
 * Ejemplo Keypoints [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_SIFT_DoG_Keypoints.m)
 * Ejemplo SIFT matching [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_SIFT.m)
 * Video de esta clase [[YouTube]](https://youtu.be/JLGM6Haa5zY)
+* Extraccion de Caracteristicas en 1D [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_FX_1D.pptx)
 ### 2.2 Caracteristicas cromaticas:
 * Caracteristicas de intensidad [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_IntensityFeatures.pptx)
 * Caracteristicas de intensidad [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_IntensityFeatures.pdf)
@@ -65,4 +66,4 @@
 ---
 
 
-Updated on 18-Jun-2020 at 13:06 by Domingo Mery
+Updated on 23-Jun-2020 at 11:24 by Domingo Mery
