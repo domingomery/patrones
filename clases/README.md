@@ -223,6 +223,7 @@
 * 4.1-Clasificacion usando Sparse Representations [[matlab-a]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_sparse_classification_a.m)
 * 4.1-Clasificacion usando Sparse Representations [[matlab-b]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_sparse_classification_b.m)
 * 4.1-Clasificacion usando Sparse Representations [[matlab-c]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_sparse_classification_c.m)
+* 4.1-SPAMS library [[link]](http://spams-devel.gforge.inria.fr)
 * 2.1-Extraccion de Caracteristicas en 1D [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_FX_1D.pptx)
 
 ### Clase 27 Ju. 25-Jun-2020:
@@ -236,4 +237,4 @@
 ---
 
 
-Updated on 23-Jun-2020 at 11:25 by Domingo Mery
+Updated on 23-Jun-2020 at 11:29 by Domingo Mery
