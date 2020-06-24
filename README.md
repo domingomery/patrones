@@ -225,6 +225,7 @@
 * 4.1-Clasificacion usando Sparse Representations [[matlab-c]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_sparse_classification_c.m)
 * 4.1-SPAMS library [[link]](http://spams-devel.gforge.inria.fr)
 * 2.1-Extraccion de Caracteristicas en 1D [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_FX_1D.pptx)
+* 4.1-Video de esta clase [[YouTube]](https://youtu.be/9tjzu7BwDi8)
 
 ### Clase 27 Ju. 25-Jun-2020:
 * 7.1-Trabajo en grupo sobre el proyecto [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap07_Aplicaciones//)
@@ -237,4 +238,4 @@
 ---
 
 
-Updated on 23-Jun-2020 at 11:29 by Domingo Mery
+Updated on 23-Jun-2020 at 20:14 by Domingo Mery

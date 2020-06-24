@@ -45,6 +45,7 @@
 * Clasificacion usando Sparse Representations [[matlab-b]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_sparse_classification_b.m)
 * Clasificacion usando Sparse Representations [[matlab-c]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_sparse_classification_c.m)
 * SPAMS library [[link]](http://spams-devel.gforge.inria.fr)
+* Video de esta clase [[YouTube]](https://youtu.be/9tjzu7BwDi8)
 ### 4.2 Arbol de decision:
 ### 4.3 Vecino mas cercano:
 ### 4.4 Distancia de Mahalanobis:
@@ -56,4 +57,4 @@
 ---
 
 
-Updated on 23-Jun-2020 at 11:29 by Domingo Mery
+Updated on 23-Jun-2020 at 20:14 by Domingo Mery
