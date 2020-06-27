@@ -219,11 +219,12 @@
 
 ### Clase 26 Ma. 23-Jun-2020:
 * 4.1-Sparse representasions [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SparseRepresentations.pptx)
-* 4.1-Ejemplo SRC [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_SRC_faces.m)
+* 4.1-Ejemplo SRC  - Matlab [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_SRC_faces.m)
 * 4.1-Clasificacion usando Sparse Representations [[matlab-a]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_sparse_classification_a.m)
 * 4.1-Clasificacion usando Sparse Representations [[matlab-b]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_sparse_classification_b.m)
 * 4.1-Clasificacion usando Sparse Representations [[matlab-c]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_sparse_classification_c.m)
 * 4.1-SPAMS library [[link]](http://spams-devel.gforge.inria.fr)
+* 4.1-Ejemplo SRC  - Python [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/python/SRC)
 * 2.1-Extraccion de Caracteristicas en 1D [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_FX_1D.pptx)
 * 4.1-Video de esta clase [[YouTube]](https://youtu.be/9tjzu7BwDi8)
 
@@ -238,4 +239,4 @@
 ---
 
 
-Updated on 23-Jun-2020 at 20:14 by Domingo Mery
+Updated on 27-Jun-2020 at 13:21 by Domingo Mery

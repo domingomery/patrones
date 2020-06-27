@@ -10,8 +10,8 @@
 % (c) Domingo Mery (2016) - http://dmery.ing.puc.cl
 
 
-% ini=0;
-clt;ini=1;
+ini=1;
+% clt;ini=1;
 if ini==1
     N = 16;
     M = 16;
@@ -53,8 +53,8 @@ if ini==1
     d = double(Bds_labels(9*ones(P,1)));
     dt = (1:P)';
     
-    Ytrain = Bft_uninorm(X_src);
-    Ytest  = Bft_uninorm(Xt_src);
+    Ytrain = Bft_uninorm(X_src(1:tr,:));
+    Ytest  = Bft_uninorm(Xt_src(1:te,:));
 end
 % dictionary
 D = Ytrain'; % The dictionary corresponds to the intensity feature of the faces!!!

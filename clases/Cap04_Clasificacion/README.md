@@ -40,11 +40,12 @@
 * Ejercicio en grupo (ver mail enviado) [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion//)
 * Explicacion del ejercicio [[YouTube]](https://youtu.be/Y-shvDW23P8)
 * Sparse representasions [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SparseRepresentations.pptx)
-* Ejemplo SRC [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_SRC_faces.m)
+* Ejemplo SRC  - Matlab [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_SRC_faces.m)
 * Clasificacion usando Sparse Representations [[matlab-a]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_sparse_classification_a.m)
 * Clasificacion usando Sparse Representations [[matlab-b]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_sparse_classification_b.m)
 * Clasificacion usando Sparse Representations [[matlab-c]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_sparse_classification_c.m)
 * SPAMS library [[link]](http://spams-devel.gforge.inria.fr)
+* Ejemplo SRC  - Python [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/python/SRC)
 * Video de esta clase [[YouTube]](https://youtu.be/9tjzu7BwDi8)
 ### 4.2 Arbol de decision:
 ### 4.3 Vecino mas cercano:
@@ -57,4 +58,4 @@
 ---
 
 
-Updated on 23-Jun-2020 at 20:14 by Domingo Mery
+Updated on 27-Jun-2020 at 13:21 by Domingo Mery
