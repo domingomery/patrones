@@ -58,7 +58,7 @@ Grupos que presentan el dia Martes 30/Junio a las 11:30am: 3, 4, 6, 7, 8, 11, 12
 
 Grupos que presentan el dia Jueves 02/Julio a las 11:30am: 1, 2, 5, 9, 10, 16, 17, 19, 20, 22, 24, 25
 
-Subir a Google Classroom la presentacion en formato PDF usando el nombre de archivo Avance_XX.pdf (donde XX es el numero de grupo), a mas tardar a las 10am del dia de la presentacion del grupo.
+Subir a Google Classroom la presentacion en formato PDF usando el nombre de archivo AVANCE_GRUPO_xx.pdf (donde XX es el numero de grupo), a mas tardar a las 10am del dia de la presentacion del grupo.
 
 
 ## 6. Presentación Final
