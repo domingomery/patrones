@@ -1,6 +1,7 @@
 
 # Capitulo 06: Clustering
 ### 6.1 Diccionarios:
+* Video de esta clase [[YouTube]](https://youtu.be/VGwb8fYxW6M)
 * Clustering: K-Means [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_KMeans.pptx)
 * Clustering: Hierarchic [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_Hierarchic.pptx)
 * Clustering: Mixture of Gaussians [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_GaussMix.pptx)
@@ -10,7 +11,6 @@
 * Ejemplo de Segmentacion con K-Means [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/matlab/PAT06_kmeans_segmentation.m)
 * Ejemplo Mean Shift [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/matlab/PAT06_MeanShift.m)
 * Ejemplo BoW [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/matlab/PAT06_BoW.m)
-* Video de esta clase [[YouTube]](https://youtu.be/VGwb8fYxW6M)
 ### 6.2 K-means, Mean Shift, Mixture of Gaussians, Hierarchical:
 ### 6.3 Bag of Words:
 ### 6.4 Clustering sparse:
@@ -18,4 +18,4 @@
 ---
 
 
-Updated on 30-Jun-2020 at 13:18 by Domingo Mery
+Updated on 30-Jun-2020 at 17:38 by Domingo Mery
