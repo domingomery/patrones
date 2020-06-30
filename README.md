@@ -233,10 +233,11 @@
 
 ### Clase 28 Ma. 30-Jun-2020:
 * 7.1-Presentacion de avances de proyecto [[proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto)
+* 7.1-Video de las presentaciones [[YouTube]](https://youtu.be/Bj5iKsoGX3k)
 
 ### Clase 29 Ju. 02-Jul-2020:
 * 7.1-Presentacion de avances de proyecto [[proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto)
 ---
 
 
-Updated on 27-Jun-2020 at 13:21 by Domingo Mery
+Updated on 30-Jun-2020 at 13:18 by Domingo Mery
