@@ -24,7 +24,7 @@
 * 1.4-Normalizacion de caracteristicas [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/matlab/PAT01_Normalization.m)
 
 ### Clase 03 Ma. 17-Mar-2020:
-* 2.1-** Video de esta clase ** [[YouTube]](https://youtu.be/J8nhfgUTXXs)
+* 2.1- **Video de esta clase** [[YouTube]](https://youtu.be/J8nhfgUTXXs)
 * 1.4-Esquema basico de reconocimiento de patrones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_PR_Methodologia.pptx)
 * 2.1-Caracteristicas geometricas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_GeometricFeatures.pptx)
 * 2.1-Caracteristicas geometricas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_GeometricFeatures.pdf)
