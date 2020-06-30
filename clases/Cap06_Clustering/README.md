@@ -1,7 +1,7 @@
 
 # Capitulo 06: Clustering
 ### 6.1 Diccionarios:
-* Video de esta clase [[YouTube]](https://youtu.be/VGwb8fYxW6M)
+* **Video de esta clase** [[YouTube]](https://youtu.be/VGwb8fYxW6M)
 * Clustering: K-Means [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_KMeans.pptx)
 * Clustering: Hierarchic [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_Hierarchic.pptx)
 * Clustering: Mixture of Gaussians [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_GaussMix.pptx)
@@ -18,4 +18,4 @@
 ---
 
 
-Updated on 30-Jun-2020 at 17:42 by Domingo Mery
+Updated on 30-Jun-2020 at 17:45 by Domingo Mery

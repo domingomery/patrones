@@ -1,7 +1,7 @@
 
 # Capitulo 05: Evaluacion de Desempeo
 ### 5.1 Matriz de Confusion:
-* Video de esta clase [[YouTube]](https://youtu.be/EQfUJAqKdNQ)
+* **Video de esta clase** [[YouTube]](https://youtu.be/EQfUJAqKdNQ)
 * Matriz de Confusion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ConfusionMatrix.pptx)
 * Estimacion de Accuracy [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_AccuracyEstimation.pptx)
 * Ejemplo Matriz de Confusion [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/matlab/PAT05_ConfusionMatrix.m)
@@ -17,4 +17,4 @@
 ---
 
 
-Updated on 30-Jun-2020 at 17:42 by Domingo Mery
+Updated on 30-Jun-2020 at 17:45 by Domingo Mery
