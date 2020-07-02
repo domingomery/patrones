@@ -236,9 +236,11 @@
 * 7.1-Presentacion de avances de proyecto (1/2) [[proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto)
 
 ### Clase 29 Ju. 02-Jul-2020:
-* 7.1-**Video de esta clase**: presentaciones (2/2) [[YouTube]](https://youtu.be/cooming_soon)
+* 7.1-**Video de esta clase**: presentaciones (2/2) [[YouTube]](https://youtu.be/XMWYfqXv8VM)
 * 7.1-Presentacion de avances de proyecto (2/2) [[proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto)
+* 4.1-Ejemplo SRC  - Python [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/python/SRC)
+* 4.1-NBNN [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_NBNN.pptx)
 ---
 
 
-Updated on 30-Jun-2020 at 17:45 by Domingo Mery
+Updated on 02-Jul-2020 at 13:18 by Domingo Mery

@@ -47,6 +47,8 @@
 * Clasificacion usando Sparse Representations [[matlab-c]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_sparse_classification_c.m)
 * SPAMS library [[link]](http://spams-devel.gforge.inria.fr)
 * Ejemplo SRC  - Python [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/python/SRC)
+* Ejemplo SRC  - Python [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/python/SRC)
+* NBNN [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_NBNN.pptx)
 ### 4.2 Arbol de decision:
 ### 4.3 Vecino mas cercano:
 ### 4.4 Distancia de Mahalanobis:
@@ -58,4 +60,4 @@
 ---
 
 
-Updated on 30-Jun-2020 at 17:45 by Domingo Mery
+Updated on 02-Jul-2020 at 13:18 by Domingo Mery
