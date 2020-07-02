@@ -60,6 +60,8 @@ Grupos que presentan el dia Jueves 02/Julio a las 11:30am: 1, 2, 5, 9, 10, 16, 1
 
 Subir a Google Classroom la presentacion en formato PDF usando el nombre de archivo AVANCE_GRUPO_xx.pdf (donde XX es el numero de grupo), a mas tardar a las 10am del dia de la presentacion del grupo.
 
+Ver presentaciones de avance realizadas [aqui](https://github.com/domingomery/patrones/tree/master/proyecto/PresentacionesAvance).
+
 
 ## 6. Presentación Final
 La presentacion  final del proyecto consiste en una reunión de todos los integrantes del grupo con el profesor. La reunión dura 45 minutos y se hara entre 9am y 6pm en un horario definido por el profesor. La puntualidad en la presentación será considerada en la nota. No se entrega informe.
@@ -86,11 +88,11 @@ En la presentación habrá preguntas orientadas tanto al proyecto como a la mate
 La nota del proyecto equivale al 30% de la nota del curso y se calcula de la siguiente manera: 5% fotos de la base de datos, 20% Presentación de Avance y 75% Presentación Final. La nota de la Presentación Final consite en 50% presentacion oral, %25 resultados, 25% examen oral. En la nota se premia el esfuerzo más que los resultados, tendrá una mejor nota una persona que pruebe e invente métodos con resultados no tan buenos, que una persona que pruebe/encuentre una sola función con resultados buenos.
 
 ## 8. Foro del Proyecto
-Para comentarios o preguntas usar por favor el [foro](https://github.com/domingomery/imagenes/issues/12).
+Para comentarios o preguntas usar por favor el [foro](https://github.com/domingomery/patrones/issues/12).
 
 
 - - - - - - - - - - - - - - - - - - - - - - - 
 (*) solicitar password al profesor del curso.
 
-Actualizado: 20 de mayo de 2020, 8:27pm
+Actualizado: 02 de julio de 2020, 1:26pm
 
