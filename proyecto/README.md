@@ -66,6 +66,8 @@ Ver presentaciones de avance realizadas [aqui](https://github.com/domingomery/pa
 ## 6. Presentación Final
 La presentacion  final del proyecto consiste en una reunión de todos los integrantes del grupo con el profesor. La reunión dura 45 minutos y se hara entre 9am y 6pm en un horario definido por el profesor. La puntualidad en la presentación será considerada en la nota. No se entrega informe.
 
+Calendario de presentaciones: (Google Calendar)[https://calendar.google.com/calendar?cid=dWMuY2xfY2xhc3Nyb29tODNhYzA2YzhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ]
+
 Esta reunión de 45 minutos consta de una presentacion tipo powerpoint, una demo y preguntas de la materia del curso.
 
 La presentación tipo powerpoint debe incluir:
