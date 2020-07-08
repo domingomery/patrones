@@ -86,6 +86,17 @@ La presentación tipo powerpoint debe incluir:
 
 En la presentación habrá preguntas orientadas tanto al proyecto como a la materia del curso (tipo examen oral). Esto servirá para poner notas individuales a cada integrante del grupo.
 
+## Zoom para presentar
+
+Para la presentacion usaremos el mismo zoom de las clases:
+
+[https://notredame.zoom.us/my/patrones](https://notredame.zoom.us/my/patrones)
+
+Meeting ID: 386 155 8778
+
+Por favor ser puntuales.
+
+
 ## 7. Nota del Proyecto
 La nota del proyecto equivale al 30% de la nota del curso y se calcula de la siguiente manera: 5% fotos de la base de datos, 20% Presentación de Avance y 75% Presentación Final. La nota de la Presentación Final consite en 50% presentacion oral, %25 resultados, 25% examen oral. En la nota se premia el esfuerzo más que los resultados, tendrá una mejor nota una persona que pruebe e invente métodos con resultados no tan buenos, que una persona que pruebe/encuentre una sola función con resultados buenos.
 
