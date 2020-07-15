@@ -66,6 +66,8 @@ Ver presentaciones de avance realizadas [aqui](https://github.com/domingomery/pa
 ## 6. Presentación Final
 La presentacion  final del proyecto consiste en una reunión de todos los integrantes del grupo con el profesor. La reunión dura 45 minutos y se hara entre 9am y 6pm en un horario definido por el profesor. La puntualidad en la presentación será considerada en la nota. No se entrega informe.
 
+Calendario de presentaciones: [Google Calendar](https://domingomery.ing.puc.cl/teaching/patrones/)
+
 Esta reunión de 45 minutos consta de una presentacion tipo powerpoint, una demo y preguntas de la materia del curso.
 
 La presentación tipo powerpoint debe incluir:
@@ -83,6 +85,17 @@ La presentación tipo powerpoint debe incluir:
 6) Demo: La demo consiste en que ustedes presenten el software funcionando de la mejor manera posible (sin improvisaciones), deben planear muy bien qué van a mostrar con buenos experimentos.
 
 En la presentación habrá preguntas orientadas tanto al proyecto como a la materia del curso (tipo examen oral). Esto servirá para poner notas individuales a cada integrante del grupo.
+
+## Zoom para presentar
+
+Para la presentacion usaremos el mismo zoom de las clases:
+
+[https://notredame.zoom.us/my/patrones](https://notredame.zoom.us/my/patrones)
+
+Meeting ID: 386 155 8778
+
+Por favor ser puntuales.
+
 
 ## 7. Nota del Proyecto
 La nota del proyecto equivale al 30% de la nota del curso y se calcula de la siguiente manera: 5% fotos de la base de datos, 20% Presentación de Avance y 75% Presentación Final. La nota de la Presentación Final consite en 50% presentacion oral, %25 resultados, 25% examen oral. En la nota se premia el esfuerzo más que los resultados, tendrá una mejor nota una persona que pruebe e invente métodos con resultados no tan buenos, que una persona que pruebe/encuentre una sola función con resultados buenos.
