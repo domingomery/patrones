@@ -14,7 +14,7 @@
 * Local Binary Patterns [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns.pptx)
 * Ejemplo: Reconocimiento de caras usando LBP [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_FaceRecognition_simple.m)
 * Ejercicio sobre LBP [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_QuizLBP.pptx)
-* Lectura complementaria de LBP [[PPT]](http://www.scholarpedia.org/article/Local_Binary_Patterns)
+* Lectura complementaria de LBP [[Paper]](http://www.scholarpedia.org/article/Local_Binary_Patterns)
 * **Video de esta clase: texturas de Haralick** [[YouTube]](https://youtu.be/w1T-gzD4gDo)
 * Caracteristicas de textura de Haralick [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HaralickTexture.pptx)
 * Caracteristicas de textura de Haralick [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Haralick_Textures.pdf)
@@ -58,4 +58,4 @@
 ---
 
 
-Updated on 21-Jul-2020 at 18:26 by Domingo Mery
+Updated on 21-Jul-2020 at 18:33 by Domingo Mery

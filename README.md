@@ -48,7 +48,7 @@
 
 ### Clase 05 Ma. 24-Mar-2020:
 * 2.2-Ejercicio sobre LBP [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_QuizLBP.pptx)
-* 2.2-Lectura complementaria de LBP [[PPT]](http://www.scholarpedia.org/article/Local_Binary_Patterns)
+* 2.2-Lectura complementaria de LBP [[Paper]](http://www.scholarpedia.org/article/Local_Binary_Patterns)
 
 ### Clase 06 Ju. 26-Mar-2020:
 * 2.2-**Video de esta clase: texturas de Haralick** [[YouTube]](https://youtu.be/w1T-gzD4gDo)
@@ -179,7 +179,7 @@
 * 4.9-Ejemplo Estado del Arte Reconocimiento Facial [[YouTube]](https://youtu.be/qKOsnwIH5Tk)
 
 ### Clase 22 Ma. 09-Jun-2020:
-* 4.9-Ejercicio en grupo [[]](https://youtu.be/Y-shvDW23P8)
+* 4.9-**Video de esta clase: ejercicio en grupo** [[YouTube]](https://youtu.be/Y-shvDW23P8)
 
 ### Clase 23 Ju. 11-Jun-2020:
 * 5.1-**Video de esta clase: evaluacion de desempeno** [[YouTube]](https://youtu.be/EQfUJAqKdNQ)
@@ -216,22 +216,21 @@
 * 4.8-Clasificacion usando Sparse Representations [[matlab-b]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_sparse_classification_b.m)
 * 4.8-Clasificacion usando Sparse Representations [[matlab-c]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_sparse_classification_c.m)
 * 4.8-SPAMS library [[link]](http://spams-devel.gforge.inria.fr)
-* 4.8-Ejemplo SRC  - Python [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/python/SRC)
 * 2.3-Extraccion de Caracteristicas en 1D [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_FX_1D.pptx)
 
 ### Clase 27 Ju. 25-Jun-2020:
-* 7.1-Trabajo en grupo sobre el proyecto [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap07_Aplicaciones//)
+* 7.1-Trabajo en grupo sobre el proyecto [[]](https://github.com/domingomery/patrones/tree/master/proyecto)
 
 ### Clase 28 Ma. 30-Jun-2020:
 * 7.1-**Video de esta clase**: presentaciones (1/2) [[YouTube]](https://youtu.be/Bj5iKsoGX3k)
-* 7.1-Presentacion de avances de proyecto (1/2) [[proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto)
+* 7.1-Presentacion de avances de proyecto (1/2) [[proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto/PresentacionesAvance)
 
 ### Clase 29 Ju. 02-Jul-2020:
 * 7.1-**Video de esta clase**: presentaciones (2/2) [[YouTube]](https://youtu.be/XMWYfqXv8VM)
-* 7.1-Presentacion de avances de proyecto (2/2) [[proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto)
-* 7.1-Ejemplo SRC  - Python [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap07_Aplicaciones/python/SRC)
+* 7.1-Presentacion de avances de proyecto (2/2) [[proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto/PresentacionesAvance)
+* 4.8-Ejemplo SRC  - Python [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/python/SRC)
 * 4.2-NBNN [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_NBNN.pptx)
 ---
 
 
-Updated on 21-Jul-2020 at 18:26 by Domingo Mery
+Updated on 21-Jul-2020 at 18:33 by Domingo Mery

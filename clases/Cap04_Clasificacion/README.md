@@ -54,8 +54,8 @@
 * Ejemplo de Redes Neuronales en Python [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/python/neural_networks)
 * Ejemplo clasificacion ojos vs. nariz [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/python/eyenose)
 * Ejemplo Estado del Arte Reconocimiento Facial [[YouTube]](https://youtu.be/qKOsnwIH5Tk)
-* Ejercicio en grupo [[]](https://youtu.be/Y-shvDW23P8)
+* **Video de esta clase: ejercicio en grupo** [[YouTube]](https://youtu.be/Y-shvDW23P8)
 ---
 
 
-Updated on 21-Jul-2020 at 18:26 by Domingo Mery
+Updated on 21-Jul-2020 at 18:33 by Domingo Mery
