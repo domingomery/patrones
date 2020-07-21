@@ -7,7 +7,7 @@
 * Introduccion a la Seleccion de Caracteristicas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection.pdf)
 * Clean: Limpieza de datos [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Clean.pptx)
 * Clean: Limpieza de datos [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_dataclean.m)
-* **Video de esta clase** [[YouTube]](https://youtu.be/db5qBh-VVWw)
+* **Video de esta clase: esquema general de seleccion de caracteristicas** [[YouTube]](https://youtu.be/db5qBh-VVWw)
 * Esquema general con seleccion de caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_GeneralSchema.pdf)
 ### 3.2 Analisis de componentes principales:
 * **Video de esta clase: PCA** [[YouTube]](https://youtu.be/9VxaGQSHKxo)
@@ -40,8 +40,9 @@
 * Toolbox Balu en Matlab [[Libreria]](https://github.com/domingomery/Balu)
 * Libreria PyBalu en Python [[Libreria]](https://github.com/mbucchi/pybalu)
 * Ejemplo usando Balu [[Matlab y Python]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/balu/)
+* Reconocimiento de caras usando LBP y PCA [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_PCA_FaceRecognition.m)
 * Trabajo en grupo: realizar el problema de deteccion de caras [[Enunciado]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/ejercicios/PCA_SFS)
 ---
 
 
-Updated on 21-Jul-2020 at 18:12 by Domingo Mery
+Updated on 21-Jul-2020 at 18:26 by Domingo Mery
