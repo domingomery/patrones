@@ -6,6 +6,7 @@
 ### Clase 01 Ma. 10-Mar-2020:
 * 0.1-Programa del curso [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/Programa_patrones.pdf)
 * 0.1-Presentacion del curso [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/PAT00_Presentacion.pptx)
+* 0.1-Videos de todas las clases de este curso [[YouTube]](https://bit.ly/2CBCVRC)
 * 0.1-Libro: Elements of Statistical Learning (Hastie et al., 2008) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/books/Elements_of_Statistical_Learning.pdf)
 * 0.1-Libro: Neural Networks and Deep Learning (Aggarwal, 2019) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/books/2018_Book_NeuralNetworksAndDeepLearning.pdf)
 * 0.1-Libro: Deep Learning (Goodfellow, 2016) [[Book]](http://www.deeplearningbook.org)
@@ -36,7 +37,6 @@
 * 2.5-Ejemplo: Descripcion de elipses [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_GeoEllipses.m)
 * 2.5-Ejemplo: Reconocimiento de 9 y 6 [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_GeoFeatures_96.m)
 * 2.5-Ejemplo: Momentos de Hu [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_HuMoments.m)
-* 2.1-Chat de preguntas de zoom de esta clase [[txt]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_ChatPreguntas_Clase_03_170320.txt)
 
 ### Clase 04 Ju. 19-Mar-2020:
 * 2.2-**Video de esta clase: caracteristicas de intensidad** [[YouTube]](https://youtu.be/7woR1nDc9r0)
@@ -161,7 +161,7 @@
 * 4.5-Ejemplo [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_SVM.m)
 * 4.5-Teoria sobre SVM [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/papers/PAT04_SupportVectorMachines.pdf)
 * 4.9-Ejemplo SVM con distintos kernels [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_SVM_Kernels.m)
-* 4.6-Tutorial de SVM en phyton [[YouTube]](https://www.youtube.com/watch?v=N1vOgolbjSc)
+* 4.5-Tutorial de SVM en phyton [[YouTube]](https://www.youtube.com/watch?v=N1vOgolbjSc)
 * 4.9-Ejemplo SVM python (clf_svm.py) [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/python/classifiers)
 * 4.5-Video de teoria de SVM (MIT lesson) [[YouTube]](https://www.youtube.com/watch?v=_PwhiWxHK8o)
 
@@ -185,10 +185,10 @@
 * 5.1-**Video de esta clase: evaluacion de desempeno** [[YouTube]](https://youtu.be/EQfUJAqKdNQ)
 * 5.2-Matriz de Confusion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ConfusionMatrix.pptx)
 * 5.5-Estimacion de Accuracy [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_AccuracyEstimation.pptx)
-* 5.2-Ejemplo Matriz de Confusion [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/matlab/PAT05_ConfusionMatrix.m)
-* 5.5-Ejemplo Hold-Out [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/matlab/PAT05_Evaluation_HoldOut.m)
-* 5.5-Ejemplo Cross Validation [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/matlab/PAT05_Evaluation_CrossValidation.m)
-* 5.5-Ejemplo Leave-one-out Jackknife [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/matlab/PAT05_Evaluation_JackKnife.m)
+* 5.6-Ejemplo Matriz de Confusion [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/matlab/PAT05_ConfusionMatrix.m)
+* 5.6-Ejemplo Hold-Out [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/matlab/PAT05_Evaluation_HoldOut.m)
+* 5.6-Ejemplo Cross Validation [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/matlab/PAT05_Evaluation_CrossValidation.m)
+* 5.6-Ejemplo Leave-one-out Jackknife [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/matlab/PAT05_Evaluation_JackKnife.m)
 
 ### Clase 24 Ma. 16-Jun-2020:
 * 2.2-**Video de esta clase: SIFT** [[YouTube]](https://youtu.be/JLGM6Haa5zY)
@@ -202,7 +202,7 @@
 * 6.2-Clustering: Hierarchic [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_Hierarchic.pptx)
 * 6.2-Clustering: Mixture of Gaussians [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_GaussMix.pptx)
 * 6.2-Clustering: Mean Shift [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_MeanShift.pptx)
-* 6.2-BoW: Bag of Words [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_BoW.pptx)
+* 6.3-BoW: Bag of Words [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_BoW.pptx)
 * 6.4-Ejemplo K-Means [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/matlab/PAT06_kmeans.m)
 * 6.4-Ejemplo de Segmentacion con K-Means [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/matlab/PAT06_kmeans_segmentation.m)
 * 6.4-Ejemplo Mean Shift [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/matlab/PAT06_MeanShift.m)
@@ -219,18 +219,18 @@
 * 2.3-Extraccion de Caracteristicas en 1D [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_FX_1D.pptx)
 
 ### Clase 27 Ju. 25-Jun-2020:
-* 7.1-Trabajo en grupo sobre el proyecto [[]](https://github.com/domingomery/patrones/tree/master/proyecto)
+* 7.1-Trabajo en grupo sobre el proyecto [[Proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto)
 
 ### Clase 28 Ma. 30-Jun-2020:
 * 7.1-**Video de esta clase**: presentaciones (1/2) [[YouTube]](https://youtu.be/Bj5iKsoGX3k)
-* 7.1-Presentacion de avances de proyecto (1/2) [[proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto/PresentacionesAvance)
+* 7.1-Presentacion de avances de proyecto (1/2) [[Proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto/PresentacionesAvance)
 
 ### Clase 29 Ju. 02-Jul-2020:
 * 7.1-**Video de esta clase**: presentaciones (2/2) [[YouTube]](https://youtu.be/XMWYfqXv8VM)
-* 7.1-Presentacion de avances de proyecto (2/2) [[proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto/PresentacionesAvance)
+* 7.1-Presentacion de avances de proyecto (2/2) [[Proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto/PresentacionesAvance)
 * 4.8-Ejemplo SRC  - Python [[phyton]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/python/SRC)
 * 4.2-NBNN [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_NBNN.pptx)
 ---
 
 
-Updated on 21-Jul-2020 at 18:33 by Domingo Mery
+Updated on 22-Jul-2020 at 12:24 by Domingo Mery

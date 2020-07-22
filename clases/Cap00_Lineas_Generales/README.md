@@ -3,6 +3,7 @@
 ### 0.1 Presentacion del curso:
 * Programa del curso [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/Programa_patrones.pdf)
 * Presentacion del curso [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/PAT00_Presentacion.pptx)
+* Videos de todas las clases de este curso [[YouTube]](https://bit.ly/2CBCVRC)
 * Libro: Elements of Statistical Learning (Hastie et al., 2008) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/books/Elements_of_Statistical_Learning.pdf)
 * Libro: Neural Networks and Deep Learning (Aggarwal, 2019) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/books/2018_Book_NeuralNetworksAndDeepLearning.pdf)
 * Libro: Deep Learning (Goodfellow, 2016) [[Book]](http://www.deeplearningbook.org)
@@ -11,4 +12,4 @@
 ---
 
 
-Updated on 21-Jul-2020 at 18:33 by Domingo Mery
+Updated on 22-Jul-2020 at 12:24 by Domingo Mery

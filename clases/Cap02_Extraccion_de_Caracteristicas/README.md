@@ -6,7 +6,6 @@
 * Caracteristicas geometricas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_GeometricFeatures.pdf)
 * Momentos de Flusser [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Flusser_Moments.pdf)
 * Momentos de Hu [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Hu_Moments.pdf)
-* Chat de preguntas de zoom de esta clase [[txt]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_ChatPreguntas_Clase_03_170320.txt)
 ### 2.2 Caracteristicas cromaticas:
 * **Video de esta clase: caracteristicas de intensidad** [[YouTube]](https://youtu.be/7woR1nDc9r0)
 * Caracteristicas de intensidad [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_IntensityFeatures.pptx)
@@ -58,4 +57,4 @@
 ---
 
 
-Updated on 21-Jul-2020 at 18:33 by Domingo Mery
+Updated on 22-Jul-2020 at 12:24 by Domingo Mery

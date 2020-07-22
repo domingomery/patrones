@@ -7,8 +7,8 @@
 * Clustering: Hierarchic [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_Hierarchic.pptx)
 * Clustering: Mixture of Gaussians [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_GaussMix.pptx)
 * Clustering: Mean Shift [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_MeanShift.pptx)
-* BoW: Bag of Words [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_BoW.pptx)
 ### 6.3 Bag of Words:
+* BoW: Bag of Words [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_BoW.pptx)
 ### 6.4 Ejemplos:
 * Ejemplo K-Means [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/matlab/PAT06_kmeans.m)
 * Ejemplo de Segmentacion con K-Means [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/matlab/PAT06_kmeans_segmentation.m)
@@ -17,4 +17,4 @@
 ---
 
 
-Updated on 21-Jul-2020 at 18:33 by Domingo Mery
+Updated on 22-Jul-2020 at 12:24 by Domingo Mery

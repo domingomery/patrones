@@ -22,9 +22,9 @@
 * Teoria sobre SVM [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM_Theory.pdf)
 * Ejemplo [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/matlab/PAT04_Classifier_SVM.m)
 * Teoria sobre SVM [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/papers/PAT04_SupportVectorMachines.pdf)
+* Tutorial de SVM en phyton [[YouTube]](https://www.youtube.com/watch?v=N1vOgolbjSc)
 * Video de teoria de SVM (MIT lesson) [[YouTube]](https://www.youtube.com/watch?v=_PwhiWxHK8o)
 ### 4.6 Redes neuronales:
-* Tutorial de SVM en phyton [[YouTube]](https://www.youtube.com/watch?v=N1vOgolbjSc)
 * **Video de esta clase: redes neuronales** [[YouTube]](https://youtu.be/xdybl8CCNJ0)
 * Redes Neuronales [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_NeuralNetworks.pptx)
 * Libro de Neural Networks and Deep Learning [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
@@ -58,4 +58,4 @@
 ---
 
 
-Updated on 21-Jul-2020 at 18:33 by Domingo Mery
+Updated on 22-Jul-2020 at 12:24 by Domingo Mery
