@@ -1,6 +1,7 @@
 
 # Capitulo 00: Lineas Generales
 ### 0.1 Presentacion del curso:
+* **Video de esta clase: introduccion al curso** [[YouTube]](https://youtu.be/z_-Ve8gRaHc)
 * Programa del curso [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/Programa_patrones.pdf)
 * Presentacion del curso [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/PAT00_Presentacion.pptx)
 * Videos de todas las clases de este curso [[YouTube]](https://bit.ly/2CBCVRC)
@@ -12,4 +13,4 @@
 ---
 
 
-Updated on 22-Jul-2020 at 12:24 by Domingo Mery
+Updated on 03-Aug-2020 at 13:01 by Domingo Mery
