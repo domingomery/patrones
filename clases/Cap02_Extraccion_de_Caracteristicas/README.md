@@ -1,60 +1,39 @@
 
 # Capitulo 02: Extraccion de Caracteristicas
 ### 2.1 Caracteristicas geometricas:
-* **Video de esta clase: caracteristicas geometricas** [[YouTube]](https://youtu.be/J8nhfgUTXXs)
 * Caracteristicas geometricas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_GeometricFeatures.pptx)
 * Caracteristicas geometricas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_GeometricFeatures.pdf)
 * Momentos de Flusser [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Flusser_Moments.pdf)
 * Momentos de Hu [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Hu_Moments.pdf)
 ### 2.2 Caracteristicas cromaticas:
-* **Video de esta clase: caracteristicas de intensidad** [[YouTube]](https://youtu.be/7woR1nDc9r0)
 * Caracteristicas de intensidad [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_IntensityFeatures.pptx)
 * Caracteristicas de intensidad [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_IntensityFeatures.pdf)
 * Local Binary Patterns [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns.pptx)
-* Ejemplo: Reconocimiento de caras usando LBP [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_FaceRecognition_simple.m)
 * Ejercicio sobre LBP [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_QuizLBP.pptx)
 * Lectura complementaria de LBP [[Paper]](http://www.scholarpedia.org/article/Local_Binary_Patterns)
-* **Video de esta clase: texturas de Haralick** [[YouTube]](https://youtu.be/w1T-gzD4gDo)
 * Caracteristicas de textura de Haralick [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HaralickTexture.pptx)
 * Caracteristicas de textura de Haralick [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Haralick_Textures.pdf)
-* **Video de esta clase: ejemplo de texturas de Haralick** [[video]](https://youtu.be/qaENVpUg0dk)
 * Ejercicio sobre descriptores de Textura [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_QuizTexturas.pptx)
 * Ejercicio sobre LBP y Haralick [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_QuizTexturas.pptx)
-* **Video de esta clase: caracteristicas de Gabor** [[YouTube]](https://youtu.be/y-Kl5-v8qqQ)
 * Gabor [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_Gabor.pptx)
 * Paper Gabor [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Manjunath_GaborFeatures1996.pdf)
 * Video experimento con gatos (1/2) [[Video]](https://youtu.be/IOHayh06LJ4)
 * Video experimento con gatos (2/2) [[Video]](https://youtu.be/QzkMo45pcUo)
 * Comparacion de caracteristicas de textura [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Randen_ComparativeTextures.pdf)
-* **Video de esta clase: CLP y HOG** [[YouTube]](https://youtu.be/knTGuNeu1Zo)
 * Crossing Line Profile (CLP) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_CrossingLineProfiles.pptx)
 * Crossing Line Profile (CLP) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Mery_CrossingLineProfiles.pdf)
 * Paper HoG [[Paper]](https://hal.inria.fr/file/index/docid/548512/filename/hog_cvpr2005.pdf)
 * Implementacion de HoG en Python con OpenCV [[phyton]](https://www.learnopencv.com/histogram-of-oriented-gradients/)
-* **Video de esta clase** - Aclaracion de Dudas [[YouTube]](https://youtu.be/BrWdtf0D3qI)
-* **Video de esta clase: SIFT** [[YouTube]](https://youtu.be/JLGM6Haa5zY)
+* Aclaracion de Dudas [[]]()
 * SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_SIFT_ObjectDetection.pptx)
 ### 2.3 Otras caracteristicas:
 * Extraccion de Caracteristicas en 1D [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_FX_1D.pptx)
 ### 2.4 Normalizacion de caracteristicas:
 ### 2.5 Ejemplos:
-* Ejemplo: Caracteristicas geometricas basicas [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_BasicGeoFeatures.m)
 * Ejercicio de reconocimiento de flechas [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_EjercicioFlechas.pdf)
-* Ejemplo: Contornos usando descriptores de Fourier [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_FourierDescriptors.m)
-* Ejemplo: Descripcion de elipses [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_GeoEllipses.m)
-* Ejemplo: Reconocimiento de 9 y 6 [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_GeoFeatures_96.m)
-* Ejemplo: Momentos de Hu [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_HuMoments.m)
-* Ejemplo: Verificacion de caras [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_LBP_FaceVerification.m)
-* Ejemplo: imagenes satelitales usando Haralick [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_TexturesHaralick.m)
 * Ejercicio con base de datos de texturas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_Ejercicio_111_Texturas.pptx)
-* Ejemplo: Reconocimiento de texturas 1 [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_TextureRecognition_1.m)
-* Ejemplo: Reconocimiento de texturas 2 [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_TextureRecognition_2.m)
-* Ejemplo: Deteccion de caras usando Gabor [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_FaceDetection_Gabor.m)
-* Ejemplo: Deteccion de defectos usando CLP [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_CLP.m)
 * Deteccion de peatones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HoG_HumanDetection.pptx)
-* Ejemplo Keypoints  para SIFT [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_SIFT_DoG_Keypoints.m)
-* Ejemplo SIFT matching [[matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/matlab/PAT02_SIFT.m)
 ---
 
 
-Updated on 15-Mar-2021 at 10:57 by Domingo Mery
+Updated on 15-Mar-2021 at 13:39 by Domingo Mery
