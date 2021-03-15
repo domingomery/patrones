@@ -1,4 +1,4 @@
-# Tarea 02: Reconocedor de Paredes Rayadas
+# Tarea 02: Reconocedor de Paredes Rayadas (VERSION 2020!!!)
 
 ## Enunciado
 El objetivo de esta tarea es diseñar un reconocedor automatico de paredes rayadas usando extraccion de caracteristicas de textura, seleccionador de caracteristicas y clasificador knn.

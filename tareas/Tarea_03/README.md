@@ -1,4 +1,4 @@
-# Tarea 03: Reconocedor de COVID19 
+# Tarea 03: Reconocedor de COVID19 (VERSION 2020!!!)
 
 ## Enunciado
 El objetivo de esta tarea es disenar un reconocedor automatico que a partir de una radiografia del torax de una persona sea capaz de diagnosticar si la persona tiene COVID19, Neuomonia o se encuentra sana. Para realizar este sistema de reconocimiento se cuenta con las imagenes radiograficas provenientes de la Italian Society of Medical and Interventional Radiology (SIRM) COVID-19 DATABASE. 

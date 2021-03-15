@@ -1,4 +1,4 @@
-# Tarea 01: Reconocedor de Caracteres
+# Tarea 01: Reconocedor de Caracteres (VERSION 2020!!!)
 
 ## Enunciado
 El objetivo de esta tarea es Diseñar un reconocedor automatico de los caracteres A, S, D, F, G, en diferentes fonts.
