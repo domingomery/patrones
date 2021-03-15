@@ -1,4 +1,4 @@
-# Reconocimiento de Patrones
+# Reconocimiento de Patrones - Version 2020
 
 ## Planificacion del curso por dia
 (este material tambien esta disponible en las clases de cada capitulo)
@@ -234,4 +234,4 @@
 ---
 
 
-Updated on 15-Mar-2021 at 10:57 by Domingo Mery
+Updated on 03-Aug-2020 at 13:01 by Domingo Mery
