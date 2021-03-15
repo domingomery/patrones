@@ -1,4 +1,4 @@
-# Reconocimiento de Patrones - Version 2020
+# Reconocimiento de Patrones (Version 2020)
 
 ## Planificacion del curso por dia
 (este material tambien esta disponible en las clases de cada capitulo)
