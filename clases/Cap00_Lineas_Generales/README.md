@@ -1,7 +1,7 @@
 
 # Capitulo 00: Lineas Generales
 ### 0.1 Presentacion del curso:
-* ** Video de esta clase ** [[YouTube]](https://youtu.be/fN4fOoWzdWs)
+* * Video de esta clase * [[YouTube]](https://youtu.be/fN4fOoWzdWs)
 * Programa del curso [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/Programa_patrones.pdf)
 * Presentacion del curso [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/PAT00_Presentacion.pptx)
 * Libro: Elements of Statistical Learning (Hastie et al., 2008) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/books/Elements_of_Statistical_Learning.pdf)
@@ -12,4 +12,4 @@
 ---
 
 
-Updated on 16-Mar-2021 at 13:09 by Domingo Mery
+Updated on 16-Mar-2021 at 13:13 by Domingo Mery
