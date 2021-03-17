@@ -6,27 +6,32 @@ El objetivo de esta tarea es Diseñar un reconocedor automatico de las letras X,
 
 ## Descripcion
 
-En este [archivo](https://github.com/domingomery/patrones/tree/master/tareas/Tarea_01/letras.zip) se encuentran 100 imagenes de cada una de las cinco letras. Algunas de ellas se muestran a continuacion:
+En este [archivo](https://github.com/domingomery/patrones/tree/master/tareas/Tarea_01/letras.zip) se encuentran 100 imágenes de cada una de las cinco letras. Algunas de ellas se muestran a continuacion:
 
 <img src="https://github.com/domingomery/patrones/blob/master/tareas/Tarea_01/samples.png" width="600">
 
-El formato del nombre de las imagenes es 'char_nn_kkk.png', donde nn = 01, ... 05, indica el numero de la letra (X,Y,Z,A,B respectivamente), y kkk = 001, 002, ... 100 indica el numero de la imagen.
+El formato del nombre de las imágenes es 'char_nn_kkk.png', donde nn = 01, ... 05, indica el numero de la letra (X,Y,Z,A,B respectivamente), y kkk = 001, 002, ... 100 indica el número de la imagen.
 
-En esta tarea, extraiga caracteristicas de estas letras de tal forma que se pueda disenar un clasificador que reconozca de manera automatica cual de las cinco letras es. La idea es que Ud. disene el clasificador usando solo las primeras 75 muestras de cada letra, y que pruebe el desempeno en las 25 muestras restantes.
+En esta tarea, extraiga características de estas letras de tal forma que se pueda diseñar un clasificador que reconozca de manera automática cuál de las cinco letras es. La idea es que Ud. diseñe el clasificador usando sólo las primeras 75 imágenes de cada letra, y que pruebe el desempeño en las 25 imágenes restantes.
 
-Ud. debera entregar un informe de una pagina(*) en formato pdf en el que explique como realizo la extraccion de caracteristicas y la clasificacion. Debera incluir un grafico del espacio de características y/o histogramas, en los que se aprecie la separacion de las clases. Ademas debera incluir la matriz de confusion, asi como indicar el desempeno del clasificador, es decir que porcentaje de las letras del conjunto de entrenamiento y del conjunto de pruebas se clasificaron correctamente. Se debera entregar tambien el codigo de la solucion (debidamente ordenado, explicado y comentado) en Python usando Google Colab.
+Ud. deberá entregar un Informe y un Código
+
+## Especificacion del Informe
+
+Ud. deberá entregar un informe de una pagina(*) en formato pdf en el que explique cómo realizó la extracción de características y la clasificación. Deberá incluir un gráfico del espacio de características y/o histogramas, en los que se visualice la separación de las clases. Además deberá incluir la matriz de confusión, así como indicar el desempeño del clasificador, es decir qué porcentaje de las letras del conjunto de entrenamiento y del conjunto de pruebas se clasificaron correctamente. 
 
 (*) Si el informe tiene mas de una pagina solo se revisara la primera pagina del informe,
 
 ## Especificacion del codigo
-Para la entrega del codigo, se pide que entreguen un archivo ipynb (notebook de Google Colab) en Python. En el codigo debera incluir (y usar) una funcion llamada 'Reconocedor' que reciba como entrada una unica imagen binaria de una letra, y que entregue como salida el numero de la letra que ha reconocido. Es decir se pide como salida de la funcion los numeros, 1,2,3,4 o 5, dependiendo si la entrada es X,Y,Z,A,B respectivamente.
+Se deberá entregar también el código de la solución (debidamente ordenado, explicado y comentado) en Python usando Google Colab, es decir un archivo ipynb (notebook de Google Colab). En el código deberá incluir (y usar) una función llamada 'Reconocedor' que reciba como entrada una única imagen binaria de una letra, y que entregue como salida el número de la letra que ha reconocido. Es decir se pide como salida de la función los números, 1,2,3,4 ó 5, dependiendo si la entrada es X,Y,Z,A,B respectivamente.
 
 Restricciones:
 
-* Se puede usar funciones de librerías de procesamiento de imagenes en las que el input es una imagen, y el output es una imagen. 
-* No está permitido usar librerías de extracción de caracteristicas.
-* No está permitido usar librerías de clasificación.
-* No está permitido usar librerías de evaluación.
+* Se puede aquellas funciones de librerías de procesamiento de imágenes en las que el input es una imagen, y el output es una imagen. 
+* No se puede usar funciones de librerías de procesamiento de imágenes que no cumplan lo anterior. 
+* No está permitido usar funciones de librerías que realicen la extracción de caracteristicas.
+* No está permitido usar funciones de librerías que realicen la clasificación.
+* No está permitido usar funciones de librerías que realicen la evaluación.
 * No hay restricciones en el tiempo de ejecución, sólo esperamos que sea algo razonable para que lo/as ayudantes del curso puedan corregir 150 tareas. Gracias por su comprensión :)
 
 
