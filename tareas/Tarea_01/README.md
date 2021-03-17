@@ -21,6 +21,14 @@ Ud. debera entregar un informe de una pagina(*) en formato pdf en el que expliqu
 ## Especificacion del codigo
 Para la entrega del codigo, se pide que entreguen un archivo ipynb (notebook de Google Colab) en Python. En el codigo debera incluir (y usar) una funcion llamada 'Reconocedor' que reciba como entrada una unica imagen binaria de una letra, y que entregue como salida el numero de la letra que ha reconocido. Es decir se pide como salida de la funcion los numeros, 1,2,3,4 o 5, dependiendo si la entrada es X,Y,Z,A,B respectivamente.
 
+Restricciones:
+
+* Se puede usar funciones de librerías de procesamiento de imagenes en las que el input es una imagen, y el output es una imagen. 
+* No está permitido usar librerías de extracción de caracteristicas.
+* No está permitido usar librerías de clasificación.
+* No está permitido usar librerías de evaluación.
+* No hay restricciones en el tiempo de ejecución, sólo esperamos que sea algo razonable para que lo/as ayudantes del curso puedan corregir 150 tareas. Gracias por su comprensión :)
+
 
 
 ## Fecha de Entrega
@@ -36,7 +44,7 @@ A partir del enunciado, se debera implementar una solución en Matlab o Python. 
 La nota en este item es 30% x C, donde C es A + B, con A un numero entre 0 y 1 que indica el mejor desempeno encontrado en el curso y B una constante calculada de tal forma que el mejor resultado en el curso obtenga C = 1. 
 
 ## Indicaciones para subir la tarea
-La tarea deberá subirse usando la plataforma [Google Classroom](https://classroom.google.com/u/0/c/NjI2MjU3NTE1MDVa/a/NjI2Njg3MjE1NzJa/details) (código de la clase es fjqq2xr). Los estudiantes del curso deben haber recibido una invitación de Google Classrom al correo que tienen en la UC.
+La tarea deberá subirse usando la plataforma [Google Classroom](https://classroom.google.com/c/Mjk2NzQzMTI1MTc1?cjc=asifzvs) (código de la clase es asifzvs). Los estudiantes del curso deben haber recibido una invitación de Google Classrom al correo que tienen en la UC.
 
 ## Foro
-Hacer comentarios preguntas que se hayan contestado en clases en el [foro](https://github.com/domingomery/patrones/issues/7).
+Hacer comentarios preguntas que se hayan contestado en clases en el [foro](https://github.com/domingomery/patrones/issues/20.
