@@ -1,22 +1,25 @@
-# Tarea 01: Reconocedor de Caracteres (VERSION 2020!!!)
+# Tarea 01: Reconocedor de Letras (VERSION 2021)
 
 ## Enunciado
-El objetivo de esta tarea es Diseñar un reconocedor automatico de los caracteres A, S, D, F, G, en diferentes fonts.
+El objetivo de esta tarea es Diseñar un reconocedor automatico de las letras X, Y, Z, A, B, en diferentes fonts.
 
 
 ## Descripcion
-En estas dos imagenes  
-[Training_01.png](https://github.com/domingomery/patrones/tree/master/tareas/Tarea_01/Training_01.png) y
-[Training_02.png](https://github.com/domingomery/patrones/tree/master/tareas/Tarea_01/Training_02.png) 
-se encuentran representaciones binarias de los caracteres que deben ser reconocidos. Extraiga caracteristicas de estos caracteres de tal forma que se pueda disenar un clasificador que determine de manera automatica cual de ellos es. La idea es que Ud. disene el clasificador usando solo estas dos imagenes, y que pruebe el desempeno en esta imagen de prueba
-[Testing](https://github.com/domingomery/patrones/tree/master/tareas/Tarea_01/Testing.png).
 
-Ud. debera entregar un informe de una pagina(*) en formato pdf en el que explique como realizo la extraccion de caracteristicas y la clasificacion. Debera incluir un grafico del espacio de características y/o histogramas, en los que se aprecie la separacion de las clases. Ademas debera incluir la matriz de confusion, asi como indicar el desempeno del clasificador, es decir que porcentaje de caracteres se clasificaron correctamente. Se debera entregar tambien el codigo de la solucion (debidamente ordenado, explicado y comentado).
+En este [archivo](https://github.com/domingomery/patrones/tree/master/tareas/Tarea_01/letras.zip) se encuentran 100 imagenes de cada una de las cinco letras. Algunas de ellas se muestran a continuacion:
+
+<img src="https://github.com/domingomery/patrones/blob/master/tareas/Tarea_01/samples.png" width="600">
+
+El formato del nombre de las imagenes es 'char_nn_kkk.png', donde nn = 01, ... 05, indica el numero de la letra (X,Y,Z,A,B respectivamente), y kkk = 001, 002, ... 100 indica el numero de la imagen.
+
+En esta tarea, extraiga caracteristicas de estas letras de tal forma que se pueda disenar un clasificador que reconozca de manera automatica cual de las cinco letras es. La idea es que Ud. disene el clasificador usando solo las primeras 75 muestras de cada letra, y que pruebe el desempeno en las 25 muestras restantes.
+
+Ud. debera entregar un informe de una pagina(*) en formato pdf en el que explique como realizo la extraccion de caracteristicas y la clasificacion. Debera incluir un grafico del espacio de características y/o histogramas, en los que se aprecie la separacion de las clases. Ademas debera incluir la matriz de confusion, asi como indicar el desempeno del clasificador, es decir que porcentaje de las letras del conjunto de entrenamiento y del conjunto de pruebas se clasificaron correctamente. Se debera entregar tambien el codigo de la solucion (debidamente ordenado, explicado y comentado) en Python usando Google Colab.
 
 (*) Si el informe tiene mas de una pagina solo se revisara la primera pagina del informe,
 
 ## Especificacion del codigo
-Para la entrega del codigo, se pide que entreguen una funcion, en MATLAB o Python, que reciba como entrada una unica imagen binaria de una letra, y que el codigo pueda determinar que letra es. Se pide como salida de la funcion los numeros, 1,2,3,4 o 5, dependiendo si la entrada es A,S,D,F,G respectivamente. En los siguientes archivos encontrarán ejemplos de lo que se espera como funcion (ver [Ejemplo MATLAB](https://github.com/domingomery/patrones/tree/master/tareas/Tarea_01/reconocedor.m) o [Ejemplo Python](https://github.com/domingomery/patrones/tree/master/tareas/Tarea_01/reconocedor.py)).  Lo ideal es que modifiquen estas funciones ejemplo y que las mantengan como archivos separados del resto del codigo. En la correccion de la tarea esta funcion estara dentro de un lazo for que evaluara el desempeno en cada una de las letras del testing.
+Para la entrega del codigo, se pide que entreguen un archivo ipynb (notebook de Google Colab) en Python. En el codigo debera incluir (y usar) una funcion llamada 'Reconocedor' que reciba como entrada una unica imagen binaria de una letra, y que entregue como salida el numero de la letra que ha reconocido. Es decir se pide como salida de la funcion los numeros, 1,2,3,4 o 5, dependiendo si la entrada es X,Y,Z,A,B respectivamente.
 
 
 
