@@ -5,6 +5,7 @@
 * Vision humana / Vision por computador [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_Chihuahua_or_Muffin.pptx)
 * Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 ### 1.2 Un ejemplo practico:
+* * Video de esta clase * [[YouTube]](https://youtu.be/imt2H2nKitA)
 * Ejemplo practico [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_EjemploMandarinas.pptx)
 * Imagenes T-Y [[imagenes]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/images/)
 ### 1.3 Formulacion de problemas de reconocimiento de patrones:
@@ -17,4 +18,4 @@
 ---
 
 
-Updated on 17-Mar-2021 at 18:06 by Domingo Mery
+Updated on 18-Mar-2021 at 13:32 by Domingo Mery

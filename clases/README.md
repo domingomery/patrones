@@ -15,6 +15,7 @@
 * 1.1-Ejercicio vision humana [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_EjercicioReconocimiento.pptx)
 
 ### Clase 02 Ju. 18-Mar-2021:
+* 1.2-* Video de esta clase * [[YouTube]](https://youtu.be/imt2H2nKitA)
 * 1.2-Ejemplo practico [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_EjemploMandarinas.pptx)
 * 1.5-Definiciones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_Definiciones.pptx)
 * 1.1-Vision humana / Vision por computador [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_Chihuahua_or_Muffin.pptx)
@@ -161,4 +162,4 @@
 ---
 
 
-Updated on 17-Mar-2021 at 18:06 by Domingo Mery
+Updated on 18-Mar-2021 at 13:32 by Domingo Mery
