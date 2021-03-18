@@ -27,7 +27,7 @@ Ud. deberá entregar también el código de la solución (debidamente ordenado, 
 
 Restricciones:
 
-* Se puede aquellas funciones de librerías de procesamiento de imágenes en las que el input es una imagen, y el output es una imagen. 
+* Se puede usar aquellas funciones de librerías de procesamiento de imágenes en las que el input es una imagen, y el output es una imagen. 
 * No está permitido usar funciones de librerías que realicen la extracción de caracteristicas.
 * No está permitido usar funciones de librerías que realicen la clasificación.
 * No está permitido usar funciones de librerías que realicen la evaluación.
