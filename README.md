@@ -4,7 +4,7 @@
 (este material tambien esta disponible en las clases de cada capitulo)
 
 ### Clase 01 Ma. 16-Mar-2021:
-* 0.1-* Video de esta clase * [[YouTube]](https://youtu.be/fN4fOoWzdWs)
+* 0.1-**Video de esta clase** [[YouTube]](https://youtu.be/fN4fOoWzdWs)
 * 0.1-Programa del curso [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/Programa_patrones.pdf)
 * 0.1-Presentacion del curso [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/PAT00_Presentacion.pptx)
 * 0.1-Libro: Elements of Statistical Learning (Hastie et al., 2008) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/books/Elements_of_Statistical_Learning.pdf)
@@ -15,16 +15,17 @@
 * 1.1-Ejercicio vision humana [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_EjercicioReconocimiento.pptx)
 
 ### Clase 02 Ju. 18-Mar-2021:
-* 1.2-* Video de esta clase * [[YouTube]](https://youtu.be/imt2H2nKitA)
+* 1.2-**Video de esta clase** [[YouTube]](https://youtu.be/imt2H2nKitA)
 * 1.2-Ejemplo practico [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_EjemploMandarinas.pptx)
 * 1.5-Definiciones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_Definiciones.pptx)
 * 1.1-Vision humana / Vision por computador [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_Chihuahua_or_Muffin.pptx)
 * 1.1-Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 
 ### Clase 03 Ma. 23-Mar-2021:
-* 1.3-Formulacion metodologica [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_FormulacionMetodologia.pdf)
+* 1.3-**Video de esta clase** [[YouTube]](https://youtu.be/pending)
+* 1.3-Formulacion metodologica [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_FormulacionMetodologica.pptx)
 * 1.3-Lectura complementaria [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/papers/Jain_StatisticalPatternRecognition_2000.pdf)
-* 1.2-Imagenes T-Y [[imagenes]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/images/)
+* 1.2-Ejemplo separacion de dos letras [[Colab]](https://colab.research.google.com/drive/1j_2nbm3JEF0Ywta8Gig_-3cLBx5lUeT2?usp=sharing)
 * 1.4-Esquema basico de reconocimiento de patrones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_PR_Methodologia.pptx)
 
 ### Clase 04 Ju. 25-Mar-2021:
@@ -162,4 +163,4 @@
 ---
 
 
-Updated on 23-Mar-2021 at 10:07 by Domingo Mery
+Updated on 23-Mar-2021 at 10:08 by Domingo Mery
