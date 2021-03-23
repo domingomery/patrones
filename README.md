@@ -22,7 +22,7 @@
 * 1.1-Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 
 ### Clase 03 Ma. 23-Mar-2021:
-* 1.3-**Video de esta clase** [[YouTube]](https://youtu.be/pending)
+* 1.3-**Video de esta clase** [[YouTube]](https://youtu.be/UH9Kv0EgipU)
 * 1.3-Formulacion metodologica [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_FormulacionMetodologica.pptx)
 * 1.3-Lectura complementaria [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/papers/Jain_StatisticalPatternRecognition_2000.pdf)
 * 1.2-Ejemplo separacion de dos letras [[Colab]](https://colab.research.google.com/drive/1j_2nbm3JEF0Ywta8Gig_-3cLBx5lUeT2?usp=sharing)
@@ -163,4 +163,4 @@
 ---
 
 
-Updated on 23-Mar-2021 at 10:08 by Domingo Mery
+Updated on 23-Mar-2021 at 13:26 by Domingo Mery
