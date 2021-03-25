@@ -29,6 +29,7 @@
 * 1.4-Esquema basico de reconocimiento de patrones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_PR_Methodologia.pptx)
 
 ### Clase 04 Ju. 25-Mar-2021:
+* 2.1-**Video de esta clase** [[YouTube]](https://youtu.be/SMCEHYR9Pik)
 * 2.1-Caracteristicas geometricas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_GeometricFeatures.pptx)
 * 2.1-Caracteristicas geometricas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_GeometricFeatures.pdf)
 * 2.1-Ejemplo sobre caracteristicas geometricas [[Colab]](https://colab.research.google.com/drive/1ZVWzvrgfe56kP4tcsPFYW4Qd0asoMCOU?usp=sharing)
@@ -164,4 +165,4 @@
 ---
 
 
-Updated on 25-Mar-2021 at 10:10 by Domingo Mery
+Updated on 25-Mar-2021 at 13:19 by Domingo Mery
