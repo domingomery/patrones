@@ -3,8 +3,10 @@
 ### 2.1 Caracteristicas geometricas:
 * Caracteristicas geometricas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_GeometricFeatures.pptx)
 * Caracteristicas geometricas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_GeometricFeatures.pdf)
+* Ejemplo sobre caracteristicas geometricas [[Colab]](https://colab.research.google.com/drive/1ZVWzvrgfe56kP4tcsPFYW4Qd0asoMCOU?usp=sharing)
 * Momentos de Flusser [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Flusser_Moments.pdf)
 * Momentos de Hu [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Hu_Moments.pdf)
+* Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 ### 2.2 Caracteristicas cromaticas:
 * Caracteristicas de intensidad [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_IntensityFeatures.pptx)
 * Caracteristicas de intensidad [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_IntensityFeatures.pdf)
@@ -30,10 +32,9 @@
 * Extraccion de Caracteristicas en 1D [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_FX_1D.pptx)
 ### 2.4 Normalizacion de caracteristicas:
 ### 2.5 Ejemplos:
-* Ejercicio de reconocimiento de flechas [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_EjercicioFlechas.pdf)
 * Ejercicio con base de datos de texturas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_Ejercicio_111_Texturas.pptx)
 * Deteccion de peatones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HoG_HumanDetection.pptx)
 ---
 
 
-Updated on 23-Mar-2021 at 13:26 by Domingo Mery
+Updated on 25-Mar-2021 at 10:10 by Domingo Mery

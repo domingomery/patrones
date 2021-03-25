@@ -31,9 +31,10 @@
 ### Clase 04 Ju. 25-Mar-2021:
 * 2.1-Caracteristicas geometricas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_GeometricFeatures.pptx)
 * 2.1-Caracteristicas geometricas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_GeometricFeatures.pdf)
+* 2.1-Ejemplo sobre caracteristicas geometricas [[Colab]](https://colab.research.google.com/drive/1ZVWzvrgfe56kP4tcsPFYW4Qd0asoMCOU?usp=sharing)
 * 2.1-Momentos de Flusser [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Flusser_Moments.pdf)
 * 2.1-Momentos de Hu [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Hu_Moments.pdf)
-* 2.5-Ejercicio de reconocimiento de flechas [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_EjercicioFlechas.pdf)
+* 2.1-Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 
 ### Clase 05 Ma. 30-Mar-2021:
 * 2.2-Caracteristicas de intensidad [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_IntensityFeatures.pptx)
@@ -163,4 +164,4 @@
 ---
 
 
-Updated on 23-Mar-2021 at 13:26 by Domingo Mery
+Updated on 25-Mar-2021 at 10:10 by Domingo Mery
