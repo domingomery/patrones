@@ -9,7 +9,7 @@
 * Momentos de Hu [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Hu_Moments.pdf)
 * Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 * **Video de esta clase** [[YouTube]](https://youtu.be/tNMZQr4csWU)
-* Descriptores de Fourier (Pizarra) [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_DescriptoresFourier_Pizarra.pdf)
+* Descriptores de Fourier (Pizarra) [[Pizarra]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_DescriptoresFourier_Pizarra.pdf)
 * Descriptores de Fourier [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_DescriptoresFourier.pptx)
 * Ejemplo sobre descriptores [[Colab]](https://colab.research.google.com/drive/1hq7EZDMBCyQm0jKgm9tWAcdHljR38bG_?usp=sharing)
 ### 2.2 Caracteristicas cromaticas:
@@ -42,4 +42,4 @@
 ---
 
 
-Updated on 30-Mar-2021 at 13:04 by Domingo Mery
+Updated on 30-Mar-2021 at 13:06 by Domingo Mery
