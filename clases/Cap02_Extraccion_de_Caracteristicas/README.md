@@ -9,14 +9,17 @@
 * Momentos de Hu [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Hu_Moments.pdf)
 * Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 * **Video de esta clase** [[YouTube]](https://youtu.be/tNMZQr4csWU)
-* Descriptores de Fourier (Pizarra) [[Pizarra]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_DescriptoresFourier_Pizarra.pdf)
+* Descriptores de Fourier [[Pizarra]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_DescriptoresFourier_Pizarra.pdf)
 * Descriptores de Fourier [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_DescriptoresFourier.pptx)
-* Ejemplo sobre descriptores [[Colab]](https://colab.research.google.com/drive/1hq7EZDMBCyQm0jKgm9tWAcdHljR38bG_?usp=sharing)
+* Ejemplo sobre descriptores de Fourier [[Colab]](https://colab.research.google.com/drive/1hq7EZDMBCyQm0jKgm9tWAcdHljR38bG_?usp=sharing)
 ### 2.2 Caracteristicas cromaticas:
 * Local Binary Patterns [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns.pptx)
+* **Video de esta clase** [[YouTube]](https://youtu.be/pending)
+* Local Binary Patterns [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns.pptx)
+* Ejemplo sobre LBP en reconocimiento facial [[Colab]](https://colab.research.google.com/drive/1yw-3uoLIi2_IoI-TWIpYSOz7VTSxSBkC?usp=sharing)
+* Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 * Caracteristicas de intensidad [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_IntensityFeatures.pptx)
 * Caracteristicas de intensidad [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_IntensityFeatures.pdf)
-* Ejercicio sobre LBP [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_QuizLBP.pptx)
 * Lectura complementaria de LBP [[Paper]](http://www.scholarpedia.org/article/Local_Binary_Patterns)
 * Caracteristicas de textura de Haralick [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HaralickTexture.pptx)
 * Caracteristicas de textura de Haralick [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Haralick_Textures.pdf)
@@ -42,4 +45,4 @@
 ---
 
 
-Updated on 30-Mar-2021 at 13:06 by Domingo Mery
+Updated on 01-Apr-2021 at 11:19 by Domingo Mery
