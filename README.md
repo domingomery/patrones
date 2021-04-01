@@ -45,10 +45,11 @@
 * 2.2-Local Binary Patterns [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns.pptx)
 
 ### Clase 06 Ju. 01-Apr-2021:
-* 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/pending)
+* 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/Wp1F4d50b38)
 * 2.2-Local Binary Patterns [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns.pptx)
 * 2.2-Ejemplo sobre LBP en reconocimiento facial [[Colab]](https://colab.research.google.com/drive/1yw-3uoLIi2_IoI-TWIpYSOz7VTSxSBkC?usp=sharing)
 * 2.2-Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
+* 2.2-Local Binary Patterns  (invariante a la rotacion) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns_ri.pptx)
 
 ### Clase 07 Ma. 06-Apr-2021:
 * 2.2-Caracteristicas de intensidad [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_IntensityFeatures.pptx)
@@ -172,4 +173,4 @@
 ---
 
 
-Updated on 01-Apr-2021 at 11:19 by Domingo Mery
+Updated on 01-Apr-2021 at 14:33 by Domingo Mery
