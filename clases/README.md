@@ -54,7 +54,7 @@
 * 2.2-Lectura complementaria de LBP [[Paper]](http://www.scholarpedia.org/article/Local_Binary_Patterns)
 
 ### Clase 07 Ma. 06-Apr-2021:
-* 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/pending)
+* 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/24UJe4wY2zc)
 * 2.2-Caracteristicas de textura de Haralick [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HaralickTexture.pptx)
 * 2.2-Paper de Haralick [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Haralick_Textures.pdf)
 * 2.2-Caracteristicas de Gabor [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_Gabor.pptx)
@@ -177,4 +177,4 @@
 ---
 
 
-Updated on 06-Apr-2021 at 10:50 by Domingo Mery
+Updated on 06-Apr-2021 at 12:59 by Domingo Mery

@@ -21,7 +21,7 @@
 * Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 * Local Binary Patterns  (invariante a la rotacion) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns_ri.pptx)
 * Lectura complementaria de LBP [[Paper]](http://www.scholarpedia.org/article/Local_Binary_Patterns)
-* **Video de esta clase** [[YouTube]](https://youtu.be/pending)
+* **Video de esta clase** [[YouTube]](https://youtu.be/24UJe4wY2zc)
 * Caracteristicas de textura de Haralick [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HaralickTexture.pptx)
 * Paper de Haralick [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Haralick_Textures.pdf)
 * Caracteristicas de Gabor [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_Gabor.pptx)
@@ -50,4 +50,4 @@
 ---
 
 
-Updated on 06-Apr-2021 at 10:50 by Domingo Mery
+Updated on 06-Apr-2021 at 12:59 by Domingo Mery
