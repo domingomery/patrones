@@ -12,7 +12,7 @@ imshow(K)
 I = double(K);
 ini = 1;
 if (ini)
-    G = I(:,:,3);
+    G = I(:,:,1);
     [N,M] = size(G);
     w = 32;
     w1 = w - 1;
@@ -36,7 +36,7 @@ if (ini)
         j1 = 0;
         for j=1:s:M-w
             j1 = j1 + 1;
-            Gb = I(i:i+w1,j:j+w1);
+            Gb = G(i:i+w1,j:j+w1);
             options.dharalick = d;
             Tx = Bfx_haralick(Gb,BN,options);
             T1(i1,j1) = Tx(1);
