@@ -65,7 +65,7 @@
 * 2.2-Video experimento con gatos (2/2) [[Video]](https://youtu.be/QzkMo45pcUo)
 
 ### Clase 08 Ju. 08-Apr-2021:
-* 2.2-Ejercicico 04 sobre deteccin de caras [[Colab]](https://colab.research.google.com/drive/pending?usp=sharing)
+* 2.2-Ejercicico 04 sobre deteccin de caras [[Colab]](https://colab.research.google.com/drive/1amOTtTetNkw3ew58yOmjMc_L1qJ1RVqD?usp=sharing)
 
 ### Clase 09 Ma. 13-Apr-2021:
 * 2.2-Caracteristicas de intensidad [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_IntensityFeatures.pptx)
@@ -177,4 +177,4 @@
 ---
 
 
-Updated on 06-Apr-2021 at 12:59 by Domingo Mery
+Updated on 07-Apr-2021 at 13:09 by Domingo Mery
