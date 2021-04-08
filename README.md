@@ -65,6 +65,7 @@
 * 2.2-Video experimento con gatos (2/2) [[Video]](https://youtu.be/QzkMo45pcUo)
 
 ### Clase 08 Ju. 08-Apr-2021:
+* 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/DWe4cN6q4II)
 * 2.2-Ejercicico 04 sobre deteccion de caras [[Colab]](https://colab.research.google.com/drive/1amOTtTetNkw3ew58yOmjMc_L1qJ1RVqD?usp=sharing)
 
 ### Clase 09 Ma. 13-Apr-2021:
@@ -177,4 +178,4 @@
 ---
 
 
-Updated on 07-Apr-2021 at 13:16 by Domingo Mery
+Updated on 08-Apr-2021 at 18:06 by Domingo Mery
