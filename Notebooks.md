@@ -28,6 +28,10 @@ Reconocimiento de texturas (Haralick, Gabor y LBP)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mKeW9si4TbgzeUtEn-d4t3rWL3sTrRBJ?usp=sharing) 
 Detección de Peatones (HOG)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BZS9v6hCeIk2_wO5FRrkE0Mq_xI6LNXm?usp=sharing) 
+Biometría de Vacas (HOG)
+
+
 ## Bases de Datos
 
 * [Caracteres J,Q](https://www.dropbox.com/s/0xtuulag67h2gp2/example.zip?dl=0): 2 clases (J,Q), 50 imágenes por clase (distintos tamaños, binarias)
@@ -45,4 +49,6 @@ Detección de Peatones (HOG)
 * [Caras ORL](https://www.dropbox.com/s/utna2z7oqqn6jz2/ORL.zip?dl=0): 40 clases (40 personas), 10 imágenes por clase (80x80 pixeles, escala de grises)
 
 * [Texuras Brodatz](https://www.dropbox.com/s/pami9abpbfoyfsm/textures.zip?dl=0): 111 clases (111 texturas), 9 imágenes por clase (213x213 pixeles, escala de grises)
+
+* [Vacas](https://www.dropbox.com/s/llw8sy4llylhg2q/cows.zip?dl=0): 80 imágenes de vacas (son unas 30 vacas), (200x400 pixeles a color)
 
