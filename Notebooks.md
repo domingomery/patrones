@@ -30,11 +30,11 @@ Detección de Peatones (HOG)
 
 ## Bases de Datos
 
-* [Caracteres J,Q](https://www.dropbox.com/s/0xtuulag67h2gp2/example.zip): 2 clases (J,Q), 50 imágenes por clase (distintos tamaños, binarias)
+* [Caracteres J,Q](https://www.dropbox.com/s/0xtuulag67h2gp2/example.zip?dl=0): 2 clases (J,Q), 50 imágenes por clase (distintos tamaños, binarias)
 
+* [Caracteres . ~ * ,](https://www.dropbox.com/s/9erii15990yacmz/chars.zip?dl=0): 4 clases (. ~ * ,), 30 imágenes por clase (distintos tamaños, binarias)
 
 * [Caracteres A,B,X,Y,Z](https://www.dropbox.com/s/koye6ip2y06b51o/ABXYZ.zip?dl=0): 5 clases (A,B,X,Y,Z), 100 imágenes por clase (distintos tamaños, binarias)
-
 
 * [Peatones y No-Peatones](https://www.dropbox.com/s/zh2en25w9q3jaih/persons.zip?dl=0): 2 clases (peatones, no-peatones), 680 imágenes por clase (160x96 pixeles, escala de grises)
 
