@@ -33,7 +33,7 @@
 * **Video de esta clase** [[YouTube]](https://youtu.be/DWe4cN6q4II)
 * Ejercicico 04 sobre deteccion de caras [[Colab]](https://colab.research.google.com/drive/1amOTtTetNkw3ew58yOmjMc_L1qJ1RVqD?usp=sharing)
 * **Video de esta clase** [[YouTube]](https://youtu.be/pending)
-* Histogram of Gradients (HOG) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HoG_HumanDetection.pptx)
+* Histogram of Gradients (HoG) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HoG_HumanDetection.pptx)
 * Paper HoG [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/HoG_DalalTriggs.pdf)
 * Deteccion de peatones usando HoG [[Colab]](https://colab.research.google.com/drive/1mKeW9si4TbgzeUtEn-d4t3rWL3sTrRBJ?usp=sharing)
 * SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_SIFT_ObjectDetection.pptx)
@@ -55,4 +55,4 @@
 ---
 
 
-Updated on 12-Apr-2021 at 16:24 by Domingo Mery
+Updated on 13-Apr-2021 at 13:04 by Domingo Mery

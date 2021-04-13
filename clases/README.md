@@ -70,7 +70,7 @@
 
 ### Clase 09 Ma. 13-Apr-2021:
 * 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/pending)
-* 2.2-Histogram of Gradients (HOG) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HoG_HumanDetection.pptx)
+* 2.2-Histogram of Gradients (HoG) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HoG_HumanDetection.pptx)
 * 2.2-Paper HoG [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/HoG_DalalTriggs.pdf)
 * 2.2-Deteccion de peatones usando HoG [[Colab]](https://colab.research.google.com/drive/1mKeW9si4TbgzeUtEn-d4t3rWL3sTrRBJ?usp=sharing)
 * 2.2-SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_SIFT_ObjectDetection.pptx)
@@ -182,4 +182,4 @@
 ---
 
 
-Updated on 12-Apr-2021 at 16:24 by Domingo Mery
+Updated on 13-Apr-2021 at 13:04 by Domingo Mery
