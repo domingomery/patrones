@@ -2,13 +2,13 @@
 
 Ejemplos usados en el curso
 
-## Chapter 01: Introducción
+## Capítulo 01: Introducción
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1j_2nbm3JEF0Ywta8Gig_-3cLBx5lUeT2?usp=sharing) 
 Separación entre letras J y Q 
 
 
-## Chapter 02: Extracción de Características
+## Capítulo 02: Extracción de Características
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hq7EZDMBCyQm0jKgm9tWAcdHljR38bG_?usp=sharing) 
 Descriptores de Fourier 
