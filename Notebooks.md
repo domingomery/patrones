@@ -26,7 +26,7 @@ Detección de caras (Haralick, Gabor y LBP)
 Reconocimiento de texturas (Haralick, Gabor y LBP)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mKeW9si4TbgzeUtEn-d4t3rWL3sTrRBJ?usp=sharing) 
-Detección de Peatones (HoG)
+Detección de Peatones, Ciclistas (HoG)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BZS9v6hCeIk2_wO5FRrkE0Mq_xI6LNXm?usp=sharing) 
 Biometría de Vacas (SIFT)
@@ -42,7 +42,7 @@ Biometría de Vacas (SIFT)
 
 * [Peatones y No-Peatones](https://www.dropbox.com/s/zh2en25w9q3jaih/persons.zip?dl=0): 2 clases (peatones, no-peatones), 680 imágenes por clase (160x96 pixeles, escala de grises)
 
-* [Peatones y Biciclteas](https://www.dropbox.com/s/8414rxqvk608c4t/bikes.zip?dl=0): 3 clases (peatones, no-peatones, peatones-con-bicicleta), 254 imágenes por clase (160x96 pixeles, escala de grises)
+* [Peatones y Bicicletas](https://www.dropbox.com/s/8414rxqvk608c4t/bikes.zip?dl=0): 3 clases (peatones, no-peatones, peatones-con-bicicleta), 254 imágenes por clase (160x96 pixeles, escala de grises)
 
 * [Caras y No-Caras](https://www.dropbox.com/s/bc96ooptx01pydl/facedetection.zip?dl=0): 2 clases (caras, no-caras), 120 imágenes por clase (80x80 pixeles, escala de grises)
 
