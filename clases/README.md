@@ -78,7 +78,7 @@
 * 2.2-Reconocimiento de vacas usando SIFT [[Colab]](https://colab.research.google.com/drive/1BZS9v6hCeIk2_wO5FRrkE0Mq_xI6LNXm?usp=sharing)
 
 ### Clase 10 Ju. 15-Apr-2021:
-* 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/pending)
+* 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/BeqJf-W4ob8)
 * 2.2-SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_SIFT_ObjectDetection.pptx)
 * 2.2-Reconocimiento de vacas usando SIFT [[Colab]](https://colab.research.google.com/drive/1BZS9v6hCeIk2_wO5FRrkE0Mq_xI6LNXm?usp=sharing)
 * 2.2-Ejercicico 04 sobre deteccion de paredes rayadas [[Colab]](https://colab.research.google.com/drive/1MVEMLOox6fM1CkmskmYjGxsQiJZNq9_6?usp=sharing)
@@ -186,4 +186,4 @@
 ---
 
 
-Updated on 15-Apr-2021 at 13:12 by Domingo Mery
+Updated on 15-Apr-2021 at 13:13 by Domingo Mery
