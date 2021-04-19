@@ -30,6 +30,7 @@
 * Ejemplo sobre reconocimiento de texturas [[Colab]](https://colab.research.google.com/drive/1i8Wn5KlNGPKcKKEtyjBiHoOChx7aF-rS?usp=sharing)
 * Video experimento con gatos (1/2) [[Video]](https://youtu.be/IOHayh06LJ4)
 * Video experimento con gatos (2/2) [[Video]](https://youtu.be/QzkMo45pcUo)
+* Comparacion de caracteristicas de textura [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Randen_ComparativeTextures.pdf)
 * **Video de esta clase** [[YouTube]](https://youtu.be/DWe4cN6q4II)
 * Ejercicico 04 sobre deteccion de caras [[Colab]](https://colab.research.google.com/drive/1amOTtTetNkw3ew58yOmjMc_L1qJ1RVqD?usp=sharing)
 * **Video de esta clase** [[YouTube]](https://youtu.be/mcqkE-gzUHM)
@@ -39,19 +40,17 @@
 * SIFT  (Intro) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_SIFT_ObjectDetection.pptx)
 * Paper SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Lowe_SIFT.pdf)
 * Reconocimiento de vacas usando SIFT [[Colab]](https://colab.research.google.com/drive/1BZS9v6hCeIk2_wO5FRrkE0Mq_xI6LNXm?usp=sharing)
+* Implementacion de HoG en Python con OpenCV [[phyton]](https://www.learnopencv.com/histogram-of-oriented-gradients/)
 * **Video de esta clase** [[YouTube]](https://youtu.be/BeqJf-W4ob8)
 * SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_SIFT_ObjectDetection.pptx)
 * Reconocimiento de vacas usando SIFT [[Colab]](https://colab.research.google.com/drive/1BZS9v6hCeIk2_wO5FRrkE0Mq_xI6LNXm?usp=sharing)
-* Ejercicico 04 sobre deteccion de paredes rayadas [[Colab]](https://colab.research.google.com/drive/1MVEMLOox6fM1CkmskmYjGxsQiJZNq9_6?usp=sharing)
+* Ejercicico 05 sobre deteccion de paredes rayadas [[Colab]](https://colab.research.google.com/drive/1MVEMLOox6fM1CkmskmYjGxsQiJZNq9_6?usp=sharing)
+* **Video de esta clase** [[YouTube]](https://youtu.be/pending)
 * Caracteristicas de intensidad [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_IntensityFeatures.pptx)
 * Caracteristicas de intensidad [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_IntensityFeatures.pdf)
-* Ejercicio sobre descriptores de Textura [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_QuizTexturas.pptx)
-* Ejercicio sobre LBP y Haralick [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_QuizTexturas.pptx)
-* Comparacion de caracteristicas de textura [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Randen_ComparativeTextures.pdf)
 * Crossing Line Profile (CLP) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_CrossingLineProfiles.pptx)
 * Crossing Line Profile (CLP) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Mery_CrossingLineProfiles.pdf)
-* Implementacion de HoG en Python con OpenCV [[phyton]](https://www.learnopencv.com/histogram-of-oriented-gradients/)
-* Aclaracion de Dudas [[]]()
+* Ejemplo de Caractersticas de Intensidad (basicas, contraste, CLP) [[Colab]](https://colab.research.google.com/drive/1PrBuK3vniTbpuKKdoCUrAqBYBhFI7T0r?usp=sharing)
 ### 2.3 Otras caracteristicas:
 * Extraccion de Caracteristicas en 1D [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_FX_1D.pptx)
 ### 2.4 Normalizacion de caracteristicas:
@@ -59,4 +58,4 @@
 ---
 
 
-Updated on 15-Apr-2021 at 13:13 by Domingo Mery
+Updated on 19-Apr-2021 at 12:46 by Domingo Mery

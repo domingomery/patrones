@@ -63,6 +63,7 @@
 * 2.2-Ejemplo sobre reconocimiento de texturas [[Colab]](https://colab.research.google.com/drive/1i8Wn5KlNGPKcKKEtyjBiHoOChx7aF-rS?usp=sharing)
 * 2.2-Video experimento con gatos (1/2) [[Video]](https://youtu.be/IOHayh06LJ4)
 * 2.2-Video experimento con gatos (2/2) [[Video]](https://youtu.be/QzkMo45pcUo)
+* 2.2-Comparacion de caracteristicas de textura [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Randen_ComparativeTextures.pdf)
 
 ### Clase 08 Ju. 08-Apr-2021:
 * 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/DWe4cN6q4II)
@@ -76,25 +77,21 @@
 * 2.2-SIFT  (Intro) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_SIFT_ObjectDetection.pptx)
 * 2.2-Paper SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Lowe_SIFT.pdf)
 * 2.2-Reconocimiento de vacas usando SIFT [[Colab]](https://colab.research.google.com/drive/1BZS9v6hCeIk2_wO5FRrkE0Mq_xI6LNXm?usp=sharing)
+* 2.2-Implementacion de HoG en Python con OpenCV [[phyton]](https://www.learnopencv.com/histogram-of-oriented-gradients/)
 
 ### Clase 10 Ju. 15-Apr-2021:
 * 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/BeqJf-W4ob8)
 * 2.2-SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_SIFT_ObjectDetection.pptx)
 * 2.2-Reconocimiento de vacas usando SIFT [[Colab]](https://colab.research.google.com/drive/1BZS9v6hCeIk2_wO5FRrkE0Mq_xI6LNXm?usp=sharing)
-* 2.2-Ejercicico 04 sobre deteccion de paredes rayadas [[Colab]](https://colab.research.google.com/drive/1MVEMLOox6fM1CkmskmYjGxsQiJZNq9_6?usp=sharing)
+* 2.2-Ejercicico 05 sobre deteccion de paredes rayadas [[Colab]](https://colab.research.google.com/drive/1MVEMLOox6fM1CkmskmYjGxsQiJZNq9_6?usp=sharing)
 
 ### Clase 11 Ma. 20-Apr-2021:
+* 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/pending)
 * 2.2-Caracteristicas de intensidad [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_IntensityFeatures.pptx)
 * 2.2-Caracteristicas de intensidad [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_IntensityFeatures.pdf)
-* 2.2-Ejercicio sobre descriptores de Textura [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_QuizTexturas.pptx)
-* 2.2-Ejercicio sobre LBP y Haralick [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_QuizTexturas.pptx)
-* 2.2-Comparacion de caracteristicas de textura [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Randen_ComparativeTextures.pdf)
 * 2.2-Crossing Line Profile (CLP) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_CrossingLineProfiles.pptx)
 * 2.2-Crossing Line Profile (CLP) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Mery_CrossingLineProfiles.pdf)
-* 2.2-Implementacion de HoG en Python con OpenCV [[phyton]](https://www.learnopencv.com/histogram-of-oriented-gradients/)
-
-### Clase 12 Ju. 22-Apr-2021:
-* 2.2-Aclaracion de Dudas [[]]()
+* 2.2-Ejemplo de Caractersticas de Intensidad (basicas, contraste, CLP) [[Colab]](https://colab.research.google.com/drive/1PrBuK3vniTbpuKKdoCUrAqBYBhFI7T0r?usp=sharing)
 
 ### Clase 13 Ma. 27-Apr-2021:
 * 3.1-Introduccion a la Seleccion de Caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pdf)
@@ -186,4 +183,4 @@
 ---
 
 
-Updated on 15-Apr-2021 at 13:13 by Domingo Mery
+Updated on 19-Apr-2021 at 12:46 by Domingo Mery
