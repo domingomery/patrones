@@ -1,13 +1,13 @@
 # Tarea 02: Reconocedor de Género
 
 ## Enunciado
-El objetivo de esta tarea es diseñar un reconocedor automático de género (hombre/mujer) usando extraccion de caracteristicas de textura, seleccionador de caracteristicas y clasificador knn.
+El objetivo de esta tarea es diseñar un reconocedor automático de género (hombre/mujer) usando extracción de características (por ejemplo textura, geometreia, etc.), seleccionador de caracteristicas y clasificador KNN.
 
 
 ## Descripcion
-Se cuenta con una base de datos de 1400 imágenes de caras en tonos de gris de 165x120 pixeles, correspondientes fotos de hombres y fotos de mujeres, distribuidas 50-50%, es decir 700 imágenes pertencientes a la clase 0 (hombres), y 700 imágenes pertenecientes a la clase 1 (mujeres). Cada uno de estos patches cubre aproximadamente una superficie de 30cm x 30cm de la pared:
+Se cuenta con una base de datos de 1400 imágenes de caras en tonos de gris de 165x120 pixeles, correspondientes fotos de hombres y fotos de mujeres, distribuidas 50-50%, es decir 700 imágenes pertencientes a la clase 0 (hombres), y 700 imágenes pertenecientes a la clase 1 (mujeres).
 
-Algunos ejemplos se muestran a continuacion (cada imagen muestra 20x30 patches de 64x64 pixeles):
+Algunos ejemplos se muestran a continuación para cada clase:
 
 CLASE 0: Hombres
 
@@ -18,31 +18,32 @@ CLASE 1: Mujeres
 <img src="https://github.com/domingomery/patrones/blob/master/tareas/Tarea_02/arg_02.png" width="600">
 
 
-La base de datos para esta tarea se encuentra en este [link](https://www.dropbox.com/s/1xajq6knp1mm34h/argender.zip?dl=0). El formato del nombre de la imagen es `face_00x_nnnn.png` donde `x` es 1 para hombres y 2 para mujeres, y `nnnn` es el número de la imagen por clase, es decir 0001, 0002, 0700.  
+La base de datos para esta tarea se encuentra en este [link](https://www.dropbox.com/s/1xajq6knp1mm34h/argender.zip?dl=0). El formato del nombre de la imagen es `face_00x_nnnn.png` donde `x` es 1 para hombres y 2 para mujeres, y `nnnn` es el número de la imagen por clase, es decir 0001, 0002, ... 0700.  
 
-El protocolo de pruebas es el siguiente: se usarán las primeras 630 imágenes por clase serán usadas para training (nnnn={0001, 0002, ... 630}) y las últimas 70 imágenes para testing (nnnn={0631, 0632, ... 700}).
+El protocolo de pruebas es el siguiente: se usarán las primeras 630 imágenes por clase serán usadas para training (`nnnn`={0001, 0002, ... 630}) y las últimas 70 imágenes para testing (`nnnn`={0631, 0632, ... 700}).
 
 
-Se debe disenar un clasificador que funcione con un maáximo de 12 caracerísticas, para esto se deben sacar al menos 200 caracteristica y a partir de tecnicas se seleccion o transformacion de caracteristicas se le debe proporcionar al clasificador un maximo de 12 caracteristicas. Está permitido por ejemplo una estrategia que a) extraiga 1000 características, b) seleccione 100, c) realice un PCA de esas 100 para obtener 12, d) se clasifique con las 12 características obtenidas en c). 
+Se debe disenar un clasificador que funcione con un máximo de 12 caracerísticas, para esto se deben sacar al menos 200 características y a partir de técnicas se selección y/o transformación de características se le debe proporcionar al clasificador un máximo de 12 características. Está permitido por ejemplo una estrategia que a) extraiga 1000 características, b) seleccione 100, c) realice una transformación (tipo PCA, PLSR, etc.) de esas 100 para obtener 12, d) se clasifique con las 12 características obtenidas en c). Todas las combinaciones de transformación y selección, en cualquier orden están permitidas... la restricción es que el clasificador debe recibir como máximo 12 características.
 
 El clasificador a emplear es un KNN de tres vecinos.
 
 SÍ ESTÁ PERMITIDO: 
-- el uso de características no vistas en clases (no basadas en Deep Learning), es decir se puede usar características como por ejemplo BSIF, SURF, GLSZM, GLRLM, GLDM, etc., siempre y cuando puedan explicarlas en el informe.
+- el uso de características no vistas en clases (pero no basadas en Deep Learning), es decir se puede usar características como por ejemplo BSIF, SURF, GLSZM, GLRLM, GLDM, etc., siempre y cuando puedan explicarlas en el informe.
 - el uso de librerias de extracción de características
 - librería de clasificacion KNN
 - librerías de funciones matemáticas, como covarianza, manipulación de matrices, vectores, etc.
 - funciones de normalización de características.
-- librerías de seleccion de caracerísticas.
-- librerías de transformación de caracerísticas.
+- librerías de seleccion de caracerísticas (los métodos empleados deben ser explicados en el informe)
+- librerías de transformación de caracerísticas (los métodos empleados deben ser explicados en el informe).
 - librerías de evaluación.
 - librerías de visualización.
 
 RESTRICCIONES:
-- No está permitido el uso de técnicas de deep learning en ninguna etapa de esta tarea (ya sea en la extracción, transformación, selección de características ni en la clasificación), especial cuidado con librerías que extraen características basadas en modelos de deep learning, ya que no podrán ser usadas.
-- Ningún proceso de la tarea debe tener algoritmos de clasificación basados en técnicas distintas al KNN, es decir no se puede usar un selector de características basado en redes neuronales o SVM por ejemplo.
+- No está permitido el uso de técnicas de Deep Learning en ninguna etapa de esta tarea (ya sea en la extracción, transformación, selección de características ni en la clasificación), especial cuidado con librerías que extraen características basadas en modelos de deep learning, ya que no podrán ser usadas.
+- Ningún proceso de la tarea debe tener algoritmos de clasificación basados en técnicas distintas al KNN, es decir no se puede usar un selector o transformador de características basado en redes neuronales o SVM por ejemplo.
+- El único clasificador a utilizar es un KNN de tres vecinos.
 
-ES NECESARIOó
+ES NECESARIO:
 Todos los algoritmos que usen deben ser explicados en el informe. 
 
 
