@@ -45,12 +45,12 @@
 * SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_SIFT_ObjectDetection.pptx)
 * Reconocimiento de vacas usando SIFT [[Colab]](https://colab.research.google.com/drive/1BZS9v6hCeIk2_wO5FRrkE0Mq_xI6LNXm?usp=sharing)
 * Ejercicico 05 sobre deteccion de paredes rayadas [[Colab]](https://colab.research.google.com/drive/1MVEMLOox6fM1CkmskmYjGxsQiJZNq9_6?usp=sharing)
-* **Video de esta clase** [[YouTube]](https://youtu.be/pending)
+* **Video de esta clase** [[YouTube]](https://youtu.be/MImox20v974)
 * Caracteristicas de intensidad [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_IntensityFeatures.pptx)
 * Caracteristicas de intensidad [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_IntensityFeatures.pdf)
 * Crossing Line Profile (CLP) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_CrossingLineProfiles.pptx)
 * Crossing Line Profile (CLP) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Mery_CrossingLineProfiles.pdf)
-* Ejemplo de Caractersticas de Intensidad (basicas, contraste, CLP) [[Colab]](https://colab.research.google.com/drive/1PrBuK3vniTbpuKKdoCUrAqBYBhFI7T0r?usp=sharing)
+* Ejemplo de Caracteristicas de Intensidad (basicas, contraste, CLP) [[Colab]](https://colab.research.google.com/drive/1PrBuK3vniTbpuKKdoCUrAqBYBhFI7T0r?usp=sharing)
 ### 2.3 Otras caracteristicas:
 * Extraccion de Caracteristicas en 1D [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_FX_1D.pptx)
 ### 2.4 Normalizacion de caracteristicas:
@@ -58,4 +58,4 @@
 ---
 
 
-Updated on 19-Apr-2021 at 12:46 by Domingo Mery
+Updated on 20-Apr-2021 at 12:48 by Domingo Mery
