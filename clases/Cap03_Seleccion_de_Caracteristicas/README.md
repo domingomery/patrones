@@ -1,7 +1,7 @@
 
 # Capitulo 03: Seleccion de Caracteristicas
 ### 3.1 Introduccion:
-* **Video de esta clase** [[YouTube]](https://youtu.be/pending)
+* **Video de esta clase** [[YouTube]](https://youtu.be/2QpvMEa0lQ0)
 * Introduccion a la Seleccion de Caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pdf)
 * Introduccion a la Seleccion de Caracteristicas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pptx)
 * Introduccion a la Seleccion de Caracteristicas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection.pdf)
@@ -31,4 +31,4 @@
 ---
 
 
-Updated on 22-Apr-2021 at 11:31 by Domingo Mery
+Updated on 22-Apr-2021 at 13:14 by Domingo Mery

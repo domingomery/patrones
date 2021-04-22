@@ -94,7 +94,7 @@
 * 2.2-Ejemplo de Caracteristicas de Intensidad (basicas, contraste, CLP) [[Colab]](https://colab.research.google.com/drive/1PrBuK3vniTbpuKKdoCUrAqBYBhFI7T0r?usp=sharing)
 
 ### Clase 12 Ju. 22-Apr-2021:
-* 3.1-**Video de esta clase** [[YouTube]](https://youtu.be/pending)
+* 3.1-**Video de esta clase** [[YouTube]](https://youtu.be/2QpvMEa0lQ0)
 * 3.1-Introduccion a la Seleccion de Caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pdf)
 * 3.1-Introduccion a la Seleccion de Caracteristicas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pptx)
 * 3.1-Introduccion a la Seleccion de Caracteristicas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection.pdf)
@@ -188,4 +188,4 @@
 ---
 
 
-Updated on 22-Apr-2021 at 11:31 by Domingo Mery
+Updated on 22-Apr-2021 at 13:14 by Domingo Mery
