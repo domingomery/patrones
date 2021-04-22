@@ -94,9 +94,12 @@
 * 2.2-Ejemplo de Caracteristicas de Intensidad (basicas, contraste, CLP) [[Colab]](https://colab.research.google.com/drive/1PrBuK3vniTbpuKKdoCUrAqBYBhFI7T0r?usp=sharing)
 
 ### Clase 13 Ma. 27-Apr-2021:
+* 3.1-**Video de esta clase** [[YouTube]](https://youtu.be/pending)
 * 3.1-Introduccion a la Seleccion de Caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pdf)
 * 3.1-Introduccion a la Seleccion de Caracteristicas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pptx)
 * 3.1-Introduccion a la Seleccion de Caracteristicas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection.pdf)
+* 3.4-Busqueda Exhaustiva [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_ExSearch.pptx)
+* 3.4-Ejercicico 06 sobre deteccion de espinas en filetes de salmon [[Colab]](https://colab.research.google.com/drive/1XgBajOZhpujmVBsF8tSc289ryZXAPicj?usp=sharing)
 
 ### Clase 14 Ju. 29-Apr-2021:
 * 3.3-Discriminante Fihser y Matrices de Covarianza [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pdf)
@@ -183,4 +186,4 @@
 ---
 
 
-Updated on 20-Apr-2021 at 13:17 by Domingo Mery
+Updated on 22-Apr-2021 at 11:23 by Domingo Mery

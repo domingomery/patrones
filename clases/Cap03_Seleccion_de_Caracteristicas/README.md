@@ -1,6 +1,7 @@
 
 # Capitulo 03: Seleccion de Caracteristicas
 ### 3.1 Introduccion:
+* **Video de esta clase** [[YouTube]](https://youtu.be/pending)
 * Introduccion a la Seleccion de Caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pdf)
 * Introduccion a la Seleccion de Caracteristicas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pptx)
 * Introduccion a la Seleccion de Caracteristicas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection.pdf)
@@ -13,6 +14,8 @@
 * Discriminante Fihser y Matrices de Covarianza [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pdf)
 * Discriminante Fihser y Matrices de Covarianza [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pptx)
 ### 3.4 Busqueda exhaustiva:
+* Busqueda Exhaustiva [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_ExSearch.pptx)
+* Ejercicico 06 sobre deteccion de espinas en filetes de salmon [[Colab]](https://colab.research.google.com/drive/1XgBajOZhpujmVBsF8tSc289ryZXAPicj?usp=sharing)
 * Busqueda Exhaustiva [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_ExSearch.pptx)
 ### 3.5 Busqueda secuencial hacia adeleante:
 * Ejercicio de seleccion de caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_SeleccionCaracteristicas.pdf)
@@ -28,4 +31,4 @@
 ---
 
 
-Updated on 20-Apr-2021 at 13:17 by Domingo Mery
+Updated on 22-Apr-2021 at 11:23 by Domingo Mery
