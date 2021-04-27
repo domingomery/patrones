@@ -100,7 +100,7 @@
 * 3.1-Introduccion a la Seleccion de Caracteristicas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection.pdf)
 * 3.4-Busqueda Exhaustiva [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_ExSearch.pptx)
 * 3.4-Ejercicico 06 sobre deteccion de espinas en filetes de salmon [[Colab]](https://colab.research.google.com/drive/1XgBajOZhpujmVBsF8tSc289ryZXAPicj?usp=sharing)
-* 3.4-Solucin al Ejercicio 06 [[Colab]](https://colab.research.google.com/drive/17bK4EcmdGLGhPg4vKUpuo8GiiwQXfmo_?usp=sharing)
+* 3.4-Solucion al Ejercicio 06 [[Colab]](https://colab.research.google.com/drive/17bK4EcmdGLGhPg4vKUpuo8GiiwQXfmo_?usp=sharing)
 
 ### Clase 13 Ma. 27-Apr-2021:
 * 3.1-**Video de esta clase** [[YouTube]](https://youtu.be/pending)
@@ -193,4 +193,4 @@
 ---
 
 
-Updated on 27-Apr-2021 at 10:31 by Domingo Mery
+Updated on 27-Apr-2021 at 10:32 by Domingo Mery
