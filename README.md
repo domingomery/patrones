@@ -103,7 +103,7 @@
 * 3.4-Solucion al Ejercicio 06 [[Colab]](https://colab.research.google.com/drive/17bK4EcmdGLGhPg4vKUpuo8GiiwQXfmo_?usp=sharing)
 
 ### Clase 13 Ma. 27-Apr-2021:
-* 3.1-**Video de esta clase** [[YouTube]](https://youtu.be/pending)
+* 3.1-**Video de esta clase** [[YouTube]](https://youtu.be/sZhO6YVYAGE)
 * 3.1-Clean: Limpieza de datos [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Clean.pptx)
 * 3.5-SFS [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_SFS.pptx)
 * 3.5-Ejemplo de Seleccion de Caracteristicas [[Colab]](https://colab.research.google.com/drive/14bwzAfN3QVSPGNKjLvrhr7zl02SkRu08?usp=sharing)
@@ -193,4 +193,4 @@
 ---
 
 
-Updated on 27-Apr-2021 at 13:00 by Domingo Mery
+Updated on 27-Apr-2021 at 13:04 by Domingo Mery
