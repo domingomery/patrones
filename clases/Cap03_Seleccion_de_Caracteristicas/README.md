@@ -13,8 +13,8 @@
 * Principal Components Analysis PCA [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pptx)
 * Principal Components Analysis PCA [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pdf)
 ### 3.3 Discriminante Fisher:
-* **Video de esta clase** [[YouTube]](https://youtu.be/pending)
-* Discriminante Fihser y Matrices de Covarianza [[PPt]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pptx)
+* **Video de esta clase** [[YouTube]](https://youtu.be/https://youtu.be/b1BBhid8G-k)
+* Discriminante Fihser y Matrices de Covarianza [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pptx)
 * Discriminante Fihser y Matrices de Covarianza [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pdf)
 * Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 ### 3.4 Busqueda exhaustiva:
@@ -38,4 +38,4 @@
 ---
 
 
-Updated on 29-Apr-2021 at 13:15 by Domingo Mery
+Updated on 29-Apr-2021 at 13:29 by Domingo Mery

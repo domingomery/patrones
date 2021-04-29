@@ -109,8 +109,8 @@
 * 3.5-Ejemplo de Seleccion de Caracteristicas [[Colab]](https://colab.research.google.com/drive/14bwzAfN3QVSPGNKjLvrhr7zl02SkRu08?usp=sharing)
 
 ### Clase 14 Ju. 29-Apr-2021:
-* 3.3-**Video de esta clase** [[YouTube]](https://youtu.be/pending)
-* 3.3-Discriminante Fihser y Matrices de Covarianza [[PPt]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pptx)
+* 3.3-**Video de esta clase** [[YouTube]](https://youtu.be/https://youtu.be/b1BBhid8G-k)
+* 3.3-Discriminante Fihser y Matrices de Covarianza [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pptx)
 * 3.3-Discriminante Fihser y Matrices de Covarianza [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pdf)
 * 3.7-Branch and Bound [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_BranchAndBound.pptx)
 * 3.3-Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
@@ -195,4 +195,4 @@
 ---
 
 
-Updated on 29-Apr-2021 at 13:15 by Domingo Mery
+Updated on 29-Apr-2021 at 13:29 by Domingo Mery
