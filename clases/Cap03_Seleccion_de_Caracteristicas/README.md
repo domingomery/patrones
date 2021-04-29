@@ -13,8 +13,9 @@
 * Principal Components Analysis PCA [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pptx)
 * Principal Components Analysis PCA [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pdf)
 ### 3.3 Discriminante Fisher:
+* **Video de esta clase** [[YouTube]](https://youtu.be/pending)
 * Discriminante Fihser y Matrices de Covarianza [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pdf)
-* Discriminante Fihser y Matrices de Covarianza [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pptx)
+* Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 ### 3.4 Busqueda exhaustiva:
 * Busqueda Exhaustiva [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_ExSearch.pptx)
 * Ejercicico 06 sobre deteccion de espinas en filetes de salmon [[Colab]](https://colab.research.google.com/drive/1XgBajOZhpujmVBsF8tSc289ryZXAPicj?usp=sharing)
@@ -23,10 +24,10 @@
 ### 3.5 Busqueda secuencial hacia adeleante:
 * SFS [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_SFS.pptx)
 * Ejemplo de Seleccion de Caracteristicas [[Colab]](https://colab.research.google.com/drive/14bwzAfN3QVSPGNKjLvrhr7zl02SkRu08?usp=sharing)
-* Ejercicio de seleccion de caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_SeleccionCaracteristicas.pdf)
 * SFS [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_SFS.pptx)
 ### 3.6 Busqueda secuencial hacia atras:
 ### 3.7 Busqueda Brunch-Bound:
+* Branch and Bound [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_BranchAndBound.pptx)
 * Branch and Bound [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_BranchAndBound.pptx)
 ### 3.8 Ejemplos:
 * Toolbox Balu en python [[Libreria]](https://github.com/domingomery/Balu)
@@ -36,4 +37,4 @@
 ---
 
 
-Updated on 27-Apr-2021 at 13:04 by Domingo Mery
+Updated on 29-Apr-2021 at 11:30 by Domingo Mery
