@@ -19,7 +19,7 @@ Caraceterísticas Geométricas (básicas, elípticas y momentos)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yw-3uoLIi2_IoI-TWIpYSOz7VTSxSBkC?usp=sharing) 
 Reconocimiento Facial con LBP
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19MK2LAzUHpcqX2ZPIjVVrq9ivVMO6Cpl?usp=sharing) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17bK4EcmdGLGhPg4vKUpuo8GiiwQXfmo_?usp=sharing) 
 Detección de caras (Haralick, Gabor y LBP) 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1i8Wn5KlNGPKcKKEtyjBiHoOChx7aF-rS?usp=sharing) 
