@@ -22,7 +22,7 @@
 * Busqueda Exhaustiva [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_ExSearch.pptx)
 * Ejercicico 06 sobre deteccion de espinas en filetes de salmon [[Colab]](https://colab.research.google.com/drive/1XgBajOZhpujmVBsF8tSc289ryZXAPicj?usp=sharing)
 * Solucion al Ejercicio 06 [[Colab]](https://colab.research.google.com/drive/17bK4EcmdGLGhPg4vKUpuo8GiiwQXfmo_?usp=sharing)
-* Seleccion versus Transformacion [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Models.pptx)
+* Seleccion versus Transformacion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Models.pptx)
 * Ejemplo de PCA, ICA, PLSR [[Colab]](https://colab.research.google.com/drive/1mDEA1AejzUWvdxpNejPR_5IkacRcDRpr?usp=sharing)
 ### 3.5 Busqueda secuencial hacia adeleante:
 * SFS [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_SFS.pptx)
@@ -40,4 +40,4 @@
 ---
 
 
-Updated on 04-May-2021 at 11:19 by Domingo Mery
+Updated on 04-May-2021 at 11:28 by Domingo Mery

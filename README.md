@@ -117,7 +117,7 @@
 
 ### Clase 15 Ma. 04-May-2021:
 * 3.3-**Video de esta clase** [[YouTube]](https://youtu.be/pending)
-* 3.4-Seleccion versus Transformacion [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Models.pptx)
+* 3.4-Seleccion versus Transformacion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Models.pptx)
 * 3.5-Principal Components Analysis PCA [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pptx)
 * 3.4-Ejemplo de PCA, ICA, PLSR [[Colab]](https://colab.research.google.com/drive/1mDEA1AejzUWvdxpNejPR_5IkacRcDRpr?usp=sharing)
 
@@ -197,4 +197,4 @@
 ---
 
 
-Updated on 04-May-2021 at 11:19 by Domingo Mery
+Updated on 04-May-2021 at 11:28 by Domingo Mery
