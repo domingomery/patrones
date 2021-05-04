@@ -9,8 +9,10 @@
 clt
 X12 = Bds_gaussgen([10 2;2 10],4*ones(2,2),5000*ones(2,1));
 X34 = Bds_gaussgen([10 2;2 10],4*ones(2,2),5000*ones(2,1));
-X5  = rand(10000,1);
-X   = [X12 X34 X5];
+X5  = randn(10000,1);
+X4  = -X12(:,2)*2+rand(10000,1)*0.1;
+X5  = X12(:,1)*3+rand(10000,1)*0.1;
+X   = [X12 X34(:,1) X4 X5];
 d   = ones(10000,1);
 figure(1)
 Bio_plotfeatures(X,d);
@@ -32,4 +34,6 @@ title('PCA')
 figure(5)
 bar(lambda)
 
+op.m = 5;
+[Y5,lambda] = Bft_pca(X,op);
 
