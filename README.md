@@ -116,14 +116,13 @@
 * 3.3-Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 
 ### Clase 15 Ma. 04-May-2021:
-* 3.3-**Video de esta clase** [[YouTube]](https://youtu.be/pending)
+* 3.3-**Video de esta clase** [[YouTube]](https://youtu.be/llLtD7cA7KA)
 * 3.4-Seleccion versus Transformacion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Models.pptx)
 * 3.5-Principal Components Analysis PCA [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pptx)
 * 3.4-Ejemplo de PCA, ICA, PLSR [[Colab]](https://colab.research.google.com/drive/1mDEA1AejzUWvdxpNejPR_5IkacRcDRpr?usp=sharing)
 
 ### Clase 16 Ju. 06-May-2021:
-* 3.7-Branch and Bound [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_BranchAndBound.pptx)
-* 3.1-Clean: Limpieza de datos [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Clean.pptx)
+* 3.1-Seleccion versus Transformacion [[Apuntes]](https://www.geeksforgeeks.org/feature-selection-techniques-in-machine-learning/)
 
 ### Clase 17 Ma. 18-May-2021:
 * 3.1-Esquema general con seleccion de caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_GeneralSchema.pdf)
@@ -197,4 +196,4 @@
 ---
 
 
-Updated on 04-May-2021 at 11:28 by Domingo Mery
+Updated on 05-May-2021 at 17:49 by Domingo Mery
