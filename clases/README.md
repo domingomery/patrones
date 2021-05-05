@@ -120,18 +120,22 @@
 * 3.4-Seleccion versus Transformacion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Models.pptx)
 * 3.5-Principal Components Analysis PCA [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pptx)
 * 3.4-Ejemplo de PCA, ICA, PLSR [[Colab]](https://colab.research.google.com/drive/1mDEA1AejzUWvdxpNejPR_5IkacRcDRpr?usp=sharing)
+* 3.4-ICA [[Apuntes]](https://towardsdatascience.com/independent-component-analysis-ica-in-python-a0ef0db0955e)
 
 ### Clase 16 Ju. 06-May-2021:
-* 3.1-Seleccion versus Transformacion [[Apuntes]](https://www.geeksforgeeks.org/feature-selection-techniques-in-machine-learning/)
+* 3.3-**Video de esta clase** [[YouTube]](https://youtu.be/pending)
+* 3.1-Esquema general con seleccion de caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_GeneralSchema.pdf)
+* 3.5-Batera de Ejemplos de Seleccin de Caracteristicas [[Colab]](https://colab.research.google.com/drive/1rwCjhI5ZA1tvZdZQYFQfTW0904hEy-wd?usp=sharing)
+* 3.1-How to Perform Feature Selection With Numerical Input Data [[Apuntes]](https://machinelearningmastery.com/feature-selection-with-numerical-input-data/)
+* 3.1-Libreria PyBalu en Python [[Libreria]](https://github.com/mbucchi/pybalu)
+* 3.1-Librera sklearn para Feature Selection [[Libreria]](https://scikit-learn.org/stable/modules/feature_selection.html)
+* 3.1-Libreria mlxtend [[Python]](http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/#example-1-a-simple-sequential-forward-selection-example)
+* 3.5-Ejercicio 08 sobre Seleccion/Transformacion de Caracteristicas [[Colab]](https://colab.research.google.com/drive/1yusIdrKqSHS2mYt6FoMM-HEKdvNQWFf2?usp=sharing)
 
 ### Clase 17 Ma. 18-May-2021:
-* 3.1-Esquema general con seleccion de caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_GeneralSchema.pdf)
-* 3.8-Toolbox Balu en python [[Libreria]](https://github.com/domingomery/Balu)
-* 3.8-Libreria PyBalu en Python [[Libreria]](https://github.com/mbucchi/pybalu)
-* 3.8-Ejemplo usando Balu [[Python]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/balu/)
+* 3.2-Principal Components Analysis PCA [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pptx)
 
 ### Clase 18 Ju. 20-May-2021:
-* 3.2-Principal Components Analysis PCA [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pptx)
 * 3.2-Principal Components Analysis PCA [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pdf)
 * 7.1-Descripcion del Proyecto [[Proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto)
 
@@ -196,4 +200,4 @@
 ---
 
 
-Updated on 05-May-2021 at 17:49 by Domingo Mery
+Updated on 05-May-2021 at 17:59 by Domingo Mery
