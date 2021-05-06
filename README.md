@@ -125,12 +125,13 @@
 ### Clase 16 Ju. 06-May-2021:
 * 3.3-**Video de esta clase** [[YouTube]](https://youtu.be/pending)
 * 3.1-Esquema general con seleccion de caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_GeneralSchema.pdf)
-* 3.5-Batera de Ejemplos de Seleccin de Caracteristicas [[Colab]](https://colab.research.google.com/drive/1rwCjhI5ZA1tvZdZQYFQfTW0904hEy-wd?usp=sharing)
+* 3.5-Bateria de Ejemplos de Seleccion de Caracteristicas [[Colab]](https://colab.research.google.com/drive/1rwCjhI5ZA1tvZdZQYFQfTW0904hEy-wd?usp=sharing)
 * 3.1-How to Perform Feature Selection With Numerical Input Data [[Apuntes]](https://machinelearningmastery.com/feature-selection-with-numerical-input-data/)
 * 3.1-Libreria PyBalu en Python [[Libreria]](https://github.com/mbucchi/pybalu)
-* 3.1-Librera sklearn para Feature Selection [[Libreria]](https://scikit-learn.org/stable/modules/feature_selection.html)
-* 3.1-Libreria mlxtend [[Python]](http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/#example-1-a-simple-sequential-forward-selection-example)
+* 3.1-Libreria sklearn para Feature Selection [[Libreria]](https://scikit-learn.org/stable/modules/feature_selection.html)
+* 3.1-Libreria mlxtend [[Python]](http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/)
 * 3.5-Ejercicio 08 sobre Seleccion/Transformacion de Caracteristicas [[Colab]](https://colab.research.google.com/drive/1yusIdrKqSHS2mYt6FoMM-HEKdvNQWFf2?usp=sharing)
+* 3.5-Esquema del Ejercicio 08 [[PPT]](PAT03_Ejercicio08.pptx)
 
 ### Clase 17 Ma. 18-May-2021:
 * 3.2-Principal Components Analysis PCA [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pptx)
@@ -200,4 +201,4 @@
 ---
 
 
-Updated on 05-May-2021 at 17:59 by Domingo Mery
+Updated on 06-May-2021 at 11:20 by Domingo Mery
