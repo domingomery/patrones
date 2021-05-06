@@ -131,7 +131,7 @@
 * 3.1-Libreria sklearn para Feature Selection [[Libreria]](https://scikit-learn.org/stable/modules/feature_selection.html)
 * 3.1-Libreria mlxtend [[Python]](http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/)
 * 3.5-Ejercicio 08 sobre Seleccion/Transformacion de Caracteristicas [[Colab]](https://colab.research.google.com/drive/1yusIdrKqSHS2mYt6FoMM-HEKdvNQWFf2?usp=sharing)
-* 3.5-Esquema del Ejercicio 08 [[PPT]](PAT03_Ejercicio08.pptx)
+* 3.5-Esquema del Ejercicio 08 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Ejercicio08.pptx)
 
 ### Clase 17 Ma. 18-May-2021:
 * 3.2-Principal Components Analysis PCA [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pptx)
@@ -201,4 +201,4 @@
 ---
 
 
-Updated on 06-May-2021 at 11:20 by Domingo Mery
+Updated on 06-May-2021 at 11:23 by Domingo Mery
