@@ -13,15 +13,13 @@
 * Libreria sklearn para Feature Selection [[Libreria]](https://scikit-learn.org/stable/modules/feature_selection.html)
 * Libreria mlxtend [[Python]](http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/)
 ### 3.2 Analisis de componentes principales:
-* Principal Components Analysis PCA [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pptx)
-* Principal Components Analysis PCA [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pdf)
 ### 3.3 Discriminante Fisher:
 * **Video de esta clase** [[YouTube]](https://youtu.be/b1BBhid8G-k)
 * Discriminante Fihser y Matrices de Covarianza [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pptx)
 * Discriminante Fihser y Matrices de Covarianza [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pdf)
 * Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 * **Video de esta clase** [[YouTube]](https://youtu.be/llLtD7cA7KA)
-* **Video de esta clase** [[YouTube]](https://youtu.be/pending)
+* **Video de esta clase** [[YouTube]](https://youtu.be/Qlv_EYy2WSI)
 ### 3.4 Busqueda exhaustiva:
 * Busqueda Exhaustiva [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_ExSearch.pptx)
 * Ejercicico 06 sobre deteccion de espinas en filetes de salmon [[Colab]](https://colab.research.google.com/drive/1XgBajOZhpujmVBsF8tSc289ryZXAPicj?usp=sharing)
@@ -40,8 +38,7 @@
 ### 3.7 Busqueda Brunch-Bound:
 * Branch and Bound [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_BranchAndBound.pptx)
 ### 3.8 Ejemplos:
-* Trabajo en grupo: realizar el problema de deteccion de caras [[Enunciado]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/ejercicios/PCA_SFS)
 ---
 
 
-Updated on 06-May-2021 at 11:23 by Domingo Mery
+Updated on 07-May-2021 at 10:23 by Domingo Mery

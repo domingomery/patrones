@@ -123,7 +123,7 @@
 * 3.4-ICA [[Apuntes]](https://towardsdatascience.com/independent-component-analysis-ica-in-python-a0ef0db0955e)
 
 ### Clase 16 Ju. 06-May-2021:
-* 3.3-**Video de esta clase** [[YouTube]](https://youtu.be/pending)
+* 3.3-**Video de esta clase** [[YouTube]](https://youtu.be/Qlv_EYy2WSI)
 * 3.1-Esquema general con seleccion de caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_GeneralSchema.pdf)
 * 3.5-Bateria de Ejemplos de Seleccion de Caracteristicas [[Colab]](https://colab.research.google.com/drive/1rwCjhI5ZA1tvZdZQYFQfTW0904hEy-wd?usp=sharing)
 * 3.1-How to Perform Feature Selection With Numerical Input Data [[Apuntes]](https://machinelearningmastery.com/feature-selection-with-numerical-input-data/)
@@ -134,51 +134,48 @@
 * 3.5-Esquema del Ejercicio 08 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Ejercicio08.pptx)
 
 ### Clase 17 Ma. 18-May-2021:
-* 3.2-Principal Components Analysis PCA [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pptx)
-
-### Clase 18 Ju. 20-May-2021:
-* 3.2-Principal Components Analysis PCA [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pdf)
-* 7.1-Descripcion del Proyecto [[Proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto)
-
-### Clase 19 Ma. 25-May-2021:
-* 3.8-Trabajo en grupo: realizar el problema de deteccion de caras [[Enunciado]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/ejercicios/PCA_SFS)
-
-### Clase 20 Ju. 27-May-2021:
+* 7.1-Descripcion de Proyecto [[Proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto)
 * 4.1-Introduccion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_intro.pptx)
 * 4.2-Clasificador KNN - vecino mas cercano [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_KNN.pptx)
 * 4.2-NBNN [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_NBNN.pptx)
 * 4.2-Clasificador DMIN - distancia minima [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_dmin.pptx)
 
-### Clase 21 Ma. 01-Jun-2021:
+### Clase 18 Ju. 20-May-2021:
 * 4.4-Clasificador de Bayes [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_Bayes.pptx)
 * 4.3-Clasificadores LDA, QDA, Mahalanobis, Bayes [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_LDA.pptx)
 
-### Clase 22 Ju. 03-Jun-2021:
+### Clase 19 Ma. 25-May-2021:
 * 4.5-Introduccion a SVM [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM.pptx)
 * 4.5-Teoria sobre SVM [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM_new.pdf)
 * 4.5-Teoria sobre SVM [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM_Theory.pdf)
+
+### Clase 20 Ju. 27-May-2021:
 * 4.5-Teoria sobre SVM [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/papers/PAT04_SupportVectorMachines.pdf)
 * 4.5-Tutorial de SVM en phyton [[YouTube]](https://www.youtube.com/watch?v=N1vOgolbjSc)
 * 4.5-Video de teoria de SVM (MIT lesson) [[YouTube]](https://www.youtube.com/watch?v=_PwhiWxHK8o)
 
-### Clase 23 Ma. 08-Jun-2021:
+### Clase 21 Ma. 01-Jun-2021:
 * 4.6-Redes Neuronales [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_NeuralNetworks.pptx)
 * 4.6-Libro de Neural Networks and Deep Learning [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
 
-### Clase 24 Ju. 10-Jun-2021:
+### Clase 22 Ju. 03-Jun-2021:
 * 4.7-Deep Learning [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_DeapLearning.pptx)
 * 4.9-Ejemplo Estado del Arte Reconocimiento Facial [[YouTube]](https://youtu.be/qKOsnwIH5Tk)
 
-### Clase 25 Ma. 15-Jun-2021:
+### Clase 23 Ma. 08-Jun-2021:
 * 4.9-Trabajo en grupo [[]]()
 
-### Clase 26 Ju. 17-Jun-2021:
+### Clase 24 Ju. 10-Jun-2021:
 * 5.2-Matriz de Confusion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ConfusionMatrix.pptx)
 * 5.5-Estimacion de Accuracy [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_AccuracyEstimation.pptx)
 
-### Clase 27 Ma. 22-Jun-2021:
+### Clase 25 Ma. 15-Jun-2021:
 * 6.2-Clustering: K-Means [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_KMeans.pptx)
+
+### Clase 26 Ju. 17-Jun-2021:
 * 6.2-Clustering: Hierarchic [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_Hierarchic.pptx)
+
+### Clase 27 Ma. 22-Jun-2021:
 * 6.2-Clustering: Mixture of Gaussians [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_GaussMix.pptx)
 
 ### Clase 28 Ju. 24-Jun-2021:
@@ -201,4 +198,4 @@
 ---
 
 
-Updated on 06-May-2021 at 11:23 by Domingo Mery
+Updated on 07-May-2021 at 10:23 by Domingo Mery
