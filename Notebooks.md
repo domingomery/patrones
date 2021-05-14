@@ -19,7 +19,7 @@ Caraceterísticas geométricas (básicas, elípticas y momentos)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yw-3uoLIi2_IoI-TWIpYSOz7VTSxSBkC?usp=sharing) 
 Reconocimiento facial con LBP
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1amOTtTetNkw3ew58yOmjMc_L1qJ1RVqD?usp=sharing) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MMjJcLNiwMeDbyScCm3c8QcpWMZ5lKJ_?usp=sharing) 
 Detección de caras (Haralick, Gabor y LBP) 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1i8Wn5KlNGPKcKKEtyjBiHoOChx7aF-rS?usp=sharing) 
@@ -31,7 +31,7 @@ Detección de peatones, ciclistas (HoG)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BZS9v6hCeIk2_wO5FRrkE0Mq_xI6LNXm?usp=sharing) 
 Biometría de vacas (SIFT)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MVEMLOox6fM1CkmskmYjGxsQiJZNq9_6?usp=sharing) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zncqmmO6EMQDDsMytQyyXY0pvbwgpcE0?usp=sharing) 
 Detección de paredes rayadas
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PrBuK3vniTbpuKKdoCUrAqBYBhFI7T0r?usp=sharing) 
@@ -46,8 +46,8 @@ Deteccion de espinas en filetes de salmón
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14bwzAfN3QVSPGNKjLvrhr7zl02SkRu08?usp=sharing) 
 Ejemplo de selección de características
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mDEA1AejzUWvdxpNejPR_5IkacRcDRpr?usp=sharing) 
-PCA, ICA, PLSR
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mDEA1AejzUWvdxpNejPR_5IkacRcDRpr?usp=sharing) Reconocimiento facial con LBP usando transformaciones 
+PCA, ICA y PLSR
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rwCjhI5ZA1tvZdZQYFQfTW0904hEy-wd?usp=sharing) 
 Batería de ejemplos de seleccion de características
@@ -77,5 +77,28 @@ Reconocimiento de género
 
 * [Texuras Brodatz](https://www.dropbox.com/s/pami9abpbfoyfsm/textures.zip?dl=0): 111 clases (111 texturas), 9 imágenes por clase (213x213 pixeles, escala de grises)
 
+* [Paredes Rayadas](https://www.dropbox.com/s/08nu4a4mayk7kj2/rayas.zip): 2 clases (1 para no-rayas, 2 para rayas), 600 imágenes por clase (64x64 pixeles, escala de grises)
+
 * [Vacas](https://www.dropbox.com/s/llw8sy4llylhg2q/cows.zip?dl=0): 80 imágenes de vacas (son unas 30 vacas), (200x400 pixeles a color)
+
+* [Radiografías de espinas de filetes de salmón](https://www.dropbox.com/s/7d9y6kllguegk77/fishbones.zip): 2 clases (1 para espinas, 2 para no-espinas), 340 imágenes por clase (100x100 pixeles, escala de grises)
+
+* [Reconocimiento de género (hombre/mujer)](https://www.dropbox.com/s/1xajq6knp1mm34h/argender.zip): 2 clases (1 para hombres, 2 para mujeres), 700 imágenes por clase (165x120 pixeles, escala de grises) - basado en la base de datos [AR](http://www2.ece.ohio-state.edu/~aleix/ARdatabase.html).
+
+* [Características para el reconocimiento de género (hombre/mujer)](https://www.dropbox.com/s/iozz2yw1vt63ly3/X_gender.npy) y [labels](https://www.dropbox.com/s/6458s78hu8covw1/y_gender.npy). La base de datos consiste en 2 clases con 218 muestras por clase. Las 1589 características por muestras se encuentran almacenadas en el archivo X_gender.npy como una matriz de 436 x 1589 elementos. Los labels se encuentren almacenados en el archivo y_gender como un vector de 436 eelementos (218 ceros y 218 unos). Esta base de datos puede ser usada para selección de características.
+
+* [F2](https://www.dropbox.com/s/47a4uvq7fh0os01/F2.zip): Características para probar clasificadores - Training data: 800 samples with 2 features. Testing data: 400 samples with 2 features. Classes: 0...1
+
+* [F40](https://www.dropbox.com/s/yludnxvcpbm8tb5/F40.zip): Características para probar clasificadores - Training data: 211 samples with 40 features. Testing data: 53 samples with 40 features. Classes: 1...2
+
+
+* [G3](https://www.dropbox.com/s/hcpn1gep6dsqjjx/G3.zip): Características para probar clasificadores - Training data: 1200 samples with 2 features. Testing data: 600 samples with 2 features. Classes: 1...3
+
+
+* [G4](https://www.dropbox.com/s/fegv6stfz3tqkxy/G4.zip): Características para probar clasificadores - Training data: 800 samples with 2 features .Testing data: 400 samples with 2 features. Classes: 1...4
+
+
+* [P2](https://www.dropbox.com/s/d3648jkq62vxm63/P2.zip): Características para probar clasificadores - Training data: 1052 samples with 2 features. Testing data: 262 samples with 2 features. Classes: 0...1
+
+
 
