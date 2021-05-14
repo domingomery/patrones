@@ -35,30 +35,30 @@ Biometría de vacas (SIFT)
 Detección de paredes rayadas
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PrBuK3vniTbpuKKdoCUrAqBYBhFI7T0r?usp=sharing) 
-Caracteristicas de intensidad (basicas, contraste, CLP)
+Características de intensidad (básicas, contraste, CLP)
 
 
 ## Capítulo 03: Extracción de Características
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17bK4EcmdGLGhPg4vKUpuo8GiiwQXfmo_?usp=sharing) 
-Deteccion de espinas en filetes de salmón
+Detección de espinas en filetes de salmón
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14bwzAfN3QVSPGNKjLvrhr7zl02SkRu08?usp=sharing) 
-Ejemplo de selección de características
+Selección básica de características
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mDEA1AejzUWvdxpNejPR_5IkacRcDRpr?usp=sharing) Reconocimiento facial con LBP usando transformaciones 
 PCA, ICA y PLSR
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rwCjhI5ZA1tvZdZQYFQfTW0904hEy-wd?usp=sharing) 
-Batería de ejemplos de seleccion de características
+Batería de métodos de selección de características
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uGbqy9WSAF3gIMRAZlwX9xcUGGkXGWhl?usp=sharing) 
 Reconocimiento de género
 
-## Capítulo 04: Extracción de Características
+## Capítulo 04: Clasificación
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sIxne6r2Zgs2_icfdYgsk8SoGSVHC_3B?usp=sharing) 
-Visualización del espacio de características
+Batería de métodos de visualización del espacio de características
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WszMhd3cFOMfrG9S5m8DyQwr3T9EneaT?usp=sharing) 
 Clasificadores básicos (KNN, Bayes, LDA, QDA, Mahalanobis)
