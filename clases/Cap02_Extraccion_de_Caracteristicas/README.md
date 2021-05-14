@@ -33,7 +33,7 @@
 * Comparacion de caracteristicas de textura [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Randen_ComparativeTextures.pdf)
 * **Video de esta clase** [[YouTube]](https://youtu.be/DWe4cN6q4II)
 * Ejercicico 04 sobre deteccion de caras [[Colab]](https://colab.research.google.com/drive/1amOTtTetNkw3ew58yOmjMc_L1qJ1RVqD?usp=sharing)
-* Solucion al Ejercicio 04 [[Colab]](https://colab.research.google.com/drive/1amOTtTetNkw3ew58yOmjMc_L1qJ1RVqD?usp=sharing)
+* Solucion al Ejercicio 04 [[Colab]](https://colab.research.google.com/drive/1MMjJcLNiwMeDbyScCm3c8QcpWMZ5lKJ_?usp=sharing)
 * **Video de esta clase** [[YouTube]](https://youtu.be/mcqkE-gzUHM)
 * Histogram of Gradients (HoG) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HoG_HumanDetection.pptx)
 * Paper HoG [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/HoG_DalalTriggs.pdf)
@@ -46,6 +46,7 @@
 * SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_SIFT_ObjectDetection.pptx)
 * Reconocimiento de vacas usando SIFT [[Colab]](https://colab.research.google.com/drive/1BZS9v6hCeIk2_wO5FRrkE0Mq_xI6LNXm?usp=sharing)
 * Ejercicico 05 sobre deteccion de paredes rayadas [[Colab]](https://colab.research.google.com/drive/1MVEMLOox6fM1CkmskmYjGxsQiJZNq9_6?usp=sharing)
+* Solucion al Ejercicio 05 [[Colab]](https://colab.research.google.com/drive/1zncqmmO6EMQDDsMytQyyXY0pvbwgpcE0?usp=sharing)
 * **Video de esta clase** [[YouTube]](https://youtu.be/MImox20v974)
 * Caracteristicas de intensidad [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_IntensityFeatures.pptx)
 * Caracteristicas de intensidad [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_IntensityFeatures.pdf)
@@ -59,4 +60,4 @@
 ---
 
 
-Updated on 14-May-2021 at 17:01 by Domingo Mery
+Updated on 14-May-2021 at 17:39 by Domingo Mery

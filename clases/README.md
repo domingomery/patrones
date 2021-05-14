@@ -68,7 +68,7 @@
 ### Clase 08 Ju. 08-Apr-2021:
 * 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/DWe4cN6q4II)
 * 2.2-Ejercicico 04 sobre deteccion de caras [[Colab]](https://colab.research.google.com/drive/1amOTtTetNkw3ew58yOmjMc_L1qJ1RVqD?usp=sharing)
-* 2.2-Solucion al Ejercicio 04 [[Colab]](https://colab.research.google.com/drive/1amOTtTetNkw3ew58yOmjMc_L1qJ1RVqD?usp=sharing)
+* 2.2-Solucion al Ejercicio 04 [[Colab]](https://colab.research.google.com/drive/1MMjJcLNiwMeDbyScCm3c8QcpWMZ5lKJ_?usp=sharing)
 
 ### Clase 09 Ma. 13-Apr-2021:
 * 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/mcqkE-gzUHM)
@@ -85,6 +85,7 @@
 * 2.2-SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_SIFT_ObjectDetection.pptx)
 * 2.2-Reconocimiento de vacas usando SIFT [[Colab]](https://colab.research.google.com/drive/1BZS9v6hCeIk2_wO5FRrkE0Mq_xI6LNXm?usp=sharing)
 * 2.2-Ejercicico 05 sobre deteccion de paredes rayadas [[Colab]](https://colab.research.google.com/drive/1MVEMLOox6fM1CkmskmYjGxsQiJZNq9_6?usp=sharing)
+* 2.2-Solucion al Ejercicio 05 [[Colab]](https://colab.research.google.com/drive/1zncqmmO6EMQDDsMytQyyXY0pvbwgpcE0?usp=sharing)
 
 ### Clase 11 Ma. 20-Apr-2021:
 * 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/MImox20v974)
@@ -137,10 +138,12 @@
 
 ### Clase 17 Ma. 18-May-2021:
 * 7.1-Descripcion de Proyecto [[Proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto)
+* 4.1-Visualizacion del espacio de caracteristicas [[Colab]](https://colab.research.google.com/drive/1sIxne6r2Zgs2_icfdYgsk8SoGSVHC_3B?usp=sharing)
 * 4.1-Introduccion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_intro.pptx)
 * 4.2-Clasificador KNN - vecino mas cercano [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_KNN.pptx)
 * 4.2-NBNN [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_NBNN.pptx)
 * 4.2-Clasificador DMIN - distancia minima [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_dmin.pptx)
+* 4.2-Clasificadores basicos [[Colab]](https://colab.research.google.com/drive/1WszMhd3cFOMfrG9S5m8DyQwr3T9EneaT?usp=sharing)
 
 ### Clase 18 Ju. 20-May-2021:
 * 4.4-Clasificador de Bayes [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_Bayes.pptx)
@@ -200,4 +203,4 @@
 ---
 
 
-Updated on 14-May-2021 at 17:01 by Domingo Mery
+Updated on 14-May-2021 at 17:39 by Domingo Mery

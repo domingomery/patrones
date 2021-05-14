@@ -55,7 +55,13 @@ Batería de ejemplos de seleccion de características
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uGbqy9WSAF3gIMRAZlwX9xcUGGkXGWhl?usp=sharing) 
 Reconocimiento de género
 
+## Capítulo 04: Extracción de Características
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sIxne6r2Zgs2_icfdYgsk8SoGSVHC_3B?usp=sharing) 
+Visualización del espacio de características
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WszMhd3cFOMfrG9S5m8DyQwr3T9EneaT?usp=sharing) 
+Clasificadores básicos (KNN, Bayes, LDA, QDA, Mahalanobis)
 
 
 
