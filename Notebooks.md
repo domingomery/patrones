@@ -14,22 +14,49 @@ Separación entre letras J y Q
 Descriptores de Fourier 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZVWzvrgfe56kP4tcsPFYW4Qd0asoMCOU?usp=sharing) 
-Caraceterísticas Geométricas (básicas, elípticas y momentos)
+Caraceterísticas geométricas (básicas, elípticas y momentos)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yw-3uoLIi2_IoI-TWIpYSOz7VTSxSBkC?usp=sharing) 
-Reconocimiento Facial con LBP
+Reconocimiento facial con LBP
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17bK4EcmdGLGhPg4vKUpuo8GiiwQXfmo_?usp=sharing) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1amOTtTetNkw3ew58yOmjMc_L1qJ1RVqD?usp=sharing) 
 Detección de caras (Haralick, Gabor y LBP) 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1i8Wn5KlNGPKcKKEtyjBiHoOChx7aF-rS?usp=sharing) 
 Reconocimiento de texturas (Haralick, Gabor y LBP)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mKeW9si4TbgzeUtEn-d4t3rWL3sTrRBJ?usp=sharing) 
-Detección de Peatones, Ciclistas (HoG)
+Detección de peatones, ciclistas (HoG)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BZS9v6hCeIk2_wO5FRrkE0Mq_xI6LNXm?usp=sharing) 
-Biometría de Vacas (SIFT)
+Biometría de vacas (SIFT)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MVEMLOox6fM1CkmskmYjGxsQiJZNq9_6?usp=sharing) 
+Detección de paredes rayadas
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PrBuK3vniTbpuKKdoCUrAqBYBhFI7T0r?usp=sharing) 
+Caracteristicas de intensidad (basicas, contraste, CLP)
+
+
+## Capítulo 03: Extracción de Características
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17bK4EcmdGLGhPg4vKUpuo8GiiwQXfmo_?usp=sharing) 
+Deteccion de espinas en filetes de salmón
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14bwzAfN3QVSPGNKjLvrhr7zl02SkRu08?usp=sharing) 
+Ejemplo de selección de características
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mDEA1AejzUWvdxpNejPR_5IkacRcDRpr?usp=sharing) 
+PCA, ICA, PLSR
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rwCjhI5ZA1tvZdZQYFQfTW0904hEy-wd?usp=sharing) 
+Batería de ejemplos de seleccion de características
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uGbqy9WSAF3gIMRAZlwX9xcUGGkXGWhl?usp=sharing) 
+Reconocimiento de género
+
+
+
 
 
 ## Bases de Datos
