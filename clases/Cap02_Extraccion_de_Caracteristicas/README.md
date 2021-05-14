@@ -33,6 +33,7 @@
 * Comparacion de caracteristicas de textura [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Randen_ComparativeTextures.pdf)
 * **Video de esta clase** [[YouTube]](https://youtu.be/DWe4cN6q4II)
 * Ejercicico 04 sobre deteccion de caras [[Colab]](https://colab.research.google.com/drive/1amOTtTetNkw3ew58yOmjMc_L1qJ1RVqD?usp=sharing)
+* Solucion al Ejercicio 04 [[Colab]](https://colab.research.google.com/drive/1amOTtTetNkw3ew58yOmjMc_L1qJ1RVqD?usp=sharing)
 * **Video de esta clase** [[YouTube]](https://youtu.be/mcqkE-gzUHM)
 * Histogram of Gradients (HoG) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HoG_HumanDetection.pptx)
 * Paper HoG [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/HoG_DalalTriggs.pdf)
@@ -58,4 +59,4 @@
 ---
 
 
-Updated on 07-May-2021 at 10:23 by Domingo Mery
+Updated on 14-May-2021 at 17:01 by Domingo Mery

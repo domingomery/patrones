@@ -68,6 +68,7 @@
 ### Clase 08 Ju. 08-Apr-2021:
 * 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/DWe4cN6q4II)
 * 2.2-Ejercicico 04 sobre deteccion de caras [[Colab]](https://colab.research.google.com/drive/1amOTtTetNkw3ew58yOmjMc_L1qJ1RVqD?usp=sharing)
+* 2.2-Solucion al Ejercicio 04 [[Colab]](https://colab.research.google.com/drive/1amOTtTetNkw3ew58yOmjMc_L1qJ1RVqD?usp=sharing)
 
 ### Clase 09 Ma. 13-Apr-2021:
 * 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/mcqkE-gzUHM)
@@ -132,6 +133,7 @@
 * 3.1-Libreria mlxtend [[Python]](http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/)
 * 3.5-Ejercicio 08 sobre Seleccion/Transformacion de Caracteristicas [[Colab]](https://colab.research.google.com/drive/1yusIdrKqSHS2mYt6FoMM-HEKdvNQWFf2?usp=sharing)
 * 3.5-Esquema del Ejercicio 08 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Ejercicio08.pptx)
+* 3.5-Solucion al Ejercicio 08 [[Colab]](https://colab.research.google.com/drive/1uGbqy9WSAF3gIMRAZlwX9xcUGGkXGWhl?usp=sharing)
 
 ### Clase 17 Ma. 18-May-2021:
 * 7.1-Descripcion de Proyecto [[Proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto)
@@ -198,4 +200,4 @@
 ---
 
 
-Updated on 07-May-2021 at 10:23 by Domingo Mery
+Updated on 14-May-2021 at 17:01 by Domingo Mery
