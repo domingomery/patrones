@@ -1,7 +1,7 @@
 
 # Capitulo 04: Clasificacion
 ### 4.1 Introduccion:
-* **Video de esta clase** [[YouTube]](https://youtu.be/pending)
+* **Video de esta clase** [[YouTube]](https://youtu.be/OYrI_O7n5mE)
 * Introduccion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_intro.pptx)
 * Visualizacion del espacio de caracteristicas [[Colab]](https://colab.research.google.com/drive/1sIxne6r2Zgs2_icfdYgsk8SoGSVHC_3B?usp=sharing)
 ### 4.2 Vecino mas cercano:
@@ -34,4 +34,4 @@
 ---
 
 
-Updated on 18-May-2021 at 10:42 by Domingo Mery
+Updated on 18-May-2021 at 13:18 by Domingo Mery

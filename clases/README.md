@@ -137,7 +137,7 @@
 * 3.5-Solucion al Ejercicio 08 [[Colab]](https://colab.research.google.com/drive/1uGbqy9WSAF3gIMRAZlwX9xcUGGkXGWhl?usp=sharing)
 
 ### Clase 17 Ma. 18-May-2021:
-* 4.1-**Video de esta clase** [[YouTube]](https://youtu.be/pending)
+* 4.1-**Video de esta clase** [[YouTube]](https://youtu.be/OYrI_O7n5mE)
 * 4.1-Introduccion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_intro.pptx)
 * 4.2-Clasificador KNN - vecino mas cercano [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_KNN.pptx)
 * 4.2-Clasificador DMIN - distancia minima [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_dmin.pptx)
@@ -204,4 +204,4 @@
 ---
 
 
-Updated on 18-May-2021 at 10:42 by Domingo Mery
+Updated on 18-May-2021 at 13:18 by Domingo Mery
