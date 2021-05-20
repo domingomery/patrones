@@ -146,7 +146,7 @@
 
 ### Clase 18 Ju. 20-May-2021:
 * 4.3-**Video de esta clase** [[YouTube]](https://youtu.be/pending)
-* 4.3-Clasificadores LDA, QDA, Mahalanobis, Bayes [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_LDA.pptx)
+* 4.3-Clasificadores LDA, QDA, Mahalanobis [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_LDA.pptx)
 * 4.3-Arboles de decision [[Proyecto]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_Trees.pptx)
 * 4.1-Visualizacion del espacio de caracteristicas [[Colab]](https://colab.research.google.com/drive/1sIxne6r2Zgs2_icfdYgsk8SoGSVHC_3B?usp=sharing)
 * 4.1-Entropia [[YouTube]](https://youtu.be/9r7FIXEAGvs)
@@ -207,4 +207,4 @@
 ---
 
 
-Updated on 20-May-2021 at 11:07 by Domingo Mery
+Updated on 20-May-2021 at 11:08 by Domingo Mery
