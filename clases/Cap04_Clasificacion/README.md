@@ -3,15 +3,16 @@
 ### 4.1 Introduccion:
 * **Video de esta clase** [[YouTube]](https://youtu.be/OYrI_O7n5mE)
 * Introduccion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_intro.pptx)
-* Visualizacion del espacio de caracteristicas [[Colab]](https://colab.research.google.com/drive/1sIxne6r2Zgs2_icfdYgsk8SoGSVHC_3B?usp=sharing)
 * Entropia [[YouTube]](https://youtu.be/9r7FIXEAGvs)
+* Visualizacion del espacio de caracteristicas [[Colab]](https://colab.research.google.com/drive/1sIxne6r2Zgs2_icfdYgsk8SoGSVHC_3B?usp=sharing)
 ### 4.2 Vecino mas cercano:
 * Clasificador KNN - vecino mas cercano [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_KNN.pptx)
 * Clasificador DMIN - distancia minima [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_dmin.pptx)
 * Clasificadores basicos [[Colab]](https://colab.research.google.com/drive/1WszMhd3cFOMfrG9S5m8DyQwr3T9EneaT?usp=sharing)
+* Clasificadores basicos [[Colab]](https://colab.research.google.com/drive/1WszMhd3cFOMfrG9S5m8DyQwr3T9EneaT?usp=sharing)
 * NBNN [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_NBNN.pptx)
 ### 4.3 LDA, QDA, Mahalanobis:
-* **Video de esta clase** [[YouTube]](https://youtu.be/pending)
+* **Video de esta clase** [[YouTube]](https://youtu.be/6nW43kyZUhY)
 * Clasificadores LDA, QDA, Mahalanobis [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_LDA.pptx)
 * Arboles de decision [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_Trees.pptx)
 ### 4.4 Clasificador de Bayes:
@@ -37,4 +38,4 @@
 ---
 
 
-Updated on 20-May-2021 at 12:39 by Domingo Mery
+Updated on 22-May-2021 at 18:12 by Domingo Mery
