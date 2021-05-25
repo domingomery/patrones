@@ -153,7 +153,7 @@
 * 4.1-Visualizacion del espacio de caracteristicas [[Colab]](https://colab.research.google.com/drive/1sIxne6r2Zgs2_icfdYgsk8SoGSVHC_3B?usp=sharing)
 
 ### Clase 19 Ma. 25-May-2021:
-* 4.1-**Video de esta clase** [[YouTube]](https://youtu.be/pending)
+* 4.1-**Video de esta clase** [[YouTube]](https://youtu.be/gMUjrOFHYGQ)
 * 4.2-Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 
 ### Clase 20 Ju. 27-May-2021:
@@ -210,4 +210,4 @@
 ---
 
 
-Updated on 25-May-2021 at 11:24 by Domingo Mery
+Updated on 25-May-2021 at 13:26 by Domingo Mery
