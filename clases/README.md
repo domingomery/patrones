@@ -153,13 +153,15 @@
 * 4.1-Visualizacion del espacio de caracteristicas [[Colab]](https://colab.research.google.com/drive/1sIxne6r2Zgs2_icfdYgsk8SoGSVHC_3B?usp=sharing)
 
 ### Clase 19 Ma. 25-May-2021:
+* 4.1-**Video de esta clase** [[YouTube]](https://youtu.be/pending)
+* 4.2-Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
+
+### Clase 20 Ju. 27-May-2021:
 * 4.2-NBNN [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_NBNN.pptx)
 * 7.1-Descripcion de Proyecto [[Proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto)
 * 4.5-Introduccion a SVM [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM.pptx)
 * 4.5-Teoria sobre SVM [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM_new.pdf)
 * 4.5-Teoria sobre SVM [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM_Theory.pdf)
-
-### Clase 20 Ju. 27-May-2021:
 * 4.5-Teoria sobre SVM [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/papers/PAT04_SupportVectorMachines.pdf)
 * 4.5-Tutorial de SVM en phyton [[YouTube]](https://www.youtube.com/watch?v=N1vOgolbjSc)
 * 4.5-Video de teoria de SVM (MIT lesson) [[YouTube]](https://www.youtube.com/watch?v=_PwhiWxHK8o)
@@ -208,4 +210,4 @@
 ---
 
 
-Updated on 22-May-2021 at 18:12 by Domingo Mery
+Updated on 25-May-2021 at 11:24 by Domingo Mery
