@@ -159,7 +159,9 @@
 ### Clase 20 Ju. 27-May-2021:
 * 4.6-**Video de esta clase** [[YouTube]](https://youtu.be/GlMKLvTJ1e0)
 * 4.6-Redes Neuronales [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_NeuralNetworks.pptx)
-* 4.1-Clasificador basado en Redes Neuornales [[Colab]](https://colab.research.google.com/drive/1_xE4tTQwtyiE_9zjLkEssJMYTGytgZZg?usp=sharing)
+* 4.6-Algoritmo Backpropagation [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_BackPropagation.pdf)
+* 4.6-Clasificador basado en Redes Neuornales [[Colab]](https://colab.research.google.com/drive/1_xE4tTQwtyiE_9zjLkEssJMYTGytgZZg?usp=sharing)
+* 4.6-Libro de Neural Networks and Deep Learning [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
 
 ### Clase 20 Ju. 27-May-2021:
 * 4.2-NBNN [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_NBNN.pptx)
@@ -215,4 +217,4 @@
 ---
 
 
-Updated on 27-May-2021 at 13:26 by Domingo Mery
+Updated on 27-May-2021 at 18:59 by Domingo Mery
