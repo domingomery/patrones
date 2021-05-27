@@ -157,6 +157,11 @@
 * 4.2-Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 
 ### Clase 20 Ju. 27-May-2021:
+* 4.6-**Video de esta clase** [[YouTube]](https://youtu.be/GlMKLvTJ1e0)
+* 4.6-Redes Neuronales [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_NeuralNetworks.pptx)
+* 4.1-Clasificador basado en Redes Neuornales [[Colab]](https://colab.research.google.com/drive/1_xE4tTQwtyiE_9zjLkEssJMYTGytgZZg?usp=sharing)
+
+### Clase 20 Ju. 27-May-2021:
 * 4.2-NBNN [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_NBNN.pptx)
 * 7.1-Descripcion de Proyecto [[Proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto)
 * 4.5-Introduccion a SVM [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM.pptx)
@@ -210,4 +215,4 @@
 ---
 
 
-Updated on 25-May-2021 at 13:26 by Domingo Mery
+Updated on 27-May-2021 at 13:26 by Domingo Mery
