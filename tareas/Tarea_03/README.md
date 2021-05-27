@@ -63,6 +63,6 @@ La nota en este item es 30% x C, donde C = A + B, con A un número entre 0 y 1 q
 La tarea deberá subirse usando la plataforma [Google Classroom](https://classroom.google.com/c/Mjk2NzQzMTI1MTc1?cjc=asifzvs) (código de la clase es asifzvs). Los estudiantes del curso deben haber recibido una invitación de Google Classrom al correo que tienen en la UC.
 
 ## Foro
-Para hacer comentarios o preguntas que no se hayan hecho en clases, por favor dirigirse al [foro](https://github.com/domingomery/patrones/issues/20). Antes de hacer una pregunta, verificar que no se haya hecho anteriormente en el foro.
+Para hacer comentarios o preguntas que no se hayan hecho en clases, por favor dirigirse al [foro](https://github.com/domingomery/patrones/issues/22). Antes de hacer una pregunta, verificar que no se haya hecho anteriormente en el foro.
 
 
