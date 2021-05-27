@@ -19,7 +19,7 @@ Algunos ejemplos de las imágenes se muestran a continuación:
 
 <img src="https://github.com/domingomery/patrones/blob/master/tareas/Tarea_03/example.png" width="600">
 
-En esta tarea se debe realizar un clasificador que separe correctamente las dos clases, para esto deberá diseñar una estrategia de tres "bloques" que 1) extraiga características, 2) las normalice, seleccione y/o transforme, y 3) las clasifique. Todos los parámetros se podrán ajustar usando el conjunto de datos de validación. La solución encontrada deberá ser probada en el conjunto de datos de testing. 
+En esta tarea se debe realizar un clasificador que separe correctamente las dos clases, para esto deberá diseñar una estrategia de tres "bloques" 1) extracción de características, 2) normalización, selección y/o transformación, y 3) clasificación. Todos los parámetros e hiperparámetros de los algoritmos se podrán ajustar usando el conjunto de datos de validación (por ejemplo pesos de las redes neuronales, cuántas características seleccionar, o cuántos vecinos tendrá el KNN, etc.). La solución encontrada deberá ser probada en el conjunto de datos de testing. 
 
 
 NO ESTA PERMITIDO:
