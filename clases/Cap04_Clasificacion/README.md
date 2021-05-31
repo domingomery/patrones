@@ -6,6 +6,7 @@
 * Entropia [[YouTube]](https://youtu.be/9r7FIXEAGvs)
 * Visualizacion del espacio de caracteristicas [[Colab]](https://colab.research.google.com/drive/1sIxne6r2Zgs2_icfdYgsk8SoGSVHC_3B?usp=sharing)
 * **Video de esta clase** [[YouTube]](https://youtu.be/gMUjrOFHYGQ)
+* **Video de esta clase** [[YouTube]](https://youtu.be/pending)
 ### 4.2 Vecino mas cercano:
 * Clasificador KNN - vecino mas cercano [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_KNN.pptx)
 * Clasificador DMIN - distancia minima [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_dmin.pptx)
@@ -31,11 +32,16 @@
 * Redes Neuronales [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_NeuralNetworks.pptx)
 * Algoritmo Backpropagation [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_BackPropagation.pdf)
 * Clasificador basado en Redes Neuornales [[Colab]](https://colab.research.google.com/drive/1_xE4tTQwtyiE_9zjLkEssJMYTGytgZZg?usp=sharing)
-* Libro de Neural Networks and Deep Learning [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
-* Redes Neuronales [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_NeuralNetworks.pptx)
+* Ejemplo NN en MNIST con pytorch [[Colab]](https://colab.research.google.com/drive/1R_w3An79QAD6GBsOSMMCKqNIpZAYLSDu?usp=sharing)
 * Libro de Neural Networks and Deep Learning [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
 ### 4.7 Deep Learning:
 * Deep Learning [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_DeapLearning.pptx)
+* Ejemplo CNN basico (ojo vs. nariz) [[Colab]](https://colab.research.google.com/drive/14I4sEnSZYYGrejdSWpuxFX0CLSv4oJtK?usp=sharing)
+* Ejemplo CNN MNIST [[Colab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion//https://colab.research.google.com/drive/1wjPVq_qEBUcji_xdL96xEPDc1S1ivvTY?usp=sharing)
+* Ejemplo CNN simple (defectos en llantas) [[Colab]](https://colab.research.google.com/drive/1OcZMT2CNOmxOyeOtNrfltD-7Q9P0DiOL?usp=sharing)
+* Ejemplo CNN intermedio (gatos vs. perro) [[Nota]](https://www.kaggle.com/reukki/pytorch-cnn-tutorial-with-cats-and-dogs)
+* Ejemplo CNN intermedio (lunares: 2 clases) [[Colab]](https://colab.research.google.com/drive/1KsNoo7FubANMD4DGRrwxj0oGMRTlSpss?usp=sharing)
+* Ejemplo CNN intermedio (lunares: 7 clases) [[Colab]](https://colab.research.google.com/drive/1nxe41v2qmcTX-ofSt0hFy_-wYVLIdKs_?usp=sharing)
 ### 4.8 Clasificacion con representaciones sparse:
 * Sparse representasions [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SparseRepresentations.pptx)
 * SPAMS library [[link]](http://spams-devel.gforge.inria.fr)
@@ -45,4 +51,4 @@
 ---
 
 
-Updated on 27-May-2021 at 18:59 by Domingo Mery
+Updated on 31-May-2021 at 15:44 by Domingo Mery

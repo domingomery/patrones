@@ -161,9 +161,20 @@
 * 4.6-Redes Neuronales [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_NeuralNetworks.pptx)
 * 4.6-Algoritmo Backpropagation [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_BackPropagation.pdf)
 * 4.6-Clasificador basado en Redes Neuornales [[Colab]](https://colab.research.google.com/drive/1_xE4tTQwtyiE_9zjLkEssJMYTGytgZZg?usp=sharing)
+* 4.6-Ejemplo NN en MNIST con pytorch [[Colab]](https://colab.research.google.com/drive/1R_w3An79QAD6GBsOSMMCKqNIpZAYLSDu?usp=sharing)
 * 4.6-Libro de Neural Networks and Deep Learning [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
 
-### Clase 20 Ju. 27-May-2021:
+### Clase 21 Ma. 01-Jun-2021:
+* 4.1-**Video de esta clase** [[YouTube]](https://youtu.be/pending)
+* 4.7-Deep Learning [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_DeapLearning.pptx)
+* 4.7-Ejemplo CNN basico (ojo vs. nariz) [[Colab]](https://colab.research.google.com/drive/14I4sEnSZYYGrejdSWpuxFX0CLSv4oJtK?usp=sharing)
+* 4.7-Ejemplo CNN MNIST [[Colab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion//https://colab.research.google.com/drive/1wjPVq_qEBUcji_xdL96xEPDc1S1ivvTY?usp=sharing)
+* 4.7-Ejemplo CNN simple (defectos en llantas) [[Colab]](https://colab.research.google.com/drive/1OcZMT2CNOmxOyeOtNrfltD-7Q9P0DiOL?usp=sharing)
+* 4.7-Ejemplo CNN intermedio (gatos vs. perro) [[Nota]](https://www.kaggle.com/reukki/pytorch-cnn-tutorial-with-cats-and-dogs)
+* 4.7-Ejemplo CNN intermedio (lunares: 2 clases) [[Colab]](https://colab.research.google.com/drive/1KsNoo7FubANMD4DGRrwxj0oGMRTlSpss?usp=sharing)
+* 4.7-Ejemplo CNN intermedio (lunares: 7 clases) [[Colab]](https://colab.research.google.com/drive/1nxe41v2qmcTX-ofSt0hFy_-wYVLIdKs_?usp=sharing)
+
+### Clase 22 Ju. 03-Jun-2021:
 * 4.2-NBNN [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_NBNN.pptx)
 * 7.1-Descripcion de Proyecto [[Proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto)
 * 4.5-Introduccion a SVM [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM.pptx)
@@ -172,13 +183,6 @@
 * 4.5-Teoria sobre SVM [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/papers/PAT04_SupportVectorMachines.pdf)
 * 4.5-Tutorial de SVM en phyton [[YouTube]](https://www.youtube.com/watch?v=N1vOgolbjSc)
 * 4.5-Video de teoria de SVM (MIT lesson) [[YouTube]](https://www.youtube.com/watch?v=_PwhiWxHK8o)
-
-### Clase 21 Ma. 01-Jun-2021:
-* 4.6-Redes Neuronales [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_NeuralNetworks.pptx)
-* 4.6-Libro de Neural Networks and Deep Learning [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
-
-### Clase 22 Ju. 03-Jun-2021:
-* 4.7-Deep Learning [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_DeapLearning.pptx)
 * 4.9-Ejemplo Estado del Arte Reconocimiento Facial [[YouTube]](https://youtu.be/qKOsnwIH5Tk)
 
 ### Clase 23 Ma. 08-Jun-2021:
@@ -217,4 +221,4 @@
 ---
 
 
-Updated on 27-May-2021 at 18:59 by Domingo Mery
+Updated on 31-May-2021 at 15:44 by Domingo Mery
