@@ -168,10 +168,10 @@
 * 4.1-**Video de esta clase** [[YouTube]](https://youtu.be/pending)
 * 4.7-Deep Learning [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_DeapLearning.pptx)
 * 4.7-Ejemplo CNN basico (ojo vs. nariz) [[Colab]](https://colab.research.google.com/drive/14I4sEnSZYYGrejdSWpuxFX0CLSv4oJtK?usp=sharing)
-* 4.7-Ejemplo CNN basico (MNIST) [[Colab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion//https://colab.research.google.com/drive/1wjPVq_qEBUcji_xdL96xEPDc1S1ivvTY?usp=sharing)
+* 4.7-Ejemplo CNN basico (MNIST) [[Colab]](https://colab.research.google.com/drive/1wjPVq_qEBUcji_xdL96xEPDc1S1ivvTY?usp=sharing)
 * 4.7-Ejemplo CNN simple (defectos en llantas) [[Colab]](https://colab.research.google.com/drive/1OcZMT2CNOmxOyeOtNrfltD-7Q9P0DiOL?usp=sharing)
 * 4.7-Explicacion de CNN gatos vs. perros [[Nota]](https://www.kaggle.com/reukki/pytorch-cnn-tutorial-with-cats-and-dogs)
-* 4.7-Ejemplo CNN intermedio (gatos vs. perros) [[Colab]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion//https://colab.research.google.com/drive/1WO0sFZJxkwIVyD5IeYxs1jkI4nVseS4l?usp=sharing)
+* 4.7-Ejemplo CNN intermedio (gatos vs. perros) [[Colab]](https://colab.research.google.com/drive/1WO0sFZJxkwIVyD5IeYxs1jkI4nVseS4l?usp=sharing)
 * 4.7-Ejemplo CNN intermedio (lunares: 2 clases) [[Colab]](https://colab.research.google.com/drive/1KsNoo7FubANMD4DGRrwxj0oGMRTlSpss?usp=sharing)
 * 4.7-Ejemplo CNN intermedio (lunares: 7 clases) [[Colab]](https://colab.research.google.com/drive/1nxe41v2qmcTX-ofSt0hFy_-wYVLIdKs_?usp=sharing)
 
@@ -222,4 +222,4 @@
 ---
 
 
-Updated on 31-May-2021 at 15:50 by Domingo Mery
+Updated on 31-May-2021 at 15:53 by Domingo Mery
