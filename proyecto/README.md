@@ -46,39 +46,15 @@ Los nombres de las imágenes tienen el formato `ISIC_xxxxxx_nn.jpg` para la imag
 En este proyecto el objetivo es reconocer automática el tipo de lunar de una foto. Para esto se deberá desarrollar una estrategia como la que se muestra en el diagrama de bloques:
 
 
-<img src="https://github.com/domingomery/patrones/blob/master/proyecto/diagram.png" width="200">
+<img src="https://github.com/domingomery/patrones/blob/master/proyecto/diagram.png" width="600">
 
 
 Es decir, el input son las imágenes a color, la imagen de segmentación, y la metadata, y el output es el número de la clase.
 
 
-(en progreso....)
+(ESTE DOCUMENTO ESTA EN PROGRESO....)
 
 
-
- Considerando que el nombre de archivo de la fotos es FM000xxx_nn.jpg, los experimentos se realizarán en los siguientes cuatro conjuntos de FaceMask166:
-
-* Conjunto A (16 personas): se trabajará sólo con las 6 fotos de las personas xxx = 001, 002, ... 016.
-
-* Conjunto B (40 personas): se trabajará sólo con las 6 fotos de las personas xxx = 001, 002, ... 040.
-
-* Conjunto C (100 personas): se trabajará sólo con las 6 fotos de las personas xxx = 001, 002, ... 100.
-
-* Conjunto C (166 personas): se trabajará con las 6 fotos de todas las personas xxx = 001, 002, ... 166.
-
-Considerando que el nombre de archivo de la fotos es FM000xxx_nn.jpg, el protocolo de experimental es el siguiente:
-
-* Training: Para el entrenamiento se usará sólo las fotos descubiertas (fotos nn = 01, 02 y 03)
-
-* Validation: Para la validación se usará sólo la primera foto con mascarilla (foto nn = 04)
-
-* Testing: Para las pruebas se usará las dos últimas fotos con mascarilla (foto nn = 05 y 06)
-
-La validación se debe usar para ajustar los hiper-parámetros. A manera de ejemplo, si se va usar un clasificador KNN y no se sabe el número de vecinos (hiper-parámetro k), se puede probar en el set de validación cuál es el k que maximiza el accuracy, una vez encontrado este valor de k se probará en el conjunto de testing habiendo entrenado sólo en el training (no se debe incluir el set de validation en el training). En los resultados se deben mostrar algunos análisis de sensibilidad de los hiper-parámetros, es decir, cómo varía el accuracy por ejemplo con el parámetro k del KNN, o cómo varía el accuracy con el número de características escogidas, etc.
-
-Para cada conjunto (A, B, C o D) se deberá diseñar un clasificador, esto significa diseñar cuatro clasificadores, uno para 16 clases,otro para 40 clases, otro para 100 clases y otro para 166 clases. En este diseño se debe seguir las mismas consideraciones y restricciones de la [Tarea 3](https://github.com/domingomery/patrones/tree/master/tareas/Tarea_03) (al menos 5 estrategias por conjunto, se puede usar librerías de clasificación y de extracción, selección y transformación de características, no se puede usar deep learning, etc.). En los resultados, incluir el accuracy en el set de training, de validación y de testing, además se debe graficar la matriz de confusión usando un código de colores (ver [ejemplos](https://scikit-learn.org/stable/auto_examples/model_selection/plot_confusion_matrix.html)). Se debe graficar también el accuracy vs. el número de personas del conjunto empleado (es decir una gráfica con 4 puntos, donde el eje y es el accuracy y el eje x es 16, 40, 100 y 166 personas). Se espera que el accuracy del clasificador disminuya cuando aumenta el número de personas que debe reconocer.
-
-Además, está permitido usar librerías de procesamiento de imágenes (input imagen, output imagen) para procesar las imágenes de la base de datos. Estas liberías no deben estar basadas en deep learning. Tampoco se puede usar librerías )de ningún tipo) que detecten máscaras, pero sí se puede diseñar un algoritmo que las detecte, aunque no debería ser necesario. Como las caras están bien alineadas está permitido usar estrategias del tipo: las X filas superiores pertenecen a la cara y las 256-X inferiores pertenecen a la máscara.
 
 
 ## 3. Fecha de Entrega
