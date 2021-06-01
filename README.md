@@ -165,7 +165,7 @@
 * 4.6-Libro de Neural Networks and Deep Learning [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
 
 ### Clase 21 Ma. 01-Jun-2021:
-* 4.1-**Video de esta clase** [[YouTube]](https://youtu.be/pending)
+* 4.1-**Video de esta clase** [[YouTube]](https://youtu.be/HheWr3LVta4)
 * 4.7-Deep Learning [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_DeapLearning.pptx)
 * 4.7-Ejemplo CNN basico (ojo vs. nariz) [[Colab]](https://colab.research.google.com/drive/14I4sEnSZYYGrejdSWpuxFX0CLSv4oJtK?usp=sharing)
 * 4.7-Ejemplo CNN basico (MNIST) [[Colab]](https://colab.research.google.com/drive/1wjPVq_qEBUcji_xdL96xEPDc1S1ivvTY?usp=sharing)
@@ -222,4 +222,4 @@
 ---
 
 
-Updated on 01-Jun-2021 at 12:49 by Domingo Mery
+Updated on 01-Jun-2021 at 13:21 by Domingo Mery
