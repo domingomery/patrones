@@ -56,9 +56,6 @@ Es decir, el input son las imágenes a color, la imagen de segmentación, y la m
 
 En este proyecto se debe realizar un clasificador que separe correctamente las siete clases, para esto deberá diseñar una estrategia de tres "bloques" 1) extracción de características, 2) concatenación, normalización, selección y/o transformación, y 3) clasificación. Todos los parámetros e hiperparámetros de los algoritmos se podrán ajustar usando la técnica de validación cruzada (cross-val con 6 grupos) en el conjunto de training (por ejemplo encontrar los pesos de las redes neuronales, cuántas características seleccionar, o cuántos vecinos tendrá el KNN, etc.). La solución encontrada deberá ajustarse en el total de los datos de training y probada finalmente en el conjunto de datos de testing. Esta estrategia será vista en clases en detalle.
 
-<img src="https://github.com/domingomery/patrones/blob/master/proyecto/paso1.png" width="600">
-
-
 En la extracción de características se puede usar procesamiento de imágenes antes de extraer características (como por ejemplo calcular el gradiente de la imagen y luego extraer Haralick, este ejemplo no necesariamente es bueno, es solo una idea para ejemplificar). También se puede extraer características de intensidad sólo en aquellos pixeles donde hay lunar (usando la imagen binaria de la segmentación, ver felcha gris punteada en el diagrama).
 
 Las restricciones y libertades son las mismas que las señaladas en la Tarea 03.
