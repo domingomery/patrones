@@ -1,22 +1,62 @@
-# Proyecto del curso Reconocimiento de Patrones (VERSION 2020!!!)
+# Proyecto del curso Reconocimiento de Patrones (VERSION 2021!!!)
 
-## 0. Construccion de la Base de Datos (actividad realizada)
-Las fotos deberán subirse usando la plataforma Google Classroom (código de la clase es fjqq2xr). Por favor no subir las fotos en formato libre, deben seguir al pie de la letra las instrucciones de la [Construcción de la Base de Datos](https://github.com/domingomery/patrones/blob/master/proyecto/Construccion_Base_de_Datos.pptx). Los estudiantes del curso deben haber recibido una invitación de Google Classrom al correo que tienen en la UC. Visitar el [Foro para evitar duplicidad](https://github.com/domingomery/patrones/issues/16).
+SLC: Skin Lession Classification (clasificación de lesiones de piel / lunares)
 
-## 1. Base de Datos FaceMask166
-Con la participación de los estudiantes del curso, se construyó una base de datos llamada FaceMask166 con 166 personas, algunas de ellas son personas famosas y sus fotos fueron extraídas de la prensa local e internacional, el resto son personas conocidas de los estudiantes (o los mismos estudiantes y profesor) del curso que dieron el consentimiento para ser parte de esta base de datos. FaceMask166 podrá ser usada sólo con el fin de diseñar y/o probar algoritmos de reconocimiento facial, no se autoriza el uso de FaceMask166 para otros fines.
 
-[Descargar FaceMask166](https://github.com/domingomery/patrones/blob/master/proyecto/FaceMask166.zip)(*)
+## 1. Base de Datos Lunares7p
 
-FaceMask166 consiste en 6 fotos de frontales de la cara de 166 personas, es decir 996 imágenes faciales frontales. Las imágenes son a color, están en formato jpg y su tamaño es de 256x256 píxeles. Las fotos han sido alineadas de tal forma que los ojos se encuentran en una línea horizontal centrados en la fila 90 de la imágen, de esta manera, el ojo izquierdo y el ojo derecho se encuentran respectivamente en las posiciones (90,90) y (90,165). La gran mayoría de fotos representan caras con expresión neutra, perfectamente frontal, buena resolución y de buena iluminación, sin embargo hay algunas fotos (alrededor de un 10%) que no cuentan con alguna(s) de estas caracerísticas. 
+El objetivo de esta tarea es diseñar un reconocedor de 7 clases de lunares a partir de fotografías tomadas de los lunares. Para realizar este sistema de reconocimiento se cuenta con las imágenes provenientes de la base de datos de [International Skin Imaging Collaboration](https://www.isic-archive.com) quienes han llevado a cabo el Proyecto Melanoma que representa una asociación entre el mundo académico y la industria destinada a facilitar la aplicación de las imágenes digitales de la piel para ayudar a reducir la mortalidad por melanoma. Algunas de las imágenes se muestran a continuación.
 
-El nombre del archivo de cada foto es FM000xxx_nn.jpg, donde xxx es el identificador de la persona, conocido como el 'ID', que en el caso de FaceMask166 es 001, 002, 003, ..., 166; y nn es el número correlativo de la foto de la persona xxx, como son seis fotos, nn puede ser 01, 02, 03, 04, 05 y 06 solamente. Las tres primeras fotos (nn = 01, 02 y 03) son fotos con la cara descubierta, mientras que las últimas tres fotos (nn = 04, 05 y 06) son fotos de la persona usando mascarilla. Algunos ejemplos se muestran a continuación.
+<img src="https://github.com/domingomery/patrones/blob/master/proyecto/example.png" width="600">
 
-<img src="https://github.com/domingomery/patrones/blob/master/proyecto/ejemplo.jpg" width="600">
+La base de datos Lunares7p cuenta con 7 clases:
+
+* Clase 0: 'akiec' - actinic keratosis
+
+* Clase 1: 'bcc' - basal cell carcinoma
+
+* Clase 2: 'bkl' - benign keratosis
+
+* Clase 3: 'df' - dermatofibroma
+
+* Clase 4: 'mel' - melanoma
+
+* Clase 5: 'nv' - melanocytic nevus
+
+* Clase 6: 'vasc' - vascular lesion
+
+
+[Descargar Lunares7p](https://github.com/domingomery/patrones/blob/master/proyecto/lunares7p.zip)(*)
+
+(*) Se puede descargar en Google Colab con: `!wget https://www.dropbox.com/s/rdjxr5u0p4thc8j/lunares7p.zip`
+
+La base de datos cuenta 600 imágenes por clase para training y 50 imágenes por clase para testing. Cada una de las imágenes adicionalmente cuenta con una imagen binaria de segmentación y metadata (edad y sexo del paciente, y localización de la lesión en el cuerpo, por ejemplo cuello, mano, cara, etc.).
+
+La base de datos tiene la siguiente estructura:
+
+<img src="https://github.com/domingomery/patrones/blob/master/proyecto/tree.png" width="200">
+
+La información de la metadata se encuentra en los archivos `meta_train.csv` y `meta_test.csv` para training y testing correspondiente.
+
+Los nombres de las imágenes tienen el formato `ISIC_xxxxxx_nn.jpg` para la imagen a color, e `ISIC_xxxxxx_nn_seg.jpg` para la imagen binaria que corresponde a la segmentación de la imagen a color, donde `xxxxxx` es un número de identificación de la imagen, y `nn` es el número de version de la imagen (con `00` imagen original, y `nn > 00` versión "augmented" de la original, esto puede ser una rotación, espejo, etc, necesarias para obtener clases balanceadas, es decir, el mismo número de imágenes por clase en el training). Es necesario observar que no hay imagenes "augmented" en el testing, es decir, en este caso `nn=00`. 
+
 
 ## 2. Enunciado
 
-En este proyecto el objetivo es reconocer a las personas con mascarilla. Considerando que el nombre de archivo de la fotos es FM000xxx_nn.jpg, los experimentos se realizarán en los siguientes cuatro conjuntos de FaceMask166:
+En este proyecto el objetivo es reconocer automática el tipo de lunar de una foto. Para esto se deberá desarrollar una estrategia como la que se muestra en el diagrama de bloques:
+
+
+<img src="https://github.com/domingomery/patrones/blob/master/proyecto/diagram.png" width="200">
+
+
+Es decir, el input son las imágenes a color, la imagen de segmentación, y la metadata, y el output es el número de la clase.
+
+
+(en progreso....)
+
+
+
+ Considerando que el nombre de archivo de la fotos es FM000xxx_nn.jpg, los experimentos se realizarán en los siguientes cuatro conjuntos de FaceMask166:
 
 * Conjunto A (16 personas): se trabajará sólo con las 6 fotos de las personas xxx = 001, 002, ... 016.
 
