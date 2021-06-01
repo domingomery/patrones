@@ -37,7 +37,7 @@ La base de datos cuenta 600 imágenes a color por clase para training y 50 imág
 
 La base de datos tiene la siguiente estructura de directorios:
 
-<img src="https://github.com/domingomery/patrones/blob/master/proyecto/tree.png" width="200">
+<img src="https://github.com/domingomery/patrones/blob/master/proyecto/tree.png" width="300">
 
 La información de la metadata se encuentra en los archivos `meta_train.csv` y `meta_test.csv` para training y testing correspondientemente.
 
