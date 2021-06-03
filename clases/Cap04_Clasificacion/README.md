@@ -7,6 +7,7 @@
 * Visualizacion del espacio de caracteristicas [[Colab]](https://colab.research.google.com/drive/1sIxne6r2Zgs2_icfdYgsk8SoGSVHC_3B?usp=sharing)
 * **Video de esta clase** [[YouTube]](https://youtu.be/gMUjrOFHYGQ)
 * **Video de esta clase** [[YouTube]](https://youtu.be/HheWr3LVta4)
+* **Video de esta clase** [[]](https://youtu.be/pending)
 ### 4.2 Vecino mas cercano:
 * Clasificador KNN - vecino mas cercano [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_KNN.pptx)
 * Clasificador DMIN - distancia minima [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_dmin.pptx)
@@ -27,6 +28,7 @@
 * Teoria sobre SVM [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/papers/PAT04_SupportVectorMachines.pdf)
 * Tutorial de SVM en phyton [[YouTube]](https://www.youtube.com/watch?v=N1vOgolbjSc)
 * Video de teoria de SVM (MIT lesson) [[YouTube]](https://www.youtube.com/watch?v=_PwhiWxHK8o)
+* Ejemplo de SVM con sklearn [[Colab]](https://colab.research.google.com/drive/1RNaQonOFa2gI0uAAIbmCAH1jaAXcTkP8?usp=sharing)
 ### 4.6 Redes neuronales:
 * **Video de esta clase** [[YouTube]](https://youtu.be/GlMKLvTJ1e0)
 * Redes Neuronales [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_NeuralNetworks.pptx)
@@ -47,9 +49,9 @@
 * Sparse representasions [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SparseRepresentations.pptx)
 * SPAMS library [[link]](http://spams-devel.gforge.inria.fr)
 ### 4.9 Ejemplos:
-* Ejemplo Estado del Arte Reconocimiento Facial [[YouTube]](https://youtu.be/qKOsnwIH5Tk)
 * Trabajo en grupo [[]]()
+* Ejemplo Estado del Arte Reconocimiento Facial [[YouTube]](https://youtu.be/qKOsnwIH5Tk)
 ---
 
 
-Updated on 03-Jun-2021 at 11:13 by Domingo Mery
+Updated on 03-Jun-2021 at 11:17 by Domingo Mery

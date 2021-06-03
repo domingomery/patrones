@@ -174,17 +174,18 @@
 * 4.7-Ejemplo CNN intermedio (gatos vs. perros) [[Colab]](https://colab.research.google.com/drive/1WO0sFZJxkwIVyD5IeYxs1jkI4nVseS4l?usp=sharing)
 * 4.7-Ejemplo CNN intermedio (lunares: 2 clases) [[Colab]](https://colab.research.google.com/drive/1KsNoo7FubANMD4DGRrwxj0oGMRTlSpss?usp=sharing)
 * 4.7-Ejemplo CNN intermedio (lunares: 7 clases) [[Colab]](https://colab.research.google.com/drive/1nxe41v2qmcTX-ofSt0hFy_-wYVLIdKs_?usp=sharing)
+* 7.1-Descripcion de Proyecto [[Proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto)
 
 ### Clase 22 Ju. 03-Jun-2021:
-* 4.2-NBNN [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_NBNN.pptx)
-* 7.1-Descripcion de Proyecto [[Proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto)
+* 4.1-**Video de esta clase** [[]](https://youtu.be/pending)
+* 2.1-Ejemplo de como extraer caracteristicas en directorios [[Colab]](https://colab.research.google.com/drive/1yyY7SFDjkWXv0AdP8Bn60fC-S-3VEarO?usp=sharing)
 * 4.5-Introduccion a SVM [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM.pptx)
 * 4.5-Teoria sobre SVM [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM_new.pdf)
 * 4.5-Teoria sobre SVM [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM_Theory.pdf)
 * 4.5-Teoria sobre SVM [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/papers/PAT04_SupportVectorMachines.pdf)
 * 4.5-Tutorial de SVM en phyton [[YouTube]](https://www.youtube.com/watch?v=N1vOgolbjSc)
 * 4.5-Video de teoria de SVM (MIT lesson) [[YouTube]](https://www.youtube.com/watch?v=_PwhiWxHK8o)
-* 4.9-Ejemplo Estado del Arte Reconocimiento Facial [[YouTube]](https://youtu.be/qKOsnwIH5Tk)
+* 4.5-Ejemplo de SVM con sklearn [[Colab]](https://colab.research.google.com/drive/1RNaQonOFa2gI0uAAIbmCAH1jaAXcTkP8?usp=sharing)
 
 ### Clase 23 Ma. 08-Jun-2021:
 * 4.9-Trabajo en grupo [[]]()
@@ -205,6 +206,8 @@
 ### Clase 28 Ju. 24-Jun-2021:
 * 6.2-Clustering: Mean Shift [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_MeanShift.pptx)
 * 6.3-BoW: Bag of Words [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_BoW.pptx)
+* 4.2-NBNN [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_NBNN.pptx)
+* 4.9-Ejemplo Estado del Arte Reconocimiento Facial [[YouTube]](https://youtu.be/qKOsnwIH5Tk)
 
 ### Clase 29 Ma. 29-Jun-2021:
 * 4.8-Sparse representasions [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SparseRepresentations.pptx)
@@ -222,4 +225,4 @@
 ---
 
 
-Updated on 03-Jun-2021 at 11:13 by Domingo Mery
+Updated on 03-Jun-2021 at 11:17 by Domingo Mery
