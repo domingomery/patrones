@@ -177,7 +177,7 @@
 * 7.1-Descripcion de Proyecto [[Proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto)
 
 ### Clase 22 Ju. 03-Jun-2021:
-* 4.1-**Video de esta clase** [[]](https://youtu.be/pending)
+* 4.1-**Video de esta clase** [[YouTube]](https://youtu.be/4iE5QzmR7V4)
 * 2.1-Ejemplo de como extraer caracteristicas en directorios [[Colab]](https://colab.research.google.com/drive/1yyY7SFDjkWXv0AdP8Bn60fC-S-3VEarO?usp=sharing)
 * 4.5-Introduccion a SVM [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM.pptx)
 * 4.5-Teoria sobre SVM [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM_new.pdf)
@@ -225,4 +225,4 @@
 ---
 
 
-Updated on 03-Jun-2021 at 11:17 by Domingo Mery
+Updated on 07-Jun-2021 at 17:43 by Domingo Mery

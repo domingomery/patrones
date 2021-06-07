@@ -7,7 +7,7 @@
 * Visualizacion del espacio de caracteristicas [[Colab]](https://colab.research.google.com/drive/1sIxne6r2Zgs2_icfdYgsk8SoGSVHC_3B?usp=sharing)
 * **Video de esta clase** [[YouTube]](https://youtu.be/gMUjrOFHYGQ)
 * **Video de esta clase** [[YouTube]](https://youtu.be/HheWr3LVta4)
-* **Video de esta clase** [[]](https://youtu.be/pending)
+* **Video de esta clase** [[YouTube]](https://youtu.be/4iE5QzmR7V4)
 ### 4.2 Vecino mas cercano:
 * Clasificador KNN - vecino mas cercano [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_KNN.pptx)
 * Clasificador DMIN - distancia minima [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_dmin.pptx)
@@ -54,4 +54,4 @@
 ---
 
 
-Updated on 03-Jun-2021 at 11:17 by Domingo Mery
+Updated on 07-Jun-2021 at 17:43 by Domingo Mery
