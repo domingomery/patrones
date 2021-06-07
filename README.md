@@ -188,11 +188,14 @@
 * 4.5-Ejemplo de SVM con sklearn [[Colab]](https://colab.research.google.com/drive/1RNaQonOFa2gI0uAAIbmCAH1jaAXcTkP8?usp=sharing)
 
 ### Clase 23 Ma. 08-Jun-2021:
-* 4.9-Trabajo en grupo [[]]()
+* 5.1-**Video de esta clase** [[YouTube]](https://youtu.be/pending)
+* 5.5-Estimacion de Accuracy [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_AccuracyEstimation.pptx)
+* 4.7-Ejemplo de estimacion de accuracy [[Colab]](https://colab.research.google.com/drive/1dG1lnl72LVm6-THPh44TgcJBriIJSgeH?usp=sharing)
+* 5.5-Seleccion de Modelos [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ModelSelector.pdf)
 
 ### Clase 24 Ju. 10-Jun-2021:
 * 5.2-Matriz de Confusion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ConfusionMatrix.pptx)
-* 5.5-Estimacion de Accuracy [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_AccuracyEstimation.pptx)
+* 5.3-Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 
 ### Clase 25 Ma. 15-Jun-2021:
 * 6.2-Clustering: K-Means [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_KMeans.pptx)
@@ -225,4 +228,4 @@
 ---
 
 
-Updated on 07-Jun-2021 at 17:43 by Domingo Mery
+Updated on 07-Jun-2021 at 17:46 by Domingo Mery

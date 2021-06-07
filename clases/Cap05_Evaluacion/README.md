@@ -1,14 +1,17 @@
 
 # Capitulo 05: Evaluacion de Desempeno
 ### 5.1 Introduccion:
+* **Video de esta clase** [[YouTube]](https://youtu.be/pending)
 ### 5.2 Matriz de Confusion:
 * Matriz de Confusion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ConfusionMatrix.pptx)
 ### 5.3 Sensibilidad, especificidad, precision y recall:
+* Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 ### 5.4 Curvas ROC, Precision-Recall:
 ### 5.5 Hold-out, Validacion Cruzada, Leave-one-out:
 * Estimacion de Accuracy [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_AccuracyEstimation.pptx)
+* Seleccion de Modelos [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ModelSelector.pdf)
 ### 5.6 Ejemplos:
 ---
 
 
-Updated on 07-Jun-2021 at 17:43 by Domingo Mery
+Updated on 07-Jun-2021 at 17:46 by Domingo Mery
