@@ -2,6 +2,7 @@
 # Capitulo 05: Evaluacion de Desempeno
 ### 5.1 Introduccion:
 * **Video de esta clase** [[YouTube]](https://youtu.be/zxYwNPLHWuw)
+* **Video de esta clase** [[Colab]](https://youtu.be/TlrNzh-vghM)
 ### 5.2 Matriz de Confusion:
 * Matriz de Confusion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ConfusionMatrix.pptx)
 ### 5.3 Sensibilidad, especificidad, precision y recall:
@@ -15,4 +16,4 @@
 ---
 
 
-Updated on 10-Jun-2021 at 13:31 by Domingo Mery
+Updated on 10-Jun-2021 at 13:33 by Domingo Mery
