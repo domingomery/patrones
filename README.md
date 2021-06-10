@@ -194,7 +194,7 @@
 * 5.5-Seleccion de Modelos [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ModelSelector.pdf)
 
 ### Clase 24 Ju. 10-Jun-2021:
-* 5.1-**Video de esta clase** [[Colab]](https://youtu.be/TlrNzh-vghM)
+* 5.1-**Video de esta clase** [[YouTube]](https://youtu.be/TlrNzh-vghM)
 * 5.2-Matriz de Confusion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ConfusionMatrix.pptx)
 * 5.3-Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 
@@ -229,4 +229,4 @@
 ---
 
 
-Updated on 10-Jun-2021 at 13:33 by Domingo Mery
+Updated on 10-Jun-2021 at 13:34 by Domingo Mery
