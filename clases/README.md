@@ -199,9 +199,10 @@
 * 5.3-Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 
 ### Clase 25 Ma. 15-Jun-2021:
-* 5.1-**Video de esta clase** [[YouTube]](https://youtu.be/pending)
+* 5.1-**Video de esta clase** [[YouTube]](https://youtu.be/Md_eY5twq9c)
 * 7.1-Analisis Facial [[PPT]](https://www.dropbox.com/s/k45nta3dn02vxpe/2021_AnalisisFacial_DCC_Patrones.pptx?dl=0)
 * 5.3-Metricas de Genuinos vs. Impostores [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_Genuine_Impostor.pptx)
+* 5.3-Metricas de Genuinos vs. Impostores [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT_05_Understanding-Biometric-Performance-Evaluation.pdf)
 * 5.3-Ejemplo de ArcFace y metricas de evaluacion [[Colab]](https://colab.research.google.com/drive/118P-1H0gUI3BGFzffQyXv9ycrKCGG_4X?usp=sharing)
 
 ### Clase 26 Ju. 17-Jun-2021:
@@ -233,4 +234,4 @@
 ---
 
 
-Updated on 15-Jun-2021 at 10:17 by Domingo Mery
+Updated on 15-Jun-2021 at 13:24 by Domingo Mery

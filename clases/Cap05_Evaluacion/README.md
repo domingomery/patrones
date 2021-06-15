@@ -3,12 +3,13 @@
 ### 5.1 Introduccion:
 * **Video de esta clase** [[YouTube]](https://youtu.be/zxYwNPLHWuw)
 * **Video de esta clase** [[YouTube]](https://youtu.be/TlrNzh-vghM)
-* **Video de esta clase** [[YouTube]](https://youtu.be/pending)
+* **Video de esta clase** [[YouTube]](https://youtu.be/Md_eY5twq9c)
 ### 5.2 Matriz de Confusion:
 * Matriz de Confusion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ConfusionMatrix.pptx)
 ### 5.3 Sensibilidad, especificidad, precision y recall:
 * Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 * Metricas de Genuinos vs. Impostores [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_Genuine_Impostor.pptx)
+* Metricas de Genuinos vs. Impostores [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT_05_Understanding-Biometric-Performance-Evaluation.pdf)
 * Ejemplo de ArcFace y metricas de evaluacion [[Colab]](https://colab.research.google.com/drive/118P-1H0gUI3BGFzffQyXv9ycrKCGG_4X?usp=sharing)
 ### 5.4 Curvas ROC, Precision-Recall:
 ### 5.5 Hold-out, Validacion Cruzada, Leave-one-out:
@@ -19,4 +20,4 @@
 ---
 
 
-Updated on 15-Jun-2021 at 10:17 by Domingo Mery
+Updated on 15-Jun-2021 at 13:24 by Domingo Mery
