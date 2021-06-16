@@ -67,11 +67,11 @@ Hay dos fechas imoprtantes, la de la Presentación de Avance y la Presentación 
 Grupos de 4 ó 5 personas: aquellas personas que no tengan grupo se les asignará un grupo de forma aleatoria. Las definiciones de los grupos se realizarán del 07 al 09 de junio usando Socrative. 
 
 ## 5. Presentación de Avance
-Para la presentación de avance, se debe tener al menos un buen desempeño en el conjunto A (recomendación 'de amigo' ojalá también en conjunto B). La Presentación de Avance consiste en dos items:
+Para la presentación de avance, se debe tener al menos resultados con características de intensidad (recomendación 'de amigo' ojalá también con características geométricas). La Presentación de Avance consiste en dos items:
 
-1) Un archivo PDF de cuatro slides en formato de presentación (como un archivo powerpoint convertido a PDF). El nombre del archivo debe ser AVANCE_GRUPO_xx.PDF donde xx es el número de grupo asignado. Las cuatro slides deben ser: 1) Integrantes del grupo y número del grupo, 2) Descripción de qué se ha hecho (usar un diagrama, y dar detalles de las estrategias usadas y de los experimentos realizados), 3) Resultados obtenidos, 4) Trabajo futuro. El archivo PDF se deberá subir a Google Classroom a mas tardar a las 10:00am del dia de la presentacion que le toque al grupo (esta fecha no podrá ser flexible). 
+1) Un archivo PDF de cuatro slides en formato de presentación (como un archivo powerpoint convertido a PDF). El nombre del archivo debe ser AVANCE_GRUPO_xx.PDF donde xx es el nombre de grupo asignado. Las cuatro slides deben ser: 1) Integrantes del grupo y nombre del grupo, 2) Descripción de qué se ha hecho (usar un diagrama, y dar detalles de las estrategias usadas y de los experimentos realizados), 3) Resultados obtenidos, 4) Trabajo futuro. El archivo PDF se deberá subir a Google Classroom a mas tardar a las 10:00am del dia de la presentacion que le toque al grupo (esta fecha no podrá ser flexible). 
 
-2) Una presentación de 5 minutos por grupo usando zoom. El PDF de cada grupo será compartido por el zoom del profesor. La presentación se realizará en la última semana de clases usando el horario de clases. Se deberá hacer una presentación ordenada y planificada, sabiendo a priori qué se va a decir en cada slide y quién lo va a decir (escoger a la persona del grupo que pueda hacer la mejor presentación oral). Por favor no improvisar en el momento de la presentación, es necesario tomarlo como si fuera un 'show'con un guión pre-establecido. Ensayen con alguien y pregunten si esa persona ha entendido lo que han dicho. El orden de los grupos en la presentación es aleatorio (puede ser que el primero en presentar sea el grupo 15 y el segundo el grupo 3, etc.). La idea de la presentación es que cada grupo pueda aprender de los otros grupos al compartir experiencias de éxito y de fracaso también. Para la presentación lo ideal es que estén todos los miembros del grupo (habrá flexibilidad para aquellos que tengan algún problema producto de la pandemia).
+2) Una presentación de 4 minutos por grupo usando zoom. El PDF de cada grupo será compartido por el zoom del profesor. La presentación se realizará en la última semana de clases usando el horario de clases. Se deberá hacer una presentación ordenada y planificada, sabiendo a priori qué se va a decir en cada slide y quién lo va a decir (escoger a la persona del grupo que pueda hacer la mejor presentación oral). Por favor no improvisar en el momento de la presentación, es necesario tomarlo como si fuera un 'show'con un guión pre-establecido. Ensayen con alguien y pregunten si esa persona ha entendido lo que han dicho. El orden de los grupos en la presentación es aleatorio. La idea de la presentación es que cada grupo pueda aprender de los otros grupos al compartir experiencias de éxito y de fracaso también. Para la presentación lo ideal es que estén todos los miembros del grupo (habrá flexibilidad para aquellos que tengan algún problema producto de la pandemia).
 
 Grupos que presentan el dia Martes 06/Julio a las 11:30am: por definir
 
@@ -91,9 +91,9 @@ La presentación tipo powerpoint debe incluir:
 
 1) Introducción (relevancia de este tema, en que consiste el proyecto, etc.), 
 
-2) Revisión del [estado del arte](https://scholar.google.cl/scholar?&q=skin+lesion+artificial+intelligence), 
+2) Revisión del [estado del arte](https://github.com/domingomery/patrones/blob/master/proyecto/skin-literature.zip), se recomienda usar [Google Scholar](https://scholar.google.cl/scholar?&q=skin+lesion+artificial+intelligence).
 
-3) Método propuesto en detalle (con un diagrama de bloques claro con todos los pasos y resultados intermedios, se pueden basar en este [esquema](https://github.com/domingomery/patrones/blob/master/proyecto/PR_Schema.png) incluyendo los detalles de la estrategia  diseñada), 
+3) Método propuesto en detalle (con un diagrama de bloques claro con todos los pasos y resultados intermedios, se pueden basar en este [esquema](https://github.com/domingomery/patrones/blob/master/proyecto/diagram.png) incluyendo los detalles de la estrategia  diseñada), 
 
 4) Resultados obtenidos, 
 
