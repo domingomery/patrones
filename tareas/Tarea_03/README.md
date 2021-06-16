@@ -40,9 +40,11 @@ ES NECESARIO:
 
 - La estrategia (es decir cuáles características extraer, cuáles normalizar/seleccionar/transformar, y qué clasificador usar) debe ser diseñada por ustedes y es completamente libre. 
 - En la tarea se debe probar, analizar y comparar al menos 5 estrategias distintas. Se entiende que dos estrategias son distintas si tienen al menos dos "bloques" distintos. 
-- Ud. deberá entregar un informe de una pagina(*) en formato pdf en el que explique como realizo la extraccion de caracteristicas, la seleccion/transformacion y clasificacion. Se debe reportar el accuracy (ACC), la tasa de verdaderos positivos (TPR) y la tasa de falsos negativos (FPR) en los tres sub-conjuntos: training, validación y testing (ver definiciones de [TPR y FPR](https://en.wikipedia.org/wiki/Confusion_matrix)). Se deberá entregar también el código de la solución (debidamente ordenado, explicado y comentado).
+- Ud. deberá entregar un informe de una pagina(*) en formato pdf en el que explique como realizo la extraccion de caracteristicas, la seleccion/transformacion y clasificacion. Se debe reportar el accuracy (ACC), la tasa de verdaderos positivos (TPR) y la tasa de falsos positivos (FPR)(**) en los tres sub-conjuntos: training, validación y testing (ver definiciones de [TPR y FPR](https://en.wikipedia.org/wiki/Confusion_matrix)). Se deberá entregar también el código de la solución (debidamente ordenado, explicado y comentado).
 
-(*) Si el informe tiene mas de una pagina solo se revisara la primera pagina del informe,
+(*) Si el informe tiene mas de una pagina solo se revisara la primera pagina del informe.
+
+(**) Nota del 15/06/2021: Atención... hubo un error en este párrafo, antes decía "tasa de falsos negativos (FPR)", se ha cambiado por "tasa de falsos positivos (FPR)"
 
 
 
