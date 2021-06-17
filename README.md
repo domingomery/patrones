@@ -206,7 +206,7 @@
 * 5.3-Ejemplo de ArcFace y metricas de evaluacion [[Colab]](https://colab.research.google.com/drive/118P-1H0gUI3BGFzffQyXv9ycrKCGG_4X?usp=sharing)
 
 ### Clase 26 Ju. 17-Jun-2021:
-* 7.1-**Video de esta clase** [[YouTube]](https://youtu.be/pending)
+* 7.1-**Video de esta clase** [[YouTube]](https://youtu.be/VwThW__AmsE)
 * 7.1-Como hacer el proyecto [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap07_Aplicaciones/presentations/PAT07_Project.pptx)
 * 7.1-Machine Learning Yearing (Libro) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap07_Aplicaciones/papers/NG-MLY01_13.pdf)
 
@@ -233,4 +233,4 @@
 ---
 
 
-Updated on 17-Jun-2021 at 12:57 by Domingo Mery
+Updated on 17-Jun-2021 at 13:03 by Domingo Mery
