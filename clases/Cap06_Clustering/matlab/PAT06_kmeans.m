@@ -8,6 +8,7 @@ else
 end
 figure(1)
 Bio_plotfeatures(X,d)
+setw
 title('input data')
 k = input('numero de clusters of k-means (k)? ');
 figure(2)

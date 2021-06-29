@@ -14,7 +14,6 @@
 * Clasificadores basicos [[Colab]](https://colab.research.google.com/drive/1WszMhd3cFOMfrG9S5m8DyQwr3T9EneaT?usp=sharing)
 * Clasificadores basicos [[Colab]](https://colab.research.google.com/drive/1WszMhd3cFOMfrG9S5m8DyQwr3T9EneaT?usp=sharing)
 * Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
-* NBNN [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_NBNN.pptx)
 ### 4.3 LDA, QDA, Mahalanobis:
 * **Video de esta clase** [[YouTube]](https://youtu.be/6nW43kyZUhY)
 * Clasificadores LDA, QDA, Mahalanobis [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_LDA.pptx)
@@ -46,11 +45,8 @@
 * Ejemplo CNN intermedio (lunares: 2 clases) [[Colab]](https://colab.research.google.com/drive/1KsNoo7FubANMD4DGRrwxj0oGMRTlSpss?usp=sharing)
 * Ejemplo CNN intermedio (lunares: 7 clases) [[Colab]](https://colab.research.google.com/drive/1nxe41v2qmcTX-ofSt0hFy_-wYVLIdKs_?usp=sharing)
 ### 4.8 Clasificacion con representaciones sparse:
-* Sparse representasions [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SparseRepresentations.pptx)
-* SPAMS library [[link]](http://spams-devel.gforge.inria.fr)
 ### 4.9 Ejemplos:
-* Ejemplo Estado del Arte Reconocimiento Facial [[YouTube]](https://youtu.be/qKOsnwIH5Tk)
 ---
 
 
-Updated on 17-Jun-2021 at 13:03 by Domingo Mery
+Updated on 29-Jun-2021 at 11:24 by Domingo Mery

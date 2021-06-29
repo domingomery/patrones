@@ -55,10 +55,9 @@
 * Crossing Line Profile (CLP) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Mery_CrossingLineProfiles.pdf)
 * Ejemplo de Caracteristicas de Intensidad (basicas, contraste, CLP) [[Colab]](https://colab.research.google.com/drive/1PrBuK3vniTbpuKKdoCUrAqBYBhFI7T0r?usp=sharing)
 ### 2.3 Otras caracteristicas:
-* Extraccion de Caracteristicas en 1D [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_FX_1D.pptx)
 ### 2.4 Normalizacion de caracteristicas:
 ### 2.5 Ejemplos:
 ---
 
 
-Updated on 17-Jun-2021 at 13:03 by Domingo Mery
+Updated on 29-Jun-2021 at 11:24 by Domingo Mery

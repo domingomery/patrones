@@ -6,10 +6,14 @@
 * Clustering: Hierarchic [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_Hierarchic.pptx)
 * Clustering: Mixture of Gaussians [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_GaussMix.pptx)
 * Clustering: Mean Shift [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_MeanShift.pptx)
+* Ejemplos de Clustering [[]](https://colab.research.google.com/drive/16I1xd-F1k2HiHxq8Qb6ysKgpQJ-Dj1nw?usp=sharing)
+* Ejemplo de Face-Clusering [[]](https://colab.research.google.com/drive/1ahAafZPMR2ysz44J9K3TOARW2R0twVbe?usp=sharing)
 ### 6.3 Bag of Words:
 * BoW: Bag of Words [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_BoW.pptx)
+* Ejemplo de Bag of Words [[]](https://colab.research.google.com/drive/161vqJL6yFALMFWYzp1IkKV3XC8Oi1Svc?usp=sharing)
+* Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 ### 6.4 Ejemplos:
 ---
 
 
-Updated on 17-Jun-2021 at 13:03 by Domingo Mery
+Updated on 29-Jun-2021 at 11:24 by Domingo Mery

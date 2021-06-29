@@ -5,7 +5,7 @@
 % Pattern Recognition
 % (c) Domingo Mery (2016) - http://dmery.ing.puc.cl
 
-ini = 0;
+ini = 1;
 %clt; ini = 1;
 if ini
     N = 64;

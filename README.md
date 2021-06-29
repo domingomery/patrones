@@ -211,19 +211,19 @@
 * 7.1-Machine Learning Yearing (Libro) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap07_Aplicaciones/papers/NG-MLY01_13.pdf)
 
 ### Clase 27 Ma. 29-Jun-2021:
+* 7.1-**Video de esta clase** [[]](https://youtu.be/pending)
 * 6.2-Clustering: K-Means [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_KMeans.pptx)
 * 6.2-Clustering: Hierarchic [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_Hierarchic.pptx)
 * 6.2-Clustering: Mixture of Gaussians [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_GaussMix.pptx)
 * 6.2-Clustering: Mean Shift [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_MeanShift.pptx)
+* 6.2-Ejemplos de Clustering [[]](https://colab.research.google.com/drive/16I1xd-F1k2HiHxq8Qb6ysKgpQJ-Dj1nw?usp=sharing)
+* 6.2-Ejemplo de Face-Clusering [[]](https://colab.research.google.com/drive/1ahAafZPMR2ysz44J9K3TOARW2R0twVbe?usp=sharing)
 
 ### Clase 28 Ju. 01-Jul-2021:
+* 7.1-**Video de esta clase** [[]](https://youtu.be/pending)
 * 6.3-BoW: Bag of Words [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_BoW.pptx)
-* 4.2-NBNN [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_NBNN.pptx)
-* 4.9-Ejemplo Estado del Arte Reconocimiento Facial [[YouTube]](https://youtu.be/qKOsnwIH5Tk)
-* 4.8-Sparse representasions [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SparseRepresentations.pptx)
-* 4.8-SPAMS library [[link]](http://spams-devel.gforge.inria.fr)
-* 2.3-Extraccion de Caracteristicas en 1D [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_FX_1D.pptx)
-* 7.1-Trabajo en grupo sobre el proyecto [[Proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto)
+* 6.3-Ejemplo de Bag of Words [[]](https://colab.research.google.com/drive/161vqJL6yFALMFWYzp1IkKV3XC8Oi1Svc?usp=sharing)
+* 6.3-Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 
 ### Clase 29 Ma. 06-Jul-2021:
 * 7.1-Presentacion de avances de proyecto (1/2) [[Proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto/PresentacionesAvance)
@@ -233,4 +233,4 @@
 ---
 
 
-Updated on 17-Jun-2021 at 13:03 by Domingo Mery
+Updated on 29-Jun-2021 at 11:24 by Domingo Mery
