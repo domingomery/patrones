@@ -6,11 +6,11 @@
 * **Video de esta clase** [[YouTube]](https://youtu.be/VwThW__AmsE)
 * Como hacer el proyecto [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap07_Aplicaciones/presentations/PAT07_Project.pptx)
 * Machine Learning Yearing (Libro) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap07_Aplicaciones/papers/NG-MLY01_13.pdf)
-* **Video de esta clase** [[]](https://youtu.be/pending)
+* **Video de esta clase** [[]](https://youtu.be/wq_m0HPN1MM)
 * **Video de esta clase** [[]](https://youtu.be/pending)
 * Presentacion de avances de proyecto (1/2) [[Proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto/PresentacionesAvance)
 * Presentacion de avances de proyecto (2/2) [[Proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto/PresentacionesAvance)
 ---
 
 
-Updated on 29-Jun-2021 at 11:24 by Domingo Mery
+Updated on 29-Jun-2021 at 13:24 by Domingo Mery

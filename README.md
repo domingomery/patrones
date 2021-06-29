@@ -211,7 +211,7 @@
 * 7.1-Machine Learning Yearing (Libro) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap07_Aplicaciones/papers/NG-MLY01_13.pdf)
 
 ### Clase 27 Ma. 29-Jun-2021:
-* 7.1-**Video de esta clase** [[]](https://youtu.be/pending)
+* 7.1-**Video de esta clase** [[]](https://youtu.be/wq_m0HPN1MM)
 * 6.2-Clustering: K-Means [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_KMeans.pptx)
 * 6.2-Clustering: Hierarchic [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_Hierarchic.pptx)
 * 6.2-Clustering: Mixture of Gaussians [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_GaussMix.pptx)
@@ -233,4 +233,4 @@
 ---
 
 
-Updated on 29-Jun-2021 at 11:24 by Domingo Mery
+Updated on 29-Jun-2021 at 13:24 by Domingo Mery
