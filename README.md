@@ -220,7 +220,7 @@
 * 6.2-Ejemplo de Face-Clusering [[Colab]](https://colab.research.google.com/drive/1ahAafZPMR2ysz44J9K3TOARW2R0twVbe?usp=sharing)
 
 ### Clase 28 Ju. 01-Jul-2021:
-* 7.1-**Video de esta clase** [[YouTube]](https://youtu.be/pending)
+* 7.1-**Video de esta clase** [[YouTube]](https://youtu.be/n6kB0nkfxwo)
 * 6.3-BoW: Bag of Words [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_BoW.pptx)
 * 6.3-Ejemplo de Bag of Words [[Colab]](https://colab.research.google.com/drive/161vqJL6yFALMFWYzp1IkKV3XC8Oi1Svc?usp=sharing)
 * 6.3-Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
@@ -233,4 +233,4 @@
 ---
 
 
-Updated on 01-Jul-2021 at 10:54 by Domingo Mery
+Updated on 01-Jul-2021 at 13:20 by Domingo Mery
