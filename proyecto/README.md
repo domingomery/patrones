@@ -81,6 +81,8 @@ Grupos que entregan video de 4min antes del Jueves 08/Julio a las 10am: 5VECINOS
 
 Subir a Google Classroom la presentacion en formato PDF usando el nombre de archivo AVANCE_GRUPO_xx.pdf (donde XX es el nombre de grupo), a mas tardar a las 10am del dia de la presentacion del grupo.
 
+Ver video explicativo de cómo hacer la [presentación de avance](https://youtu.be/VwThW__AmsE) (ver min 46:28)
+
 
 ## 6. Presentación Final
 La presentacion  final del proyecto consiste en una reunión de todos los integrantes del grupo con el profesor. La reunión dura 45 minutos y se hara entre 9am y 6pm en un horario definido por el profesor. La puntualidad en la presentación será considerada en la nota. No se entrega informe.
