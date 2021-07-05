@@ -73,13 +73,13 @@ Para la presentación de avance, se debe tener al menos resultados con caracter�
 
 2) Una presentación de 4 minutos por grupo usando zoom. El PDF de cada grupo será compartido por el zoom del profesor. La presentación se realizará en la última semana de clases usando el horario de clases. Se deberá hacer una presentación ordenada y planificada, sabiendo a priori qué se va a decir en cada slide y quién lo va a decir (escoger a la persona del grupo que pueda hacer la mejor presentación oral). Por favor no improvisar en el momento de la presentación, es necesario tomarlo como si fuera un 'show'con un guión pre-establecido. Ensayen con alguien y pregunten si esa persona ha entendido lo que han dicho. El orden de los grupos en la presentación es aleatorio. La idea de la presentación es que cada grupo pueda aprender de los otros grupos al compartir experiencias de éxito y de fracaso también. Para la presentación lo ideal es que estén todos los miembros del grupo (habrá flexibilidad para aquellos que tengan algún problema producto de la pandemia).
 
-Grupos que presentan el dia Martes 06/Julio a las 11:30am: GRIEGOS-INFINITOS, HAROLD, JAFDP, LCFANS, MELANO+, MINMAX, PAK-YOLO, PALTONES, PATRONOS, PATRONUS, PONTEVIO, SKLEARN.
+PRESENTACIÓN ON-LINE: Grupos que presentan el dia Martes 06/Julio a las 11:30am: GRIEGOS-INFINITOS, HAROLD, JAFDP, LCFANS, MELANO+, MINMAX, PAK-YOLO, PALTONES, PATRONOS, PATRONUS, PONTEVIO, SKLEARN.
 
-Grupos que presentan el dia Jueves 08/Julio a las 11:30am: CFGMJ, DEL-MAL, DRIMTIM-PATRON, K-TEAM, MATLOVE, MOLETEAM, NEURONALES, PATREC, PFGANG, SFS-LOVERS, SVM-PLUS, TURKONES.
+PRESENTACIÓN ON-LINE: Grupos que presentan el dia Jueves 08/Julio a las 11:30am: CFGMJ, DEL-MAL, DRIMTIM-PATRON, K-TEAM, MATLOVE, MOLETEAM, NEURONALES, PATREC, PFGANG, SFS-LOVERS, SVM-PLUS, TURKONES.
 
-Grupos que entregan video de 4min antes del Jueves 08/Julio a las 10am: 5VECINOS, ALBERTO, ESTENOES, SACSBITS, X-PEOPLE
+PRESENTACIÓN OFF-LINE: Grupos que entregan video de 4min antes del Jueves 08/Julio a las 10am: 5VECINOS, ALBERTO, ESTENOES, SACSBITS, X-PEOPLE
 
-Subir a Google Classroom la presentacion en formato PDF usando el nombre de archivo AVANCE_GRUPO_xx.pdf (donde XX es el nombre de grupo), a mas tardar a las 10am del dia de la presentacion del grupo.
+Subir a Google Classroom la presentacion en formato PDF usando el nombre de archivo AVANCE_GRUPO_xx.pdf (donde XX es el nombre de grupo), a mas tardar a las 10am del dia de la presentacion del grupo. En caso de presentar un video deben subir un archivo AVANCE_GRUPO_xx.mp4 o bien AVANCE_GRUPO_xx.mov (el pdf es sólo para las presentaciones off-line).
 
 Ver video explicativo de cómo hacer la [presentación de avance](https://youtu.be/VwThW__AmsE) (ver min 46:28)
 
