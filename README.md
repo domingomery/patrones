@@ -226,11 +226,13 @@
 * 6.3-Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 
 ### Clase 29 Ma. 06-Jul-2021:
-* 7.1-Presentacion de avances de proyecto (1/2) [[Proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto/PresentacionesAvance)
+* 7.1-**Video de esta clase** [[YouTube]](https://youtu.be/77JriUj5ZLY)
+* 7.1-Presentacion de avances de proyecto (1/2) [[Proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto/Avances)
 
 ### Clase 30 Ju. 08-Jul-2021:
-* 7.1-Presentacion de avances de proyecto (2/2) [[Proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto/PresentacionesAvance)
+* 7.1-**Video de esta clase** [[YouTube]](https://youtu.be/30Xvn8U9UAI)
+* 7.1-Presentacion de avances de proyecto (2/2) [[Proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto/Avances)
 ---
 
 
-Updated on 01-Jul-2021 at 13:20 by Domingo Mery
+Updated on 08-Jul-2021 at 13:55 by Domingo Mery
