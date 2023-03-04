@@ -3,7 +3,7 @@
 ## Planificacion del curso por dia
 (este material tambien esta disponible en las clases de cada capitulo)
 
-### Clase 01 Ma. 07-Mar-2023:
+### Clase 01 Ju. 09-Mar-2023:
 * 0.1-**Video de esta clase** [[YouTube]](https://youtu.be/fN4fOoWzdWs)
 * 0.1-Programa del curso [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/Programa_patrones.pdf)
 * 0.1-Presentacion del curso [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/PAT00_Presentacion.pptx)
@@ -225,4 +225,4 @@
 ---
 
 
-Updated on 04-Mar-2023 at 11:17 by Domingo Mery
+Updated on 04-Mar-2023 at 11:18 by Domingo Mery
