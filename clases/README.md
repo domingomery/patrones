@@ -204,9 +204,13 @@
 * 5.3-Metricas de Genuinos vs. Impostores [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_Genuine_Impostor.pptx)
 * 5.3-Metricas de Genuinos vs. Impostores [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT_05_Understanding-Biometric-Performance-Evaluation.pdf)
 * 5.3-Ejemplo de ArcFace y metricas de evaluacion [[Colab]](https://colab.research.google.com/drive/118P-1H0gUI3BGFzffQyXv9ycrKCGG_4X?usp=sharing)
+
+### Clase 26 Ma. 20-Jun-2023:
 * 7.1-**Video de esta clase** [[YouTube]](https://youtu.be/VwThW__AmsE)
 * 7.1-Como hacer el proyecto [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap07_Aplicaciones/presentations/PAT07_Project.pptx)
 * 7.1-Machine Learning Yearing (Libro) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap07_Aplicaciones/papers/NG-MLY01_13.pdf)
+
+### Clase 27 Ju. 22-Jun-2023:
 * 7.1-**Video de esta clase** [[YouTube]](https://youtu.be/wq_m0HPN1MM)
 * 6.2-Clustering: K-Means [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_KMeans.pptx)
 * 6.2-Clustering: Hierarchic [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_Hierarchic.pptx)
@@ -214,10 +218,14 @@
 * 6.2-Clustering: Mean Shift [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_MeanShift.pptx)
 * 6.2-Ejemplos de Clustering [[Colab]](https://colab.research.google.com/drive/16I1xd-F1k2HiHxq8Qb6ysKgpQJ-Dj1nw?usp=sharing)
 * 6.2-Ejemplo de Face-Clusering [[Colab]](https://colab.research.google.com/drive/1ahAafZPMR2ysz44J9K3TOARW2R0twVbe?usp=sharing)
+
+### Clase 28 Ma. 27-Jun-2023:
 * 7.1-**Video de esta clase** [[YouTube]](https://youtu.be/n6kB0nkfxwo)
 * 6.3-BoW: Bag of Words [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_BoW.pptx)
 * 6.3-Ejemplo de Bag of Words [[Colab]](https://colab.research.google.com/drive/161vqJL6yFALMFWYzp1IkKV3XC8Oi1Svc?usp=sharing)
 * 6.3-Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
+
+### Clase 29 Ju. 29-Jun-2023:
 * 7.1-**Video de esta clase** [[YouTube]](https://youtu.be/77JriUj5ZLY)
 * 7.1-Presentacion de avances de proyecto (1/2) [[Proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto/Avances)
 * 7.1-**Video de esta clase** [[YouTube]](https://youtu.be/30Xvn8U9UAI)
@@ -225,4 +233,4 @@
 ---
 
 
-Updated on 04-Mar-2023 at 11:18 by Domingo Mery
+Updated on 06-Mar-2023 at 12:40 by Domingo Mery
