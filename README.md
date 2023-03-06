@@ -70,7 +70,7 @@
 * 2.2-Ejercicico 04 sobre deteccion de caras [[Colab]](https://colab.research.google.com/drive/1amOTtTetNkw3ew58yOmjMc_L1qJ1RVqD?usp=sharing)
 * 2.2-Solucion al Ejercicio 04 [[Colab]](https://colab.research.google.com/drive/1MMjJcLNiwMeDbyScCm3c8QcpWMZ5lKJ_?usp=sharing)
 
-### Clase 09 Ju. 06-Apr-2023:
+### Clase 09 Ma. 11-Apr-2023:
 * 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/mcqkE-gzUHM)
 * 2.2-Histogram of Gradients (HoG) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HoG_HumanDetection.pptx)
 * 2.2-Paper HoG [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/HoG_DalalTriggs.pdf)
@@ -110,7 +110,7 @@
 * 3.5-SFS [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_SFS.pptx)
 * 3.5-Ejemplo de Seleccion de Caracteristicas [[Colab]](https://colab.research.google.com/drive/14bwzAfN3QVSPGNKjLvrhr7zl02SkRu08?usp=sharing)
 
-### Clase 14 Ju. 27-Apr-2023:
+### Clase 14 Ma. 09-May-2023:
 * 3.3-**Video de esta clase** [[YouTube]](https://youtu.be/b1BBhid8G-k)
 * 3.3-Discriminante Fihser y Matrices de Covarianza [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pptx)
 * 3.3-Discriminante Fihser y Matrices de Covarianza [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pdf)
@@ -233,4 +233,4 @@
 ---
 
 
-Updated on 06-Mar-2023 at 12:40 by Domingo Mery
+Updated on 06-Mar-2023 at 12:44 by Domingo Mery
