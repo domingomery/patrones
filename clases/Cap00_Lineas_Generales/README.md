@@ -2,7 +2,7 @@
 # Capitulo 00: Lineas Generales
 ### 0.1 Presentacion del curso:
 * **Video de esta clase** [[YouTube]](https://youtu.be/fN4fOoWzdWs)
-* Programa del curso [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/Programa_patrones.pdf)
+* Programa del curso Reconocimiento de Patrones [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/Programa_patrones.pdf)
 * Presentacion del curso [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/PAT00_Presentacion.pptx)
 * Libro: Elements of Statistical Learning (Hastie et al., 2008) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/books/Elements_of_Statistical_Learning.pdf)
 * Libro: Neural Networks and Deep Learning (Aggarwal, 2019) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/books/2018_Book_NeuralNetworksAndDeepLearning.pdf)
@@ -12,4 +12,4 @@
 ---
 
 
-Updated on 06-Mar-2023 at 17:53 by Domingo Mery
+Updated on 06-Mar-2023 at 17:56 by Domingo Mery
