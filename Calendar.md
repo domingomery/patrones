@@ -37,26 +37,26 @@ Ejemplo: La actividad E05, desarrollo de un codigo en Colab, se realiza el marte
 
 
 
-## Tareas
+## Tareas (Individual)
 
 El código de la tarea se sube a Canvas a más tardar a las 9pm de la fecha indicada. 
 
 * Lu.	03/04/23 T01: Reconocimiento de Caracteres
 * Lu.	15/05/23 T02: Análisis Facial
 
-## Proyecto
+## Proyecto (Grupal)
 
-Todas estas entregan son hasta las 9PM
+Todas estas entregan son hasta las 9pm
 
-* Lu. 22/05/23 P01: Formación de grupos en Canvas
+* Lu. 22/05/23 9pm P01: Formación de grupos en Canvas
 
-* Lu. 29/05/23 P02: Plan de Trabajo
+* Lu. 29/05/23 9pm P02: Plan de Trabajo
 
-* Lu. 12/06/23 P03: Informe de Avance
+* Lu. 12/06/23 9pm P03: Informe de Avance
 
-* Lu. 26/06/23 P04: Informe Final
+* Lu. 26/06/23 9pm P04: Informe Final
 
-* Ma. 27 y Ju 28/06/23 P04: Presentación Final
+* Ma. 27 y Ju 28/06/23 P05: Presentación Final en la hora de clases
 
 
 Updated on 06-Mar-2023 at 18:05 by Domingo Mery
