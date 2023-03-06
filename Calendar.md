@@ -1,38 +1,51 @@
-# Procesamiento de Imagenes
+# Reconocimiento de Patrones
 
 ## Calendario de Actividades del Curso
-(este es el sitio oficial de los entregables con sus fechas)
+(este es el único sitio del curso en el que aparecen los entregables con sus fechas)
 
 ## Trabajo en Clases
 
-En la fecha indicada, parte de la clase sera usada para realizar esta actividad. Todas estas actividades (a excepcion de E09) son de caracter individual. La actividad E09 es grupal. La actividad se entrega a mas tardar al dia siguiente a las 9pm. Los Quizzes se contestan en Socrative. Los codigos en Colab y el Plan de Trabajo del Proyecto (PDF de la actividad E09) se deben subir a Canvas.
+En la fecha indicada, parte de la clase sera usada para realizar esta actividad. Todas estas actividades (a excepcion de E12) son de caracter individual. La actividad E12 es grupal. La actividad se entrega a mas tardar a las 9pm del día de la actividad. Los Quizzes se contestan en Socrative. Los codigos en Colab y el Plan de Trabajo del Proyecto (PDF de la actividad E12) se deben subir a Canvas.
 
 Ejemplo: La actividad E05, desarrollo de un codigo en Colab, se realiza el martes 20/09 en clases y se sube a Canvas el miercoles 21/09 a mas tardar a las 9pm.
 
-* Ju.	18-Aug	Trabajo en Clase E01: Quiz Socrative - Adquisicion (individual)		
-* Ju.	25-Aug	Trabajo en Clase E02: Colab - Ejercicio Frutos Rojos (individual)	
-* Ma.	06-Sep	Trabajo en Clase E03: Colab - Filtros, histogramas Tokyo (individual)			
-* Ma.	13-Sep	Trabajo en Clase E04: Quiz Socrative - Impulso, Convolucion 1D (individual)		
-* Ma.	20-Sep	Trabajo en Clase E05: Colab - Ejercicio Convolucion y Fourier 1D (individual)			
-* Ma.	29-Sep	Trabajo en Clase E06: Quiz Socrative - Fourier 2D (individual)		
-* Ma.	04-Oct	Trabajo en Clase E07: Colab - Ejercicio Fourier 2D (individual)
-* Ma.	18-Oct	Trabajo en Clase E08: Quiz Socrative - Degradacion 2D(individual)		
-* Ju.	27-Oct	Trabajo en Clase E10: Quiz Socrative - TopHat, Segmentacion (individual)		
-* Ju.	10-Nov	Trabajo en Clase E11: Quiz Socrative - Segmentacion (individual)		
-* Ju.	17-Nov	Trabajo en Clase E12: Quiz Socrative - Espacios de Color (individual)		
+* Trabajo en Clase E01: Introducción al Curso - Socrative (individual)
 
-* Mi.	09-Nov	Trabajo E09: Plan de Trabajo de Proyecto (grupal). Se entrega el miercoles 09/Nov a las 9pm por Canvas		
+* Trabajo en Clase E02: Características Geométricas - Socrative (individual)
+
+* Trabajo en Clase E03: Local Binary Patterns (LBP) - Socrative (individual)
+
+* Trabajo en Clase E04: Detección de Caras - Colab (individual)
+
+* Trabajo en Clase E05: Detección de Paredes Rayadas  - Colab (individual)
+
+* Trabajo en Clase E06: Detección de Espinas - Colab (individual)
+
+* Trabajo en Clase E07: Extracción y Selección de Características - Socrative (individual)
+
+* Trabajo en Clase E08: Selección y Transformación de Características - Colab (individual)
+
+* Trabajo en Clase E09: Calsificadores Básicos - Socrative (individual)
+
+* Trabajo en Clase E10: Clasificadores Avanzados - Colab (individual)
+
+* Trabajo en Clase E11: Evaluación de Clasificadores - Socrative (individual)
+
+* Trabajo en Clase E12: Plan de Trabajo de Proyecto (grupal)
+
+* Trabajo en Clase E13: Clustering - Socrative (individual)
+
 
 
 
 
 ## Tareas
 
-El codigo de la tarea se sube a Canvas a mas tardar a las 9pm de la fecha indicada. 
+El código de la tarea se sube a Canvas a más tardar a las 9pm de la fecha indicada. 
 
-* Ju.	01-Sep	Tarea 01: Lectura reloj analogico
-* Vi.	12-Oct	Tarea 02: Filtros 2D usando Fourier
-* Lu.	07-Nov	Tarea 03: Restauracion de imagenes
+* Ju.	01-Sep	Tarea 01: Reconocimiento de Caracteres
+* Vi.	12-Oct	Tarea 02: Reconocimiento de Edad de una Persona
+* Lu.	07-Nov	Tarea 03: Reconocimiento de Objetos
 
 ## Proyecto
 
