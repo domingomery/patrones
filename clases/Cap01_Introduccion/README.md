@@ -3,7 +3,7 @@
 ### 1.1 Que es reconocimiento de patrones?:
 * Ejercicio vision humana [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_EjercicioReconocimiento.pptx)
 * Vision humana / Vision por computador [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_Chihuahua_or_Muffin.pptx)
-* Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
+* E01: Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 ### 1.2 Un ejemplo practico:
 * **Video de esta clase** [[YouTube]](https://youtu.be/imt2H2nKitA)
 * Ejemplo practico [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_EjemploMandarinas.pptx)
@@ -19,4 +19,4 @@
 ---
 
 
-Updated on 06-Mar-2023 at 12:44 by Domingo Mery
+Updated on 06-Mar-2023 at 17:53 by Domingo Mery

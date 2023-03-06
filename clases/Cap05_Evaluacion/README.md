@@ -7,7 +7,6 @@
 ### 5.2 Matriz de Confusion:
 * Matriz de Confusion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ConfusionMatrix.pptx)
 ### 5.3 Sensibilidad, especificidad, precision y recall:
-* Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 * Metricas de Genuinos vs. Impostores [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_Genuine_Impostor.pptx)
 * Metricas de Genuinos vs. Impostores [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT_05_Understanding-Biometric-Performance-Evaluation.pdf)
 * Ejemplo de ArcFace y metricas de evaluacion [[Colab]](https://colab.research.google.com/drive/118P-1H0gUI3BGFzffQyXv9ycrKCGG_4X?usp=sharing)
@@ -16,8 +15,9 @@
 * Estimacion de Accuracy [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_AccuracyEstimation.pptx)
 * Ejemplo de estimacion de accuracy [[Colab]](https://colab.research.google.com/drive/1dG1lnl72LVm6-THPh44TgcJBriIJSgeH?usp=sharing)
 * Seleccion de Modelos [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ModelSelector.pdf)
+* E11: Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 ### 5.6 Ejemplos:
 ---
 
 
-Updated on 06-Mar-2023 at 12:44 by Domingo Mery
+Updated on 06-Mar-2023 at 17:53 by Domingo Mery

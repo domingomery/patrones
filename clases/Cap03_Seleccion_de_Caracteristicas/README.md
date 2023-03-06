@@ -17,13 +17,12 @@
 * **Video de esta clase** [[YouTube]](https://youtu.be/b1BBhid8G-k)
 * Discriminante Fihser y Matrices de Covarianza [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pptx)
 * Discriminante Fihser y Matrices de Covarianza [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pdf)
-* Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
+* E07: Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 * **Video de esta clase** [[YouTube]](https://youtu.be/llLtD7cA7KA)
 * **Video de esta clase** [[YouTube]](https://youtu.be/Qlv_EYy2WSI)
 ### 3.4 Busqueda exhaustiva:
 * Busqueda Exhaustiva [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_ExSearch.pptx)
-* Ejercicico 06 sobre deteccion de espinas en filetes de salmon [[Colab]](https://colab.research.google.com/drive/1XgBajOZhpujmVBsF8tSc289ryZXAPicj?usp=sharing)
-* Solucion al Ejercicio 06 [[Colab]](https://colab.research.google.com/drive/17bK4EcmdGLGhPg4vKUpuo8GiiwQXfmo_?usp=sharing)
+* E06: Ejercicico 06 sobre deteccion de espinas (Colab) [[Colab]](https://colab.research.google.com/drive/1XgBajOZhpujmVBsF8tSc289ryZXAPicj?usp=sharing)
 * Seleccion versus Transformacion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Models.pptx)
 * Ejemplo de PCA, ICA, PLSR [[Colab]](https://colab.research.google.com/drive/1mDEA1AejzUWvdxpNejPR_5IkacRcDRpr?usp=sharing)
 * ICA [[Apuntes]](https://towardsdatascience.com/independent-component-analysis-ica-in-python-a0ef0db0955e)
@@ -32,9 +31,8 @@
 * Ejemplo de Seleccion de Caracteristicas [[Colab]](https://colab.research.google.com/drive/14bwzAfN3QVSPGNKjLvrhr7zl02SkRu08?usp=sharing)
 * Principal Components Analysis PCA [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pptx)
 * Bateria de Ejemplos de Seleccion de Caracteristicas [[Colab]](https://colab.research.google.com/drive/1rwCjhI5ZA1tvZdZQYFQfTW0904hEy-wd?usp=sharing)
-* Ejercicio 08 sobre Seleccion/Transformacion de Caracteristicas [[Colab]](https://colab.research.google.com/drive/1yusIdrKqSHS2mYt6FoMM-HEKdvNQWFf2?usp=sharing)
 * Esquema del Ejercicio 08 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Ejercicio08.pptx)
-* Solucion al Ejercicio 08 [[Colab]](https://colab.research.google.com/drive/1uGbqy9WSAF3gIMRAZlwX9xcUGGkXGWhl?usp=sharing)
+* E08: Ejercicio 08 sobre Sel/Transde Caracteristicas (Colab) [[Colab]](https://colab.research.google.com/drive/1yusIdrKqSHS2mYt6FoMM-HEKdvNQWFf2?usp=sharing)
 ### 3.6 Busqueda secuencial hacia atras:
 ### 3.7 Busqueda Brunch-Bound:
 * Branch and Bound [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_BranchAndBound.pptx)
@@ -42,4 +40,4 @@
 ---
 
 
-Updated on 06-Mar-2023 at 12:44 by Domingo Mery
+Updated on 06-Mar-2023 at 17:53 by Domingo Mery

@@ -8,6 +8,7 @@
 * Clustering: Mean Shift [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_MeanShift.pptx)
 * Ejemplos de Clustering [[Colab]](https://colab.research.google.com/drive/16I1xd-F1k2HiHxq8Qb6ysKgpQJ-Dj1nw?usp=sharing)
 * Ejemplo de Face-Clusering [[Colab]](https://colab.research.google.com/drive/1ahAafZPMR2ysz44J9K3TOARW2R0twVbe?usp=sharing)
+* E12: Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 ### 6.3 Bag of Words:
 * BoW: Bag of Words [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_BoW.pptx)
 * Ejemplo de Bag of Words [[Colab]](https://colab.research.google.com/drive/161vqJL6yFALMFWYzp1IkKV3XC8Oi1Svc?usp=sharing)
@@ -16,4 +17,4 @@
 ---
 
 
-Updated on 06-Mar-2023 at 12:44 by Domingo Mery
+Updated on 06-Mar-2023 at 17:53 by Domingo Mery

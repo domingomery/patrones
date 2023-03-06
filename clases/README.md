@@ -19,7 +19,7 @@
 * 1.2-Ejemplo practico [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_EjemploMandarinas.pptx)
 * 1.5-Definiciones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_Definiciones.pptx)
 * 1.1-Vision humana / Vision por computador [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_Chihuahua_or_Muffin.pptx)
-* 1.1-Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
+* 1.1-E01: Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 
 ### Clase 03 Ju. 16-Mar-2023:
 * 1.3-**Video de esta clase** [[YouTube]](https://youtu.be/UH9Kv0EgipU)
@@ -35,7 +35,7 @@
 * 2.1-Ejemplo sobre caracteristicas geometricas [[Colab]](https://colab.research.google.com/drive/1ZVWzvrgfe56kP4tcsPFYW4Qd0asoMCOU?usp=sharing)
 * 2.1-Momentos de Flusser [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Flusser_Moments.pdf)
 * 2.1-Momentos de Hu [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Hu_Moments.pdf)
-* 2.1-Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
+* 2.1-E02: Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 
 ### Clase 05 Ju. 23-Mar-2023:
 * 2.1-**Video de esta clase** [[YouTube]](https://youtu.be/tNMZQr4csWU)
@@ -49,9 +49,9 @@
 * 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/Wp1F4d50b38)
 * 2.2-Local Binary Patterns [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns.pptx)
 * 2.2-Ejemplo sobre LBP en reconocimiento facial [[Colab]](https://colab.research.google.com/drive/1yw-3uoLIi2_IoI-TWIpYSOz7VTSxSBkC?usp=sharing)
-* 2.2-Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 * 2.2-Local Binary Patterns  (invariante a la rotacion) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns_ri.pptx)
 * 2.2-Lectura complementaria de LBP [[Paper]](http://www.scholarpedia.org/article/Local_Binary_Patterns)
+* 2.2-E03: Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 
 ### Clase 07 Ju. 30-Mar-2023:
 * 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/24UJe4wY2zc)
@@ -67,8 +67,7 @@
 
 ### Clase 08 Ma. 04-Apr-2023:
 * 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/DWe4cN6q4II)
-* 2.2-Ejercicico 04 sobre deteccion de caras [[Colab]](https://colab.research.google.com/drive/1amOTtTetNkw3ew58yOmjMc_L1qJ1RVqD?usp=sharing)
-* 2.2-Solucion al Ejercicio 04 [[Colab]](https://colab.research.google.com/drive/1MMjJcLNiwMeDbyScCm3c8QcpWMZ5lKJ_?usp=sharing)
+* 2.2-E04: Ejercicico 04 sobre deteccion de caras (Colab) [[Colab]](https://colab.research.google.com/drive/1amOTtTetNkw3ew58yOmjMc_L1qJ1RVqD?usp=sharing)
 
 ### Clase 09 Ma. 11-Apr-2023:
 * 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/mcqkE-gzUHM)
@@ -84,8 +83,7 @@
 * 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/BeqJf-W4ob8)
 * 2.2-SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_SIFT_ObjectDetection.pptx)
 * 2.2-Reconocimiento de vacas usando SIFT [[Colab]](https://colab.research.google.com/drive/1BZS9v6hCeIk2_wO5FRrkE0Mq_xI6LNXm?usp=sharing)
-* 2.2-Ejercicico 05 sobre deteccion de paredes rayadas [[Colab]](https://colab.research.google.com/drive/1MVEMLOox6fM1CkmskmYjGxsQiJZNq9_6?usp=sharing)
-* 2.2-Solucion al Ejercicio 05 [[Colab]](https://colab.research.google.com/drive/1zncqmmO6EMQDDsMytQyyXY0pvbwgpcE0?usp=sharing)
+* 2.2-E05: Ejercicico 05 sobre deteccion de paredes rayadas (Colab) [[Colab]](https://colab.research.google.com/drive/1MVEMLOox6fM1CkmskmYjGxsQiJZNq9_6?usp=sharing)
 
 ### Clase 11 Ma. 18-Apr-2023:
 * 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/MImox20v974)
@@ -101,21 +99,20 @@
 * 3.1-Introduccion a la Seleccion de Caracteristicas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pptx)
 * 3.1-Introduccion a la Seleccion de Caracteristicas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection.pdf)
 * 3.4-Busqueda Exhaustiva [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_ExSearch.pptx)
-* 3.4-Ejercicico 06 sobre deteccion de espinas en filetes de salmon [[Colab]](https://colab.research.google.com/drive/1XgBajOZhpujmVBsF8tSc289ryZXAPicj?usp=sharing)
-* 3.4-Solucion al Ejercicio 06 [[Colab]](https://colab.research.google.com/drive/17bK4EcmdGLGhPg4vKUpuo8GiiwQXfmo_?usp=sharing)
 
 ### Clase 13 Ma. 25-Apr-2023:
 * 3.1-**Video de esta clase** [[YouTube]](https://youtu.be/sZhO6YVYAGE)
 * 3.1-Clean: Limpieza de datos [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Clean.pptx)
 * 3.5-SFS [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_SFS.pptx)
 * 3.5-Ejemplo de Seleccion de Caracteristicas [[Colab]](https://colab.research.google.com/drive/14bwzAfN3QVSPGNKjLvrhr7zl02SkRu08?usp=sharing)
+* 3.4-E06: Ejercicico 06 sobre deteccion de espinas (Colab) [[Colab]](https://colab.research.google.com/drive/1XgBajOZhpujmVBsF8tSc289ryZXAPicj?usp=sharing)
 
 ### Clase 14 Ma. 09-May-2023:
 * 3.3-**Video de esta clase** [[YouTube]](https://youtu.be/b1BBhid8G-k)
 * 3.3-Discriminante Fihser y Matrices de Covarianza [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pptx)
 * 3.3-Discriminante Fihser y Matrices de Covarianza [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pdf)
 * 3.7-Branch and Bound [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_BranchAndBound.pptx)
-* 3.3-Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
+* 3.3-E07: Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 
 ### Clase 15 Ju. 11-May-2023:
 * 3.3-**Video de esta clase** [[YouTube]](https://youtu.be/llLtD7cA7KA)
@@ -132,9 +129,8 @@
 * 3.1-Libreria PyBalu en Python [[Libreria]](https://github.com/mbucchi/pybalu)
 * 3.1-Libreria sklearn para Feature Selection [[Libreria]](https://scikit-learn.org/stable/modules/feature_selection.html)
 * 3.1-Libreria mlxtend [[Python]](http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/)
-* 3.5-Ejercicio 08 sobre Seleccion/Transformacion de Caracteristicas [[Colab]](https://colab.research.google.com/drive/1yusIdrKqSHS2mYt6FoMM-HEKdvNQWFf2?usp=sharing)
 * 3.5-Esquema del Ejercicio 08 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Ejercicio08.pptx)
-* 3.5-Solucion al Ejercicio 08 [[Colab]](https://colab.research.google.com/drive/1uGbqy9WSAF3gIMRAZlwX9xcUGGkXGWhl?usp=sharing)
+* 3.5-E08: Ejercicio 08 sobre Sel/Transde Caracteristicas (Colab) [[Colab]](https://colab.research.google.com/drive/1yusIdrKqSHS2mYt6FoMM-HEKdvNQWFf2?usp=sharing)
 
 ### Clase 17 Ju. 18-May-2023:
 * 4.1-**Video de esta clase** [[YouTube]](https://youtu.be/OYrI_O7n5mE)
@@ -154,7 +150,7 @@
 
 ### Clase 19 Ju. 25-May-2023:
 * 4.1-**Video de esta clase** [[YouTube]](https://youtu.be/gMUjrOFHYGQ)
-* 4.2-Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
+* 4.2-E09: Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 
 ### Clase 20 Ma. 30-May-2023:
 * 4.6-**Video de esta clase** [[YouTube]](https://youtu.be/GlMKLvTJ1e0)
@@ -175,6 +171,7 @@
 * 4.7-Ejemplo CNN intermedio (lunares: 2 clases) [[Colab]](https://colab.research.google.com/drive/1KsNoo7FubANMD4DGRrwxj0oGMRTlSpss?usp=sharing)
 * 4.7-Ejemplo CNN intermedio (lunares: 7 clases) [[Colab]](https://colab.research.google.com/drive/1nxe41v2qmcTX-ofSt0hFy_-wYVLIdKs_?usp=sharing)
 * 7.1-Descripcion de Proyecto [[Proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto)
+* 4.7-E10: Ejercicio 10 sobre Clasificadores Avanzados (Colab) [[Colab]](https://colab.research.google.com/drive/1yusIdrKqSHS2mYt6FoMM-HEKdvNQWFf2?usp=sharing)
 
 ### Clase 22 Ma. 06-Jun-2023:
 * 4.1-**Video de esta clase** [[YouTube]](https://youtu.be/4iE5QzmR7V4)
@@ -192,11 +189,11 @@
 * 5.5-Estimacion de Accuracy [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_AccuracyEstimation.pptx)
 * 5.5-Ejemplo de estimacion de accuracy [[Colab]](https://colab.research.google.com/drive/1dG1lnl72LVm6-THPh44TgcJBriIJSgeH?usp=sharing)
 * 5.5-Seleccion de Modelos [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ModelSelector.pdf)
+* 5.5-E11: Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 
 ### Clase 24 Ma. 13-Jun-2023:
 * 5.1-**Video de esta clase** [[YouTube]](https://youtu.be/TlrNzh-vghM)
 * 5.2-Matriz de Confusion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ConfusionMatrix.pptx)
-* 5.3-Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 
 ### Clase 25 Ju. 15-Jun-2023:
 * 5.1-**Video de esta clase** [[YouTube]](https://youtu.be/Md_eY5twq9c)
@@ -218,6 +215,7 @@
 * 6.2-Clustering: Mean Shift [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_MeanShift.pptx)
 * 6.2-Ejemplos de Clustering [[Colab]](https://colab.research.google.com/drive/16I1xd-F1k2HiHxq8Qb6ysKgpQJ-Dj1nw?usp=sharing)
 * 6.2-Ejemplo de Face-Clusering [[Colab]](https://colab.research.google.com/drive/1ahAafZPMR2ysz44J9K3TOARW2R0twVbe?usp=sharing)
+* 6.2-E12: Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 
 ### Clase 28 Ma. 27-Jun-2023:
 * 7.1-**Video de esta clase** [[YouTube]](https://youtu.be/n6kB0nkfxwo)
@@ -233,4 +231,4 @@
 ---
 
 
-Updated on 06-Mar-2023 at 12:44 by Domingo Mery
+Updated on 06-Mar-2023 at 17:53 by Domingo Mery
