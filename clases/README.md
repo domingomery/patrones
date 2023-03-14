@@ -25,7 +25,7 @@
 * 1.3-**Video de esta clase** [[YouTube]](https://youtu.be/UH9Kv0EgipU)
 * 1.3-Formulacion metodologica [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_FormulacionMetodologica.pptx)
 * 1.3-Lectura complementaria [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/papers/Jain_StatisticalPatternRecognition_2000.pdf)
-* 1.2-Ejemplo separacion de dos letras [[Colab]](https://colab.research.google.com/drive/1j_2nbm3JEF0Ywta8Gig_-3cLBx5lUeT2?usp=sharing)
+* 1.2-Ejemplo separacion de dos letras [[Colab]](https://drive.google.com/file/d/19pHFZFgxVVbKChlekecGvvmD7O9Dcscy/view?usp=sharing)
 * 1.4-Esquema basico de reconocimiento de patrones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_PR_Methodologia.pptx)
 
 ### Clase 04 Ma. 21-Mar-2023:
@@ -231,4 +231,4 @@
 ---
 
 
-Updated on 06-Mar-2023 at 17:56 by Domingo Mery
+Updated on 14-Mar-2023 at 14:54 by Domingo Mery
