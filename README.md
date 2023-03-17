@@ -25,14 +25,14 @@
 * 1.3-**Video de esta clase** [[YouTube]](https://youtu.be/UH9Kv0EgipU)
 * 1.3-Formulacion metodologica [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_FormulacionMetodologica.pptx)
 * 1.3-Lectura complementaria [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/papers/Jain_StatisticalPatternRecognition_2000.pdf)
-* 1.2-Ejemplo separacion de dos letras [[Colab]](https://drive.google.com/file/d/19pHFZFgxVVbKChlekecGvvmD7O9Dcscy/view?usp=sharing)
+* 1.2-Ejemplo separacion de dos letras [[Colab]](https://drive.google.com/file/d/19pHFZFgxVVbKChlekecGvvmD7O9Dcscy)
 * 1.4-Esquema basico de reconocimiento de patrones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_PR_Methodologia.pptx)
 
 ### Clase 04 Ma. 21-Mar-2023:
 * 2.1-**Video de esta clase** [[YouTube]](https://youtu.be/SMCEHYR9Pik)
 * 2.1-Caracteristicas geometricas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_GeometricFeatures.pptx)
 * 2.1-Caracteristicas geometricas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_GeometricFeatures.pdf)
-* 2.1-Ejemplo sobre caracteristicas geometricas [[Colab]](https://drive.google.com/file/d/1dVIFdqdwBwPZ9GflSHtDtLt_24v5eRil/view?usp=share_link)
+* 2.1-Ejemplo sobre caracteristicas geometricas [[Colab]](https://drive.google.com/file/d/1dVIFdqdwBwPZ9GflSHtDtLt_24v5eRil)
 * 2.1-Momentos de Flusser [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Flusser_Moments.pdf)
 * 2.1-Momentos de Hu [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Hu_Moments.pdf)
 * 2.1-E02: Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
@@ -231,4 +231,4 @@
 ---
 
 
-Updated on 17-Mar-2023 at 10:49 by Domingo Mery
+Updated on 17-Mar-2023 at 13:16 by Domingo Mery
