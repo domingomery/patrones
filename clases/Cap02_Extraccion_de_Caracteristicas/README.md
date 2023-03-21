@@ -4,6 +4,7 @@
 * **Video de esta clase** [[YouTube]](https://youtu.be/SMCEHYR9Pik)
 * Caracteristicas geometricas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_GeometricFeatures.pptx)
 * Caracteristicas geometricas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_GeometricFeatures.pdf)
+* Capitulo - Image Representation [[]](https://link.springer.com/chapter/10.1007/978-3-030-56769-9_5)
 * Ejemplo sobre caracteristicas geometricas [[Colab]](https://drive.google.com/file/d/1dVIFdqdwBwPZ9GflSHtDtLt_24v5eRil)
 * Momentos de Flusser [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Flusser_Moments.pdf)
 * Momentos de Hu [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Hu_Moments.pdf)
@@ -58,4 +59,4 @@
 ---
 
 
-Updated on 17-Mar-2023 at 13:16 by Domingo Mery
+Updated on 21-Mar-2023 at 11:00 by Domingo Mery
