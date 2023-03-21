@@ -42,14 +42,14 @@
 * 2.1-**Video de esta clase** [[YouTube]](https://youtu.be/tNMZQr4csWU)
 * 2.1-Descriptores de Fourier [[Pizarra]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_DescriptoresFourier_Pizarra.pdf)
 * 2.1-Descriptores de Fourier [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_DescriptoresFourier.pptx)
-* 2.1-Ejemplo sobre descriptores de Fourier [[Colab]](https://colab.research.google.com/drive/1hq7EZDMBCyQm0jKgm9tWAcdHljR38bG_?usp=sharing)
+* 2.1-Ejemplo sobre descriptores de Fourier [[Colab]](https://drive.google.com/file/d/1-s15n7pyf7yV6ogSzn1xr8ltSpEoZAcH)
 * 2.2-Local Binary Patterns [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns.pptx)
 * 2.2-Paper de LBP [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/LBP_faces.pdf)
 
 ### Clase 06 Ma. 28-Mar-2023:
 * 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/Wp1F4d50b38)
 * 2.2-Local Binary Patterns [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns.pptx)
-* 2.2-Ejemplo sobre LBP en reconocimiento facial [[Colab]](https://colab.research.google.com/drive/1yw-3uoLIi2_IoI-TWIpYSOz7VTSxSBkC?usp=sharing)
+* 2.2-Ejemplo sobre LBP en reconocimiento facial [[Colab]](https://drive.google.com/file/d/1X-Cb-etJEefD3ZqUiUTvnW58TzJXMFtZ)
 * 2.2-Local Binary Patterns  (invariante a la rotacion) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns_ri.pptx)
 * 2.2-Lectura complementaria de LBP [[Paper]](http://www.scholarpedia.org/article/Local_Binary_Patterns)
 * 2.2-E03: Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
@@ -232,4 +232,4 @@
 ---
 
 
-Updated on 21-Mar-2023 at 11:28 by Domingo Mery
+Updated on 21-Mar-2023 at 15:59 by Domingo Mery
