@@ -25,7 +25,7 @@
 * 1.3-**Video de esta clase** [[YouTube]](https://youtu.be/UH9Kv0EgipU)
 * 1.3-Formulacion metodologica [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_FormulacionMetodologica.pptx)
 * 1.3-Lectura complementaria [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/papers/Jain_StatisticalPatternRecognition_2000.pdf)
-* 1.2-Ejemplo separacion de dos letras [[Colab]](https://drive.google.com/file/d/19pHFZFgxVVbKChlekecGvvmD7O9Dcscy)
+* 1.2-Ejemplo separacion de dos letras (J y Q) [[Colab]](https://drive.google.com/file/d/19pHFZFgxVVbKChlekecGvvmD7O9Dcscy)
 * 1.4-Esquema basico de reconocimiento de patrones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_PR_Methodologia.pptx)
 
 ### Clase 04 Ma. 21-Mar-2023:
@@ -49,7 +49,7 @@
 ### Clase 06 Ma. 28-Mar-2023:
 * 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/Wp1F4d50b38)
 * 2.2-Local Binary Patterns [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns.pptx)
-* 2.2-Ejemplo sobre LBP en reconocimiento facial [[Colab]](https://drive.google.com/file/d/1X-Cb-etJEefD3ZqUiUTvnW58TzJXMFtZ)
+* 2.2-Ejemplo sobre LBP en reconocimiento facial [[Colab]](https://drive.google.com/file/d/1c_nkg3cLXngsJwdAfd-ZJkWn09VbWiT9)
 * 2.2-Local Binary Patterns  (invariante a la rotacion) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns_ri.pptx)
 * 2.2-Lectura complementaria de LBP [[Paper]](http://www.scholarpedia.org/article/Local_Binary_Patterns)
 * 2.2-E03: Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
@@ -232,4 +232,4 @@
 ---
 
 
-Updated on 21-Mar-2023 at 15:59 by Domingo Mery
+Updated on 24-Mar-2023 at 13:51 by Domingo Mery

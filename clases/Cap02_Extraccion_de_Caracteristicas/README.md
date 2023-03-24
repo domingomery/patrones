@@ -19,7 +19,7 @@
 * Paper de LBP [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/LBP_faces.pdf)
 * **Video de esta clase** [[YouTube]](https://youtu.be/Wp1F4d50b38)
 * Local Binary Patterns [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns.pptx)
-* Ejemplo sobre LBP en reconocimiento facial [[Colab]](https://drive.google.com/file/d/1X-Cb-etJEefD3ZqUiUTvnW58TzJXMFtZ)
+* Ejemplo sobre LBP en reconocimiento facial [[Colab]](https://drive.google.com/file/d/1c_nkg3cLXngsJwdAfd-ZJkWn09VbWiT9)
 * Local Binary Patterns  (invariante a la rotacion) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns_ri.pptx)
 * Lectura complementaria de LBP [[Paper]](http://www.scholarpedia.org/article/Local_Binary_Patterns)
 * E03: Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
@@ -59,4 +59,4 @@
 ---
 
 
-Updated on 21-Mar-2023 at 15:59 by Domingo Mery
+Updated on 24-Mar-2023 at 13:51 by Domingo Mery

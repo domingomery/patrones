@@ -7,7 +7,7 @@
 ### 1.2 Un ejemplo practico:
 * **Video de esta clase** [[YouTube]](https://youtu.be/imt2H2nKitA)
 * Ejemplo practico [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_EjemploMandarinas.pptx)
-* Ejemplo separacion de dos letras [[Colab]](https://drive.google.com/file/d/19pHFZFgxVVbKChlekecGvvmD7O9Dcscy)
+* Ejemplo separacion de dos letras (J y Q) [[Colab]](https://drive.google.com/file/d/19pHFZFgxVVbKChlekecGvvmD7O9Dcscy)
 ### 1.3 Formulacion de problemas de reconocimiento de patrones:
 * **Video de esta clase** [[YouTube]](https://youtu.be/UH9Kv0EgipU)
 * Formulacion metodologica [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_FormulacionMetodologica.pptx)
@@ -19,4 +19,4 @@
 ---
 
 
-Updated on 21-Mar-2023 at 15:59 by Domingo Mery
+Updated on 24-Mar-2023 at 13:51 by Domingo Mery
