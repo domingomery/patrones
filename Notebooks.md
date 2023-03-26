@@ -5,7 +5,7 @@ Ejemplos usados en el curso ()
 ## Capítulo 01: Introducción
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/19pHFZFgxVVbKChlekecGvvmD7O9Dcscy) 
-Separación entre letras J y Q 
+Separación entre letras J y Q **(NEW)**
 
 
 ## Capítulo 02: Extracción de Características
