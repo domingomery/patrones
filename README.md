@@ -92,7 +92,7 @@
 * 2.2-Caracteristicas de intensidad [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_IntensityFeatures.pdf)
 * 2.2-Crossing Line Profile (CLP) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_CrossingLineProfiles.pptx)
 * 2.2-Crossing Line Profile (CLP) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Mery_CrossingLineProfiles.pdf)
-* 2.2-Ejemplo de Caracteristicas de Intensidad (basicas, contraste, CLP) [[Colab]](https://colab.research.google.com/drive/1PrBuK3vniTbpuKKdoCUrAqBYBhFI7T0r?usp=sharing)
+* 2.2-Ejemplo de Intensidad (basicas, contraste, CLP) **(NEW)** [[Colab]](https://drive.google.com/file/d/1z-nyBSGR_oeAn9-kPub3mRwadoDKoYKr)
 
 ### Clase 12 Ju. 20-Apr-2023:
 * 3.1-**Video de esta clase** [[YouTube]](https://youtu.be/2QpvMEa0lQ0)
@@ -232,4 +232,4 @@
 ---
 
 
-Updated on 26-Mar-2023 at 15:11 by Domingo Mery
+Updated on 26-Mar-2023 at 18:44 by Domingo Mery

@@ -11,22 +11,22 @@ Separación entre letras J y Q
 ## Capítulo 02: Extracción de Características
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1ZOumR0CtHiBc1Lgk76Qk4VJ0KbU9-eCr) 
-Descriptores de Fourier 
+Descriptores de Fourier **(NEW)**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/16yJ8HrhXU0bGcvEMyzTPiuBwf8XLjR5J) 
-Caraceterísticas geométricas (básicas, elípticas y momentos)
+Caraceterísticas geométricas (básicas, elípticas y momentos) **(NEW)**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1c_nkg3cLXngsJwdAfd-ZJkWn09VbWiT9) 
-Reconocimiento facial con LBP
+Reconocimiento facial con LBP **(NEW)**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1Xwr4fcZ4JtaDWVQYSFMW2aqxfV36zCwo/view) 
-Detección de caras (Haralick y Gabor) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1Xwr4fcZ4JtaDWVQYSFMW2aqxfV36zCwo) 
+Detección de caras (Haralick y Gabor) **(NEW)**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1i8Wn5KlNGPKcKKEtyjBiHoOChx7aF-rS?usp=sharing) 
-Reconocimiento de texturas (Haralick, Gabor y LBP)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1i8Wn5KlNGPKcKKEtyjBiHoOChx7aF-rS) 
+Reconocimiento de texturas (Haralick, Gabor y LBP) **(NEW)**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1pc-eyku_hEFuwL0jAUuuq2_frMxfWVk2) 
-Detección de peatones, ciclistas (HoG)
+Detección de peatones, ciclistas (HoG) **(NEW)**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BZS9v6hCeIk2_wO5FRrkE0Mq_xI6LNXm?usp=sharing) 
 Biometría de vacas (SIFT)
@@ -34,8 +34,8 @@ Biometría de vacas (SIFT)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1zncqmmO6EMQDDsMytQyyXY0pvbwgpcE0?usp=sharing) 
 Detección de paredes rayadas
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1PrBuK3vniTbpuKKdoCUrAqBYBhFI7T0r?usp=sharing) 
-Características de intensidad (básicas, contraste, CLP)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1z-nyBSGR_oeAn9-kPub3mRwadoDKoYKr) 
+Características de intensidad (básicas, contraste, CLP) **(NEW)**
 
 
 ## Capítulo 03: Extracción de Características
