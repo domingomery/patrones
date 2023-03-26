@@ -13,10 +13,10 @@
 * Formulacion metodologica [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_FormulacionMetodologica.pptx)
 * Lectura complementaria [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/papers/Jain_StatisticalPatternRecognition_2000.pdf)
 ### 1.4 Sistemas de reconocimiento de patrones:
-* Esquema basico de reconocimiento de patrones  **NEW** [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_PR_Methodologia.pptx)
+* Esquema basico de reconocimiento de patrones  **(NEW)** [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_PR_Methodologia.pptx)
 ### 1.5 Conceptos basicos:
 * Definiciones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_Definiciones.pptx)
 ---
 
 
-Updated on 26-Mar-2023 at 14:36 by Domingo Mery
+Updated on 26-Mar-2023 at 15:11 by Domingo Mery
