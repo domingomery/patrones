@@ -26,14 +26,14 @@
 * 1.3-Formulacion metodologica [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_FormulacionMetodologica.pptx)
 * 1.3-Lectura complementaria [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/papers/Jain_StatisticalPatternRecognition_2000.pdf)
 * 1.2-Ejemplo separacion de dos letras (J y Q) [[Colab]](https://drive.google.com/file/d/19pHFZFgxVVbKChlekecGvvmD7O9Dcscy)
-* 1.4-Esquema basico de reconocimiento de patrones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_PR_Methodologia.pptx)
+* 1.4-Esquema basico de reconocimiento de patrones  **NEW** [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_PR_Methodologia.pptx)
 
 ### Clase 04 Ma. 21-Mar-2023:
 * 2.1-**Video de esta clase** [[YouTube]](https://youtu.be/SMCEHYR9Pik)
 * 2.1-Caracteristicas geometricas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_GeometricFeatures.pptx)
 * 2.1-Caracteristicas geometricas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_GeometricFeatures.pdf)
 * 2.1-Capitulo - Image Representation [[Chapter]](https://link.springer.com/chapter/10.1007/978-3-030-56769-9_5)
-* 2.1-Ejemplo sobre caracteristicas geometricas [[Colab]](https://drive.google.com/file/d/1dVIFdqdwBwPZ9GflSHtDtLt_24v5eRil)
+* 2.1-Ejemplo sobre caracteristicas geometricas **NEW** [[Colab]](https://drive.google.com/file/d/16yJ8HrhXU0bGcvEMyzTPiuBwf8XLjR5J)
 * 2.1-Momentos de Flusser [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Flusser_Moments.pdf)
 * 2.1-Momentos de Hu [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Hu_Moments.pdf)
 * 2.1-E02: Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
@@ -42,14 +42,14 @@
 * 2.1-**Video de esta clase** [[YouTube]](https://youtu.be/tNMZQr4csWU)
 * 2.1-Descriptores de Fourier [[Pizarra]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_DescriptoresFourier_Pizarra.pdf)
 * 2.1-Descriptores de Fourier [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_DescriptoresFourier.pptx)
-* 2.1-Ejemplo sobre descriptores de Fourier [[Colab]](https://drive.google.com/file/d/1-s15n7pyf7yV6ogSzn1xr8ltSpEoZAcH)
+* 2.1-Ejemplo sobre descriptores de Fourier **NEW** [[Colab]](https://drive.google.com/file/d/1ZOumR0CtHiBc1Lgk76Qk4VJ0KbU9-eCr)
 * 2.2-Local Binary Patterns [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns.pptx)
 * 2.2-Paper de LBP [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/LBP_faces.pdf)
 
 ### Clase 06 Ma. 28-Mar-2023:
 * 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/Wp1F4d50b38)
 * 2.2-Local Binary Patterns [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns.pptx)
-* 2.2-Ejemplo sobre LBP en reconocimiento facial [[Colab]](https://drive.google.com/file/d/1c_nkg3cLXngsJwdAfd-ZJkWn09VbWiT9)
+* 2.2-Ejemplo sobre LBP en reconocimiento facial **NEW** [[Colab]](https://drive.google.com/file/d/1c_nkg3cLXngsJwdAfd-ZJkWn09VbWiT9)
 * 2.2-Local Binary Patterns  (invariante a la rotacion) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns_ri.pptx)
 * 2.2-Lectura complementaria de LBP [[Paper]](http://www.scholarpedia.org/article/Local_Binary_Patterns)
 * 2.2-E03: Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
@@ -61,7 +61,7 @@
 * 2.2-Caracteristicas de Gabor [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_Gabor.pptx)
 * 2.2-Paper de Gabor [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Manjunath_GaborFeatures1996.pdf)
 * 2.2-Aplicacion de caracteristicas de Gabor [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Gabor_Application.pdf)
-* 2.2-Ejemplo sobre reconocimiento de texturas [[Colab]](https://colab.research.google.com/drive/1i8Wn5KlNGPKcKKEtyjBiHoOChx7aF-rS?usp=sharing)
+* 2.2-Ejemplo sobre reconocimiento de texturas **NEW** [[Colab]](https://drive.google.com/file/d/1Xwr4fcZ4JtaDWVQYSFMW2aqxfV36zCwo/view?usp=sharing)
 * 2.2-Video experimento con gatos (1/2) [[Video]](https://youtu.be/IOHayh06LJ4)
 * 2.2-Video experimento con gatos (2/2) [[Video]](https://youtu.be/QzkMo45pcUo)
 * 2.2-Comparacion de caracteristicas de textura [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Randen_ComparativeTextures.pdf)
@@ -232,4 +232,4 @@
 ---
 
 
-Updated on 24-Mar-2023 at 13:51 by Domingo Mery
+Updated on 26-Mar-2023 at 14:36 by Domingo Mery
