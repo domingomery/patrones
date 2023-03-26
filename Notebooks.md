@@ -1,26 +1,26 @@
 # Google Colab
 
-Ejemplos usados en el curso
+Ejemplos usados en el curso ()
 
 ## Capítulo 01: Introducción
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1j_2nbm3JEF0Ywta8Gig_-3cLBx5lUeT2?usp=sharing) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/19pHFZFgxVVbKChlekecGvvmD7O9Dcscy) 
 Separación entre letras J y Q 
 
 
 ## Capítulo 02: Extracción de Características
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1hq7EZDMBCyQm0jKgm9tWAcdHljR38bG_?usp=sharing) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1ZOumR0CtHiBc1Lgk76Qk4VJ0KbU9-eCr) 
 Descriptores de Fourier 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ZVWzvrgfe56kP4tcsPFYW4Qd0asoMCOU?usp=sharing) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/16yJ8HrhXU0bGcvEMyzTPiuBwf8XLjR5J) 
 Caraceterísticas geométricas (básicas, elípticas y momentos)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yw-3uoLIi2_IoI-TWIpYSOz7VTSxSBkC?usp=sharing) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1c_nkg3cLXngsJwdAfd-ZJkWn09VbWiT9) 
 Reconocimiento facial con LBP
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1MMjJcLNiwMeDbyScCm3c8QcpWMZ5lKJ_?usp=sharing) 
-Detección de caras (Haralick, Gabor y LBP) 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1Xwr4fcZ4JtaDWVQYSFMW2aqxfV36zCwo/view) 
+Detección de caras (Haralick y Gabor) 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1i8Wn5KlNGPKcKKEtyjBiHoOChx7aF-rS?usp=sharing) 
 Reconocimiento de texturas (Haralick, Gabor y LBP)
