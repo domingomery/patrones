@@ -43,8 +43,8 @@ Características de intensidad (básicas, contraste, CLP) **(NEW)**
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17bK4EcmdGLGhPg4vKUpuo8GiiwQXfmo_?usp=sharing) 
 Detección de espinas en filetes de salmón
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/14bwzAfN3QVSPGNKjLvrhr7zl02SkRu08?usp=sharing) 
-Selección básica de características
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1gOZaVzumtL6pc64Eksx1XXMr-9GBKhyk) 
+Selección básica de características **(NEW)**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mDEA1AejzUWvdxpNejPR_5IkacRcDRpr?usp=sharing) Reconocimiento facial con LBP usando transformaciones 
 PCA, ICA y PLSR

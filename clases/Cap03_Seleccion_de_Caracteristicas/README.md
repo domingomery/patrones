@@ -28,7 +28,7 @@
 * ICA [[Apuntes]](https://towardsdatascience.com/independent-component-analysis-ica-in-python-a0ef0db0955e)
 ### 3.5 Busqueda secuencial hacia adeleante:
 * SFS [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_SFS.pptx)
-* Ejemplo de Seleccion de Caracteristicas [[Colab]](https://colab.research.google.com/drive/14bwzAfN3QVSPGNKjLvrhr7zl02SkRu08?usp=sharing)
+* Ejemplo de Seleccion de Caracteristicas [[Colab]](https://drive.google.com/file/d/1gOZaVzumtL6pc64Eksx1XXMr-9GBKhyk)
 * Principal Components Analysis PCA [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pptx)
 * Bateria de Ejemplos de Seleccion de Caracteristicas [[Colab]](https://colab.research.google.com/drive/1rwCjhI5ZA1tvZdZQYFQfTW0904hEy-wd?usp=sharing)
 * Esquema del Ejercicio 08 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Ejercicio08.pptx)
@@ -40,4 +40,4 @@
 ---
 
 
-Updated on 26-Mar-2023 at 18:44 by Domingo Mery
+Updated on 27-Mar-2023 at 16:52 by Domingo Mery

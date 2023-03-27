@@ -77,13 +77,13 @@
 * 2.2-Deteccion de peatones usando HoG **(NEW)** [[Colab]](https://drive.google.com/file/d/1pc-eyku_hEFuwL0jAUuuq2_frMxfWVk2)
 * 2.2-SIFT  (Intro) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_SIFT_ObjectDetection.pptx)
 * 2.2-Paper SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Lowe_SIFT.pdf)
-* 2.2-Reconocimiento de vacas usando SIFT [[Colab]](https://colab.research.google.com/drive/1BZS9v6hCeIk2_wO5FRrkE0Mq_xI6LNXm?usp=sharing)
+* 2.2-Reconocimiento de vacas usando SIFT **(NEW)** [[Colab]](https://drive.google.com/file/d/1Dlg99UC9h-QuoErIG7L8p3Yq27QsTHw2)
 * 2.2-Implementacion de HoG en Python con OpenCV [[phyton]](https://www.learnopencv.com/histogram-of-oriented-gradients/)
 
 ### Clase 10 Ju. 13-Apr-2023:
 * 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/BeqJf-W4ob8)
 * 2.2-SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_SIFT_ObjectDetection.pptx)
-* 2.2-Reconocimiento de vacas usando SIFT [[Colab]](https://colab.research.google.com/drive/1BZS9v6hCeIk2_wO5FRrkE0Mq_xI6LNXm?usp=sharing)
+* 2.2-Reconocimiento de vacas usando SIFT **(NEW)** [[Colab]](https://drive.google.com/file/d/1Dlg99UC9h-QuoErIG7L8p3Yq27QsTHw2)
 * 2.2-E05: Ejercicico 05 sobre deteccion de paredes rayadas (Colab) [[Colab]](https://colab.research.google.com/drive/xxxxxxxxxxxx)
 
 ### Clase 11 Ma. 18-Apr-2023:
@@ -105,7 +105,7 @@
 * 3.1-**Video de esta clase** [[YouTube]](https://youtu.be/sZhO6YVYAGE)
 * 3.1-Clean: Limpieza de datos [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Clean.pptx)
 * 3.5-SFS [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_SFS.pptx)
-* 3.5-Ejemplo de Seleccion de Caracteristicas [[Colab]](https://colab.research.google.com/drive/14bwzAfN3QVSPGNKjLvrhr7zl02SkRu08?usp=sharing)
+* 3.5-Ejemplo de Seleccion de Caracteristicas [[Colab]](https://drive.google.com/file/d/1gOZaVzumtL6pc64Eksx1XXMr-9GBKhyk)
 * 3.4-E06: Ejercicico 06 sobre deteccion de espinas (Colab) [[Colab]](https://colab.research.google.com/drive/xxxxxxxxxxxx)
 
 ### Clase 14 Ma. 09-May-2023:
@@ -232,4 +232,4 @@
 ---
 
 
-Updated on 26-Mar-2023 at 18:44 by Domingo Mery
+Updated on 27-Mar-2023 at 16:52 by Domingo Mery
