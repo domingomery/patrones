@@ -34,7 +34,7 @@
 * Video experimento con gatos (2/2) [[Video]](https://youtu.be/QzkMo45pcUo)
 * Comparacion de caracteristicas de textura [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Randen_ComparativeTextures.pdf)
 * **Video de esta clase** [[YouTube]](https://youtu.be/DWe4cN6q4II)
-* E04: Ejercicico 04 sobre deteccion de caras (Colab) [[Colab]](https://colab.research.google.com/drive/xxxxxxxxxxxx)
+* E04: Ejercicico 04 sobre deteccion de caras (Colab) [[Colab]](https://drive.google.com/file/d/1cs2KXjIwgCOGaK_QtzOO9G_Y2jSfaJSV)
 * **Video de esta clase** [[YouTube]](https://youtu.be/mcqkE-gzUHM)
 * Histogram of Gradients (HoG) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HoG_HumanDetection.pptx)
 * Paper HoG [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/HoG_DalalTriggs.pdf)
@@ -59,4 +59,4 @@
 ---
 
 
-Updated on 27-Mar-2023 at 16:52 by Domingo Mery
+Updated on 03-Apr-2023 at 16:58 by Domingo Mery

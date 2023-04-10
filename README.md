@@ -68,7 +68,7 @@
 
 ### Clase 08 Ma. 04-Apr-2023:
 * 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/DWe4cN6q4II)
-* 2.2-E04: Ejercicico 04 sobre deteccion de caras (Colab) [[Colab]](https://colab.research.google.com/drive/xxxxxxxxxxxx)
+* 2.2-E04: Ejercicico 04 sobre deteccion de caras (Colab) [[Colab]](https://drive.google.com/file/d/1cs2KXjIwgCOGaK_QtzOO9G_Y2jSfaJSV)
 
 ### Clase 09 Ma. 11-Apr-2023:
 * 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/mcqkE-gzUHM)
@@ -232,4 +232,4 @@
 ---
 
 
-Updated on 27-Mar-2023 at 16:52 by Domingo Mery
+Updated on 03-Apr-2023 at 16:58 by Domingo Mery
