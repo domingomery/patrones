@@ -108,7 +108,7 @@
 ### Clase 13 Ma. 25-Apr-2023:
 * 3.1-**Video de esta clase** [[YouTube]](https://youtu.be/sZhO6YVYAGE)
 * 3.5-SFS [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_SFS.pptx)
-* 3.4-E06: Ejercicico 06 sobre deteccion de espinas (Colab) [[Colab]](https://colab.research.google.com/drive/xxxxxxxxxxxx)
+* 3.4-E06: Ejercicico 06 sobre deteccion de espinas (Colab) [[Colab]](https://drive.google.com/file/d/1FNnrwN-UsQ9mZaCDFnpRPFVRKIE0kkjb)
 
 ### Clase 14 Ma. 09-May-2023:
 * 3.3-**Video de esta clase** [[YouTube]](https://youtu.be/b1BBhid8G-k)
@@ -234,4 +234,4 @@
 ---
 
 
-Updated on 24-Apr-2023 at 09:33 by Domingo Mery
+Updated on 24-Apr-2023 at 12:51 by Domingo Mery

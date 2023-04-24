@@ -22,7 +22,7 @@
 * **Video de esta clase** [[YouTube]](https://youtu.be/Qlv_EYy2WSI)
 ### 3.4 Busqueda exhaustiva:
 * Busqueda Exhaustiva [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_ExSearch.pptx)
-* E06: Ejercicico 06 sobre deteccion de espinas (Colab) [[Colab]](https://colab.research.google.com/drive/xxxxxxxxxxxx)
+* E06: Ejercicico 06 sobre deteccion de espinas (Colab) [[Colab]](https://drive.google.com/file/d/1FNnrwN-UsQ9mZaCDFnpRPFVRKIE0kkjb)
 * Seleccion versus Transformacion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Models.pptx)
 * Ejemplo de PCA, ICA, PLSR [[Colab]](https://colab.research.google.com/drive/1mDEA1AejzUWvdxpNejPR_5IkacRcDRpr?usp=sharing)
 * ICA [[Apuntes]](https://towardsdatascience.com/independent-component-analysis-ica-in-python-a0ef0db0955e)
@@ -40,4 +40,4 @@
 ---
 
 
-Updated on 24-Apr-2023 at 09:33 by Domingo Mery
+Updated on 24-Apr-2023 at 12:51 by Domingo Mery
