@@ -86,7 +86,7 @@
 * 2.2-SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_SIFT_ObjectDetection.pptx)
 * 2.2-Reconocimiento de vacas usando SIFT **(NEW)** [[Colab]](https://drive.google.com/file/d/1Dlg99UC9h-QuoErIG7L8p3Yq27QsTHw2)
 * 2.2-E05: Ejercicico 05 sobre deteccion de paredes rayadas (Colab) [[Colab]](https://drive.google.com/file/d/1lkwHWUflIyRvEE8YuWfkP_x6M8fJGnEV)
-* 2.2-E05: Solucin [[]](https://drive.google.com/file/d/1QyNQzJ2bt1kZGOzj8ExGeZ9UhHveC1y8)
+* 2.2-E05: Solucin [[Colab]](https://drive.google.com/file/d/1QyNQzJ2bt1kZGOzj8ExGeZ9UhHveC1y8)
 
 ### Clase 11 Ma. 18-Apr-2023:
 * 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/MImox20v974)
@@ -109,6 +109,7 @@
 * 3.1-**Video de esta clase** [[YouTube]](https://youtu.be/sZhO6YVYAGE)
 * 3.5-SFS [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_SFS.pptx)
 * 3.4-E06: Ejercicico 06 sobre deteccion de espinas (Colab) [[Colab]](https://drive.google.com/file/d/1FNnrwN-UsQ9mZaCDFnpRPFVRKIE0kkjb)
+* 3.4-E06: Solucin [[Colab]](https://drive.google.com/file/d/1QyNQzJ2bt1kZGOzj8ExGeZ9UhHveC1y8)
 
 ### Clase 14 Ma. 09-May-2023:
 * 3.3-**Video de esta clase** [[YouTube]](https://youtu.be/b1BBhid8G-k)
@@ -127,13 +128,12 @@
 ### Clase 16 Ma. 16-May-2023:
 * 3.3-**Video de esta clase** [[YouTube]](https://youtu.be/Qlv_EYy2WSI)
 * 3.1-Esquema general con seleccion de caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_GeneralSchema.pdf)
-* 3.5-Bateria de Ejemplos de Seleccion de Caracteristicas [[Colab]](https://colab.research.google.com/drive/1rwCjhI5ZA1tvZdZQYFQfTW0904hEy-wd?usp=sharing)
+* 3.5-Bateria de Ejemplos de Seleccion de Caracteristicas **new** [[Colab]](https://drive.google.com/file/d/1flNimfx35g0MdCAN3dbGmN_YshZ2UuKm)
 * 3.1-How to Perform Feature Selection With Numerical Input Data [[Apuntes]](https://machinelearningmastery.com/feature-selection-with-numerical-input-data/)
-* 3.1-Libreria PyBalu en Python [[Libreria]](https://github.com/mbucchi/pybalu)
 * 3.1-Libreria sklearn para Feature Selection [[Libreria]](https://scikit-learn.org/stable/modules/feature_selection.html)
 * 3.1-Libreria mlxtend [[Python]](http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/)
 * 3.5-Esquema del Ejercicio 08 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Ejercicio08.pptx)
-* 3.5-E08: Ejercicio 08 sobre Sel/Transde Caracteristicas (Colab) [[Colab]](https://colab.research.google.com/drive/xxxxxxxxxxxx)
+* 3.5-E08: Ejercicio 08 sobre Sel/Trans de Caracteristicas (Colab) [[Colab]](https://drive.google.com/file/d/1BkG4yy5b5_rOgwgCnuRVE7bJNPeGK0ke)
 
 ### Clase 17 Ju. 18-May-2023:
 * 4.1-**Video de esta clase** [[YouTube]](https://youtu.be/OYrI_O7n5mE)
@@ -234,4 +234,4 @@
 ---
 
 
-Updated on 10-May-2023 at 16:35 by Domingo Mery
+Updated on 15-May-2023 at 16:13 by Domingo Mery

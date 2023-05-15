@@ -48,7 +48,7 @@
 * SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_SIFT_ObjectDetection.pptx)
 * Reconocimiento de vacas usando SIFT **(NEW)** [[Colab]](https://drive.google.com/file/d/1Dlg99UC9h-QuoErIG7L8p3Yq27QsTHw2)
 * E05: Ejercicico 05 sobre deteccion de paredes rayadas (Colab) [[Colab]](https://drive.google.com/file/d/1lkwHWUflIyRvEE8YuWfkP_x6M8fJGnEV)
-* E05: Solucin [[]](https://drive.google.com/file/d/1QyNQzJ2bt1kZGOzj8ExGeZ9UhHveC1y8)
+* E05: Solucin [[Colab]](https://drive.google.com/file/d/1QyNQzJ2bt1kZGOzj8ExGeZ9UhHveC1y8)
 * **Video de esta clase** [[YouTube]](https://youtu.be/MImox20v974)
 * Caracteristicas de intensidad [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_IntensityFeatures.pptx)
 * Caracteristicas de intensidad [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_IntensityFeatures.pdf)
@@ -61,4 +61,4 @@
 ---
 
 
-Updated on 10-May-2023 at 16:35 by Domingo Mery
+Updated on 15-May-2023 at 16:13 by Domingo Mery
