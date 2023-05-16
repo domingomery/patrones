@@ -69,7 +69,7 @@
 ### Clase 08 Ma. 04-Apr-2023:
 * 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/DWe4cN6q4II)
 * 2.2-E04: Ejercicico 04 sobre deteccion de caras (Colab) [[Colab]](https://drive.google.com/file/d/1cs2KXjIwgCOGaK_QtzOO9G_Y2jSfaJSV)
-* 2.2-E04: Solucin [[]](https://drive.google.com/file/d/1p2_IWE1DncJ8P29VCvex031xTgPQUqFL)
+* 2.2-E04: Solucion [[Colab]](https://drive.google.com/file/d/1p2_IWE1DncJ8P29VCvex031xTgPQUqFL)
 
 ### Clase 09 Ma. 11-Apr-2023:
 * 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/mcqkE-gzUHM)
@@ -86,7 +86,7 @@
 * 2.2-SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_SIFT_ObjectDetection.pptx)
 * 2.2-Reconocimiento de vacas usando SIFT **(NEW)** [[Colab]](https://drive.google.com/file/d/1Dlg99UC9h-QuoErIG7L8p3Yq27QsTHw2)
 * 2.2-E05: Ejercicico 05 sobre deteccion de paredes rayadas (Colab) [[Colab]](https://drive.google.com/file/d/1lkwHWUflIyRvEE8YuWfkP_x6M8fJGnEV)
-* 2.2-E05: Solucin [[Colab]](https://drive.google.com/file/d/1QyNQzJ2bt1kZGOzj8ExGeZ9UhHveC1y8)
+* 2.2-E05: Solucion [[Colab]](https://drive.google.com/file/d/1QyNQzJ2bt1kZGOzj8ExGeZ9UhHveC1y8)
 
 ### Clase 11 Ma. 18-Apr-2023:
 * 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/MImox20v974)
@@ -109,7 +109,7 @@
 * 3.1-**Video de esta clase** [[YouTube]](https://youtu.be/sZhO6YVYAGE)
 * 3.5-SFS [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_SFS.pptx)
 * 3.4-E06: Ejercicico 06 sobre deteccion de espinas (Colab) [[Colab]](https://drive.google.com/file/d/1FNnrwN-UsQ9mZaCDFnpRPFVRKIE0kkjb)
-* 3.4-E06: Solucin [[Colab]](https://drive.google.com/file/d/1QyNQzJ2bt1kZGOzj8ExGeZ9UhHveC1y8)
+* 3.4-E06: Solucion [[Colab]](https://drive.google.com/file/d/1QyNQzJ2bt1kZGOzj8ExGeZ9UhHveC1y8)
 
 ### Clase 14 Ma. 09-May-2023:
 * 3.3-**Video de esta clase** [[YouTube]](https://youtu.be/b1BBhid8G-k)
@@ -234,4 +234,4 @@
 ---
 
 
-Updated on 15-May-2023 at 16:13 by Domingo Mery
+Updated on 16-May-2023 at 09:48 by Domingo Mery
