@@ -11,8 +11,8 @@
 ### 4.2 Vecino mas cercano:
 * Clasificador KNN - vecino mas cercano [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_KNN.pptx)
 * Clasificador DMIN - distancia minima [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_dmin.pptx)
-* Clasificadores basicos [[Colab]](https://colab.research.google.com/drive/1WszMhd3cFOMfrG9S5m8DyQwr3T9EneaT?usp=sharing)
-* Clasificadores basicos [[Colab]](https://colab.research.google.com/drive/1WszMhd3cFOMfrG9S5m8DyQwr3T9EneaT?usp=sharing)
+* Clasificadores basicos **new** [[Colab]](https://drive.google.com/file/d/1ACvcTuxfT3mRfnMldouxMvM_jX0LBriP)
+* Clasificadores basicos **new** [[Colab]](https://drive.google.com/file/d/1ACvcTuxfT3mRfnMldouxMvM_jX0LBriP)
 * E09: Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 ### 4.3 LDA, QDA, Mahalanobis:
 * **Video de esta clase** [[YouTube]](https://youtu.be/6nW43kyZUhY)
@@ -50,4 +50,4 @@
 ---
 
 
-Updated on 16-May-2023 at 09:48 by Domingo Mery
+Updated on 16-May-2023 at 15:48 by Domingo Mery

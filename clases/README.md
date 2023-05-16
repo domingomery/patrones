@@ -141,14 +141,14 @@
 * 4.2-Clasificador KNN - vecino mas cercano [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_KNN.pptx)
 * 4.2-Clasificador DMIN - distancia minima [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_dmin.pptx)
 * 4.4-Clasificador de Bayes [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_Bayes.pptx)
-* 4.2-Clasificadores basicos [[Colab]](https://colab.research.google.com/drive/1WszMhd3cFOMfrG9S5m8DyQwr3T9EneaT?usp=sharing)
+* 4.2-Clasificadores basicos **new** [[Colab]](https://drive.google.com/file/d/1ACvcTuxfT3mRfnMldouxMvM_jX0LBriP)
 
 ### Clase 18 Ma. 23-May-2023:
 * 4.3-**Video de esta clase** [[YouTube]](https://youtu.be/6nW43kyZUhY)
 * 4.3-Clasificadores LDA, QDA, Mahalanobis [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_LDA.pptx)
 * 4.3-Arboles de decision [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_Trees.pptx)
 * 4.1-Entropia [[YouTube]](https://youtu.be/9r7FIXEAGvs)
-* 4.2-Clasificadores basicos [[Colab]](https://colab.research.google.com/drive/1WszMhd3cFOMfrG9S5m8DyQwr3T9EneaT?usp=sharing)
+* 4.2-Clasificadores basicos **new** [[Colab]](https://drive.google.com/file/d/1ACvcTuxfT3mRfnMldouxMvM_jX0LBriP)
 * 4.1-Visualizacion del espacio de caracteristicas [[Colab]](https://colab.research.google.com/drive/1sIxne6r2Zgs2_icfdYgsk8SoGSVHC_3B?usp=sharing)
 
 ### Clase 19 Ju. 25-May-2023:
@@ -234,4 +234,4 @@
 ---
 
 
-Updated on 16-May-2023 at 09:48 by Domingo Mery
+Updated on 16-May-2023 at 15:48 by Domingo Mery
