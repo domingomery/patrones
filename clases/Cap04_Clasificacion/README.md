@@ -4,15 +4,15 @@
 * **Video de esta clase** [[YouTube]](https://youtu.be/OYrI_O7n5mE)
 * Introduccion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_intro.pptx)
 * Entropia [[YouTube]](https://youtu.be/9r7FIXEAGvs)
-* Visualizacion del espacio de caracteristicas [[Colab]](https://colab.research.google.com/drive/1sIxne6r2Zgs2_icfdYgsk8SoGSVHC_3B?usp=sharing)
+* Visualizacion del espacio de caracteristicas **new** [[Colab]](https://drive.google.com/file/d/1ti8JNp08hJsZFPhEIHQM0C72m0xrbclV)
 * **Video de esta clase** [[YouTube]](https://youtu.be/gMUjrOFHYGQ)
 * **Video de esta clase** [[YouTube]](https://youtu.be/HheWr3LVta4)
 * **Video de esta clase** [[YouTube]](https://youtu.be/4iE5QzmR7V4)
 ### 4.2 Vecino mas cercano:
 * Clasificador KNN - vecino mas cercano [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_KNN.pptx)
 * Clasificador DMIN - distancia minima [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_dmin.pptx)
-* Clasificadores basicos [[Colab]](https://colab.research.google.com/drive/1WszMhd3cFOMfrG9S5m8DyQwr3T9EneaT?usp=sharing)
-* Clasificadores basicos [[Colab]](https://colab.research.google.com/drive/1WszMhd3cFOMfrG9S5m8DyQwr3T9EneaT?usp=sharing)
+* Clasificadores basicos **new** [[Colab]](https://drive.google.com/file/d/1ACvcTuxfT3mRfnMldouxMvM_jX0LBriP)
+* Clasificadores basicos **new** [[Colab]](https://drive.google.com/file/d/1ACvcTuxfT3mRfnMldouxMvM_jX0LBriP)
 * E09: Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 ### 4.3 LDA, QDA, Mahalanobis:
 * **Video de esta clase** [[YouTube]](https://youtu.be/6nW43kyZUhY)
@@ -50,4 +50,4 @@
 ---
 
 
-Updated on 12-Apr-2023 at 19:07 by Domingo Mery
+Updated on 22-May-2023 at 08:49 by Domingo Mery
