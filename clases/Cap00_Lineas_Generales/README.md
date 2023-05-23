@@ -9,7 +9,8 @@
 * Libro: Deep Learning (Goodfellow, 2016) [[Book]](http://www.deeplearningbook.org)
 * Libro: Computer Vision (Szeliski, 2010) [[Book]](http://szeliski.org/Book/)
 * Libro: Computer Vision for X-ray Testing (Mery, 2015) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/books/2015_ComputerVisionXrays_DMery.pdf)
+* Proyecto del Curso - Definicion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/PAT_Project_2023.pptx)
 ---
 
 
-Updated on 22-May-2023 at 09:02 by Domingo Mery
+Updated on 23-May-2023 at 14:16 by Domingo Mery

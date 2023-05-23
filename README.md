@@ -145,6 +145,7 @@
 
 ### Clase 18 Ma. 23-May-2023:
 * 4.3-**Video de esta clase** [[YouTube]](https://youtu.be/6nW43kyZUhY)
+* 0.1-Proyecto del Curso - Definicion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/PAT_Project_2023.pptx)
 * 4.3-Clasificadores LDA, QDA, Mahalanobis [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_LDA.pptx)
 * 4.3-Arboles de decision [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_Trees.pptx)
 * 4.1-Entropia [[YouTube]](https://youtu.be/9r7FIXEAGvs)
@@ -234,4 +235,4 @@
 ---
 
 
-Updated on 22-May-2023 at 09:02 by Domingo Mery
+Updated on 23-May-2023 at 14:16 by Domingo Mery
