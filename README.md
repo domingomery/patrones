@@ -160,8 +160,8 @@
 * 4.6-**Video de esta clase** [[YouTube]](https://youtu.be/GlMKLvTJ1e0)
 * 4.6-Redes Neuronales [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_NeuralNetworks.pptx)
 * 4.6-Algoritmo Backpropagation [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_BackPropagation.pdf)
-* 4.6-Clasificador basado en Redes Neuornales [[Colab]](https://colab.research.google.com/drive/1_xE4tTQwtyiE_9zjLkEssJMYTGytgZZg?usp=sharing)
-* 4.6-Ejemplo NN en MNIST con pytorch [[Colab]](https://colab.research.google.com/drive/1R_w3An79QAD6GBsOSMMCKqNIpZAYLSDu?usp=sharing)
+* 4.6-Clasificador basado en Redes Neuornales **new** [[Colab]](https://drive.google.com/file/d/1m8gH2GG-KNx1j8Pb6BfnUOEc0h41Lapj)
+* 4.6-Ejemplo NN en MNIST con pytorch **new** [[Colab]](https://drive.google.com/file/d/1SKFWoG08xemnoMOsOcNwxs9i7FnLITmu)
 * 4.6-Libro de Neural Networks and Deep Learning [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
 
 ### Clase 21 Ju. 01-Jun-2023:
@@ -235,4 +235,4 @@
 ---
 
 
-Updated on 25-May-2023 at 11:09 by Domingo Mery
+Updated on 30-May-2023 at 09:47 by Domingo Mery
