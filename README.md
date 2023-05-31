@@ -165,6 +165,18 @@
 * 4.6-Libro de Neural Networks and Deep Learning [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
 
 ### Clase 21 Ju. 01-Jun-2023:
+* 4.1-**Video de esta clase** [[YouTube]](https://youtu.be/4iE5QzmR7V4)
+* 2.1-Ejemplo de como extraer caracteristicas en directorios [[Colab]](https://colab.research.google.com/drive/1yyY7SFDjkWXv0AdP8Bn60fC-S-3VEarO?usp=sharing)
+* 4.5-Introduccion a SVM [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM.pptx)
+* 4.5-Teoria sobre SVM [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM_new.pdf)
+* 4.5-Teoria sobre SVM [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM_Theory.pdf)
+* 4.5-Teoria sobre SVM [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/papers/PAT04_SupportVectorMachines.pdf)
+* 4.5-Tutorial de SVM en phyton [[YouTube]](https://www.youtube.com/watch?v=N1vOgolbjSc)
+* 4.5-Video de teoria de SVM (MIT lesson) [[YouTube]](https://www.youtube.com/watch?v=_PwhiWxHK8o)
+* 4.5-Ejemplo de SVM con sklearn **new** [[Colab]](https://drive.google.com/file/d/1TeVnxst-2QWPVVXeYd12yh8sxxGT2QEJ)
+* 4.7-E10: Ejercicio 10 sobre Clasificadores Avanzados (Colab) [[Colab]](https://drive.google.com/file/d/1uAq_-dmpbra7Df_hgjRTwzV3Er49e-sb)
+
+### Clase 21 Ju. 01-Jun-2023:
 * 4.1-**Video de esta clase** [[YouTube]](https://youtu.be/HheWr3LVta4)
 * 4.7-Deep Learning [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_DeepLearning.pptx)
 * 4.7-Ejemplo CNN basico (ojo vs. nariz) [[Colab]](https://colab.research.google.com/drive/14I4sEnSZYYGrejdSWpuxFX0CLSv4oJtK?usp=sharing)
@@ -175,18 +187,6 @@
 * 4.7-Ejemplo CNN intermedio (lunares: 2 clases) [[Colab]](https://colab.research.google.com/drive/1KsNoo7FubANMD4DGRrwxj0oGMRTlSpss?usp=sharing)
 * 4.7-Ejemplo CNN intermedio (lunares: 7 clases) [[Colab]](https://colab.research.google.com/drive/1nxe41v2qmcTX-ofSt0hFy_-wYVLIdKs_?usp=sharing)
 * 7.1-Descripcion de Proyecto [[Proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto)
-* 4.7-E10: Ejercicio 10 sobre Clasificadores Avanzados (Colab) [[Colab]](https://colab.research.google.com/drive/xxxxxxxxxxxx)
-
-### Clase 22 Ma. 06-Jun-2023:
-* 4.1-**Video de esta clase** [[YouTube]](https://youtu.be/4iE5QzmR7V4)
-* 2.1-Ejemplo de como extraer caracteristicas en directorios [[Colab]](https://colab.research.google.com/drive/1yyY7SFDjkWXv0AdP8Bn60fC-S-3VEarO?usp=sharing)
-* 4.5-Introduccion a SVM [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM.pptx)
-* 4.5-Teoria sobre SVM [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM_new.pdf)
-* 4.5-Teoria sobre SVM [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM_Theory.pdf)
-* 4.5-Teoria sobre SVM [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/papers/PAT04_SupportVectorMachines.pdf)
-* 4.5-Tutorial de SVM en phyton [[YouTube]](https://www.youtube.com/watch?v=N1vOgolbjSc)
-* 4.5-Video de teoria de SVM (MIT lesson) [[YouTube]](https://www.youtube.com/watch?v=_PwhiWxHK8o)
-* 4.5-Ejemplo de SVM con sklearn [[Colab]](https://colab.research.google.com/drive/1RNaQonOFa2gI0uAAIbmCAH1jaAXcTkP8?usp=sharing)
 
 ### Clase 23 Ju. 08-Jun-2023:
 * 5.1-**Video de esta clase** [[YouTube]](https://youtu.be/zxYwNPLHWuw)
@@ -235,4 +235,4 @@
 ---
 
 
-Updated on 30-May-2023 at 09:47 by Domingo Mery
+Updated on 31-May-2023 at 19:10 by Domingo Mery
