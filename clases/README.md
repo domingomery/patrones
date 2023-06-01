@@ -166,7 +166,6 @@
 
 ### Clase 21 Ju. 01-Jun-2023:
 * 4.1-**Video de esta clase** [[YouTube]](https://youtu.be/4iE5QzmR7V4)
-* 2.1-Ejemplo de como extraer caracteristicas en directorios [[Colab]](https://colab.research.google.com/drive/1yyY7SFDjkWXv0AdP8Bn60fC-S-3VEarO?usp=sharing)
 * 4.5-Introduccion a SVM [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM.pptx)
 * 4.5-Teoria sobre SVM [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM_new.pdf)
 * 4.5-Teoria sobre SVM [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM_Theory.pdf)
@@ -235,4 +234,4 @@
 ---
 
 
-Updated on 31-May-2023 at 19:10 by Domingo Mery
+Updated on 01-Jun-2023 at 09:12 by Domingo Mery
