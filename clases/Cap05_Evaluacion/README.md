@@ -1,8 +1,8 @@
 
 # Capitulo 05: Evaluacion de Desempeno
 ### 5.1 Introduccion:
-* **Video de esta clase** [[YouTube]](https://youtu.be/zxYwNPLHWuw)
-* **Video de esta clase** [[YouTube]](https://youtu.be/TlrNzh-vghM)
+* **Video de esta clase** (accuracy) [[YouTube]](https://youtu.be/zxYwNPLHWuw)
+* **Video de esta clase** (matriz de confusion) [[YouTube]](https://youtu.be/TlrNzh-vghM)
 * **Video de esta clase** [[YouTube]](https://youtu.be/Md_eY5twq9c)
 ### 5.2 Matriz de Confusion:
 * Matriz de Confusion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ConfusionMatrix.pptx)
@@ -20,4 +20,4 @@
 ---
 
 
-Updated on 01-Jun-2023 at 09:12 by Domingo Mery
+Updated on 05-Jun-2023 at 12:50 by Domingo Mery

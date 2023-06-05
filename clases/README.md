@@ -151,6 +151,7 @@
 * 4.1-Entropia [[YouTube]](https://youtu.be/9r7FIXEAGvs)
 * 4.2-Clasificadores basicos **new** [[Colab]](https://drive.google.com/file/d/1ACvcTuxfT3mRfnMldouxMvM_jX0LBriP)
 * 4.1-Visualizacion del espacio de caracteristicas **new** [[Colab]](https://drive.google.com/file/d/1ti8JNp08hJsZFPhEIHQM0C72m0xrbclV)
+* 7.1-Descripcion de Proyecto [[Proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto)
 
 ### Clase 19 Ju. 25-May-2023:
 * 4.1-**Video de esta clase** [[YouTube]](https://youtu.be/gMUjrOFHYGQ)
@@ -175,7 +176,15 @@
 * 4.5-Ejemplo de SVM con sklearn **new** [[Colab]](https://drive.google.com/file/d/1TeVnxst-2QWPVVXeYd12yh8sxxGT2QEJ)
 * 4.7-E10: Ejercicio 10 sobre Clasificadores Avanzados (Colab) [[Colab]](https://drive.google.com/file/d/1uAq_-dmpbra7Df_hgjRTwzV3Er49e-sb)
 
-### Clase 21 Ju. 01-Jun-2023:
+### Clase 22 Ma. 06-Jun-2023:
+* 5.1-**Video de esta clase** (accuracy) [[YouTube]](https://youtu.be/zxYwNPLHWuw)
+* 5.5-Estimacion de Accuracy [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_AccuracyEstimation.pptx)
+* 5.5-Ejemplo de estimacion de accuracy [[Colab]](https://colab.research.google.com/drive/1dG1lnl72LVm6-THPh44TgcJBriIJSgeH?usp=sharing)
+* 5.5-Seleccion de Modelos [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ModelSelector.pdf)
+* 5.1-**Video de esta clase** (matriz de confusion) [[YouTube]](https://youtu.be/TlrNzh-vghM)
+* 5.2-Matriz de Confusion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ConfusionMatrix.pptx)
+
+### Clase 23 Ju. 08-Jun-2023:
 * 4.1-**Video de esta clase** [[YouTube]](https://youtu.be/HheWr3LVta4)
 * 4.7-Deep Learning [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_DeepLearning.pptx)
 * 4.7-Ejemplo CNN basico (ojo vs. nariz) [[Colab]](https://colab.research.google.com/drive/14I4sEnSZYYGrejdSWpuxFX0CLSv4oJtK?usp=sharing)
@@ -185,32 +194,21 @@
 * 4.7-Ejemplo CNN intermedio (gatos vs. perros) [[Colab]](https://colab.research.google.com/drive/1WO0sFZJxkwIVyD5IeYxs1jkI4nVseS4l?usp=sharing)
 * 4.7-Ejemplo CNN intermedio (lunares: 2 clases) [[Colab]](https://colab.research.google.com/drive/1KsNoo7FubANMD4DGRrwxj0oGMRTlSpss?usp=sharing)
 * 4.7-Ejemplo CNN intermedio (lunares: 7 clases) [[Colab]](https://colab.research.google.com/drive/1nxe41v2qmcTX-ofSt0hFy_-wYVLIdKs_?usp=sharing)
-* 7.1-Descripcion de Proyecto [[Proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto)
-
-### Clase 23 Ju. 08-Jun-2023:
-* 5.1-**Video de esta clase** [[YouTube]](https://youtu.be/zxYwNPLHWuw)
-* 5.5-Estimacion de Accuracy [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_AccuracyEstimation.pptx)
-* 5.5-Ejemplo de estimacion de accuracy [[Colab]](https://colab.research.google.com/drive/1dG1lnl72LVm6-THPh44TgcJBriIJSgeH?usp=sharing)
-* 5.5-Seleccion de Modelos [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ModelSelector.pdf)
 * 5.5-E11: Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 
 ### Clase 24 Ma. 13-Jun-2023:
-* 5.1-**Video de esta clase** [[YouTube]](https://youtu.be/TlrNzh-vghM)
-* 5.2-Matriz de Confusion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ConfusionMatrix.pptx)
-
-### Clase 25 Ju. 15-Jun-2023:
 * 5.1-**Video de esta clase** [[YouTube]](https://youtu.be/Md_eY5twq9c)
 * 7.1-Analisis Facial [[PPT]](https://www.dropbox.com/s/k45nta3dn02vxpe/2021_AnalisisFacial_DCC_Patrones.pptx?dl=0)
 * 5.3-Metricas de Genuinos vs. Impostores [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_Genuine_Impostor.pptx)
 * 5.3-Metricas de Genuinos vs. Impostores [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT_05_Understanding-Biometric-Performance-Evaluation.pdf)
 * 5.3-Ejemplo de ArcFace y metricas de evaluacion [[Colab]](https://colab.research.google.com/drive/118P-1H0gUI3BGFzffQyXv9ycrKCGG_4X?usp=sharing)
 
-### Clase 26 Ma. 20-Jun-2023:
+### Clase 25 Ju. 15-Jun-2023:
 * 7.1-**Video de esta clase** [[YouTube]](https://youtu.be/VwThW__AmsE)
 * 7.1-Como hacer el proyecto [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap07_Aplicaciones/presentations/PAT07_Project.pptx)
 * 7.1-Machine Learning Yearing (Libro) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap07_Aplicaciones/papers/NG-MLY01_13.pdf)
 
-### Clase 27 Ju. 22-Jun-2023:
+### Clase 26 Ma. 20-Jun-2023:
 * 7.1-**Video de esta clase** [[YouTube]](https://youtu.be/wq_m0HPN1MM)
 * 6.2-Clustering: K-Means [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_KMeans.pptx)
 * 6.2-Clustering: Hierarchic [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_Hierarchic.pptx)
@@ -220,13 +218,13 @@
 * 6.2-Ejemplo de Face-Clusering [[Colab]](https://colab.research.google.com/drive/1ahAafZPMR2ysz44J9K3TOARW2R0twVbe?usp=sharing)
 * 6.2-E12: Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 
-### Clase 28 Ma. 27-Jun-2023:
+### Clase 27 Ju. 22-Jun-2023:
 * 7.1-**Video de esta clase** [[YouTube]](https://youtu.be/n6kB0nkfxwo)
 * 6.3-BoW: Bag of Words [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_BoW.pptx)
 * 6.3-Ejemplo de Bag of Words [[Colab]](https://colab.research.google.com/drive/161vqJL6yFALMFWYzp1IkKV3XC8Oi1Svc?usp=sharing)
 * 6.3-Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 
-### Clase 29 Ju. 29-Jun-2023:
+### Clase 28 Ma. 27-Jun-2023:
 * 7.1-**Video de esta clase** [[YouTube]](https://youtu.be/77JriUj5ZLY)
 * 7.1-Presentacion de avances de proyecto (1/2) [[Proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto/Avances)
 * 7.1-**Video de esta clase** [[YouTube]](https://youtu.be/30Xvn8U9UAI)
@@ -234,4 +232,4 @@
 ---
 
 
-Updated on 01-Jun-2023 at 09:12 by Domingo Mery
+Updated on 05-Jun-2023 at 12:50 by Domingo Mery
