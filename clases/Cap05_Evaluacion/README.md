@@ -13,11 +13,11 @@
 ### 5.4 Curvas ROC, Precision-Recall:
 ### 5.5 Hold-out, Validacion Cruzada, Leave-one-out:
 * Estimacion de Accuracy [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_AccuracyEstimation.pptx)
-* Ejemplo de estimacion de accuracy [[Colab]](https://colab.research.google.com/drive/1dG1lnl72LVm6-THPh44TgcJBriIJSgeH?usp=sharing)
+* Ejemplo de estimacion de accuracy [[Colab]](https://drive.google.com/file/d/1HwNGUGiVzwVC4e5BvSImmTs0m2uhvoyL)
 * Seleccion de Modelos [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ModelSelector.pdf)
 * E11: Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 ### 5.6 Ejemplos:
 ---
 
 
-Updated on 05-Jun-2023 at 12:50 by Domingo Mery
+Updated on 05-Jun-2023 at 13:02 by Domingo Mery

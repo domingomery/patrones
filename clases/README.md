@@ -179,7 +179,7 @@
 ### Clase 22 Ma. 06-Jun-2023:
 * 5.1-**Video de esta clase** (accuracy) [[YouTube]](https://youtu.be/zxYwNPLHWuw)
 * 5.5-Estimacion de Accuracy [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_AccuracyEstimation.pptx)
-* 5.5-Ejemplo de estimacion de accuracy [[Colab]](https://colab.research.google.com/drive/1dG1lnl72LVm6-THPh44TgcJBriIJSgeH?usp=sharing)
+* 5.5-Ejemplo de estimacion de accuracy [[Colab]](https://drive.google.com/file/d/1HwNGUGiVzwVC4e5BvSImmTs0m2uhvoyL)
 * 5.5-Seleccion de Modelos [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ModelSelector.pdf)
 * 5.1-**Video de esta clase** (matriz de confusion) [[YouTube]](https://youtu.be/TlrNzh-vghM)
 * 5.2-Matriz de Confusion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ConfusionMatrix.pptx)
@@ -216,20 +216,22 @@
 * 6.2-Clustering: Mean Shift [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_MeanShift.pptx)
 * 6.2-Ejemplos de Clustering [[Colab]](https://colab.research.google.com/drive/16I1xd-F1k2HiHxq8Qb6ysKgpQJ-Dj1nw?usp=sharing)
 * 6.2-Ejemplo de Face-Clusering [[Colab]](https://colab.research.google.com/drive/1ahAafZPMR2ysz44J9K3TOARW2R0twVbe?usp=sharing)
-* 6.2-E12: Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 
 ### Clase 27 Ju. 22-Jun-2023:
 * 7.1-**Video de esta clase** [[YouTube]](https://youtu.be/n6kB0nkfxwo)
 * 6.3-BoW: Bag of Words [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_BoW.pptx)
 * 6.3-Ejemplo de Bag of Words [[Colab]](https://colab.research.google.com/drive/161vqJL6yFALMFWYzp1IkKV3XC8Oi1Svc?usp=sharing)
 * 6.3-Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
+* 6.2-E12: Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 
 ### Clase 28 Ma. 27-Jun-2023:
 * 7.1-**Video de esta clase** [[YouTube]](https://youtu.be/77JriUj5ZLY)
 * 7.1-Presentacion de avances de proyecto (1/2) [[Proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto/Avances)
+
+### Clase 29 Ju. 29-Jun-2023:
 * 7.1-**Video de esta clase** [[YouTube]](https://youtu.be/30Xvn8U9UAI)
 * 7.1-Presentacion de avances de proyecto (2/2) [[Proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto/Avances)
 ---
 
 
-Updated on 05-Jun-2023 at 12:50 by Domingo Mery
+Updated on 05-Jun-2023 at 13:02 by Domingo Mery
