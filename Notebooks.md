@@ -38,39 +38,38 @@ Detección de paredes rayadas
 Características de intensidad (básicas, contraste, CLP) **(NEW)**
 
 
-## Capítulo 03: Extracción de Características
+## Capítulo 03: Selección de Características
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/17bK4EcmdGLGhPg4vKUpuo8GiiwQXfmo_?usp=sharing) 
-Detección de espinas en filetes de salmón
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1gOZaVzumtL6pc64Eksx1XXMr-9GBKhyk) 
+Reconocedor de 5 caracteres usando SFS como selector de características **(NEW)**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1gOZaVzumtL6pc64Eksx1XXMr-9GBKhyk) 
 Selección básica de características **(NEW)**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mDEA1AejzUWvdxpNejPR_5IkacRcDRpr?usp=sharing) Reconocimiento facial con LBP usando transformaciones 
-PCA, ICA y PLSR
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1v3eCfNZ9wNc75T3y8nxMLRZc9zaGcPPz) Reconocimiento facial con LBP usando transformaciones PCA, ICA y PLSR **(NEW)**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rwCjhI5ZA1tvZdZQYFQfTW0904hEy-wd?usp=sharing) 
-Batería de métodos de selección de características
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1flNimfx35g0MdCAN3dbGmN_YshZ2UuKm) 
+Batería de métodos de selección de características **(NEW)**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uGbqy9WSAF3gIMRAZlwX9xcUGGkXGWhl?usp=sharing) 
 Reconocimiento de género
 
 ## Capítulo 04: Clasificación
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sIxne6r2Zgs2_icfdYgsk8SoGSVHC_3B?usp=sharing) 
-Batería de métodos de visualización del espacio de características
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1ti8JNp08hJsZFPhEIHQM0C72m0xrbclV) 
+Batería de métodos de visualización del espacio de características **(NEW)**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1WszMhd3cFOMfrG9S5m8DyQwr3T9EneaT?usp=sharing) 
-Clasificadores básicos (KNN, Bayes, LDA, QDA, Mahalanobis)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1ACvcTuxfT3mRfnMldouxMvM_jX0LBriP) 
+Clasificadores básicos (KNN, Bayes, LDA, QDA, Mahalanobis) **(NEW)**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_xE4tTQwtyiE_9zjLkEssJMYTGytgZZg?usp=sharing) 
-Redes Neuronales
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1m8gH2GG-KNx1j8Pb6BfnUOEc0h41Lapj) 
+Redes Neuronales **(NEW)**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RNaQonOFa2gI0uAAIbmCAH1jaAXcTkP8?usp=sharing) 
-SVM
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1TeVnxst-2QWPVVXeYd12yh8sxxGT2QEJ) 
+SVM **(NEW)**
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1R_w3An79QAD6GBsOSMMCKqNIpZAYLSDu?usp=sharing)
-Redes Neuronales para MNIST
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1SKFWoG08xemnoMOsOcNwxs9i7FnLITmu)
+Redes Neuronales para MNIST **(NEW)**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wjPVq_qEBUcji_xdL96xEPDc1S1ivvTY?usp=sharing)
 CNN usando PyTorch para la clasificación de MNIST
@@ -91,8 +90,8 @@ CNN usando PyTorch para la clasificación de Gatos vs. Perros
 CNN usando PyTorch para la clasificación de 7 lesiones en Lunares
 
 ## Capítulo 05: Evaluación de Desempeño
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dG1lnl72LVm6-THPh44TgcJBriIJSgeH?usp=sharing)
-Estimación de Accuracy (Hold-Out, Cross-Val, Leave-one-out) y Selector de Modelos
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1HwNGUGiVzwVC4e5BvSImmTs0m2uhvoyL)
+Estimación de Accuracy (Hold-Out, Cross-Val, Leave-one-out) y Selector de Modelos **(NEW)**
 
 
 
