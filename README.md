@@ -185,6 +185,12 @@
 * 5.2-Matriz de Confusion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ConfusionMatrix.pptx)
 
 ### Clase 23 Ju. 08-Jun-2023:
+* 7.1-**Video de esta clase** [[YouTube]](https://youtu.be/VwThW__AmsE)
+* 7.1-Como hacer el proyecto [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap07_Aplicaciones/presentations/PAT07_Project.pptx)
+* 7.1-Machine Learning Yearing (Libro) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap07_Aplicaciones/papers/NG-MLY01_13.pdf)
+* 5.5-E11: Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
+
+### Clase 24 Ma. 13-Jun-2023:
 * 4.1-**Video de esta clase** [[YouTube]](https://youtu.be/HheWr3LVta4)
 * 4.7-Deep Learning [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_DeepLearning.pptx)
 * 4.7-Ejemplo CNN basico (ojo vs. nariz) [[Colab]](https://colab.research.google.com/drive/14I4sEnSZYYGrejdSWpuxFX0CLSv4oJtK?usp=sharing)
@@ -194,19 +200,13 @@
 * 4.7-Ejemplo CNN intermedio (gatos vs. perros) [[Colab]](https://colab.research.google.com/drive/1WO0sFZJxkwIVyD5IeYxs1jkI4nVseS4l?usp=sharing)
 * 4.7-Ejemplo CNN intermedio (lunares: 2 clases) [[Colab]](https://colab.research.google.com/drive/1KsNoo7FubANMD4DGRrwxj0oGMRTlSpss?usp=sharing)
 * 4.7-Ejemplo CNN intermedio (lunares: 7 clases) [[Colab]](https://colab.research.google.com/drive/1nxe41v2qmcTX-ofSt0hFy_-wYVLIdKs_?usp=sharing)
-* 5.5-E11: Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 
-### Clase 24 Ma. 13-Jun-2023:
+### Clase 25 Ju. 15-Jun-2023:
 * 5.1-**Video de esta clase** [[YouTube]](https://youtu.be/Md_eY5twq9c)
 * 7.1-Analisis Facial [[PPT]](https://www.dropbox.com/s/k45nta3dn02vxpe/2021_AnalisisFacial_DCC_Patrones.pptx?dl=0)
 * 5.3-Metricas de Genuinos vs. Impostores [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_Genuine_Impostor.pptx)
 * 5.3-Metricas de Genuinos vs. Impostores [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT_05_Understanding-Biometric-Performance-Evaluation.pdf)
 * 5.3-Ejemplo de ArcFace y metricas de evaluacion [[Colab]](https://colab.research.google.com/drive/118P-1H0gUI3BGFzffQyXv9ycrKCGG_4X?usp=sharing)
-
-### Clase 25 Ju. 15-Jun-2023:
-* 7.1-**Video de esta clase** [[YouTube]](https://youtu.be/VwThW__AmsE)
-* 7.1-Como hacer el proyecto [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap07_Aplicaciones/presentations/PAT07_Project.pptx)
-* 7.1-Machine Learning Yearing (Libro) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap07_Aplicaciones/papers/NG-MLY01_13.pdf)
 
 ### Clase 26 Ma. 20-Jun-2023:
 * 7.1-**Video de esta clase** [[YouTube]](https://youtu.be/wq_m0HPN1MM)
@@ -234,4 +234,4 @@
 ---
 
 
-Updated on 05-Jun-2023 at 13:02 by Domingo Mery
+Updated on 08-Jun-2023 at 11:16 by Domingo Mery
