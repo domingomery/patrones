@@ -38,16 +38,10 @@
 ### 4.7 Deep Learning:
 * E10: Ejercicio 10 sobre Clasificadores Avanzados (Colab) [[Colab]](https://drive.google.com/file/d/1uAq_-dmpbra7Df_hgjRTwzV3Er49e-sb)
 * Deep Learning [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_DeepLearning.pptx)
-* Ejemplo CNN basico (ojo vs. nariz) [[Colab]](https://colab.research.google.com/drive/14I4sEnSZYYGrejdSWpuxFX0CLSv4oJtK?usp=sharing)
-* Ejemplo CNN basico (MNIST) [[Colab]](https://colab.research.google.com/drive/1wjPVq_qEBUcji_xdL96xEPDc1S1ivvTY?usp=sharing)
-* Ejemplo CNN simple (defectos en llantas) [[Colab]](https://colab.research.google.com/drive/1OcZMT2CNOmxOyeOtNrfltD-7Q9P0DiOL?usp=sharing)
-* Explicacion de CNN gatos vs. perros [[Nota]](https://www.kaggle.com/reukki/pytorch-cnn-tutorial-with-cats-and-dogs)
-* Ejemplo CNN intermedio (gatos vs. perros) [[Colab]](https://colab.research.google.com/drive/1WO0sFZJxkwIVyD5IeYxs1jkI4nVseS4l?usp=sharing)
-* Ejemplo CNN intermedio (lunares: 2 clases) [[Colab]](https://colab.research.google.com/drive/1KsNoo7FubANMD4DGRrwxj0oGMRTlSpss?usp=sharing)
-* Ejemplo CNN intermedio (lunares: 7 clases) [[Colab]](https://colab.research.google.com/drive/1nxe41v2qmcTX-ofSt0hFy_-wYVLIdKs_?usp=sharing)
+* Ejemplo CNN basico (ojo vs. nariz) **new** [[Colab]](https://drive.google.com/file/d/1lDc67Qvs8pyHgz2EAlbkydywiarL9jij)
 ### 4.8 Clasificacion con representaciones sparse:
 ### 4.9 Ejemplos:
 ---
 
 
-Updated on 08-Jun-2023 at 11:16 by Domingo Mery
+Updated on 13-Jun-2023 at 11:17 by Domingo Mery
