@@ -9,7 +9,7 @@
 ### 5.3 Sensibilidad, especificidad, precision y recall:
 * Metricas de Genuinos vs. Impostores [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_Genuine_Impostor.pptx)
 * Metricas de Genuinos vs. Impostores [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT_05_Understanding-Biometric-Performance-Evaluation.pdf)
-* Ejemplo de ArcFace y metricas de evaluacion [[Colab]](https://colab.research.google.com/drive/118P-1H0gUI3BGFzffQyXv9ycrKCGG_4X?usp=sharing)
+* Ejemplo de AdaFace y metricas de evaluacion **new** [[Colab]](https://drive.google.com/file/d/1K0lw4XDjjIXZTeyTCao92ygF604o8w2D)
 ### 5.4 Curvas ROC, Precision-Recall:
 ### 5.5 Hold-out, Validacion Cruzada, Leave-one-out:
 * Estimacion de Accuracy [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_AccuracyEstimation.pptx)
@@ -20,4 +20,4 @@
 ---
 
 
-Updated on 13-Jun-2023 at 11:17 by Domingo Mery
+Updated on 15-Jun-2023 at 10:15 by Domingo Mery

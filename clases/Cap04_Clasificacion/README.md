@@ -12,6 +12,7 @@
 * Clasificador KNN - vecino mas cercano [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_KNN.pptx)
 * Clasificador DMIN - distancia minima [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_dmin.pptx)
 * Clasificadores basicos **new** [[Colab]](https://drive.google.com/file/d/1ACvcTuxfT3mRfnMldouxMvM_jX0LBriP)
+* Set de validacion para hiperparametros **new** [[Colab]](https://drive.google.com/file/d/1qpjhhSNf0ozc7XqpsNCMg-qSmLaRcqkz/view)
 * Clasificadores basicos **new** [[Colab]](https://drive.google.com/file/d/1ACvcTuxfT3mRfnMldouxMvM_jX0LBriP)
 * E09: Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 ### 4.3 LDA, QDA, Mahalanobis:
@@ -39,9 +40,14 @@
 * E10: Ejercicio 10 sobre Clasificadores Avanzados (Colab) [[Colab]](https://drive.google.com/file/d/1uAq_-dmpbra7Df_hgjRTwzV3Er49e-sb)
 * Deep Learning [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_DeepLearning.pptx)
 * Ejemplo CNN basico (ojo vs. nariz) **new** [[Colab]](https://drive.google.com/file/d/1lDc67Qvs8pyHgz2EAlbkydywiarL9jij)
+* Ejemplo CNN basico (deteccion de defectos) **new** [[Colab]](https://drive.google.com/file/d/1JQwfDX-285fiGlSPAkWlKAa1IwyiqviN)
+* Ejemplo CNN basico (deteccion de covid) **new** [[Colab]](https://drive.google.com/file/d/1_Il-gEr7kTXpjQ6FikUT0LEHwHxUdygW)
+* Ejemplo CNN basico (perros y gatos) **new** [[Colab]](https://drive.google.com/file/d/1UA9LIx_QHxkuv8jmVsPogZzfVFNED3R_)
+* Ejemplo CNN basico (clasificacion de lunares - 2 clases) **new** [[Colab]](https://drive.google.com/file/d/17ZFYuXueFkvaI-k0E_LfECHUnoCWK74C)
+* Ejemplo CNN basico (clasificacion de lunares - 7 clases) **new** [[Colab]](https://drive.google.com/file/d/1veeq3KRxIZtKkRpWMkx55fCojKwwxnZZ)
 ### 4.8 Clasificacion con representaciones sparse:
 ### 4.9 Ejemplos:
 ---
 
 
-Updated on 13-Jun-2023 at 11:17 by Domingo Mery
+Updated on 15-Jun-2023 at 10:15 by Domingo Mery

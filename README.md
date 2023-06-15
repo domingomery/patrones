@@ -142,6 +142,7 @@
 * 4.2-Clasificador DMIN - distancia minima [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_dmin.pptx)
 * 4.4-Clasificador de Bayes [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_Bayes.pptx)
 * 4.2-Clasificadores basicos **new** [[Colab]](https://drive.google.com/file/d/1ACvcTuxfT3mRfnMldouxMvM_jX0LBriP)
+* 4.2-Set de validacion para hiperparametros **new** [[Colab]](https://drive.google.com/file/d/1qpjhhSNf0ozc7XqpsNCMg-qSmLaRcqkz/view)
 
 ### Clase 18 Ma. 23-May-2023:
 * 4.3-**Video de esta clase** [[YouTube]](https://youtu.be/6nW43kyZUhY)
@@ -194,13 +195,18 @@
 * 4.1-**Video de esta clase** [[YouTube]](https://youtu.be/HheWr3LVta4)
 * 4.7-Deep Learning [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_DeepLearning.pptx)
 * 4.7-Ejemplo CNN basico (ojo vs. nariz) **new** [[Colab]](https://drive.google.com/file/d/1lDc67Qvs8pyHgz2EAlbkydywiarL9jij)
+* 4.7-Ejemplo CNN basico (deteccion de defectos) **new** [[Colab]](https://drive.google.com/file/d/1JQwfDX-285fiGlSPAkWlKAa1IwyiqviN)
+* 4.7-Ejemplo CNN basico (deteccion de covid) **new** [[Colab]](https://drive.google.com/file/d/1_Il-gEr7kTXpjQ6FikUT0LEHwHxUdygW)
+* 4.7-Ejemplo CNN basico (perros y gatos) **new** [[Colab]](https://drive.google.com/file/d/1UA9LIx_QHxkuv8jmVsPogZzfVFNED3R_)
+* 4.7-Ejemplo CNN basico (clasificacion de lunares - 2 clases) **new** [[Colab]](https://drive.google.com/file/d/17ZFYuXueFkvaI-k0E_LfECHUnoCWK74C)
+* 4.7-Ejemplo CNN basico (clasificacion de lunares - 7 clases) **new** [[Colab]](https://drive.google.com/file/d/1veeq3KRxIZtKkRpWMkx55fCojKwwxnZZ)
 
 ### Clase 25 Ju. 15-Jun-2023:
 * 5.1-**Video de esta clase** [[YouTube]](https://youtu.be/Md_eY5twq9c)
 * 7.1-Analisis Facial [[PPT]](https://www.dropbox.com/s/k45nta3dn02vxpe/2021_AnalisisFacial_DCC_Patrones.pptx?dl=0)
 * 5.3-Metricas de Genuinos vs. Impostores [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_Genuine_Impostor.pptx)
 * 5.3-Metricas de Genuinos vs. Impostores [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT_05_Understanding-Biometric-Performance-Evaluation.pdf)
-* 5.3-Ejemplo de ArcFace y metricas de evaluacion [[Colab]](https://colab.research.google.com/drive/118P-1H0gUI3BGFzffQyXv9ycrKCGG_4X?usp=sharing)
+* 5.3-Ejemplo de AdaFace y metricas de evaluacion **new** [[Colab]](https://drive.google.com/file/d/1K0lw4XDjjIXZTeyTCao92ygF604o8w2D)
 
 ### Clase 26 Ma. 20-Jun-2023:
 * 7.1-**Video de esta clase** [[YouTube]](https://youtu.be/wq_m0HPN1MM)
@@ -228,4 +234,4 @@
 ---
 
 
-Updated on 13-Jun-2023 at 11:17 by Domingo Mery
+Updated on 15-Jun-2023 at 10:15 by Domingo Mery
