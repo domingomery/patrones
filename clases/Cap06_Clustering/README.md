@@ -6,15 +6,14 @@
 * Clustering: Hierarchic [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_Hierarchic.pptx)
 * Clustering: Mixture of Gaussians [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_GaussMix.pptx)
 * Clustering: Mean Shift [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_MeanShift.pptx)
-* Ejemplos de Clustering [[Colab]](https://colab.research.google.com/drive/16I1xd-F1k2HiHxq8Qb6ysKgpQJ-Dj1nw?usp=sharing)
-* Ejemplo de Face-Clusering [[Colab]](https://colab.research.google.com/drive/1ahAafZPMR2ysz44J9K3TOARW2R0twVbe?usp=sharing)
-* E12: Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
+* Ejemplos de Clustering *new** [[Colab]](https://drive.google.com/file/d/16lyhMMN6aQKMxCHI9546j4xhts0D7JLE)
+* Ejemplo de Face-Clusering **new** [[Colab]](https://drive.google.com/file/d/1uIpo_-5m1Z_A-mgY46iBHzjRC6j1-vcY)
 ### 6.3 Bag of Words:
 * BoW: Bag of Words [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_BoW.pptx)
-* Ejemplo de Bag of Words [[Colab]](https://colab.research.google.com/drive/161vqJL6yFALMFWYzp1IkKV3XC8Oi1Svc?usp=sharing)
-* Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
+* Ejemplo de Bag of Words [[Colab]](https://drive.google.com/file/d/1CctDBGweWPenJMDftusSvBxiOTG18Hsm)
+* Ejercicio en clases > Login Student > PATRONES2023 [[Socrative]](http://www.socrative.com)
 ### 6.4 Ejemplos:
 ---
 
 
-Updated on 15-Jun-2023 at 10:15 by Domingo Mery
+Updated on 22-Jun-2023 at 12:32 by Domingo Mery

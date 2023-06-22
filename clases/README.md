@@ -214,15 +214,14 @@
 * 6.2-Clustering: Hierarchic [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_Hierarchic.pptx)
 * 6.2-Clustering: Mixture of Gaussians [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_GaussMix.pptx)
 * 6.2-Clustering: Mean Shift [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_MeanShift.pptx)
-* 6.2-Ejemplos de Clustering [[Colab]](https://colab.research.google.com/drive/16I1xd-F1k2HiHxq8Qb6ysKgpQJ-Dj1nw?usp=sharing)
-* 6.2-Ejemplo de Face-Clusering [[Colab]](https://colab.research.google.com/drive/1ahAafZPMR2ysz44J9K3TOARW2R0twVbe?usp=sharing)
+* 6.2-Ejemplos de Clustering *new** [[Colab]](https://drive.google.com/file/d/16lyhMMN6aQKMxCHI9546j4xhts0D7JLE)
+* 6.2-Ejemplo de Face-Clusering **new** [[Colab]](https://drive.google.com/file/d/1uIpo_-5m1Z_A-mgY46iBHzjRC6j1-vcY)
 
 ### Clase 27 Ju. 22-Jun-2023:
 * 7.1-**Video de esta clase** [[YouTube]](https://youtu.be/n6kB0nkfxwo)
 * 6.3-BoW: Bag of Words [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_BoW.pptx)
-* 6.3-Ejemplo de Bag of Words [[Colab]](https://colab.research.google.com/drive/161vqJL6yFALMFWYzp1IkKV3XC8Oi1Svc?usp=sharing)
-* 6.3-Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
-* 6.2-E12: Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
+* 6.3-Ejemplo de Bag of Words [[Colab]](https://drive.google.com/file/d/1CctDBGweWPenJMDftusSvBxiOTG18Hsm)
+* 6.3-Ejercicio en clases > Login Student > PATRONES2023 [[Socrative]](http://www.socrative.com)
 
 ### Clase 28 Ma. 27-Jun-2023:
 * 7.1-**Video de esta clase** [[YouTube]](https://youtu.be/77JriUj5ZLY)
@@ -234,4 +233,4 @@
 ---
 
 
-Updated on 15-Jun-2023 at 10:15 by Domingo Mery
+Updated on 22-Jun-2023 at 12:32 by Domingo Mery
