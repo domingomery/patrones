@@ -8,11 +8,7 @@
 * Analisis Facial [[PPT]](https://www.dropbox.com/s/k45nta3dn02vxpe/2021_AnalisisFacial_DCC_Patrones.pptx?dl=0)
 * **Video de esta clase** [[YouTube]](https://youtu.be/wq_m0HPN1MM)
 * **Video de esta clase** [[YouTube]](https://youtu.be/n6kB0nkfxwo)
-* **Video de esta clase** [[YouTube]](https://youtu.be/77JriUj5ZLY)
-* Presentacion de avances de proyecto (1/2) [[Proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto/Avances)
-* **Video de esta clase** [[YouTube]](https://youtu.be/30Xvn8U9UAI)
-* Presentacion de avances de proyecto (2/2) [[Proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto/Avances)
 ---
 
 
-Updated on 22-Jun-2023 at 12:32 by Domingo Mery
+Updated on 05-Mar-2024 at 16:17 by Domingo Mery

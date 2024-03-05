@@ -4,16 +4,16 @@
 * **Video de esta clase** [[YouTube]](https://youtu.be/OYrI_O7n5mE)
 * Introduccion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_intro.pptx)
 * Entropia [[YouTube]](https://youtu.be/9r7FIXEAGvs)
-* Visualizacion del espacio de caracteristicas **new** [[Colab]](https://drive.google.com/file/d/1ti8JNp08hJsZFPhEIHQM0C72m0xrbclV)
+* Visualizacion del espacio de caracteristicas [[Colab]](https://drive.google.com/file/d/1BnBLAYW-3DLT1KAbD-0x2Mx3hN4nJbA4)
 * **Video de esta clase** [[YouTube]](https://youtu.be/gMUjrOFHYGQ)
 * **Video de esta clase** [[YouTube]](https://youtu.be/4iE5QzmR7V4)
 * **Video de esta clase** [[YouTube]](https://youtu.be/HheWr3LVta4)
 ### 4.2 Vecino mas cercano:
 * Clasificador KNN - vecino mas cercano [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_KNN.pptx)
 * Clasificador DMIN - distancia minima [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_dmin.pptx)
-* Clasificadores basicos **new** [[Colab]](https://drive.google.com/file/d/1ACvcTuxfT3mRfnMldouxMvM_jX0LBriP)
-* Set de validacion para hiperparametros **new** [[Colab]](https://drive.google.com/file/d/1qpjhhSNf0ozc7XqpsNCMg-qSmLaRcqkz/view)
-* Clasificadores basicos **new** [[Colab]](https://drive.google.com/file/d/1ACvcTuxfT3mRfnMldouxMvM_jX0LBriP)
+* Clasificadores basicos [[Colab]](https://drive.google.com/file/d/1aUqwwueR5dG2_yZ5gGN_NOSppqsvkoaW)
+* Set de validacion para hiperparametros [[Colab]](https://drive.google.com/file/d/1xIaz5MQgA3F1-vsr5aF0vXo2uqxigm0I)
+* Clasificadores basicos [[Colab]](https://drive.google.com/file/d/1aUqwwueR5dG2_yZ5gGN_NOSppqsvkoaW)
 * E09: Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
 ### 4.3 LDA, QDA, Mahalanobis:
 * **Video de esta clase** [[YouTube]](https://youtu.be/6nW43kyZUhY)
@@ -28,16 +28,16 @@
 * Teoria sobre SVM [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/papers/PAT04_SupportVectorMachines.pdf)
 * Tutorial de SVM en phyton [[YouTube]](https://www.youtube.com/watch?v=N1vOgolbjSc)
 * Video de teoria de SVM (MIT lesson) [[YouTube]](https://www.youtube.com/watch?v=_PwhiWxHK8o)
-* Ejemplo de SVM con sklearn **new** [[Colab]](https://drive.google.com/file/d/1TeVnxst-2QWPVVXeYd12yh8sxxGT2QEJ)
+* Ejemplo de SVM con sklearn [[Colab]](https://drive.google.com/file/d/1y26nAEUEiiahHx92_jAMrBWipwFZ5BSP)
 ### 4.6 Redes neuronales:
 * **Video de esta clase** [[YouTube]](https://youtu.be/GlMKLvTJ1e0)
 * Redes Neuronales [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_NeuralNetworks.pptx)
 * Algoritmo Backpropagation [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_BackPropagation.pdf)
-* Clasificador basado en Redes Neuornales **new** [[Colab]](https://drive.google.com/file/d/1m8gH2GG-KNx1j8Pb6BfnUOEc0h41Lapj)
-* Ejemplo NN en MNIST con pytorch **new** [[Colab]](https://drive.google.com/file/d/1SKFWoG08xemnoMOsOcNwxs9i7FnLITmu)
+* Clasificador basado en Redes Neuornales [[Colab]](https://drive.google.com/file/d/1mt1zthdKhgjqcb5D5Rk-j6QIzOxt5itr)
+* Ejemplo NN en MNIST con pytorch [[Colab]](https://drive.google.com/file/d/15G9Xm0Pz4g3fXlgqnVqCEpzdqv6ghItN)
 * Libro de Neural Networks and Deep Learning [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
 ### 4.7 Deep Learning:
-* E10: Ejercicio 10 sobre Clasificadores Avanzados (Colab) [[Colab]](https://drive.google.com/file/d/1uAq_-dmpbra7Df_hgjRTwzV3Er49e-sb)
+* E10: Ejercicio 10 sobre Clasificadores Avanzados (Colab) [[Colab]](https://drive.google.com/xxxxx)
 * Deep Learning [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_DeepLearning.pptx)
 * Ejemplo CNN basico (ojo vs. nariz) **new** [[Colab]](https://drive.google.com/file/d/1lDc67Qvs8pyHgz2EAlbkydywiarL9jij)
 * Ejemplo CNN basico (deteccion de defectos) **new** [[Colab]](https://drive.google.com/file/d/1JQwfDX-285fiGlSPAkWlKAa1IwyiqviN)
@@ -50,4 +50,4 @@
 ---
 
 
-Updated on 22-Jun-2023 at 12:32 by Domingo Mery
+Updated on 05-Mar-2024 at 16:17 by Domingo Mery
