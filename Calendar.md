@@ -25,7 +25,7 @@ Ejemplo: La actividad E05, desarrollo de un codigo en Colab, se realiza el marte
 
 * Ma. 14/05/24  Trabajo en Clase E08: Selección y Transformación de Características - Colab (individual)
 
-* Ma. 28/05/24  Trabajo en Clase E09: Calsificadores Básicos - Socrative (individual)
+* Ma. 28/05/24  Trabajo en Clase E09: Clasificadores Básicos - Socrative (individual)
 
 * Ma. 04/06/24  Trabajo en Clase E10: Clasificadores Avanzados - Colab (individual)
 
@@ -43,9 +43,15 @@ Ejemplo: La actividad E05, desarrollo de un codigo en Colab, se realiza el marte
 
 El código de la tarea se sube a Canvas a más tardar a las 9pm de la fecha indicada. 
 
-* Lu.	01/04/24 T01: Reconocimiento de Caracteres
-* Lu.	13/05/24 T02: Análisis Facial
-* Lu.	22/06/24 T02: Análisis Médico
+* Lu.	01/04/24 T01: Reconocimiento Básico
+* Lu.	13/05/24 T02: Reconocimiento Intermedio
+* Lu.	24/06/24 T02: Reconocimiento Avanzado
+
+## Examen Final (Individual)
+
+* Sa.	06/07/24 08:20 AM (no hay eximición)
 
 
-Updated on 11-Mar-2024 at 12:07 by Domingo Mery
+
+
+Updated on 11-Mar-2024 at 12:58 by Domingo Mery
