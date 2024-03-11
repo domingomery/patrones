@@ -46,7 +46,7 @@
 * 2.2-Local Binary Patterns [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns.pptx)
 * 2.2-Paper de LBP [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/LBP_faces.pdf)
 
-### Clase 06 Ju. 28-Mar-2024:
+### Clase 06 Ma. 02-Apr-2024:
 * 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/Wp1F4d50b38)
 * 2.2-Local Binary Patterns [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns.pptx)
 * 2.2-Ejemplo sobre LBP en reconocimiento facial [[Colab]](https://drive.google.com/file/d/1-YIkUsTifUEZRmTOiUjJHTZ7j0forPkT)
@@ -225,4 +225,4 @@
 ---
 
 
-Updated on 05-Mar-2024 at 16:17 by Domingo Mery
+Updated on 11-Mar-2024 at 10:24 by Domingo Mery
