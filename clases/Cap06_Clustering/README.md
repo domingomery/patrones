@@ -11,9 +11,9 @@
 ### 6.3 Bag of Words:
 * BoW: Bag of Words [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_BoW.pptx)
 * Ejemplo de Bag of Words [[Colab]](https://drive.google.com/file/d/1CctDBGweWPenJMDftusSvBxiOTG18Hsm)
-* Ejercicio en clases > Login Student > PATRONES2023 [[Socrative]](http://www.socrative.com)
+* Ejercicio en clases > Login Student > PATRONES2024 [[Socrative]](http://www.socrative.com)
 ### 6.4 Ejemplos:
 ---
 
 
-Updated on 11-Mar-2024 at 10:24 by Domingo Mery
+Updated on 15-Mar-2024 at 16:08 by Domingo Mery

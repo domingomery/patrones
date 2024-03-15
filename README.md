@@ -19,14 +19,14 @@
 * 1.2-Ejemplo practico [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_EjemploMandarinas.pptx)
 * 1.5-Definiciones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_Definiciones.pptx)
 * 1.1-Vision humana / Vision por computador [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_Chihuahua_or_Muffin.pptx)
-* 1.1-E01: Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
+* 1.1-E01: Ejercicio en clases > Login Student > PATRONES2024 [[Socrative]](http://www.socrative.com)
 
 ### Clase 03 Ma. 19-Mar-2024:
 * 1.3-**Video de esta clase** [[YouTube]](https://youtu.be/UH9Kv0EgipU)
 * 1.3-Formulacion metodologica [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_FormulacionMetodologica.pptx)
 * 1.3-Lectura complementaria [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/papers/Jain_StatisticalPatternRecognition_2000.pdf)
-* 1.2-Ejemplo separacion de dos letras (J y Q) [[Colab]](https://drive.google.com/file/d/19pHFZFgxVVbKChlekecGvvmD7O9Dcscy)
-* 1.4-Esquema basico de reconocimiento de patrones  **(NEW)** [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_PR_Methodologia.pptx)
+* 1.2-Ejemplo separacion de dos letras (J y Q) [[Colab]](https://drive.google.com/file/d/1YtpjbMJJEohXjvGYwTENMoig1nhh0BPR)
+* 1.4-Esquema basico de reconocimiento de patrones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_PR_Methodologia.pptx)
 
 ### Clase 04 Ju. 21-Mar-2024:
 * 2.1-**Video de esta clase** [[YouTube]](https://youtu.be/SMCEHYR9Pik)
@@ -36,7 +36,7 @@
 * 2.1-Ejemplo sobre caracteristicas geometricas [[Colab]](https://drive.google.com/file/d/1as-P-0jA2QePQ9bhnds9_YQZP2n-GvPQ)
 * 2.1-Momentos de Flusser [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Flusser_Moments.pdf)
 * 2.1-Momentos de Hu [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Hu_Moments.pdf)
-* 2.1-E02: Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
+* 2.1-E02: Ejercicio en clases > Login Student > PATRONES2024 [[Socrative]](http://www.socrative.com)
 
 ### Clase 05 Ma. 26-Mar-2024:
 * 2.1-**Video de esta clase** [[YouTube]](https://youtu.be/tNMZQr4csWU)
@@ -52,7 +52,7 @@
 * 2.2-Ejemplo sobre LBP en reconocimiento facial [[Colab]](https://drive.google.com/file/d/1-YIkUsTifUEZRmTOiUjJHTZ7j0forPkT)
 * 2.2-Local Binary Patterns  (invariante a la rotacion) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns_ri.pptx)
 * 2.2-Lectura complementaria de LBP [[Paper]](http://www.scholarpedia.org/article/Local_Binary_Patterns)
-* 2.2-E03: Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
+* 2.2-E03: Ejercicio en clases > Login Student > PATRONES2024 [[Socrative]](http://www.socrative.com)
 
 ### Clase 07 Ju. 04-Apr-2024:
 * 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/24UJe4wY2zc)
@@ -116,7 +116,7 @@
 * 3.3-Discriminante Fihser y Matrices de Covarianza [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pptx)
 * 3.3-Discriminante Fihser y Matrices de Covarianza [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pdf)
 * 3.7-Branch and Bound [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_BranchAndBound.pptx)
-* 3.3-E07: Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
+* 3.3-E07: Ejercicio en clases > Login Student > PATRONES2024 [[Socrative]](http://www.socrative.com)
 
 ### Clase 15 Ju. 09-May-2024:
 * 3.3-**Video de esta clase** [[YouTube]](https://youtu.be/llLtD7cA7KA)
@@ -156,7 +156,7 @@
 
 ### Clase 19 Ma. 28-May-2024:
 * 4.1-**Video de esta clase** [[YouTube]](https://youtu.be/gMUjrOFHYGQ)
-* 4.2-E09: Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
+* 4.2-E09: Ejercicio en clases > Login Student > PATRONES2024 [[Socrative]](http://www.socrative.com)
 
 ### Clase 20 Ju. 30-May-2024:
 * 4.6-**Video de esta clase** [[YouTube]](https://youtu.be/GlMKLvTJ1e0)
@@ -189,7 +189,7 @@
 * 7.1-**Video de esta clase** [[YouTube]](https://youtu.be/VwThW__AmsE)
 * 7.1-Como hacer el proyecto [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap07_Aplicaciones/presentations/PAT07_Project.pptx)
 * 7.1-Machine Learning Yearing (Libro) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap07_Aplicaciones/papers/NG-MLY01_13.pdf)
-* 5.5-E11: Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
+* 5.5-E11: Ejercicio en clases > Login Student > PATRONES2024 [[Socrative]](http://www.socrative.com)
 
 ### Clase 24 Ju. 13-Jun-2024:
 * 4.1-**Video de esta clase** [[YouTube]](https://youtu.be/HheWr3LVta4)
@@ -221,8 +221,8 @@
 * 7.1-**Video de esta clase** [[YouTube]](https://youtu.be/n6kB0nkfxwo)
 * 6.3-BoW: Bag of Words [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_BoW.pptx)
 * 6.3-Ejemplo de Bag of Words [[Colab]](https://drive.google.com/file/d/1CctDBGweWPenJMDftusSvBxiOTG18Hsm)
-* 6.3-Ejercicio en clases > Login Student > PATRONES2023 [[Socrative]](http://www.socrative.com)
+* 6.3-Ejercicio en clases > Login Student > PATRONES2024 [[Socrative]](http://www.socrative.com)
 ---
 
 
-Updated on 11-Mar-2024 at 10:24 by Domingo Mery
+Updated on 15-Mar-2024 at 16:08 by Domingo Mery

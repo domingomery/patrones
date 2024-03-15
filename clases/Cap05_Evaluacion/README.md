@@ -15,9 +15,9 @@
 * Estimacion de Accuracy [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_AccuracyEstimation.pptx)
 * Ejemplo de estimacion de accuracy [[Colab]](https://drive.google.com/file/d/1HwNGUGiVzwVC4e5BvSImmTs0m2uhvoyL)
 * Seleccion de Modelos [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ModelSelector.pdf)
-* E11: Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
+* E11: Ejercicio en clases > Login Student > PATRONES2024 [[Socrative]](http://www.socrative.com)
 ### 5.6 Ejemplos:
 ---
 
 
-Updated on 11-Mar-2024 at 10:24 by Domingo Mery
+Updated on 15-Mar-2024 at 16:08 by Domingo Mery

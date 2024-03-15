@@ -14,7 +14,7 @@
 * Clasificadores basicos [[Colab]](https://drive.google.com/file/d/1aUqwwueR5dG2_yZ5gGN_NOSppqsvkoaW)
 * Set de validacion para hiperparametros [[Colab]](https://drive.google.com/file/d/1xIaz5MQgA3F1-vsr5aF0vXo2uqxigm0I)
 * Clasificadores basicos [[Colab]](https://drive.google.com/file/d/1aUqwwueR5dG2_yZ5gGN_NOSppqsvkoaW)
-* E09: Ejercicio en clases > Login Student > PATRONES [[Socrative]](http://www.socrative.com)
+* E09: Ejercicio en clases > Login Student > PATRONES2024 [[Socrative]](http://www.socrative.com)
 ### 4.3 LDA, QDA, Mahalanobis:
 * **Video de esta clase** [[YouTube]](https://youtu.be/6nW43kyZUhY)
 * Clasificadores LDA, QDA, Mahalanobis [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_LDA.pptx)
@@ -50,4 +50,4 @@
 ---
 
 
-Updated on 11-Mar-2024 at 10:24 by Domingo Mery
+Updated on 15-Mar-2024 at 16:08 by Domingo Mery
