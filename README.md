@@ -69,7 +69,7 @@
 
 ### Clase 08 Ma. 09-Apr-2024:
 * 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/DWe4cN6q4II)
-* 2.2-E04: Ejercicico 04 sobre deteccion de caras (Colab) [[Colab]](https://drive.google.com/xxxxx)
+* 2.2-E04: Ejercicico 04 sobre deteccion de caras (Colab) [[Colab]](https://colab.research.google.com/drive/1zWWRieT7LzKV7Qo8Qww7nBELMLlju0ty)
 * 2.2-E04: Solucion [[Colab]](https://drive.google.com/xxxxx)
 
 ### Clase 09 Ju. 11-Apr-2024:
