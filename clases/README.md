@@ -69,13 +69,13 @@
 
 ### Clase 08 Ma. 09-Apr-2024:
 * 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/DWe4cN6q4II)
-* 2.2-E04: Ejercicico 04 sobre deteccion de caras (Colab) [[Colab]](https://drive.google.com/xxxxx)
+* 2.2-E04: Ejercicico 04 sobre deteccion de caras (Colab) [[Colab]](https://colab.research.google.com/drive/1zWWRieT7LzKV7Qo8Qww7nBELMLlju0ty)
 * 2.2-E04: Solucion [[Colab]](https://drive.google.com/xxxxx)
+* 2.2-Histogram of Gradients (HoG) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HoG_HumanDetection.pptx)
+* 2.2-Paper HoG [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/HoG_DalalTriggs.pdf)
 
 ### Clase 09 Ju. 11-Apr-2024:
 * 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/mcqkE-gzUHM)
-* 2.2-Histogram of Gradients (HoG) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HoG_HumanDetection.pptx)
-* 2.2-Paper HoG [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/HoG_DalalTriggs.pdf)
 * 2.2-Deteccion de peatones usando HoG [[Colab]](https://drive.google.com/file/d/1PCVaiHvR6-RmF1C7AS42uon_FIAXICEh)
 * 2.2-SIFT  (Intro) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_SIFT_ObjectDetection.pptx)
 * 2.2-Paper SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Lowe_SIFT.pdf)
@@ -226,4 +226,4 @@
 ---
 
 
-Updated on 19-Mar-2024 at 09:07 by Domingo Mery
+Updated on 08-Apr-2024 at 10:07 by Domingo Mery

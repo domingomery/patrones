@@ -33,11 +33,11 @@
 * Video experimento con gatos (2/2) [[Video]](https://youtu.be/QzkMo45pcUo)
 * Comparacion de caracteristicas de textura [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Randen_ComparativeTextures.pdf)
 * **Video de esta clase** [[YouTube]](https://youtu.be/DWe4cN6q4II)
-* E04: Ejercicico 04 sobre deteccion de caras (Colab) [[Colab]](https://drive.google.com/xxxxx)
+* E04: Ejercicico 04 sobre deteccion de caras (Colab) [[Colab]](https://colab.research.google.com/drive/1zWWRieT7LzKV7Qo8Qww7nBELMLlju0ty)
 * E04: Solucion [[Colab]](https://drive.google.com/xxxxx)
-* **Video de esta clase** [[YouTube]](https://youtu.be/mcqkE-gzUHM)
 * Histogram of Gradients (HoG) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HoG_HumanDetection.pptx)
 * Paper HoG [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/HoG_DalalTriggs.pdf)
+* **Video de esta clase** [[YouTube]](https://youtu.be/mcqkE-gzUHM)
 * Deteccion de peatones usando HoG [[Colab]](https://drive.google.com/file/d/1PCVaiHvR6-RmF1C7AS42uon_FIAXICEh)
 * SIFT  (Intro) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_SIFT_ObjectDetection.pptx)
 * Paper SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Lowe_SIFT.pdf)
@@ -60,4 +60,4 @@
 ---
 
 
-Updated on 19-Mar-2024 at 09:07 by Domingo Mery
+Updated on 08-Apr-2024 at 10:07 by Domingo Mery
