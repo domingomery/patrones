@@ -1,10 +1,10 @@
 
 # Capitulo 03: Seleccion de Caracteristicas
 ### 3.1 Introduccion:
-* **Video de esta clase** [[YouTube]](https://youtu.be/2QpvMEa0lQ0)
 * Introduccion a la Seleccion de Caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pdf)
 * Introduccion a la Seleccion de Caracteristicas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pptx)
 * Introduccion a la Seleccion de Caracteristicas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection.pdf)
+* **Video de esta clase** [[YouTube]](https://youtu.be/2QpvMEa0lQ0)
 * Clean: Limpieza de datos [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Clean.pptx)
 * **Video de esta clase** [[YouTube]](https://youtu.be/sZhO6YVYAGE)
 * Esquema general con seleccion de caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_GeneralSchema.pdf)
@@ -27,8 +27,8 @@
 * Ejemplo de Reconocimiento Facial con LBP y PCA, ICA, PLSR [[Colab]](https://drive.google.com/file/d/1m5FjawGtIJybkURabnbimBIk7ycfN2bw)
 * ICA [[Apuntes]](https://towardsdatascience.com/independent-component-analysis-ica-in-python-a0ef0db0955e)
 ### 3.5 Busqueda secuencial hacia adeleante:
-* Ejemplo de Seleccion de Caracteristicas [[Colab]](https://drive.google.com/file/d/1kXMoYW760sig5xZRBBIA0L9vnxcRU8Nw)
 * SFS [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_SFS.pptx)
+* Ejemplo de Seleccion de Caracteristicas [[Colab]](https://drive.google.com/file/d/1kXMoYW760sig5xZRBBIA0L9vnxcRU8Nw)
 * Principal Components Analysis PCA [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_PCA.pptx)
 * Bateria de Ejemplos de Seleccion de Caracteristicas [[Colab]](https://drive.google.com/file/d/1v1v6qxWkOTmd20cqNOgc5v8jpNWlhgXQ)
 * Esquema del Ejercicio 08 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Ejercicio08.pptx)
@@ -40,4 +40,4 @@
 ---
 
 
-Updated on 08-Apr-2024 at 10:09 by Domingo Mery
+Updated on 09-Apr-2024 at 12:01 by Domingo Mery

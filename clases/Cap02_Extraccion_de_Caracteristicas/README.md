@@ -45,8 +45,6 @@
 * Reconocimiento de vacas usando SIFT [[Colab]](https://drive.google.com/file/d/1mPt9MI2ytByR23KpmCveQnP4AbeTvb7k)
 * Implementacion de HoG en Python con OpenCV [[phyton]](https://www.learnopencv.com/histogram-of-oriented-gradients/)
 * **Video de esta clase** [[YouTube]](https://youtu.be/BeqJf-W4ob8)
-* SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_SIFT_ObjectDetection.pptx)
-* Reconocimiento de vacas usando SIFT [[Colab]](https://drive.google.com/file/d/1mPt9MI2ytByR23KpmCveQnP4AbeTvb7k)
 * E05: Ejercicico 05 sobre deteccion de paredes rayadas (Colab) [[Colab]](https://drive.google.com/xxxxx)
 * E05: Solucion [[Colab]](https://drive.google.com/xxxxx)
 * **Video de esta clase** [[YouTube]](https://youtu.be/MImox20v974)
@@ -61,4 +59,4 @@
 ---
 
 
-Updated on 08-Apr-2024 at 10:09 by Domingo Mery
+Updated on 09-Apr-2024 at 12:01 by Domingo Mery

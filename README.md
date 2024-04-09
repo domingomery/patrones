@@ -85,8 +85,6 @@
 
 ### Clase 10 Ma. 16-Apr-2024:
 * 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/BeqJf-W4ob8)
-* 2.2-SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_SIFT_ObjectDetection.pptx)
-* 2.2-Reconocimiento de vacas usando SIFT [[Colab]](https://drive.google.com/file/d/1mPt9MI2ytByR23KpmCveQnP4AbeTvb7k)
 * 2.2-E05: Ejercicico 05 sobre deteccion de paredes rayadas (Colab) [[Colab]](https://drive.google.com/xxxxx)
 * 2.2-E05: Solucion [[Colab]](https://drive.google.com/xxxxx)
 
@@ -97,19 +95,19 @@
 * 2.2-Crossing Line Profile (CLP) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_CrossingLineProfiles.pptx)
 * 2.2-Crossing Line Profile (CLP) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Mery_CrossingLineProfiles.pdf)
 * 2.2-Ejemplo de Intensidad (basicas, contraste, CLP) [[Colab]](https://drive.google.com/file/d/10kkY5bQD6m1E_Iz5ECPnFrx2xia3A1YE)
-
-### Clase 12 Ma. 23-Apr-2024:
-* 3.1-**Video de esta clase** [[YouTube]](https://youtu.be/2QpvMEa0lQ0)
 * 3.1-Introduccion a la Seleccion de Caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pdf)
 * 3.1-Introduccion a la Seleccion de Caracteristicas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pptx)
 * 3.1-Introduccion a la Seleccion de Caracteristicas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection.pdf)
+
+### Clase 12 Ma. 23-Apr-2024:
+* 3.1-**Video de esta clase** [[YouTube]](https://youtu.be/2QpvMEa0lQ0)
 * 3.4-Busqueda Exhaustiva [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_ExSearch.pptx)
 * 3.1-Clean: Limpieza de datos [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Clean.pptx)
+* 3.5-SFS [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_SFS.pptx)
 * 3.5-Ejemplo de Seleccion de Caracteristicas [[Colab]](https://drive.google.com/file/d/1kXMoYW760sig5xZRBBIA0L9vnxcRU8Nw)
 
 ### Clase 13 Ju. 25-Apr-2024:
 * 3.1-**Video de esta clase** [[YouTube]](https://youtu.be/sZhO6YVYAGE)
-* 3.5-SFS [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_SFS.pptx)
 * 3.4-E06: Ejercicico 06 sobre deteccion de espinas (Colab) [[Colab]](https://drive.google.com/xxxxx)
 * 3.4-E06: Solucion [[Colab]](https://drive.google.com/xxxxx)
 
@@ -227,4 +225,4 @@
 ---
 
 
-Updated on 08-Apr-2024 at 10:09 by Domingo Mery
+Updated on 09-Apr-2024 at 12:01 by Domingo Mery
