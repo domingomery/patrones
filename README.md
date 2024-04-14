@@ -85,7 +85,7 @@
 
 ### Clase 10 Ma. 16-Apr-2024:
 * 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/BeqJf-W4ob8)
-* 2.2-E05: Ejercicico 05 sobre deteccion de paredes rayadas (Colab) [[Colab]](https://drive.google.com/xxxxx)
+* 2.2-E05: Ejercicico 05 sobre deteccion de paredes rayadas (Colab) [[Colab]](https://colab.research.google.com/drive/1jLLqg4nGvSD_NZ-vcaxL8fyKD8VZ__0B)
 * 2.2-E05: Solucion [[Colab]](https://drive.google.com/xxxxx)
 
 ### Clase 11 Ju. 18-Apr-2024:
