@@ -70,7 +70,7 @@
 ### Clase 08 Ma. 09-Apr-2024:
 * 2.2-**Video de esta clase** (E04) [[YouTube]](https://youtu.be/DWe4cN6q4II)
 * 2.2-E04: Ejercicico 04 sobre deteccion de caras (Colab) [[Colab]](https://colab.research.google.com/drive/1zWWRieT7LzKV7Qo8Qww7nBELMLlju0ty)
-* 2.2-E04: Solucion [[Colab]](https://drive.google.com/xxxxx)
+* 2.2-E04: Solucion [[Colab]](https://drive.google.com/file/d/1p2_IWE1DncJ8P29VCvex031xTgPQUqFL)
 * 2.2-**Video de esta clase** (HoG) [[YouTube]](https://youtu.be/mcqkE-gzUHM)
 * 2.2-Histogram of Gradients (HoG) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HoG_HumanDetection.pptx)
 * 2.2-Paper HoG [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/HoG_DalalTriggs.pdf)
@@ -86,7 +86,7 @@
 ### Clase 10 Ma. 16-Apr-2024:
 * 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/BeqJf-W4ob8)
 * 2.2-E05: Ejercicico 05 sobre deteccion de paredes rayadas (Colab) [[Colab]](https://colab.research.google.com/drive/1jLLqg4nGvSD_NZ-vcaxL8fyKD8VZ__0B)
-* 2.2-E05: Solucion [[Colab]](https://drive.google.com/xxxxx)
+* 2.2-E05: Solucion [[Colab]](https://drive.google.com/ooosssooo)
 
 ### Clase 11 Ju. 18-Apr-2024:
 * 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/MImox20v974)
@@ -108,8 +108,8 @@
 
 ### Clase 13 Ju. 25-Apr-2024:
 * 3.1-**Video de esta clase** [[YouTube]](https://youtu.be/sZhO6YVYAGE)
-* 3.4-E06: Ejercicico 06 sobre deteccion de espinas (Colab) [[Colab]](https://drive.google.com/xxxxx)
-* 3.4-E06: Solucion [[Colab]](https://drive.google.com/xxxxx)
+* 3.4-E06: Ejercicico 06 sobre deteccion de espinas (Colab) [[Colab]](https://drive.google.com/ooosssooo)
+* 3.4-E06: Solucion [[Colab]](https://drive.google.com/ooosssooo)
 
 ### Clase 14 Ma. 07-May-2024:
 * 3.3-**Video de esta clase** [[YouTube]](https://youtu.be/b1BBhid8G-k)
@@ -133,7 +133,7 @@
 * 3.1-Libreria sklearn para Feature Selection [[Libreria]](https://scikit-learn.org/stable/modules/feature_selection.html)
 * 3.1-Libreria mlxtend [[Python]](http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/)
 * 3.5-Esquema del Ejercicio 08 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Ejercicio08.pptx)
-* 3.5-E08: Ejercicio 08 sobre Sel/Trans de Caracteristicas (Colab) [[Colab]](https://drive.google.com/xxxxx)
+* 3.5-E08: Ejercicio 08 sobre Sel/Trans de Caracteristicas (Colab) [[Colab]](https://drive.google.com/ooosssooo)
 
 ### Clase 17 Ju. 16-May-2024:
 * 4.1-**Video de esta clase** [[YouTube]](https://youtu.be/OYrI_O7n5mE)
@@ -175,7 +175,7 @@
 * 4.5-Tutorial de SVM en phyton [[YouTube]](https://www.youtube.com/watch?v=N1vOgolbjSc)
 * 4.5-Video de teoria de SVM (MIT lesson) [[YouTube]](https://www.youtube.com/watch?v=_PwhiWxHK8o)
 * 4.5-Ejemplo de SVM con sklearn [[Colab]](https://drive.google.com/file/d/1y26nAEUEiiahHx92_jAMrBWipwFZ5BSP)
-* 4.7-E10: Ejercicio 10 sobre Clasificadores Avanzados (Colab) [[Colab]](https://drive.google.com/xxxxx)
+* 4.7-E10: Ejercicio 10 sobre Clasificadores Avanzados (Colab) [[Colab]](https://drive.google.com/ooosssooo)
 
 ### Clase 22 Ju. 06-Jun-2024:
 * 5.1-**Video de esta clase** (accuracy) [[YouTube]](https://youtu.be/zxYwNPLHWuw)
@@ -225,4 +225,4 @@
 ---
 
 
-Updated on 09-Apr-2024 at 12:01 by Domingo Mery
+Updated on 15-Apr-2024 at 15:20 by Domingo Mery

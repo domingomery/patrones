@@ -34,7 +34,7 @@
 * Comparacion de caracteristicas de textura [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Randen_ComparativeTextures.pdf)
 * **Video de esta clase** (E04) [[YouTube]](https://youtu.be/DWe4cN6q4II)
 * E04: Ejercicico 04 sobre deteccion de caras (Colab) [[Colab]](https://colab.research.google.com/drive/1zWWRieT7LzKV7Qo8Qww7nBELMLlju0ty)
-* E04: Solucion [[Colab]](https://drive.google.com/xxxxx)
+* E04: Solucion [[Colab]](https://drive.google.com/file/d/1p2_IWE1DncJ8P29VCvex031xTgPQUqFL)
 * **Video de esta clase** (HoG) [[YouTube]](https://youtu.be/mcqkE-gzUHM)
 * Histogram of Gradients (HoG) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HoG_HumanDetection.pptx)
 * Paper HoG [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/HoG_DalalTriggs.pdf)
@@ -45,8 +45,8 @@
 * Reconocimiento de vacas usando SIFT [[Colab]](https://drive.google.com/file/d/1mPt9MI2ytByR23KpmCveQnP4AbeTvb7k)
 * Implementacion de HoG en Python con OpenCV [[phyton]](https://www.learnopencv.com/histogram-of-oriented-gradients/)
 * **Video de esta clase** [[YouTube]](https://youtu.be/BeqJf-W4ob8)
-* E05: Ejercicico 05 sobre deteccion de paredes rayadas (Colab) [[Colab]](https://drive.google.com/xxxxx)
-* E05: Solucion [[Colab]](https://drive.google.com/xxxxx)
+* E05: Ejercicico 05 sobre deteccion de paredes rayadas (Colab) [[Colab]](https://colab.research.google.com/drive/1jLLqg4nGvSD_NZ-vcaxL8fyKD8VZ__0B)
+* E05: Solucion [[Colab]](https://drive.google.com/ooosssooo)
 * **Video de esta clase** [[YouTube]](https://youtu.be/MImox20v974)
 * Caracteristicas de intensidad [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_IntensityFeatures.pptx)
 * Caracteristicas de intensidad [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_IntensityFeatures.pdf)
@@ -59,4 +59,4 @@
 ---
 
 
-Updated on 09-Apr-2024 at 12:01 by Domingo Mery
+Updated on 15-Apr-2024 at 15:20 by Domingo Mery
