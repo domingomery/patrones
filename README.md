@@ -87,13 +87,13 @@
 * 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/BeqJf-W4ob8)
 * 2.2-E05: Ejercicico 05 sobre deteccion de paredes rayadas (Colab) [[Colab]](https://colab.research.google.com/drive/1jLLqg4nGvSD_NZ-vcaxL8fyKD8VZ__0B)
 * 2.2-E05: Solucion [[Colab]](https://drive.google.com/ooosssooo)
-
-### Clase 11 Ju. 18-Apr-2024:
 * 2.2-**Video de esta clase** [[YouTube]](https://youtu.be/MImox20v974)
 * 2.2-Caracteristicas de intensidad [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_IntensityFeatures.pptx)
 * 2.2-Caracteristicas de intensidad [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_IntensityFeatures.pdf)
 * 2.2-Crossing Line Profile (CLP) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_CrossingLineProfiles.pptx)
 * 2.2-Crossing Line Profile (CLP) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Mery_CrossingLineProfiles.pdf)
+
+### Clase 11 Ju. 18-Apr-2024:
 * 2.2-Ejemplo de Intensidad (basicas, contraste, CLP) [[Colab]](https://drive.google.com/file/d/10kkY5bQD6m1E_Iz5ECPnFrx2xia3A1YE)
 * 3.1-Introduccion a la Seleccion de Caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pdf)
 * 3.1-Introduccion a la Seleccion de Caracteristicas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pptx)
@@ -225,4 +225,4 @@
 ---
 
 
-Updated on 15-Apr-2024 at 15:20 by Domingo Mery
+Updated on 15-Apr-2024 at 15:26 by Domingo Mery
