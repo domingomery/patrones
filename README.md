@@ -98,7 +98,7 @@
 * 3.1-Introduccion a la Seleccion de Caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pdf)
 * 3.1-Introduccion a la Seleccion de Caracteristicas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pptx)
 * 3.1-Introduccion a la Seleccion de Caracteristicas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection.pdf)
-* 3.1-Explicacion de Tarea 02 [[]](https://cursos.canvas.uc.cl/courses/67528/assignments/383595)
+* 3.1-Explicacion de Tarea 02 [[Canvas]](https://cursos.canvas.uc.cl/courses/67528/assignments/383595)
 
 ### Clase 12 Ma. 23-Apr-2024:
 * 3.1-**Video de esta clase** [[YouTube]](https://youtu.be/2QpvMEa0lQ0)
@@ -226,4 +226,4 @@
 ---
 
 
-Updated on 17-Apr-2024 at 16:13 by Domingo Mery
+Updated on 17-Apr-2024 at 16:14 by Domingo Mery
