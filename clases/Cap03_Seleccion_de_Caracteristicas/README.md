@@ -4,6 +4,7 @@
 * Introduccion a la Seleccion de Caracteristicas [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pdf)
 * Introduccion a la Seleccion de Caracteristicas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pptx)
 * Introduccion a la Seleccion de Caracteristicas [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection.pdf)
+* Explicacion de Tarea 02 [[]](https://cursos.canvas.uc.cl/courses/67528/assignments/383595)
 * **Video de esta clase** [[YouTube]](https://youtu.be/2QpvMEa0lQ0)
 * Clean: Limpieza de datos [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Clean.pptx)
 * **Video de esta clase** [[YouTube]](https://youtu.be/sZhO6YVYAGE)
@@ -40,4 +41,4 @@
 ---
 
 
-Updated on 16-Apr-2024 at 10:43 by Domingo Mery
+Updated on 17-Apr-2024 at 16:13 by Domingo Mery

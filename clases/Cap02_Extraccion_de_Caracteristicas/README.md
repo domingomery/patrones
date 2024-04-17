@@ -46,7 +46,7 @@
 * Implementacion de HoG en Python con OpenCV [[phyton]](https://www.learnopencv.com/histogram-of-oriented-gradients/)
 * **Video de esta clase** [[YouTube]](https://youtu.be/BeqJf-W4ob8)
 * E05: Ejercicico 05 sobre deteccion de paredes rayadas (Colab) [[Colab]](https://colab.research.google.com/drive/1jLLqg4nGvSD_NZ-vcaxL8fyKD8VZ__0B)
-* E05: Solucion [[Colab]](https://drive.google.com/ooosssooo)
+* E05: Solucion [[Colab]](https://colab.research.google.com/drive/1S15frbY063MFcIk4hUjKOHCUSW3PBt3S)
 * **Video de esta clase** [[YouTube]](https://youtu.be/MImox20v974)
 * Caracteristicas de intensidad [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_IntensityFeatures.pptx)
 * Caracteristicas de intensidad [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_IntensityFeatures.pdf)
@@ -59,4 +59,4 @@
 ---
 
 
-Updated on 16-Apr-2024 at 10:43 by Domingo Mery
+Updated on 17-Apr-2024 at 16:13 by Domingo Mery
