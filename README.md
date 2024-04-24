@@ -109,7 +109,7 @@
 
 ### Clase 13 Ju. 25-Apr-2024:
 * 3.1-**Video de esta clase** [[YouTube]](https://youtu.be/sZhO6YVYAGE)
-* 3.4-E06: Ejercicico 06 sobre deteccion de espinas (Colab) [[Colab]](https://drive.google.com/ooosssooo)
+* 3.4-E06: Ejercicico 06 sobre deteccion de espinas (Colab) [[Colab]](https://colab.research.google.com/drive/1mJwOmiraHh4B5ARp9iDzNz2up2Bg5l7b)
 * 3.4-E06: Solucion [[Colab]](https://drive.google.com/ooosssooo)
 
 ### Clase 14 Ma. 07-May-2024:
