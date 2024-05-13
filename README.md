@@ -109,7 +109,7 @@
 
 ### Clase 13 Ju. 25-Apr-2024:
 * 3.1-**Video de esta clase** [[YouTube]](https://youtu.be/sZhO6YVYAGE)
-* 3.4-E06: Ejercicico 06 sobre deteccion de espinas (Colab) [[Colab]](https://colab.research.google.com/drive/1mJwOmiraHh4B5ARp9iDzNz2up2Bg5l7b)
+* 3.4-E06: Ejercicico 06 sobre deteccion de espinas (Colab) [[Colab]](https://drive.google.com/ooosssooo)
 * 3.4-E06: Solucion [[Colab]](https://drive.google.com/ooosssooo)
 
 ### Clase 14 Ma. 07-May-2024:
@@ -134,7 +134,7 @@
 * 3.1-Libreria sklearn para Feature Selection [[Libreria]](https://scikit-learn.org/stable/modules/feature_selection.html)
 * 3.1-Libreria mlxtend [[Python]](http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/)
 * 3.5-Esquema del Ejercicio 08 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Ejercicio08.pptx)
-* 3.5-E08: Ejercicio 08 sobre Sel/Trans de Caracteristicas (Colab) [[Colab]](https://drive.google.com/ooosssooo)
+* 3.5-E08: Ejercicio 08 sobre Sel/Trans de Caracteristicas (Colab) [[Colab]](https://colab.research.google.com/drive/1cEe1O-rXFZB-i_EFy8WVyTmb5Y5lUuUH?usp=sharing)
 
 ### Clase 17 Ju. 16-May-2024:
 * 4.1-**Video de esta clase** [[YouTube]](https://youtu.be/OYrI_O7n5mE)
@@ -226,4 +226,4 @@
 ---
 
 
-Updated on 17-Apr-2024 at 16:14 by Domingo Mery
+Updated on 13-May-2024 at 10:06 by Domingo Mery
