@@ -1,7 +1,6 @@
 
 # Capitulo 07: Proyecto
 ### 7.1 Proyecto del curso:
-* Descripcion de Proyecto [[Proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto)
 * **Video de esta clase** [[YouTube]](https://youtu.be/VwThW__AmsE)
 * Como hacer el proyecto [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap07_Aplicaciones/presentations/PAT07_Project.pptx)
 * Machine Learning Yearing (Libro) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap07_Aplicaciones/papers/NG-MLY01_13.pdf)
@@ -11,4 +10,4 @@
 ---
 
 
-Updated on 13-May-2024 at 10:06 by Domingo Mery
+Updated on 22-May-2024 at 12:22 by Domingo Mery

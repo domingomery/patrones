@@ -147,13 +147,11 @@
 
 ### Clase 18 Ju. 23-May-2024:
 * 4.3-**Video de esta clase** [[YouTube]](https://youtu.be/6nW43kyZUhY)
-* 0.1-Proyecto del Curso - Definicion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap00_Lineas_Generales/program/PAT_Project_2023.pptx)
 * 4.3-Clasificadores LDA, QDA, Mahalanobis [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_LDA.pptx)
 * 4.3-Arboles de decision [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_Trees.pptx)
 * 4.1-Entropia [[YouTube]](https://youtu.be/9r7FIXEAGvs)
 * 4.2-Clasificadores basicos [[Colab]](https://drive.google.com/file/d/1aUqwwueR5dG2_yZ5gGN_NOSppqsvkoaW)
 * 4.1-Visualizacion del espacio de caracteristicas [[Colab]](https://drive.google.com/file/d/1BnBLAYW-3DLT1KAbD-0x2Mx3hN4nJbA4)
-* 7.1-Descripcion de Proyecto [[Proyecto]](https://github.com/domingomery/patrones/tree/master/proyecto)
 
 ### Clase 19 Ma. 28-May-2024:
 * 4.1-**Video de esta clase** [[YouTube]](https://youtu.be/gMUjrOFHYGQ)
@@ -226,4 +224,4 @@
 ---
 
 
-Updated on 13-May-2024 at 10:06 by Domingo Mery
+Updated on 22-May-2024 at 12:22 by Domingo Mery
