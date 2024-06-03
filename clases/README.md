@@ -175,7 +175,7 @@
 * 4.5-Tutorial de SVM en phyton [[YouTube]](https://www.youtube.com/watch?v=N1vOgolbjSc)
 * 4.5-Video de teoria de SVM (MIT lesson) [[YouTube]](https://www.youtube.com/watch?v=_PwhiWxHK8o)
 * 4.5-Ejemplo de SVM con sklearn [[Colab]](https://drive.google.com/file/d/1y26nAEUEiiahHx92_jAMrBWipwFZ5BSP)
-* 4.7-E10: Ejercicio 10 sobre Clasificadores Avanzados (Colab) [[Colab]](https://drive.google.com/ooosssooo)
+* 4.7-E10: Ejercicio 10 sobre Clasificadores Avanzados (Colab) [[Colab]](https://colab.research.google.com/drive/1k9W7TxYHLr4eyRHQp3Qd_oCqPNazb2Fn)
 
 ### Clase 22 Ju. 06-Jun-2024:
 * 5.1-**Video de esta clase** (accuracy) [[YouTube]](https://youtu.be/zxYwNPLHWuw)
@@ -225,4 +225,4 @@
 ---
 
 
-Updated on 29-May-2024 at 09:32 by Domingo Mery
+Updated on 03-Jun-2024 at 08:50 by Domingo Mery

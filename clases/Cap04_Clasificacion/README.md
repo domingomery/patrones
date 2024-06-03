@@ -38,7 +38,7 @@
 * Ejemplo NN en MNIST con pytorch [[Colab]](https://drive.google.com/file/d/15G9Xm0Pz4g3fXlgqnVqCEpzdqv6ghItN)
 * Libro de Neural Networks and Deep Learning [[Book]](https://link.springer.com/book/10.1007%2F978-3-319-94463-0)
 ### 4.7 Deep Learning:
-* E10: Ejercicio 10 sobre Clasificadores Avanzados (Colab) [[Colab]](https://drive.google.com/ooosssooo)
+* E10: Ejercicio 10 sobre Clasificadores Avanzados (Colab) [[Colab]](https://colab.research.google.com/drive/1k9W7TxYHLr4eyRHQp3Qd_oCqPNazb2Fn)
 * Deep Learning [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_DeepLearning.pptx)
 * Ejemplo CNN basico (ojo vs. nariz) **new** [[Colab]](https://drive.google.com/file/d/1lDc67Qvs8pyHgz2EAlbkydywiarL9jij)
 * Ejemplo CNN basico (deteccion de defectos) **new** [[Colab]](https://drive.google.com/file/d/1JQwfDX-285fiGlSPAkWlKAa1IwyiqviN)
@@ -51,4 +51,4 @@
 ---
 
 
-Updated on 29-May-2024 at 09:32 by Domingo Mery
+Updated on 03-Jun-2024 at 08:50 by Domingo Mery
