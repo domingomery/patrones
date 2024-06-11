@@ -182,12 +182,11 @@
 * 5.5-Estimacion de Accuracy [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_AccuracyEstimation.pptx)
 * 5.5-Ejemplo de estimacion de accuracy [[Colab]](https://drive.google.com/file/d/1HwNGUGiVzwVC4e5BvSImmTs0m2uhvoyL)
 * 5.5-Seleccion de Modelos [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ModelSelector.pdf)
-* 5.1-**Video de esta clase** (matriz de confusion) [[YouTube]](https://youtu.be/TlrNzh-vghM)
-* 5.2-Matriz de Confusion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ConfusionMatrix.pptx)
 
 ### Clase 23 Ma. 11-Jun-2024:
 * 7.1-**Video de esta clase** [[YouTube]](https://youtu.be/VwThW__AmsE)
-* 7.1-Como hacer el proyecto [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap07_Aplicaciones/presentations/PAT07_Project.pptx)
+* 5.2-Matriz de Confusion [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ConfusionMatrix.pptx)
+* 5.1-**Video de esta clase** (matriz de confusion) [[YouTube]](https://youtu.be/TlrNzh-vghM)
 * 7.1-Machine Learning Yearing (Libro) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap07_Aplicaciones/papers/NG-MLY01_13.pdf)
 * 5.5-E11: Ejercicio en clases > Login Student > PATRONES2024 [[Socrative]](http://www.socrative.com)
 
@@ -225,4 +224,4 @@
 ---
 
 
-Updated on 03-Jun-2024 at 08:50 by Domingo Mery
+Updated on 11-Jun-2024 at 09:09 by Domingo Mery
