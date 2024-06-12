@@ -40,15 +40,15 @@
 ### 4.7 Deep Learning:
 * E10: Ejercicio 10 sobre Clasificadores Avanzados (Colab) [[Colab]](https://colab.research.google.com/drive/1k9W7TxYHLr4eyRHQp3Qd_oCqPNazb2Fn)
 * Deep Learning [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_DeepLearning.pptx)
-* Ejemplo CNN basico (ojo vs. nariz) **new** [[Colab]](https://drive.google.com/file/d/1lDc67Qvs8pyHgz2EAlbkydywiarL9jij)
-* Ejemplo CNN basico (deteccion de defectos) **new** [[Colab]](https://drive.google.com/file/d/1JQwfDX-285fiGlSPAkWlKAa1IwyiqviN)
-* Ejemplo CNN basico (deteccion de covid) **new** [[Colab]](https://drive.google.com/file/d/1_Il-gEr7kTXpjQ6FikUT0LEHwHxUdygW)
-* Ejemplo CNN basico (perros y gatos) **new** [[Colab]](https://drive.google.com/file/d/1UA9LIx_QHxkuv8jmVsPogZzfVFNED3R_)
-* Ejemplo CNN basico (clasificacion de lunares - 2 clases) **new** [[Colab]](https://drive.google.com/file/d/17ZFYuXueFkvaI-k0E_LfECHUnoCWK74C)
-* Ejemplo CNN basico (clasificacion de lunares - 7 clases) **new** [[Colab]](https://drive.google.com/file/d/1veeq3KRxIZtKkRpWMkx55fCojKwwxnZZ)
+* Ejemplo CNN basico (ojo vs. nariz) **new** [[Colab]](https://drive.google.com/file/d/1zXkffKtspfIrLIdxLeEGx0uxeSnyd0B-/view)
+* Ejemplo CNN basico (deteccion de defectos) **new** [[Colab]](https://drive.google.com/file/d/1g5hjIdQW0q-xH6g0a2uCaRTET0ngEIyi)
+* Ejemplo CNN basico (deteccion de covid) **new** [[Colab]](https://drive.google.com/file/d/1w1TzZQaN7d3CyfAV7fUklRXdSPTv3Dfh)
+* Ejemplo CNN basico (perros y gatos) **new** [[Colab]](https://drive.google.com/file/d/1SfwPxAV46KrFOIs0546fSSIKgEwPXYCO)
+* Ejemplo CNN basico (clasificacion de lunares - 2 clases) **new** [[Colab]](https://drive.google.com/file/d/1wvbWbDkdIyJ_JW9OcloE-s4dH5OH6knd)
+* Ejemplo CNN basico (clasificacion de lunares - 7 clases) **new** [[Colab]](https://drive.google.com/file/d/1E5IvgFQK_IJd08CjEgp-fISF6jOklDYS)
 ### 4.8 Clasificacion con representaciones sparse:
 ### 4.9 Ejemplos:
 ---
 
 
-Updated on 11-Jun-2024 at 09:09 by Domingo Mery
+Updated on 12-Jun-2024 at 11:38 by Domingo Mery
