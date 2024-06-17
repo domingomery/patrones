@@ -207,7 +207,7 @@
 * 5.3-Metricas de Genuinos vs. Impostores [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT_05_Understanding-Biometric-Performance-Evaluation.pdf)
 * 5.3-Ejemplo de AdaFace y metricas de evaluacion **new** [[Colab]](https://drive.google.com/file/d/1K0lw4XDjjIXZTeyTCao92ygF604o8w2D)
 
-### Clase 26 Ju. 20-Jun-2024:
+### Clase 26 Ma. 25-Jun-2024:
 * 7.1-**Video de esta clase** [[YouTube]](https://youtu.be/wq_m0HPN1MM)
 * 6.2-Clustering: K-Means [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_KMeans.pptx)
 * 6.2-Clustering: Hierarchic [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_Hierarchic.pptx)
@@ -216,7 +216,7 @@
 * 6.2-Ejemplos de Clustering *new** [[Colab]](https://drive.google.com/file/d/16lyhMMN6aQKMxCHI9546j4xhts0D7JLE)
 * 6.2-Ejemplo de Face-Clusering **new** [[Colab]](https://drive.google.com/file/d/1uIpo_-5m1Z_A-mgY46iBHzjRC6j1-vcY)
 
-### Clase 27 Ma. 25-Jun-2024:
+### Clase 27 Ju. 27-Jun-2024:
 * 7.1-**Video de esta clase** [[YouTube]](https://youtu.be/n6kB0nkfxwo)
 * 6.3-BoW: Bag of Words [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap06_Clustering/presentations/PAT06_BoW.pptx)
 * 6.3-Ejemplo de Bag of Words [[Colab]](https://drive.google.com/file/d/1CctDBGweWPenJMDftusSvBxiOTG18Hsm)
@@ -224,4 +224,4 @@
 ---
 
 
-Updated on 12-Jun-2024 at 11:38 by Domingo Mery
+Updated on 17-Jun-2024 at 14:54 by Domingo Mery
