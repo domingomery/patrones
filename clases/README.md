@@ -25,7 +25,7 @@
 * 1.3-**Video de esta clase** [[YouTube]](https://youtu.be/UH9Kv0EgipU)
 * 1.3-Formulacion metodologica [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_FormulacionMetodologica.pptx)
 * 1.2-Extraccion de caracteristicas para el problema J y Q [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_JQ.pptx)
-* 1.2-Ejemplo separacion de dos letras (J y Q) [[Colab]](https://drive.google.com/file/d/1YtpjbMJJEohXjvGYwTENMoig1nhh0BPR)
+* 1.2-Ejemplo separacion de dos letras (J y Q) [[Colab]](https://drive.google.com/file/d/1GXWr_yyhjRAm3Ac-nbUjFKhsz6bvkeKM)
 * 1.4-Esquema basico de reconocimiento de patrones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_PR_Metodologia.pptx)
 * 1.3-Lectura complementaria [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/papers/Jain_StatisticalPatternRecognition_2000.pdf)
 
@@ -224,4 +224,4 @@
 ---
 
 
-Updated on 04-Mar-2025 at 13:17 by Domingo Mery
+Updated on 04-Mar-2025 at 15:45 by Domingo Mery

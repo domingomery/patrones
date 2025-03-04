@@ -25,7 +25,7 @@
 * 1.3-**Video de esta clase** [[YouTube]](https://youtu.be/UH9Kv0EgipU)
 * 1.3-Formulacion metodologica [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_FormulacionMetodologica.pptx)
 * 1.2-Extraccion de caracteristicas para el problema J y Q [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_JQ.pptx)
-* 1.2-Ejemplo separacion de dos letras (J y Q) [[Colab]](https://drive.google.com/file/d/1YtpjbMJJEohXjvGYwTENMoig1nhh0BPR)
+* 1.2-Ejemplo separacion de dos letras (J y Q) [[Colab]](https://drive.google.com/file/d/1GXWr_yyhjRAm3Ac-nbUjFKhsz6bvkeKM)
 * 1.4-Esquema basico de reconocimiento de patrones [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/presentations/PAT01_PR_Metodologia.pptx)
 * 1.3-Lectura complementaria [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap01_Introduccion/papers/Jain_StatisticalPatternRecognition_2000.pdf)
 
@@ -206,7 +206,6 @@
 * 5.3-Metricas de Genuinos vs. Impostores [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_Genuine_Impostor.pptx)
 * 5.3-Metricas de Genuinos vs. Impostores [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT_05_Understanding-Biometric-Performance-Evaluation.pdf)
 * 5.3-Ejemplo de AdaFace y metricas de evaluacion **new** [[Colab]](https://drive.google.com/file/d/1K0lw4XDjjIXZTeyTCao92ygF604o8w2D)
-* 4.7-E11: Ejercicio 11 sobre CNN (Colab) [[Colab]](https://colab.research.google.com/drive/1Ogy63GUJJoYkFd8RxVLes0lB95XEolvC?usp=sharing)
 
 ### Clase 26 Ma. 17-Jun-2025:
 * 7.1-**Video de esta clase** [[YouTube]](https://youtu.be/wq_m0HPN1MM)
@@ -225,4 +224,4 @@
 ---
 
 
-Updated on 04-Mar-2025 at 13:17 by Domingo Mery
+Updated on 04-Mar-2025 at 15:45 by Domingo Mery
