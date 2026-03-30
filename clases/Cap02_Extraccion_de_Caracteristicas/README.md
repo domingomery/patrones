@@ -5,14 +5,8 @@
 ### 2.2 Segmentacion de imágenes:
 * > **Segmentación de imágenes** 
 * >> PPT: Segmentación [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_Segmentation.pptx)
-* >> PPT: Region growing [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_RegionGrowing.pptx)
-* >> Python: Ejemplo de region growing [[Colab]](https://colab.research.google.com/drive/1cNxGiXc132_o1YiAdVP5fWBdlTbuTKK2)
-* >> PPT: Metodo de Otsu [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_Otsu.pptx)
 * >> Python: Ejemplo de detección de regiones [[Colab]](https://colab.research.google.com/drive/1tWpCZji-YhMFXQLg0OJ9L_UFb7jwD6Vg)
-* >> PPT: Detección de bordes (PARTE 1) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_Bordes_1.pptx)
-* >> PPT: Detección de bordes (PARTE 2) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_Bordes_2.pptx)
 * >> Python: Ejemplo de detección de bordes [[Colab]](https://colab.research.google.com/drive/1rIbxOKFnoiOVOEKDVNCzM4JpL2M0hVUc)
-* >> PPT: Morfología [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_Morfologia.pptx)
 * >> Python: Ejemplos de morfología [[Colab]](https://colab.research.google.com/drive/17of6vMplOQ5i1VVoUzkMCw8VEHx7EVp-)
 * **E03: EJERCICIO EN CLASES 03** [[Colab]]()
 ### 2.3 Caracteristicas geometricas:
@@ -67,4 +61,4 @@
 ---
 
 
-Updated on 26-Mar-2026 at 10:15 by Domingo Mery
+Updated on 30-Mar-2026 at 11:12 by Domingo Mery
