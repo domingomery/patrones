@@ -73,7 +73,7 @@
 
 ### Clase 07 Ma. 31-Mar-2026:
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Segmentación de imágenes**
-* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Segmentación [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_Segmentation.pptx)
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Segmentación [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_Segmentacion.pptx)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de detección de regiones [[Colab]](https://colab.research.google.com/drive/1tWpCZji-YhMFXQLg0OJ9L_UFb7jwD6Vg)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de detección de bordes [[Colab]](https://colab.research.google.com/drive/1rIbxOKFnoiOVOEKDVNCzM4JpL2M0hVUc)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplos de morfología [[Colab]](https://colab.research.google.com/drive/17of6vMplOQ5i1VVoUzkMCw8VEHx7EVp-)
@@ -252,4 +252,4 @@
 ---
 
 
-Updated on 31-Mar-2026 at 10:48 by Domingo Mery
+Updated on 31-Mar-2026 at 13:16 by Domingo Mery
