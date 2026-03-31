@@ -7,11 +7,11 @@ La base de datos cuenta con 100 imágenes de cada cubierto, y se encuentra aquí
 https://www.dropbox.com/scl/fi/plso5zrnbubla8bdjdxl7/cubiertos.zip?rlkey=llgv4c2003sx1a30tfl9eb4y8
 
 
-Para este ejercicio antes de extraer características se realizara:
+Para este ejercicio antes de extraer características se realizará:
 
-1) segmentación usando Otsu (usar la función threshold_otsu de la librería skimage.filters)
-2) relleno de agujeros (usar la función binary_fill_holes de la librería scipy.ndimage)
-3) eliminación de objetos de menos de 200 pixeles de área (usar la función remove_small_objects de la librería skimage.morphology)
+1) Segmentación usando Otsu (usar la función threshold_otsu de la librería skimage.filters)
+2) Relleno de agujeros (usar la función binary_fill_holes de la librería scipy.ndimage)
+3) Eliminación de objetos de menos de 200 pixeles de área (usar la función remove_small_objects de la librería skimage.morphology)
 
 
 Para la extracción de características:
@@ -23,11 +23,11 @@ Para la extracción de características:
 División de Training y Testing
 
 1) Las primeras 80 imágenes de cada cubierto para Training
-2) Las últimas20  imágenes de cada cubierto para Training
+2) Las últimas  20 imágenes de cada cubierto para Training
 
 Selección:
 
-1) Seleccióne el primer descriptor de Fourier y el tercer momento de Hu
+1) Seleccione el primer descriptor de Fourier y el tercer momento de Hu
 2) Gráfique el espacio de características de estas dos dimensiones
 
 Clasificación
