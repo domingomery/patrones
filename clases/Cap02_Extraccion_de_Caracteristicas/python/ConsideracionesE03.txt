@@ -1,0 +1,42 @@
+Consideraciones preliminares para el Ejercicio 03
+
+En este ejercicio se realizará un reconocedor de cubiertos (tenedores, cuchillos, cucharas).
+
+La base de datos cuenta con 100 imágenes de cada cubierto, y se encuentra aquí:
+
+https://www.dropbox.com/scl/fi/plso5zrnbubla8bdjdxl7/cubiertos.zip?rlkey=llgv4c2003sx1a30tfl9eb4y8
+
+
+Para este ejercicio antes de extraer características se realizara:
+
+1) segmentación usando Otsu (usar la función threshold_otsu de la librería skimage.filters)
+2) relleno de agujeros (usar la función binary_fill_holes de la librería scipy.ndimage)
+3) eliminación de objetos de menos de 200 pixeles de área (usar la función remove_small_objects de la librería skimage.morphology)
+
+
+Para la extracción de características:
+
+1) Se van a extraer 16 descriptores de Foruier (usar la función fourierdes de la librería balu3.fx.geo)
+2) Se van a extraer los 7 momentos de Hu (usar la función hugeo de la librería balu3.fx.geo)
+
+
+División de Training y Testing
+
+1) Las primeras 80 imágenes de cada cubierto para Training
+2) Las últimas20  imágenes de cada cubierto para Training
+
+Selección:
+
+1) Seleccióne el primer descriptor de Fourier y el tercer momento de Hu
+2) Gráfique el espacio de características de estas dos dimensiones
+
+Clasificación
+
+1) Usando la grafica anterior diseñe un clasificador basado en umbrales
+2) Clasifique el Testing
+
+
+Evaluación
+1) Cálcule la matriz de confusión en el Testing
+2) Grafique la matriz de confusión en el Testing
+3) Calcule el Accuracy en el testing

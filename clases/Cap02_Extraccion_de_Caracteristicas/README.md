@@ -9,6 +9,7 @@
 * >> Python: Ejemplo de detección de bordes [[Colab]](https://colab.research.google.com/drive/1rIbxOKFnoiOVOEKDVNCzM4JpL2M0hVUc)
 * >> Python: Ejemplos de morfología [[Colab]](https://colab.research.google.com/drive/17of6vMplOQ5i1VVoUzkMCw8VEHx7EVp-)
 * **E03: EJERCICIO EN CLASES 03** [[Colab]]()
+* > Consideraciones preliminares [[TXT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/python/ConsideracionesE03.txt)
 ### 2.3 Caracteristicas geometricas:
 * > **Características geométricas** 
 * >> PPT: Características geométricas (básicas, momentos, Fourier) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_CaracteristicasGeometricas.pptx)
@@ -61,4 +62,4 @@
 ---
 
 
-Updated on 30-Mar-2026 at 11:14 by Domingo Mery
+Updated on 31-Mar-2026 at 10:48 by Domingo Mery

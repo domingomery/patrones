@@ -80,6 +80,7 @@
 
 ### Clase 08 Ma. 07-Apr-2026:
 * 2.2 &nbsp; **E03: EJERCICIO EN CLASES 03** [[Colab]]()
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  Consideraciones preliminares [[TXT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/python/ConsideracionesE03.txt)
 
 ### Clase 09 Ju. 09-Apr-2026:
 * 2.4 &nbsp; &nbsp; &nbsp; &nbsp;  **Modelos de color**
@@ -251,4 +252,4 @@
 ---
 
 
-Updated on 30-Mar-2026 at 11:14 by Domingo Mery
+Updated on 31-Mar-2026 at 10:48 by Domingo Mery
