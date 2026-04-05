@@ -79,8 +79,10 @@
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplos de morfología [[Colab]](https://colab.research.google.com/drive/17of6vMplOQ5i1VVoUzkMCw8VEHx7EVp-)
 
 ### Clase 08 Ma. 07-Apr-2026:
-* 2.2 &nbsp; **E03: EJERCICIO EN CLASES 03** [[Colab]]()
+* 2.2 &nbsp; **E03: EJERCICIO EN CLASES 03** [[Colab]](https://drive.google.com/file/d/149Vk63J5rUzsek2uPUvH0RTGe2xIb4nu/view?usp=sharing)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  Consideraciones preliminares [[TXT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/python/ConsideracionesE03.txt)
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  Explicación del ejercicio E03 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT03_E03_SegmentacionCaracteristicasGeometricas.pptx)
+
 
 ### Clase 09 Ju. 09-Apr-2026:
 * 2.4 &nbsp; &nbsp; &nbsp; &nbsp;  **Modelos de color**
