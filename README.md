@@ -81,7 +81,7 @@
 ### Clase 08 Ma. 07-Apr-2026:
 * 2.2 &nbsp; **E03: EJERCICIO EN CLASES 03** [[Colab]](https://drive.google.com/file/d/149Vk63J5rUzsek2uPUvH0RTGe2xIb4nu/view?usp=sharing)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  Consideraciones preliminares [[TXT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/python/ConsideracionesE03.txt)
-* 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  Explicación del ejercicio E03 [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_E03_SegmentacionCaracteristicasGeometricas.pptx)
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  Explicación del ejercicio E03 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_E03_SegmentacionCaracteristicasGeometricas.pptx)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  Solución a E03 (disponible el 08/04/26) [[Colab]](https://drive.google.com/file/osso)
 
 ### Clase 09 Ju. 09-Apr-2026:
@@ -248,4 +248,4 @@
 ---
 
 
-Updated on 07-Apr-2026 at 10:12 by Domingo Mery
+Updated on 07-Apr-2026 at 10:17 by Domingo Mery

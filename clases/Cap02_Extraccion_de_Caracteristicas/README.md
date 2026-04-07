@@ -10,7 +10,7 @@
 * >> Python: Ejemplos de morfología [[Colab]](https://colab.research.google.com/drive/17of6vMplOQ5i1VVoUzkMCw8VEHx7EVp-)
 * **E03: EJERCICIO EN CLASES 03** [[Colab]](https://drive.google.com/file/d/149Vk63J5rUzsek2uPUvH0RTGe2xIb4nu/view?usp=sharing)
 * > Consideraciones preliminares [[TXT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/python/ConsideracionesE03.txt)
-* > Explicación del ejercicio E03 [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_E03_SegmentacionCaracteristicasGeometricas.pptx)
+* > Explicación del ejercicio E03 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_E03_SegmentacionCaracteristicasGeometricas.pptx)
 * > Solución a E03 (disponible el 08/04/26) [[Colab]](https://drive.google.com/file/osso)
 ### 2.3 Caracteristicas geometricas:
 * > **Características geométricas** 
@@ -58,4 +58,4 @@
 ---
 
 
-Updated on 07-Apr-2026 at 10:12 by Domingo Mery
+Updated on 07-Apr-2026 at 10:17 by Domingo Mery
