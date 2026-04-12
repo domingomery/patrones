@@ -11,7 +11,7 @@
 * **E03: EJERCICIO EN CLASES 03** [[Colab]](https://drive.google.com/file/d/149Vk63J5rUzsek2uPUvH0RTGe2xIb4nu/view?usp=sharing)
 * > Consideraciones preliminares [[TXT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/python/ConsideracionesE03.txt)
 * > Explicación del ejercicio E03 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_E03_SegmentacionCaracteristicasGeometricas.pptx)
-* > Solución a E03 (disponible el 08/04/26) [[Colab]](https://drive.google.com/file/osso)
+* > Solución a E03 (disponible el 08/04/26) [[Colab]](https://drive.google.com/file/d/1ybY8-x4nzw_wLaoUEvjlc32_KD3pKMHY/view?usp=sharing)
 ### 2.3 Caracteristicas geometricas:
 * > **Características geométricas** 
 * >> PPT: Características geométricas (básicas, momentos, Fourier) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_CaracteristicasGeometricas.pptx)
@@ -25,6 +25,7 @@
 * >> Python: Segmentación simple a color [[Colab]](https://colab.research.google.com/drive/1gfSdlVgzd3abygf8XB0I2F62rpzlh8SK)
 * >> Python: Cómo leer imagenes a color [[Colab]](https://colab.research.google.com/drive/1JqHCnOiZb_KC7DPh1vF9vbLrFCc8pyDf)
 * >> Python: Ejemplo de mejoramiento de imagen a color oscura [[Colab]](https://colab.research.google.com/drive/1cSjA9nThCXbuO2zb97zJpcMP8sqNAqE8)
+* > Explicación del ejercicio E05 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_E04_Texturas.pptx)
 ### 2.5 Caracteristicas de intensidad:
 * > **Características de intensidad y color** 
 * >> PPT: Análisis de color y características de intensidad [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_ColorCaracteristicas.pptx)
@@ -37,8 +38,8 @@
 * >> Material de apoyo: Video experimento con gatos (2/2) [[Video]](https://youtu.be/QzkMo45pcUo)
 * >> Material de apoyo: Paper - Comparación de características de textura [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Randen_ComparativeTextures.pdf)
 * >> Material de apoyo: Paper - Histogram of Gradients (HoG) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/HoG_DalalTriggs.pdf)
-* >> Material de apoyo: Implementación de HoG en OpenCV [[phyton]](https://www.learnopencv.com/histogram-of-oriented-gradients/)
-* **E04: EJERCICIO EN CLASES 04** [[Colab]]()
+* >> Material de apoyo: Implementación de HoG en OpenCV [[python]](https://www.learnopencv.com/histogram-of-oriented-gradients/)
+* **E04: EJERCICIO EN CLASES 04** [[Colab]](https://drive.google.com/file/d/1FvacVkVCK-iHewwl8bQ_QHMyUAdM3zC8/view?usp=sharing)
 * > **Caracteristicas de intensidad (cont.)** 
 * >> PPT: Local Binary Patterns [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns.pptx)
 * >> Material de Apoyo: Paper - Local Binary Patterns (LBP) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/LBP_faces.pdf)
@@ -58,4 +59,4 @@
 ---
 
 
-Updated on 07-Apr-2026 at 10:17 by Domingo Mery
+Updated on 12-Apr-2026 at 09:13 by Domingo Mery

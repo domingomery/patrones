@@ -82,7 +82,7 @@
 * 2.2 &nbsp; **E03: EJERCICIO EN CLASES 03** [[Colab]](https://drive.google.com/file/d/149Vk63J5rUzsek2uPUvH0RTGe2xIb4nu/view?usp=sharing)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  Consideraciones preliminares [[TXT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/python/ConsideracionesE03.txt)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  Explicación del ejercicio E03 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_E03_SegmentacionCaracteristicasGeometricas.pptx)
-* 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  Solución a E03 (disponible el 08/04/26) [[Colab]](https://drive.google.com/file/osso)
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  Solución a E03 (disponible el 08/04/26) [[Colab]](https://drive.google.com/file/d/1ybY8-x4nzw_wLaoUEvjlc32_KD3pKMHY/view?usp=sharing)
 
 ### Clase 09 Ju. 09-Apr-2026:
 * 2.5 &nbsp; &nbsp; &nbsp; &nbsp;  **Características de intensidad y color**
@@ -99,10 +99,11 @@
 * 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Video experimento con gatos (2/2) [[Video]](https://youtu.be/QzkMo45pcUo)
 * 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper - Comparación de características de textura [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Randen_ComparativeTextures.pdf)
 * 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper - Histogram of Gradients (HoG) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/HoG_DalalTriggs.pdf)
-* 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Implementación de HoG en OpenCV [[phyton]](https://www.learnopencv.com/histogram-of-oriented-gradients/)
+* 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Implementación de HoG en OpenCV [[python]](https://www.learnopencv.com/histogram-of-oriented-gradients/)
 
 ### Clase 10 Ma. 14-Apr-2026:
-* 2.5 &nbsp; **E04: EJERCICIO EN CLASES 04** [[Colab]]()
+* 2.5 &nbsp; **E04: EJERCICIO EN CLASES 04** [[Colab]](https://drive.google.com/file/d/1FvacVkVCK-iHewwl8bQ_QHMyUAdM3zC8/view?usp=sharing)
+* 2.4 &nbsp; &nbsp; &nbsp; &nbsp;  Explicación del ejercicio E05 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_E04_Texturas.pptx)
 
 ### Clase 11 Ju. 16-Apr-2026:
 * 2.5 &nbsp; &nbsp; &nbsp; &nbsp;  **Caracteristicas de intensidad (cont.)**
@@ -196,7 +197,7 @@
 * 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Teroía sobre SVM [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM_new.pdf)
 * 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Teoría sobre SVM [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_SVM_Theory.pdf)
 * 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Teoría sobre SVM [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/papers/PAT04_SupportVectorMachines.pdf)
-* 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Tutorial de SVM en phyton [[YouTube]](https://www.youtube.com/watch?v=N1vOgolbjSc)
+* 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Tutorial de SVM en python [[YouTube]](https://www.youtube.com/watch?v=N1vOgolbjSc)
 * 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de SVM con sklearn [[Colab]](https://drive.google.com/file/d/12-w-4AMAlIEDarWS_jSLmM_B0XE3PJc9/view?usp=sharing)
 
 ### Clase 22 Ma. 02-Jun-2026:
@@ -248,4 +249,4 @@
 ---
 
 
-Updated on 07-Apr-2026 at 10:17 by Domingo Mery
+Updated on 12-Apr-2026 at 09:13 by Domingo Mery
