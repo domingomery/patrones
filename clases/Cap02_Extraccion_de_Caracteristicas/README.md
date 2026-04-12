@@ -25,7 +25,7 @@
 * >> Python: Segmentación simple a color [[Colab]](https://colab.research.google.com/drive/1gfSdlVgzd3abygf8XB0I2F62rpzlh8SK)
 * >> Python: Cómo leer imagenes a color [[Colab]](https://colab.research.google.com/drive/1JqHCnOiZb_KC7DPh1vF9vbLrFCc8pyDf)
 * >> Python: Ejemplo de mejoramiento de imagen a color oscura [[Colab]](https://colab.research.google.com/drive/1cSjA9nThCXbuO2zb97zJpcMP8sqNAqE8)
-* > Explicación del ejercicio E05 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_E04_Texturas.pptx)
+* > Explicación del ejercicio E04 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_E04_Texturas.pptx)
 ### 2.5 Caracteristicas de intensidad:
 * > **Características de intensidad y color** 
 * >> PPT: Análisis de color y características de intensidad [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_ColorCaracteristicas.pptx)
@@ -59,4 +59,4 @@
 ---
 
 
-Updated on 12-Apr-2026 at 09:13 by Domingo Mery
+Updated on 12-Apr-2026 at 09:15 by Domingo Mery

@@ -103,7 +103,7 @@
 
 ### Clase 10 Ma. 14-Apr-2026:
 * 2.5 &nbsp; **E04: EJERCICIO EN CLASES 04** [[Colab]](https://drive.google.com/file/d/1FvacVkVCK-iHewwl8bQ_QHMyUAdM3zC8/view?usp=sharing)
-* 2.4 &nbsp; &nbsp; &nbsp; &nbsp;  Explicación del ejercicio E05 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_E04_Texturas.pptx)
+* 2.4 &nbsp; &nbsp; &nbsp; &nbsp;  Explicación del ejercicio E04 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_E04_Texturas.pptx)
 
 ### Clase 11 Ju. 16-Apr-2026:
 * 2.5 &nbsp; &nbsp; &nbsp; &nbsp;  **Caracteristicas de intensidad (cont.)**
@@ -249,4 +249,4 @@
 ---
 
 
-Updated on 12-Apr-2026 at 09:13 by Domingo Mery
+Updated on 12-Apr-2026 at 09:15 by Domingo Mery
