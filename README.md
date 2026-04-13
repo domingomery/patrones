@@ -86,20 +86,17 @@
 
 ### Clase 09 Ju. 09-Apr-2026:
 * 2.5 &nbsp; &nbsp; &nbsp; &nbsp;  **Características de intensidad y color**
-* 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Análisis de color y características de intensidad [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_ColorCaracteristicas.pptx)
+* 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Análisis de color y características de intensidad (Haralick y Gabor) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_ColorCaracteristicas.pptx)
 * 2.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Segmentación simple a color [[Colab]](https://colab.research.google.com/drive/1gfSdlVgzd3abygf8XB0I2F62rpzlh8SK)
 * 2.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Cómo leer imagenes a color [[Colab]](https://colab.research.google.com/drive/1JqHCnOiZb_KC7DPh1vF9vbLrFCc8pyDf)
 * 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo sobre reconocimiento de texturas usando Haralick y Gabor [[Colab]](https://drive.google.com/file/d/1QqAJ0Ktd3kzvaCh_3KS0tvPRX5rvBXDZ/view?usp=sharing)
 * 2.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de mejoramiento de imagen a color oscura [[Colab]](https://colab.research.google.com/drive/1cSjA9nThCXbuO2zb97zJpcMP8sqNAqE8)
-* 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de detección de peatones usando HoG [[Colab]](https://drive.google.com/file/d/1ObL-BDLVIn7sO0fkJxZ4NCKjKC3riPti/view?usp=sharing)
 * 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Materal de apoyo: Paper - Características de textura de Haralick [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Haralick_Textures.pdf)
 * 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper - Características de Gabor [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Manjunath_GaborFeatures1996.pdf)
 * 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper - Aplicación de las características de Gabor [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Gabor_Application.pdf)
 * 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Video experimento con gatos (1/2) [[Video]](https://youtu.be/IOHayh06LJ4)
 * 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Video experimento con gatos (2/2) [[Video]](https://youtu.be/QzkMo45pcUo)
 * 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper - Comparación de características de textura [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Randen_ComparativeTextures.pdf)
-* 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper - Histogram of Gradients (HoG) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/HoG_DalalTriggs.pdf)
-* 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Implementación de HoG en OpenCV [[python]](https://www.learnopencv.com/histogram-of-oriented-gradients/)
 
 ### Clase 10 Ma. 14-Apr-2026:
 * 2.5 &nbsp; **E04: EJERCICIO EN CLASES 04** [[Colab]](https://drive.google.com/file/d/1FvacVkVCK-iHewwl8bQ_QHMyUAdM3zC8/view?usp=sharing)
@@ -107,9 +104,11 @@
 
 ### Clase 11 Ju. 16-Apr-2026:
 * 2.5 &nbsp; &nbsp; &nbsp; &nbsp;  **Caracteristicas de intensidad (cont.)**
-* 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Local Binary Patterns [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns.pptx)
+* 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Histogram of Gradientes y Local Binary Patterns [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HoG_LBP.pptx)
+* 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de detección de peatones usando HoG [[Colab]](https://drive.google.com/file/d/1ObL-BDLVIn7sO0fkJxZ4NCKjKC3riPti/view?usp=sharing)
+* 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper - Histogram of Gradients (HoG) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/HoG_DalalTriggs.pdf)
+* 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Implementación de HoG en OpenCV [[python]](https://www.learnopencv.com/histogram-of-oriented-gradients/)
 * 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de Apoyo: Paper - Local Binary Patterns (LBP) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/LBP_faces.pdf)
-* 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: Local Binary Patterns invariante a la rotación [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns_ri.pptx)
 * 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo sobre LBP en reconocimiento facial [[Colab]](https://drive.google.com/file/d/1w4kW5-2LGGNY9r7sT72QduP1Sqzk4tmh/view?usp=sharing)
 * 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Paper de lectura complementaria sobre LBP [[Paper]](http://www.scholarpedia.org/article/Local_Binary_Patterns)
 * 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  PPT: SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_SIFT_ObjectDetection.pptx)
@@ -249,4 +248,4 @@
 ---
 
 
-Updated on 12-Apr-2026 at 09:15 by Domingo Mery
+Updated on 13-Apr-2026 at 10:59 by Domingo Mery

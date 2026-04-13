@@ -28,22 +28,21 @@
 * > Explicación del ejercicio E04 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_E04_Texturas.pptx)
 ### 2.5 Caracteristicas de intensidad:
 * > **Características de intensidad y color** 
-* >> PPT: Análisis de color y características de intensidad [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_ColorCaracteristicas.pptx)
+* >> PPT: Análisis de color y características de intensidad (Haralick y Gabor) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_ColorCaracteristicas.pptx)
 * >> Python: Ejemplo sobre reconocimiento de texturas usando Haralick y Gabor [[Colab]](https://drive.google.com/file/d/1QqAJ0Ktd3kzvaCh_3KS0tvPRX5rvBXDZ/view?usp=sharing)
-* >> Python: Ejemplo de detección de peatones usando HoG [[Colab]](https://drive.google.com/file/d/1ObL-BDLVIn7sO0fkJxZ4NCKjKC3riPti/view?usp=sharing)
 * >> Materal de apoyo: Paper - Características de textura de Haralick [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Haralick_Textures.pdf)
 * >> Material de apoyo: Paper - Características de Gabor [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Manjunath_GaborFeatures1996.pdf)
 * >> Material de apoyo: Paper - Aplicación de las características de Gabor [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Gabor_Application.pdf)
 * >> Material de apoyo: Video experimento con gatos (1/2) [[Video]](https://youtu.be/IOHayh06LJ4)
 * >> Material de apoyo: Video experimento con gatos (2/2) [[Video]](https://youtu.be/QzkMo45pcUo)
 * >> Material de apoyo: Paper - Comparación de características de textura [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Randen_ComparativeTextures.pdf)
-* >> Material de apoyo: Paper - Histogram of Gradients (HoG) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/HoG_DalalTriggs.pdf)
-* >> Material de apoyo: Implementación de HoG en OpenCV [[python]](https://www.learnopencv.com/histogram-of-oriented-gradients/)
 * **E04: EJERCICIO EN CLASES 04** [[Colab]](https://drive.google.com/file/d/1FvacVkVCK-iHewwl8bQ_QHMyUAdM3zC8/view?usp=sharing)
 * > **Caracteristicas de intensidad (cont.)** 
-* >> PPT: Local Binary Patterns [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns.pptx)
+* >> PPT: Histogram of Gradientes y Local Binary Patterns [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_HoG_LBP.pptx)
+* >> Python: Ejemplo de detección de peatones usando HoG [[Colab]](https://drive.google.com/file/d/1ObL-BDLVIn7sO0fkJxZ4NCKjKC3riPti/view?usp=sharing)
+* >> Material de apoyo: Paper - Histogram of Gradients (HoG) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/HoG_DalalTriggs.pdf)
+* >> Material de apoyo: Implementación de HoG en OpenCV [[python]](https://www.learnopencv.com/histogram-of-oriented-gradients/)
 * >> Material de Apoyo: Paper - Local Binary Patterns (LBP) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/LBP_faces.pdf)
-* >> PPT: Local Binary Patterns invariante a la rotación [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_LocalBinaryPatterns_ri.pptx)
 * >> Python: Ejemplo sobre LBP en reconocimiento facial [[Colab]](https://drive.google.com/file/d/1w4kW5-2LGGNY9r7sT72QduP1Sqzk4tmh/view?usp=sharing)
 * >> Material de apoyo: Paper de lectura complementaria sobre LBP [[Paper]](http://www.scholarpedia.org/article/Local_Binary_Patterns)
 * >> PPT: SIFT [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_SIFT_ObjectDetection.pptx)
@@ -59,4 +58,4 @@
 ---
 
 
-Updated on 12-Apr-2026 at 09:15 by Domingo Mery
+Updated on 13-Apr-2026 at 10:59 by Domingo Mery
