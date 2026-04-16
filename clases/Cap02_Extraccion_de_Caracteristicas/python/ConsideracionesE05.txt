@@ -1,0 +1,49 @@
+Consideraciones preliminares para el Ejercicio 05
+
+En este ejercicio se implementará un algoritmo de reconocimiento de "ojos" vs "narices". Para esto se cuenta con una base de datos que se encuentra aquí:
+
+https://www.dropbox.com/s/vrrur8trlxi91p9/eyenose.zip
+
+La base de datos tiene definidas las imágenes de training y testing (en carpetas distintas)... 
+
+Además cada una de estas carpetas tiene dos carperas una para las imágenes de los ojos y otra para las imágenes de las narices.
+
+Se debe por cada imagen:
+
+- cambiar el tamaño a 128 x 128 pixeles
+- hacer ecualización con CLAHE de la imágenes usando una grilla de 2 x 2
+- extraer LBP en partciones de 2 x 2, es decir la salida es de 59 x 4 = 236 elementos (para extraer LBP use la librería de Balu3, ver ejemplo en el Colab de la clase 11).
+- ojo que el descriptor de 236 elementos se debe normalizar de tal forma que su norma sea 1, esto se logra al extraer el LBP de esta manera:
+
+x = lbp(image, hdiv=hdiv, vdiv=vdiv, norm=True)
+
+Defina bien la matriz X_train y X_test con una fila de 236 elementos con el LBP por cada imagen. 
+X_train debe ser de 8320 x 236 elementos
+X_tesy  debe ser de 2080 x 236 elementos
+
+Defina tambien los vectores y_train (de 8320 elementos) e y_test (de 2080 elementos) con la clasificación ideal de cada muestra.
+
+Usando el clasificador KNN con un vecino obtenga y_pred, es decir la clasificación del conjunto X_test. Para esto use los siguientes pasos:
+
+
+# Libraries
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn.metrics import confusion_matrix, accuracy_score
+from sklearn.metrics import confusion_matrix
+
+# Definition
+K = 1
+knn_classifier = KNeighborsClassifier(n_neighbors=K)
+
+# Training
+knn_classifier.fit(X_train, y_train)
+
+# Prediction of Testing Data
+y_pred = knn_classifier.predict(X_test)
+
+# Accuracy
+accuracy = accuracy_score(y_test, y_pred)
+print(f'Accuracy = {accuracy * 100:.2f}')
+
+C = confusion_matrix(y_test, y_pred)
+print('Confusion:',C)
