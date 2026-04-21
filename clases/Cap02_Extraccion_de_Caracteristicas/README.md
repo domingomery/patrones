@@ -55,7 +55,8 @@
 * >> Material de apoyo: Paper - Crossing Line Profile (CLP) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Mery_CrossingLineProfiles.pdf)
 * >> Python: Ejemplo de intensidad (basicas, contraste, CLP) [[Colab]](https://drive.google.com/file/d/1dgGtltt84aFDqfoCHY8tkt5KSso0jSRZ/view?usp=sharing)
 * **E05: EJERCICIO EN CLASES 05** [[Colab]]()
+* > Consideraciones preliminares [[TXT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/python/ConsideracionesE05.txt)
 ---
 
 
-Updated on 13-Apr-2026 at 10:59 by Domingo Mery
+Updated on 21-Apr-2026 at 09:29 by Domingo Mery

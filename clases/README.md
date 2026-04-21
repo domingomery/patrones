@@ -123,6 +123,7 @@
 
 ### Clase 12 Ma. 21-Apr-2026:
 * 2.5 &nbsp; **E05: EJERCICIO EN CLASES 05** [[Colab]]()
+* 2.5 &nbsp; &nbsp; &nbsp; &nbsp;  Consideraciones preliminares [[TXT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/python/ConsideracionesE05.txt)
 
 ### Clase 13 Ju. 23-Apr-2026:
 * 3.0 &nbsp; **SELECCIÓN Y TRANSFORMACIÓN DE CARACTERISTICAS**
@@ -248,4 +249,4 @@
 ---
 
 
-Updated on 13-Apr-2026 at 10:59 by Domingo Mery
+Updated on 21-Apr-2026 at 09:29 by Domingo Mery
