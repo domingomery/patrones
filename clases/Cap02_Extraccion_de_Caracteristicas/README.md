@@ -11,7 +11,7 @@
 * **E03: EJERCICIO EN CLASES 03** [[Colab]](https://drive.google.com/file/d/149Vk63J5rUzsek2uPUvH0RTGe2xIb4nu/view?usp=sharing)
 * > Consideraciones preliminares [[TXT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/python/ConsideracionesE03.txt)
 * > Explicación del ejercicio E03 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_E03_SegmentacionCaracteristicasGeometricas.pptx)
-* > Solución a E03 (disponible el 08/04/26) [[Colab]](https://drive.google.com/file/d/1ybY8-x4nzw_wLaoUEvjlc32_KD3pKMHY/view?usp=sharing)
+* > Solución a E03 [[Colab]](https://drive.google.com/file/d/1ybY8-x4nzw_wLaoUEvjlc32_KD3pKMHY/view?usp=sharing)
 ### 2.3 Caracteristicas geometricas:
 * > **Características geométricas** 
 * >> PPT: Características geométricas (básicas, momentos, Fourier) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_CaracteristicasGeometricas.pptx)
@@ -26,6 +26,7 @@
 * >> Python: Cómo leer imagenes a color [[Colab]](https://colab.research.google.com/drive/1JqHCnOiZb_KC7DPh1vF9vbLrFCc8pyDf)
 * >> Python: Ejemplo de mejoramiento de imagen a color oscura [[Colab]](https://colab.research.google.com/drive/1cSjA9nThCXbuO2zb97zJpcMP8sqNAqE8)
 * > Explicación del ejercicio E04 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_E04_Texturas.pptx)
+* > Solución a E04 [[Colab]](https://drive.google.com/file/d/13MUMJZlq7zh8Q17NuLhfCRTV3Zg_9nK9/view?usp=sharing)
 ### 2.5 Caracteristicas de intensidad:
 * > **Características de intensidad y color** 
 * >> PPT: Análisis de color y características de intensidad (Haralick y Gabor) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_ColorCaracteristicas.pptx)
@@ -60,4 +61,4 @@
 ---
 
 
-Updated on 21-Apr-2026 at 09:30 by Domingo Mery
+Updated on 21-Apr-2026 at 11:05 by Domingo Mery

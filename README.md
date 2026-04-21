@@ -82,7 +82,7 @@
 * 2.2 &nbsp; **E03: EJERCICIO EN CLASES 03** [[Colab]](https://drive.google.com/file/d/149Vk63J5rUzsek2uPUvH0RTGe2xIb4nu/view?usp=sharing)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  Consideraciones preliminares [[TXT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/python/ConsideracionesE03.txt)
 * 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  Explicación del ejercicio E03 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_E03_SegmentacionCaracteristicasGeometricas.pptx)
-* 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  Solución a E03 (disponible el 08/04/26) [[Colab]](https://drive.google.com/file/d/1ybY8-x4nzw_wLaoUEvjlc32_KD3pKMHY/view?usp=sharing)
+* 2.2 &nbsp; &nbsp; &nbsp; &nbsp;  Solución a E03 [[Colab]](https://drive.google.com/file/d/1ybY8-x4nzw_wLaoUEvjlc32_KD3pKMHY/view?usp=sharing)
 
 ### Clase 09 Ju. 09-Apr-2026:
 * 2.5 &nbsp; &nbsp; &nbsp; &nbsp;  **Características de intensidad y color**
@@ -101,6 +101,7 @@
 ### Clase 10 Ma. 14-Apr-2026:
 * 2.5 &nbsp; **E04: EJERCICIO EN CLASES 04** [[Colab]](https://drive.google.com/file/d/1FvacVkVCK-iHewwl8bQ_QHMyUAdM3zC8/view?usp=sharing)
 * 2.4 &nbsp; &nbsp; &nbsp; &nbsp;  Explicación del ejercicio E04 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_E04_Texturas.pptx)
+* 2.4 &nbsp; &nbsp; &nbsp; &nbsp;  Solución a E04 [[Colab]](https://drive.google.com/file/d/13MUMJZlq7zh8Q17NuLhfCRTV3Zg_9nK9/view?usp=sharing)
 
 ### Clase 11 Ju. 16-Apr-2026:
 * 2.5 &nbsp; &nbsp; &nbsp; &nbsp;  **Caracteristicas de intensidad (cont.)**
@@ -250,4 +251,4 @@
 ---
 
 
-Updated on 21-Apr-2026 at 09:30 by Domingo Mery
+Updated on 21-Apr-2026 at 11:05 by Domingo Mery
