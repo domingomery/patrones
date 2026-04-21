@@ -122,7 +122,8 @@
 * 2.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de intensidad (basicas, contraste, CLP) [[Colab]](https://drive.google.com/file/d/1dgGtltt84aFDqfoCHY8tkt5KSso0jSRZ/view?usp=sharing)
 
 ### Clase 12 Ma. 21-Apr-2026:
-* 2.5 &nbsp; **E05: EJERCICIO EN CLASES 05** [[Colab]]()
+* 2.5 &nbsp; **E05: EJERCICIO EN CLASES 05** [[Colab]](https://drive.google.com/file/d/1jgfVezRfEdq1HMyrXWka6tjbFPCeS5zY/view?usp=sharing)
+* 2.5 &nbsp; &nbsp; &nbsp; &nbsp;  Consideraciones preliminares [[TXT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/python/ConsideracionesE05.txt)
 
 ### Clase 13 Ju. 23-Apr-2026:
 * 3.0 &nbsp; **SELECCIÓN Y TRANSFORMACIÓN DE CARACTERISTICAS**
