@@ -54,9 +54,10 @@
 * >> Material de apoyo: Capítulo características de intensidad [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/PAT02_IntensityFeatures.pdf)
 * >> Material de apoyo: Paper - Crossing Line Profile (CLP) [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/papers/Mery_CrossingLineProfiles.pdf)
 * >> Python: Ejemplo de intensidad (basicas, contraste, CLP) [[Colab]](https://drive.google.com/file/d/1dgGtltt84aFDqfoCHY8tkt5KSso0jSRZ/view?usp=sharing)
-* **E05: EJERCICIO EN CLASES 05** [[Colab]]()
+* **E05: EJERCICIO EN CLASES 05** [[Colab]](https://drive.google.com/file/d/1jgfVezRfEdq1HMyrXWka6tjbFPCeS5zY/view?usp=sharing)
 * > Consideraciones preliminares [[TXT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/python/ConsideracionesE05.txt)
+* > Explicación del ejercicio E05 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_E05_LBP_KNN.pptx)
 ---
 
 
-Updated on 21-Apr-2026 at 09:29 by Domingo Mery
+Updated on 21-Apr-2026 at 09:30 by Domingo Mery
