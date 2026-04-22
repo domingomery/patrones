@@ -1,19 +1,11 @@
 
 # Capitulo 03: Selección y Transformacion de Caracteristicas
 ### 3.1 Introduccion:
-* > **Introducción** 
-* >> Que es selección y transformación de caracteristicas? [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pptx)
+* >> Selección (Fisher, Clean, SFS, Exhaustiva, Branch and Bound) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_SeleccionCaracteristicas.pptx)
 * >> Material de apoyo: Apuntes sobre la selección de características [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection_Intro.pdf)
 * >> Material de apoyo: Paper - Introducción a la selección de características [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_FeatureSelection.pdf)
 ### 3.2 Algoritmos de selección:
-* > **Algoritmos de selección de características** 
-* >> Búsqueda exhaustiva [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_ExSearch.pptx)
-* >> Clean: Limpieza de datos [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Clean.pptx)
-* >> SFS [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_SFS.pptx)
 * >> Python: Ejemplo de selección de características [[Colab]](https://drive.google.com/file/d/1VH6IIkTEU9FAHYWxIxDsP33JEsueM5C_/view?usp=sharing)
-* >> Discriminante Fihser y matrices de covarianza [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pptx)
-* >> Discriminante Fihser y matrices de covarianza [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Fisher_Covarianzas.pdf)
-* >> Branch and bound [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_BranchAndBound.pptx)
 * **E06: EJERCICIO EN CLASES 06** [[Colab]]()
 * **E07: EJERCICIO EN CLASES 07** [[Colab]]()
 * **E08: EJERCICIO EN CLASES 08** [[Colab]]()
@@ -38,4 +30,4 @@
 ---
 
 
-Updated on 21-Apr-2026 at 11:05 by Domingo Mery
+Updated on 22-Apr-2026 at 19:43 by Domingo Mery
