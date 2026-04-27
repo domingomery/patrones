@@ -7,6 +7,7 @@
 ### 3.2 Algoritmos de selección:
 * >> Python: Ejemplo de selección de características [[Colab]](https://drive.google.com/file/d/1VH6IIkTEU9FAHYWxIxDsP33JEsueM5C_/view?usp=sharing)
 * **E06: EJERCICIO EN CLASES 06** [[Colab]](https://drive.google.com/file/d/1BQPp3muN6ALmnoj4T1B3IAMs7oWuQ0u6/view?usp=sharing)
+* > Explicación del ejercicio E06 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_E06_Seleccion.pptx)
 * **E07: EJERCICIO EN CLASES 07** [[Colab]]()
 * **E08: EJERCICIO EN CLASES 08** [[Colab]]()
 * **E10: EJERCICIO EN CLASES 09** [[Colab]]()
@@ -15,7 +16,7 @@
 * **E13: EJERCICIO EN CLASES 12** [[Colab]]()
 ### 3.3 Algoritmos de transformacion:
 * > **Algoritmos de transformación de características** 
-* >> Selección versus transformación [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Models.pptx)
+* >> Transformación de Características (PCA) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_TransformacionCaracteristicas.pptx)
 * >> Principal components analysis PCA [[Matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_PCAidea.m)
 * >> Matlab: Idea básica de PCA para dos variables [[Colab]](https://drive.google.com/file/d/1tnzzMpfWsXXifk9oU_VAWgY8Yp1tL5xY/view?usp=sharing)
 * >> ICA [[Apuntes]](https://towardsdatascience.com/independent-component-analysis-ica-in-python-a0ef0db0955e)
@@ -30,4 +31,4 @@
 ---
 
 
-Updated on 26-Apr-2026 at 20:53 by Domingo Mery
+Updated on 27-Apr-2026 at 16:36 by Domingo Mery

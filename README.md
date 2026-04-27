@@ -137,10 +137,11 @@
 
 ### Clase 14 Ma. 28-Apr-2026:
 * 3.2 &nbsp; **E06: EJERCICIO EN CLASES 06** [[Colab]](https://drive.google.com/file/d/1BQPp3muN6ALmnoj4T1B3IAMs7oWuQ0u6/view?usp=sharing)
+* 3.2 &nbsp; &nbsp; &nbsp; &nbsp;  Explicación del ejercicio E06 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_E06_Seleccion.pptx)
 
 ### Clase 15 Ju. 30-Apr-2026:
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Algoritmos de transformación de características**
-* 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Selección versus transformación [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_Models.pptx)
+* 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Transformación de Características (PCA) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_TransformacionCaracteristicas.pptx)
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Principal components analysis PCA [[Matlab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/matlab/PAT03_PCAidea.m)
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Matlab: Idea básica de PCA para dos variables [[Colab]](https://drive.google.com/file/d/1tnzzMpfWsXXifk9oU_VAWgY8Yp1tL5xY/view?usp=sharing)
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  ICA [[Apuntes]](https://towardsdatascience.com/independent-component-analysis-ica-in-python-a0ef0db0955e)
@@ -244,4 +245,4 @@
 ---
 
 
-Updated on 26-Apr-2026 at 20:53 by Domingo Mery
+Updated on 27-Apr-2026 at 16:36 by Domingo Mery
