@@ -126,6 +126,7 @@
 * 2.5 &nbsp; **E05: EJERCICIO EN CLASES 05** [[Colab]](https://drive.google.com/file/d/1jgfVezRfEdq1HMyrXWka6tjbFPCeS5zY/view?usp=sharing)
 * 2.5 &nbsp; &nbsp; &nbsp; &nbsp;  Consideraciones preliminares [[TXT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/python/ConsideracionesE05.txt)
 * 2.5 &nbsp; &nbsp; &nbsp; &nbsp;  Explicación del ejercicio E05 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap02_Extraccion_de_Caracteristicas/presentations/PAT02_E05_LBP_KNN.pptx)
+* 2.5 &nbsp; &nbsp; &nbsp; &nbsp;  Solución a E05 [[Colab]](https://drive.google.com/file/d/1_x2c96doXSc_w250WVipLY-XKoQFefgM/view?usp=sharing)
 
 ### Clase 13 Ju. 23-Apr-2026:
 * 3.0 &nbsp; **SELECCIÓN Y TRANSFORMACIÓN DE CARACTERISTICAS**
@@ -135,7 +136,7 @@
 * 3.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de selección de características [[Colab]](https://drive.google.com/file/d/1VH6IIkTEU9FAHYWxIxDsP33JEsueM5C_/view?usp=sharing)
 
 ### Clase 14 Ma. 28-Apr-2026:
-* 3.2 &nbsp; **E06: EJERCICIO EN CLASES 06** [[Colab]]()
+* 3.2 &nbsp; **E06: EJERCICIO EN CLASES 06** [[Colab]](https://drive.google.com/file/d/1BQPp3muN6ALmnoj4T1B3IAMs7oWuQ0u6/view?usp=sharing)
 
 ### Clase 15 Ju. 30-Apr-2026:
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Algoritmos de transformación de características**
@@ -243,4 +244,4 @@
 ---
 
 
-Updated on 22-Apr-2026 at 19:43 by Domingo Mery
+Updated on 26-Apr-2026 at 20:53 by Domingo Mery
