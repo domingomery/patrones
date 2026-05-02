@@ -154,7 +154,7 @@
 * 3.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Libreria mlxtend [[Python]](http://rasbt.github.io/mlxtend/user_guide/feature_selection/SequentialFeatureSelector/)
 
 ### Clase 16 Ma. 05-May-2026:
-* 3.2 &nbsp; **E07: EJERCICIO EN CLASES 07** [[Colab]]()
+* 3.2 &nbsp; **E07: EJERCICIO EN CLASES 07** [[Colab]](https://colab.research.google.com/drive/1hJOTaqBLe_Odtk9T1Lnq7-h5GF5OAAhL?usp=sharing)
 
 ### Clase 17 Ju. 07-May-2026:
 * 4.0 &nbsp; **CLASIFICACIÓN**
