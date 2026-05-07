@@ -1,17 +1,11 @@
 
 # Capitulo 04: Clasificacion
 ### 4.1 Introduccion:
-* > **Introducción** 
-* >> Que es un clasificador? [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_intro.pptx)
 ### 4.2 Clasificadores basicos:
 * > **Clasificadores basicos** 
-* >> Clasificador KNN - vecino más cercano [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_KNN.pptx)
-* >> Clasificador DMIN - distancia mínima [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_dmin.pptx)
-* >> Clasificador de Bayes [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_Bayes.pptx)
+* >> KNN, Dmin, Bayes, LDA, QDA, Mahalanobis, Trees [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_ClasificadoresBasicos.pptx)
 * >> Python: Clasificadores básicos [[Colab]](https://drive.google.com/file/d/1ccTejI5h7rGcLzHhnQiRAmZ4g3US6Cya/view?usp=sharing)
 * >> Python: Set de validación para hiperparámetros [[Colab]](https://drive.google.com/file/d/1u_Xl7JYxhBxtYci8Kz8iyQf8X3F7CmLl/view?usp=sharing)
-* >> Clasificadores LDA, QDA, Mahalanobis [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_LDA.pptx)
-* >> Arboles de decisión y Random Forest [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_Trees.pptx)
 * >> Material de apoyo: Entropía [[YouTube]](https://youtu.be/9r7FIXEAGvs)
 * >> Python: Clasificadores básicos [[Colab]](https://drive.google.com/file/d/1ccTejI5h7rGcLzHhnQiRAmZ4g3US6Cya/view?usp=sharing)
 * >> Visualización del espacio de características [[Colab]](https://drive.google.com/file/d/1-iQyTfsxiFZXSw5Dlw0te9W6grJZde8u/view?usp=sharing)
@@ -49,4 +43,4 @@
 ---
 
 
-Updated on 05-May-2026 at 11:46 by Domingo Mery
+Updated on 07-May-2026 at 10:57 by Domingo Mery
