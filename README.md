@@ -168,7 +168,7 @@
 * 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Visualización del espacio de características [[Colab]](https://drive.google.com/file/d/1-iQyTfsxiFZXSw5Dlw0te9W6grJZde8u/view?usp=sharing)
 
 ### Clase 18 Ma. 12-May-2026:
-* 3.2 &nbsp; **E08: EJERCICIO EN CLASES 08** [[Colab]]()
+* 3.2 &nbsp; **E08: EJERCICIO EN CLASES 08** [[Colab]](https://colab.research.google.com/drive/1l1m7Oqin6GV41i530fVUgIZud1KqKmME?usp=sharing)
 
 ### Clase 19 Ju. 14-May-2026:
 * 4.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Redes neuronales**
