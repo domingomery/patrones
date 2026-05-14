@@ -138,6 +138,7 @@
 ### Clase 14 Ma. 28-Apr-2026:
 * 3.2 &nbsp; **E06: EJERCICIO EN CLASES 06** [[Colab]](https://drive.google.com/file/d/1BQPp3muN6ALmnoj4T1B3IAMs7oWuQ0u6/view?usp=sharing)
 * 3.2 &nbsp; &nbsp; &nbsp; &nbsp;  Explicación del ejercicio E06 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_E06_Seleccion.pptx)
+* 3.2 &nbsp; &nbsp; &nbsp; &nbsp;  Solución a E06 [[Colab]](https://drive.google.com/file/d/1aQAIbvWnxzXCSt6JqJXTGZNtSfo0opLR/view?usp=sharing)
 
 ### Clase 15 Ju. 30-Apr-2026:
 * 3.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Algoritmos de transformación de características**
@@ -155,6 +156,7 @@
 
 ### Clase 16 Ma. 05-May-2026:
 * 3.2 &nbsp; **E07: EJERCICIO EN CLASES 07** [[Colab]](https://colab.research.google.com/drive/1hJOTaqBLe_Odtk9T1Lnq7-h5GF5OAAhL?usp=sharing)
+* 3.2 &nbsp; &nbsp; &nbsp; &nbsp;  Solución a E07 [[Colab]](https://colab.research.google.com/drive/1zX1jzY5VqD4udWBoz2m2VX050arf5LgJ?usp=sharing)
 * 3.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Bateria de ejemplos de selección de características [[Colab]](https://drive.google.com/file/d/18bUASfb113f6ecm35dR_AA1l7SGgAGg6/view?usp=sharing)
 
 ### Clase 17 Ju. 07-May-2026:
@@ -168,11 +170,12 @@
 * 4.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Visualización del espacio de características [[Colab]](https://drive.google.com/file/d/1-iQyTfsxiFZXSw5Dlw0te9W6grJZde8u/view?usp=sharing)
 
 ### Clase 18 Ma. 12-May-2026:
-* 3.2 &nbsp; **E08: EJERCICIO EN CLASES 08** [[Colab]](https://colab.research.google.com/drive/1l1m7Oqin6GV41i530fVUgIZud1KqKmME?usp=sharing)
+* 4.2 &nbsp; **E08: EJERCICIO EN CLASES 08** [[Colab]](https://colab.research.google.com/drive/1l1m7Oqin6GV41i530fVUgIZud1KqKmME?usp=sharing)
+* 4.2 &nbsp; &nbsp; &nbsp; &nbsp;  Solución a E08 [[Colab]](https://colab.research.google.com/drive/1R6uWuc05JpKg1ec7C1u4LYQvaOHtlLC-?usp=sharing)
 
 ### Clase 19 Ju. 14-May-2026:
 * 4.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Redes neuronales**
-* 4.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Redes neuronales [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_NeuralNetworks.pptx)
+* 4.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Redes neuronales [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_RedesNeuronales.pptx)
 * 4.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Algoritmo Backpropagation [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_BackPropagation.pdf)
 * 4.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Clasificador basado en Redes Neuornales (from skratch) [[Colab]](https://drive.google.com/file/d/1Y4FYNh4thmTSxDv66tQy7bUm754x8GdN/view?usp=sharing)
 * 4.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Clasificador basado en Redes Neuornales [[Colab]](https://drive.google.com/file/d/1p0aN_-DAc5FoYO5LvIMrWVDe7C4RKTTr/view?usp=sharing)
@@ -240,4 +243,4 @@
 ---
 
 
-Updated on 07-May-2026 at 10:57 by Domingo Mery
+Updated on 14-May-2026 at 10:18 by Domingo Mery

@@ -8,9 +8,10 @@
 * >> Python: Ejemplo de selección de características [[Colab]](https://drive.google.com/file/d/1VH6IIkTEU9FAHYWxIxDsP33JEsueM5C_/view?usp=sharing)
 * **E06: EJERCICIO EN CLASES 06** [[Colab]](https://drive.google.com/file/d/1BQPp3muN6ALmnoj4T1B3IAMs7oWuQ0u6/view?usp=sharing)
 * > Explicación del ejercicio E06 [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_E06_Seleccion.pptx)
+* > Solución a E06 [[Colab]](https://drive.google.com/file/d/1aQAIbvWnxzXCSt6JqJXTGZNtSfo0opLR/view?usp=sharing)
 * **E07: EJERCICIO EN CLASES 07** [[Colab]](https://colab.research.google.com/drive/1hJOTaqBLe_Odtk9T1Lnq7-h5GF5OAAhL?usp=sharing)
+* > Solución a E07 [[Colab]](https://colab.research.google.com/drive/1zX1jzY5VqD4udWBoz2m2VX050arf5LgJ?usp=sharing)
 * >> Python: Bateria de ejemplos de selección de características [[Colab]](https://drive.google.com/file/d/18bUASfb113f6ecm35dR_AA1l7SGgAGg6/view?usp=sharing)
-* **E08: EJERCICIO EN CLASES 08** [[Colab]]()
 * **E10: EJERCICIO EN CLASES 09** [[Colab]]()
 * **E11: EJERCICIO EN CLASES 10** [[Colab]]()
 * **E12: EJERCICIO EN CLASES 11** [[Colab]]()
@@ -32,4 +33,4 @@
 ---
 
 
-Updated on 07-May-2026 at 10:57 by Domingo Mery
+Updated on 14-May-2026 at 10:18 by Domingo Mery

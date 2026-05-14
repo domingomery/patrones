@@ -9,9 +9,11 @@
 * >> Material de apoyo: Entropía [[YouTube]](https://youtu.be/9r7FIXEAGvs)
 * >> Python: Clasificadores básicos [[Colab]](https://drive.google.com/file/d/1ccTejI5h7rGcLzHhnQiRAmZ4g3US6Cya/view?usp=sharing)
 * >> Visualización del espacio de características [[Colab]](https://drive.google.com/file/d/1-iQyTfsxiFZXSw5Dlw0te9W6grJZde8u/view?usp=sharing)
+* **E08: EJERCICIO EN CLASES 08** [[Colab]](https://colab.research.google.com/drive/1l1m7Oqin6GV41i530fVUgIZud1KqKmME?usp=sharing)
+* > Solución a E08 [[Colab]](https://colab.research.google.com/drive/1R6uWuc05JpKg1ec7C1u4LYQvaOHtlLC-?usp=sharing)
 ### 4.3 Redes neuronales:
 * > **Redes neuronales** 
-* >> Redes neuronales [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_NeuralNetworks.pptx)
+* >> Redes neuronales [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_RedesNeuronales.pptx)
 * >> Algoritmo Backpropagation [[Apuntes]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_BackPropagation.pdf)
 * >> Python: Clasificador basado en Redes Neuornales (from skratch) [[Colab]](https://drive.google.com/file/d/1Y4FYNh4thmTSxDv66tQy7bUm754x8GdN/view?usp=sharing)
 * >> Python: Clasificador basado en Redes Neuornales [[Colab]](https://drive.google.com/file/d/1p0aN_-DAc5FoYO5LvIMrWVDe7C4RKTTr/view?usp=sharing)
@@ -43,4 +45,4 @@
 ---
 
 
-Updated on 07-May-2026 at 10:57 by Domingo Mery
+Updated on 14-May-2026 at 10:18 by Domingo Mery
