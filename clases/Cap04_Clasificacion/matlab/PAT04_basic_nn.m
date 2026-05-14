@@ -5,7 +5,7 @@
 % Pattern Recognition Course
 % (c) Domingo Mery (2019) - http://dmery.ing.puc.cl
 close all
-data = 2;
+data = 1;
 if data == 1
     [X,d]     = Bds_gaussgen([1 3;3 1],5*[0.3 0.4;0.2 0.3],[1000 1000]');
 else
@@ -64,5 +64,5 @@ y = y1(:);
 ys = PAT04_nntest([x y],ths)>0.5;
 i0 = find(ys==0);
 i1 = find(ys==1);
-plot(x(i1),y(i1),'c.');
-plot(x(i0),y(i0),'y.');
+plot(x(i1),y(i1),'y.');
+plot(x(i0),y(i0),'m.');
