@@ -195,7 +195,7 @@
 * 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de SVM con sklearn [[Colab]](https://drive.google.com/file/d/12-w-4AMAlIEDarWS_jSLmM_B0XE3PJc9/view?usp=sharing)
 
 ### Clase 22 Ma. 02-Jun-2026:
-* 3.2 &nbsp; **E10: EJERCICIO EN CLASES 09** [[Colab]]()
+* 3.2 &nbsp; **E10: EJERCICIO EN CLASES 09** [[Colab]](https://colab.research.google.com/drive/1EXKOyKwrZWkxRGmFCl5hUm-K4Abxeqh_?usp=sharing)
 
 ### Clase 23 Ju. 04-Jun-2026:
 * 5.0 &nbsp; **EVALUACIÓN DE DESEMPEÑO**
@@ -243,4 +243,4 @@
 ---
 
 
-Updated on 14-May-2026 at 10:18 by Domingo Mery
+Updated on 02-Jun-2026 at 10:58 by Domingo Mery
