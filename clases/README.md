@@ -195,14 +195,15 @@
 * 4.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de SVM con sklearn [[Colab]](https://drive.google.com/file/d/12-w-4AMAlIEDarWS_jSLmM_B0XE3PJc9/view?usp=sharing)
 
 ### Clase 22 Ma. 02-Jun-2026:
-* 3.2 &nbsp; **E10: EJERCICIO EN CLASES 09** [[Colab]](https://colab.research.google.com/drive/1EXKOyKwrZWkxRGmFCl5hUm-K4Abxeqh_?usp=sharing)
+* 4.4 &nbsp; **E10: EJERCICIO EN CLASES 09** [[Colab]](https://colab.research.google.com/drive/1EXKOyKwrZWkxRGmFCl5hUm-K4Abxeqh_?usp=sharing)
+* 4.4 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E09 [[Colab]](https://colab.research.google.com/drive/1SaVfCNnMzkM_3qmAnZ8saVQ8AntdozNv?usp=sharing)
 
 ### Clase 23 Ju. 04-Jun-2026:
 * 5.0 &nbsp; **EVALUACIÓN DE DESEMPEÑO**
 * 5.1 &nbsp; &nbsp; &nbsp; &nbsp;  **Introducción**
-* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Como se evalua el desempeño de un clasificador? [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ConfusionMatrix.pptx)
-* 5.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Metricas de desempeño**
-* 5.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Métricas de Genuinos vs. Impostores [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_Genuine_Impostor.pptx)
+* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Qué es evaluación de desempeño? [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_EsquemaGeneral.pptx)
+* 5.2 &nbsp; &nbsp; &nbsp; &nbsp;  **Métricas**
+* 5.1 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Performance (matriz de confusión, sistemas biométricos) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_Performance.pptx)
 * 5.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Métricas de Genuinos vs. Impostores [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT_05_Understanding-Biometric-Performance-Evaluation.pdf)
 * 5.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Ejemplo de AdaFace y métricas de evaluación [[Colab]](https://drive.google.com/file/d/1K0lw4XDjjIXZTeyTCao92ygF604o8w2D)
 
@@ -243,4 +244,4 @@
 ---
 
 
-Updated on 02-Jun-2026 at 10:58 by Domingo Mery
+Updated on 04-Jun-2026 at 10:38 by Domingo Mery

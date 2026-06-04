@@ -12,7 +12,6 @@
 * **E07: EJERCICIO EN CLASES 07** [[Colab]](https://colab.research.google.com/drive/1hJOTaqBLe_Odtk9T1Lnq7-h5GF5OAAhL?usp=sharing)
 * > Solución a E07 [[Colab]](https://colab.research.google.com/drive/1zX1jzY5VqD4udWBoz2m2VX050arf5LgJ?usp=sharing)
 * >> Python: Bateria de ejemplos de selección de características [[Colab]](https://drive.google.com/file/d/18bUASfb113f6ecm35dR_AA1l7SGgAGg6/view?usp=sharing)
-* **E10: EJERCICIO EN CLASES 09** [[Colab]](https://colab.research.google.com/drive/1EXKOyKwrZWkxRGmFCl5hUm-K4Abxeqh_?usp=sharing)
 * **E11: EJERCICIO EN CLASES 10** [[Colab]]()
 * **E12: EJERCICIO EN CLASES 11** [[Colab]]()
 * **E13: EJERCICIO EN CLASES 12** [[Colab]]()
@@ -33,4 +32,4 @@
 ---
 
 
-Updated on 02-Jun-2026 at 10:58 by Domingo Mery
+Updated on 04-Jun-2026 at 10:38 by Domingo Mery

@@ -28,6 +28,8 @@
 * >> Teoría sobre SVM [[Paper]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/papers/PAT04_SupportVectorMachines.pdf)
 * >> Tutorial de SVM en python [[YouTube]](https://www.youtube.com/watch?v=N1vOgolbjSc)
 * >> Python: Ejemplo de SVM con sklearn [[Colab]](https://drive.google.com/file/d/12-w-4AMAlIEDarWS_jSLmM_B0XE3PJc9/view?usp=sharing)
+* **E10: EJERCICIO EN CLASES 09** [[Colab]](https://colab.research.google.com/drive/1EXKOyKwrZWkxRGmFCl5hUm-K4Abxeqh_?usp=sharing)
+* > Solución E09 [[Colab]](https://colab.research.google.com/drive/1SaVfCNnMzkM_3qmAnZ8saVQ8AntdozNv?usp=sharing)
 ### 4.5 Deep Learning:
 * > **Deep learning** 
 * >> Deep learning [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_DeepLearning.pptx)
@@ -45,4 +47,4 @@
 ---
 
 
-Updated on 02-Jun-2026 at 10:58 by Domingo Mery
+Updated on 04-Jun-2026 at 10:38 by Domingo Mery
