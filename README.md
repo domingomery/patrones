@@ -208,7 +208,7 @@
 * 5.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Ejemplo de AdaFace y métricas de evaluación [[Colab]](https://drive.google.com/file/d/1K0lw4XDjjIXZTeyTCao92ygF604o8w2D)
 
 ### Clase 24 Ma. 09-Jun-2026:
-* 3.2 &nbsp; **E11: EJERCICIO EN CLASES 10** [[Colab]]()
+* 3.2 &nbsp; **E11: EJERCICIO EN CLASES 10** [[Colab]](https://colab.research.google.com/drive/1FEsO0GSfB08WVLJkZtpFD8bry1p48Wd6?usp=sharing)
 
 ### Clase 25 Ju. 11-Jun-2026:
 * 5.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Estimación de metricas**
