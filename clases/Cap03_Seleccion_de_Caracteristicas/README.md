@@ -13,8 +13,8 @@
 * > Solución a E07 [[Colab]](https://colab.research.google.com/drive/1zX1jzY5VqD4udWBoz2m2VX050arf5LgJ?usp=sharing)
 * >> Python: Bateria de ejemplos de selección de características [[Colab]](https://drive.google.com/file/d/18bUASfb113f6ecm35dR_AA1l7SGgAGg6/view?usp=sharing)
 * **E11: EJERCICIO EN CLASES 10** [[Colab]]()
+* > Solución E10 [[Colab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas//https://colab.research.google.com/drive/1ArPxxthClzGyCODYJifEfT9VTCShoF5w?usp=sharing)
 * **E12: EJERCICIO EN CLASES 11** [[Colab]]()
-* **E13: EJERCICIO EN CLASES 12** [[Colab]]()
 ### 3.3 Algoritmos de transformacion:
 * > **Algoritmos de transformación de características** 
 * >> Transformación de Características (PCA) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_TransformacionCaracteristicas.pptx)
@@ -32,4 +32,4 @@
 ---
 
 
-Updated on 04-Jun-2026 at 10:38 by Domingo Mery
+Updated on 11-Jun-2026 at 10:32 by Domingo Mery
