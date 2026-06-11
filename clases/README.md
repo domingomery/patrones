@@ -213,7 +213,7 @@
 
 ### Clase 25 Ju. 11-Jun-2026:
 * 5.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Estimación de metricas**
-* 5.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Estimación de Accuracy [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ConsideracionesPracticas.pptx)
+* 5.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Consideraciones Prácticas [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ConsideracionesPracticas.pptx)
 * 5.3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Estimación de Accuracy [[Colab]](https://drive.google.com/file/d/1-Lj0ggk6ERQnbDu7gV2DQ3n9zdV8W0Yf/view?usp=sharing)
 * 5.4 &nbsp; &nbsp; &nbsp; &nbsp;  **Aspectos practicos**
 * 5.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Aspectos prácticos [[PDF]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/presentations/PAT05_ModelSelector.pdf)
@@ -221,10 +221,14 @@
 * 5.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Machine Learning Yearing (Libro) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/papers/NG-MLY01_13.pdf)
 
 ### Clase 26 Ma. 16-Jun-2026:
-* 3.2 &nbsp; **E12: EJERCICIO EN CLASES 11** [[Colab]]()
+* 3.2 &nbsp; **E11: EJERCICIO EN CLASES 11** [[Colab]]()
 
 ### Clase 27 Ma. 23-Jun-2026:
 * 4.0 &nbsp; **CLASIFICACIÓN (cont.)**
+* 4.6 &nbsp; &nbsp; &nbsp; &nbsp;  **Bag of words**
+* 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Clustering: K-Means [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_KMeans.pptx)
+* 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  El algoritmo BoW [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_BoW.pptx)
+* 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de Bag of Words [[Colab]](https://drive.google.com/file/d/1fGm6LJe4vI6-jg6wY4UdU8H8IMtWTWnf/view?usp=sharing)
 * 4.5 &nbsp; &nbsp; &nbsp; &nbsp;  **Deep learning**
 * 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Deep learning [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_DeepLearning.pptx)
 * 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Ejemplo CNN basico (ojo vs. nariz) [[Colab]](https://drive.google.com/file/d/1zXkffKtspfIrLIdxLeEGx0uxeSnyd0B-/view)
@@ -235,11 +239,8 @@
 * 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Ejemplo CNN basico (clasificación de lunares - 7 clases) [[Colab]](https://drive.google.com/file/d/1E5IvgFQK_IJd08CjEgp-fISF6jOklDYS)
 
 ### Clase 28 Ju. 25-Jun-2026:
-* 4.6 &nbsp; &nbsp; &nbsp; &nbsp;  **Bag of words**
-* 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Clustering: K-Means [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_KMeans.pptx)
-* 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  El algoritmo BoW [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_BoW.pptx)
-* 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de Bag of Words [[Colab]](https://drive.google.com/file/d/1fGm6LJe4vI6-jg6wY4UdU8H8IMtWTWnf/view?usp=sharing)
+* 5.4 &nbsp; **AYUDANTÍA** [[]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion//)
 ---
 
 
-Updated on 11-Jun-2026 at 10:32 by Domingo Mery
+Updated on 11-Jun-2026 at 10:45 by Domingo Mery
