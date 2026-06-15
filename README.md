@@ -221,7 +221,7 @@
 * 5.4 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Material de apoyo: Machine Learning Yearing (Libro) [[Book]](https://github.com/domingomery/patrones/blob/master/clases/Cap05_Evaluacion/papers/NG-MLY01_13.pdf)
 
 ### Clase 26 Ma. 16-Jun-2026:
-* 3.2 &nbsp; **E11: EJERCICIO EN CLASES 11** [[Colab]]()
+* 3.2 &nbsp; **E11: EJERCICIO EN CLASES 11** [[Colab]](https://colab.research.google.com/drive/1BqVCS2iAS0xN3J_c69ABDC0PqcLEgSYn?usp=sharing)
 
 ### Clase 27 Ma. 23-Jun-2026:
 * 4.0 &nbsp; **CLASIFICACIÓN (cont.)**
