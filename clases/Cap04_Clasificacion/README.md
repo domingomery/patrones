@@ -41,10 +41,9 @@
 * >> Ejemplo CNN basico (clasificación de lunares - 7 clases) [[Colab]](https://drive.google.com/file/d/1E5IvgFQK_IJd08CjEgp-fISF6jOklDYS)
 ### 4.6 Bag of Words:
 * > **Bag of words** 
-* >> Clustering: K-Means [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_KMeans.pptx)
-* >> El algoritmo BoW [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_BoW.pptx)
+* >> Clustering y Bag of Visual Words [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT05_Clustering.pptx)
 * >> Python: Ejemplo de Bag of Words [[Colab]](https://drive.google.com/file/d/1fGm6LJe4vI6-jg6wY4UdU8H8IMtWTWnf/view?usp=sharing)
 ---
 
 
-Updated on 11-Jun-2026 at 10:45 by Domingo Mery
+Updated on 23-Jun-2026 at 10:11 by Domingo Mery

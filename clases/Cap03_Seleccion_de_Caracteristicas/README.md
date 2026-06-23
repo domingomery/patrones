@@ -12,9 +12,10 @@
 * **E07: EJERCICIO EN CLASES 07** [[Colab]](https://colab.research.google.com/drive/1hJOTaqBLe_Odtk9T1Lnq7-h5GF5OAAhL?usp=sharing)
 * > Solución a E07 [[Colab]](https://colab.research.google.com/drive/1zX1jzY5VqD4udWBoz2m2VX050arf5LgJ?usp=sharing)
 * >> Python: Bateria de ejemplos de selección de características [[Colab]](https://drive.google.com/file/d/18bUASfb113f6ecm35dR_AA1l7SGgAGg6/view?usp=sharing)
-* **E11: EJERCICIO EN CLASES 10** [[Colab]]()
-* > Solución E10 [[Colab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas//https://colab.research.google.com/drive/1ArPxxthClzGyCODYJifEfT9VTCShoF5w?usp=sharing)
-* **E11: EJERCICIO EN CLASES 11** [[Colab]]()
+* **E10: EJERCICIO EN CLASES 10** [[Colab]](https://colab.research.google.com/drive/1FEsO0GSfB08WVLJkZtpFD8bry1p48Wd6?usp=sharing)
+* > Solución E10 [[Colab]](https://colab.research.google.com/drive/1ArPxxthClzGyCODYJifEfT9VTCShoF5w?usp=sharing)
+* **E11: EJERCICIO EN CLASES 11** [[Colab]](https://colab.research.google.com/drive/1BqVCS2iAS0xN3J_c69ABDC0PqcLEgSYn?usp=sharing)
+* > Solución E11 [[Colab]](https://colab.research.google.com/drive/1FEsO0GSfB08WVLJkZtpFD8bry1p48Wd6?usp=sharing)
 ### 3.3 Algoritmos de transformacion:
 * > **Algoritmos de transformación de características** 
 * >> Transformación de Características (PCA) [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas/presentations/PAT03_TransformacionCaracteristicas.pptx)
@@ -32,4 +33,4 @@
 ---
 
 
-Updated on 11-Jun-2026 at 10:45 by Domingo Mery
+Updated on 23-Jun-2026 at 10:11 by Domingo Mery

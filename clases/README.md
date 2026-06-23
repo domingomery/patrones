@@ -208,8 +208,8 @@
 * 5.2 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Ejemplo de AdaFace y métricas de evaluación [[Colab]](https://drive.google.com/file/d/1K0lw4XDjjIXZTeyTCao92ygF604o8w2D)
 
 ### Clase 24 Ma. 09-Jun-2026:
-* 3.2 &nbsp; **E11: EJERCICIO EN CLASES 10** [[Colab]]()
-* 3.2 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E10 [[Colab]](https://github.com/domingomery/patrones/blob/master/clases/Cap03_Seleccion_de_Caracteristicas//https://colab.research.google.com/drive/1ArPxxthClzGyCODYJifEfT9VTCShoF5w?usp=sharing)
+* 3.2 &nbsp; **E10: EJERCICIO EN CLASES 10** [[Colab]](https://colab.research.google.com/drive/1FEsO0GSfB08WVLJkZtpFD8bry1p48Wd6?usp=sharing)
+* 3.2 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E10 [[Colab]](https://colab.research.google.com/drive/1ArPxxthClzGyCODYJifEfT9VTCShoF5w?usp=sharing)
 
 ### Clase 25 Ju. 11-Jun-2026:
 * 5.3 &nbsp; &nbsp; &nbsp; &nbsp;  **Estimación de metricas**
@@ -222,12 +222,12 @@
 
 ### Clase 26 Ma. 16-Jun-2026:
 * 3.2 &nbsp; **E11: EJERCICIO EN CLASES 11** [[Colab]](https://colab.research.google.com/drive/1BqVCS2iAS0xN3J_c69ABDC0PqcLEgSYn?usp=sharing)
+* 3.2 &nbsp; &nbsp; &nbsp; &nbsp;  Solución E11 [[Colab]](https://colab.research.google.com/drive/1FEsO0GSfB08WVLJkZtpFD8bry1p48Wd6?usp=sharing)
 
 ### Clase 27 Ma. 23-Jun-2026:
 * 4.0 &nbsp; **CLASIFICACIÓN (cont.)**
 * 4.6 &nbsp; &nbsp; &nbsp; &nbsp;  **Bag of words**
-* 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Clustering: K-Means [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_KMeans.pptx)
-* 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  El algoritmo BoW [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_BoW.pptx)
+* 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Clustering y Bag of Visual Words [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT05_Clustering.pptx)
 * 4.6 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Python: Ejemplo de Bag of Words [[Colab]](https://drive.google.com/file/d/1fGm6LJe4vI6-jg6wY4UdU8H8IMtWTWnf/view?usp=sharing)
 * 4.5 &nbsp; &nbsp; &nbsp; &nbsp;  **Deep learning**
 * 4.5 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Deep learning [[PPT]](https://github.com/domingomery/patrones/blob/master/clases/Cap04_Clasificacion/presentations/PAT04_DeepLearning.pptx)
@@ -243,4 +243,4 @@
 ---
 
 
-Updated on 11-Jun-2026 at 10:45 by Domingo Mery
+Updated on 23-Jun-2026 at 10:11 by Domingo Mery
